@@ -1,2 +1,2 @@
-# wc5e-gmbinder
-Markup for the wc5e-document 
+# World of Warcraft 5e RPG
+Markup for the WoW 5e RPG Document
