@@ -1,10 +1,32 @@
 <style>
-  .phb#p1:after { display:none; }
+/* Resize page to international A4 */
+.phb{
+    width : 210mm;
+    height : 297mm;
+    padding: 1cm 1.5cm;
+    padding-bottom: 1.3cm;
+    position:relative;
+}
+.phb#p1:after {
+    display:none;
+}
+.phb:after {
+    content:'';
+}
+.copyright {
+    text-align:right;
+}
+.copyright a {
+    color:#fff;
+    text-shadow:1px 1px #000;
+    font-weight:normal;
+    font-size:1.2em;
+}
 </style>
 
-<link href="http://fonts.cdnfonts.com/css/lifecraft" rel="stylesheet">
+<link href="https://fonts.cdnfonts.com/css/lifecraft" rel="stylesheet">
 
-<img src='https://cdnb.artstation.com/p/assets/images/images/012/717/211/large/ekaterina-shapovalova-battle-for-lordaeron-final-ast.jpg?1536163370' class='cover-image' />
+<img src='https://cdnb.artstation.com/p/assets/images/images/012/717/211/large/ekaterina-shapovalova-battle-for-lordaeron-final-ast.jpg?1536163370' class='cover-image' style="width:105%;" />
 
 <div class='cover-header' style="top:100px; font-family: 'LifeCraft', sans-serif;">
     World of 
@@ -272,7 +294,7 @@ judgment is key.
 
 \pagebreak
 
-## Races
+# Races
 
 <div class="wide">
 
@@ -284,5 +306,145 @@ The races described here are not the only races in the Warcraft world, but they 
 
 ...
 
-TODO
+TODO (Mounts)
 
+\pagebreak
+
+<img src='http://www.hahn-webdesign.de/wow5e/draenei-back.webp' style='position:absolute; top:0px; left:-100px; width:1000px' />
+
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-30px; left:0px; width:100%;' />
+
+<img src='http://www.hahn-webdesign.de/wow5e/draenei-front.webp' style='position:absolute; top:50px; right:-50px; width:500px'>
+
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:80px; left:0px; width:100%;' />
+
+<div style='margin-top:400px;'></div>
+
+## Draenei
+
+The draenei are a powerfully-build alien race that originates from Argus. They are powerfully magically-attuned, and have the potential for exceptional good or evil. Draenei who succumb to fel magic form the ranks of the Eredar, the greatest generals of the Burning Legion, while draenei who serve the Holy Light are immortal crusaders for justice across the cosmos.
+
+### Draenei Traits
+____
+***Ability Score Increase.*** Your Spirit or Intelligence<br>      increases by 1.<br>
+***Age.*** A typical Draenei claims adulthood around 100 years<br>     old, and can live to about ten thousand
+years old.<br>
+***Affiliation.*** Each sub-race is inclined to its own<br>     affiliations.<br>
+***Size.*** Draenei stand between 7 and 8 feet tall and<br>     average about 300 pounds. Your size is Medium.
+As befitting their Eredar heritage, Draenei have hooved feet, tendrils that grow from the neck and
+short tails, and their skin color is affected by the magic they naturally absorb (with fel magic
+reddening them, holy magic rendering their skins blue to violet, and void magic darkening them to
+brown).
+Males‘ skulls are rigid (giving the appearance of a bone plate under their skin), while females grow
+foot-long, graceful curved horns.
+Males range anywhere from seven feet tall to eight feet tall and weigh on average around 300 or 400
+pounds. Females stand at six to seven feet tall and only weigh around 170 or 250 pounds when
+fully grown.<br>
+***Speed.*** Your base walking speed is 30 ft.<br>
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness
+as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
+***Draenei Combat Training*** You have proficiency with the longsword, greathammer, glaive, and the
+heavy crossbow.<br>
+***Fel Resistance.*** You have resistance to fel damage.<br>
+***Heroic Presence.*** You can spend 10 minutes inspiring your companions, shoring up their resolve to fight.
+When you do so, choose up to six friendly creatures (which can include
+
+\columnbreak
+
+<div style='margin-top:626px;'></div>
+
+yourself) within 30
+feet of you who can see or hear you and who can understand you. Each creature can gain
+temporary hit points equal to your level + half your Charisma or Spirit modifier. A creature can‘t
+gain temporary hit points from this feature again until it has finished a long rest. Alternatively, you
+may declare use of this ability upon landing a critical hit.<br>
+***Languages.*** You can speak, read, and write Common and Eredun. The Eredun Draenei speak is an
+altered dialect that is less corrupt, and thus does not impose penalties when speaking, but is
+perfectly understandable by fiends.<br>
+<br>
+***Male Names.*** Amka, Doruno, Kozza, Sarhash, Shunn,<br>     Thylon, Voluth<br>
+***Female Names.*** Corevva, Daalny, Demetra, Fetwa,<br>     Lan‘era, Me‘era, Tanmatra<br>
+***Family Names.***  Draenei do not have family names, but<br>     take a title according to their deeds.
+
+#### Subraces
+
+Ancient events divide the draenei into two sub-races: unbroken and broken, Choose one of these subraces.
+
+<div class="copyright" style="top:55px; position:absolute; right:55px; color:#fff;">
+
+[&copy; Aleksey Bayura](https://www.deviantart.com/alekseybayura/art/Sketch-D-1-688063494 "Aleksey Bayura on Deviant Art")
+<br>
+[&copy; Jimmy Lo](https://www.artstation.com/artwork/VybPen "Jimmy Lo on Artstation")
+
+</div>
+
+
+\pagebreak
+
+<img src='http://www.hahn-webdesign.de/wow5e/draenei-krokul-back.webp' style='position:absolute; top:0px; right:-90px; width:500px' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-30px; left:0px; width:100%;' />
+
+
+<img src='http://www.hahn-webdesign.de/wow5e/draenei-true-back.webp' style='position:absolute; bottom:-140px; left:-30px; width:500px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:160px; width:100; height:50%; transform:scalex(-1);' />
+
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:350px; left:0px; width:50%; transform:scaleY(-1) scalex(-1);' />
+
+### Krokul (Broken Draenei)
+
+*“You will learn our ways…”*
+<br><br>
+The Broken, also known as Krokul in Draenei, are a mutated and devolved subrace of draenei who
+lived in Outland. They, like most of the orcs, fell prey to the demons' sinister influence and were
+changed by the corruption. Though they lost some of their former powers, the Broken still present
+a clear danger to all races through Outland. The largest known faction of Broken in Outland, the
+Ashtongue Deathsworn, is currently led by Akama. They are supposedly allied with Illidan
+Stormrage.
+
+#### Affiliation
+***Independent.*** Despite the (mostly) accidental regression into broken, many unbroken
+draenei not only distrust them but despise them. Although understandable of those broken who
+remain corrupted or in service to the Legion, one would think that the unbroken would be willing
+to welcome any of their people that survived the orcs' genocide. Most broken are independent as a
+result, although the Prophet Velen, the leader of the unbroken, does extend a hand to broken to
+help them find their way back.
+
+#### Krokul Traits
+
+***Ability Score Increase.*** Your Agility increases by 2.<br>
+***Adapter.*** You may always act when surprised at a combat<br>     encounter (even if you failed your
+Perception check to<br>     notice it). You also have advantage versus weather effects.<br>
+***Stalker.*** You have proficiency with the Perception and<br>     Stealth skills. If you already have proficiency
+with one of<br>     these skills, you gain Expertise instead.
+
+\columnbreak
+
+<div style='margin-top:566px;'></div>
+
+### True Draenei
+
+*“The Legion‟s end draws near.”*
+<br><br>
+As one of the enlightened cousins of the Eredar, the Draenei arrived in Azeroth after the reopening
+of the Dark Portal. Living out the last centuries in exile and escape from the Burning Legion, the
+Draenei are steadfast champions of the Light, and will do anything in their power to prevent
+another world from falling to the Flame.
+
+#### Affiliation
+***Alliance.*** Unbroken draenei have found that they have strong bonds with humanity
+and dwarvenkind due to their shared worship of the Light, and kinship with the now-mortal night
+elves.
+
+#### True Draenei Traits
+
+***Ability Score Increase.*** Your Strength increases by 2.<br>
+***Gift of the Naaru.*** You can use your action to channel holy energy, casting the renewing light spell as
+if cast as a 1st level spell. This can be used once, replenishing on a short or long rest.
+While a creature benefits from this ability, they have a glowing blue mark above their forehead
+(shedding light equal to dancing lights). Your spellcasting ability modifier is Spirit or Charisma (your
+choice).<br>
+***Gemcutting.*** You are proficient with artisan‘s tools (jewelcrafting kit).
