@@ -201,6 +201,8 @@ ___
 
 <div style='margin-top:20px;'></div>
 
+\
+
 <div class="wide">
 
 ## Determining Ability Scores
@@ -310,11 +312,11 @@ TODO (Mounts)
 
 \pagebreak
 
-<img src='http://www.hahn-webdesign.de/wow5e/draenei-back.webp' style='position:absolute; top:0px; left:-100px; width:1000px' />
+<img src='https://www.hahn-webdesign.de/wow5e/draenei-back.webp' style='position:absolute; top:0px; left:-100px; width:1000px' />
 
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-30px; left:0px; width:100%;' />
 
-<img src='http://www.hahn-webdesign.de/wow5e/draenei-front.webp' style='position:absolute; top:50px; right:-50px; width:500px'>
+<img src='https://www.hahn-webdesign.de/wow5e/draenei-front.webp' style='position:absolute; top:50px; right:-50px; width:500px'>
 
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:80px; left:0px; width:100%;' />
 
@@ -325,7 +327,7 @@ TODO (Mounts)
 The draenei are a powerfully-build alien race that originates from Argus. They are powerfully magically-attuned, and have the potential for exceptional good or evil. Draenei who succumb to fel magic form the ranks of the Eredar, the greatest generals of the Burning Legion, while draenei who serve the Holy Light are immortal crusaders for justice across the cosmos.
 
 ### Draenei Traits
-____
+
 ***Ability Score Increase.*** Your Spirit or Intelligence<br>      increases by 1.<br>
 ***Age.*** A typical Draenei claims adulthood around 100 years<br>     old, and can live to about ten thousand
 years old.<br>
@@ -353,8 +355,7 @@ When you do so, choose up to six friendly creatures (which can include
 
 <div style='margin-top:626px;'></div>
 
-yourself) within 30
-feet of you who can see or hear you and who can understand you. Each creature can gain
+yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain
 temporary hit points equal to your level + half your Charisma or Spirit modifier. A creature can‘t
 gain temporary hit points from this feature again until it has finished a long rest. Alternatively, you
 may declare use of this ability upon landing a critical hit.<br>
@@ -381,18 +382,23 @@ Ancient events divide the draenei into two sub-races: unbroken and broken, Choos
 
 \pagebreak
 
-<img src='http://www.hahn-webdesign.de/wow5e/draenei-krokul-back.webp' style='position:absolute; top:0px; right:-90px; width:500px' />
+<img src='https://www.hahn-webdesign.de/wow5e/draenei-krokul-back.webp' style='position:absolute; top:0px; right:-90px; width:500px' />
 
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%;' />
 
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-30px; left:0px; width:100%;' />
 
-
-<img src='http://www.hahn-webdesign.de/wow5e/draenei-true-back.webp' style='position:absolute; bottom:-140px; left:-30px; width:500px;' />
+<img src='https://www.hahn-webdesign.de/wow5e/draenei-true-back.webp' style='position:absolute; bottom:-140px; left:-30px; width:500px;' />
 
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:160px; width:100; height:50%; transform:scalex(-1);' />
 
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:350px; left:0px; width:50%; transform:scaleY(-1) scalex(-1);' />
+
+<div class="copyright" style="top:455px; position:absolute; right:55px; color:#fff;">
+
+[&copy; Glenn Rane](https://www.deviantart.com/glennraneart/art/Phadalus-The-Enlightened-156446286 "Glenn Rane on Deviant Art")
+
+</div>
 
 ### Krokul (Broken Draenei)
 
@@ -427,7 +433,7 @@ with one of<br>     these skills, you gain Expertise instead.
 
 ### True Draenei
 
-*“The Legion‟s end draws near.”*
+*“The Legion's end draws near.”*
 <br><br>
 As one of the enlightened cousins of the Eredar, the Draenei arrived in Azeroth after the reopening
 of the Dark Portal. Living out the last centuries in exile and escape from the Burning Legion, the
@@ -447,4 +453,144 @@ if cast as a 1st level spell. This can be used once, replenishing on a short or 
 While a creature benefits from this ability, they have a glowing blue mark above their forehead
 (shedding light equal to dancing lights). Your spellcasting ability modifier is Spirit or Charisma (your
 choice).<br>
-***Gemcutting.*** You are proficient with artisan‘s tools (jewelcrafting kit).
+***Gemcutting.*** You are proficient with artisan‘s tools (jewelcrafting kit). 
+
+\pagebreak
+
+<img src='https://www.hahn-webdesign.de/wow5e/dwarf-back.webp' style='position:absolute; top:0px; right:-90px; width:1000px' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:135px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/dwarf-front.webp' style='position:absolute; top:165px; right:-100px; width:600px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:260px; right:0px; width:890px;' />
+
+<div style='margin-top:426px;'></div>
+
+## Dwarf
+
+Dwarves are short and stout creatures mostly inhabiting Khaz Modan in the Eastern Kingdoms.
+They are shorter than humans but taller than gnomes, taking advantage of their size when possible
+and relying on their robustness and strength when not. The average dwarf is steady, observant and
+composed.
+
+### Dwarf Traits
+
+***Ability Score Increase.*** Your Stamina score increases by 2.<br>
+***Age.*** Dwarves mature at the same rate as humans, but they‘re considered young until they reach the age of 40. On average, they live to be 450 years old.<br>
+***Affiliation.*** Each sub-race is inclined to its own affiliations ever since the great War of the Three
+Hammers<br>
+***Size.*** Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium. Male dwarves tend to have long hair, and beards or facial hair often tied in ornate braids. Female dwarves also have sturdy muscular frames, but they are buxom and lack facial hair, despite the claims of some of the less educated sages of other races.<br>
+***Speed.*** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor.<br>
+***Darkvision.*** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
+***Natural Armor.*** Your skin is as hardened leather in toughness. When you aren't wearing armor, your AC is 12 + your Agility modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.<br>
+***Stoneform.*** You can focus yourself to occasionally shrug off injury. When you take damage, you can use your reaction to roll a d12. Add your Stamina modifier to the number rolled,
+
+\columnbreak
+
+<div style='margin-top:591px;'></div>
+
+and reduce the damage by that total. If the damage exceeds any ongoing bleed damage you take, you end the effect as well. After you use this trait, you can't use it again until you finish a short or long rest.<br>
+***Tool Proficiency.*** You gain proficiency with one artisan‘s tool of your choice: smith‘s tools, brewer‘s supplies, mason‘s tools, or mining tools.<br>
+***Dwarven Combat Training.*** You have proficiency with the battleaxe, handaxe, light hammer, and warhammer.<br>
+***Languages.*** You can speak, read, and write Common and Dwarven. Dwarven is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak.
+
+#### Subraces
+
+Three main subraces of dwarves populate the worlds of Azeroth: Hill dwarves
+(Wildhammer Clan), Mountain dwarves (Bronzebeard Clan), and Dark dwarves (Dark Iron Clan).
+Choose one of these subraces.
+
+\pagebreak
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0500fbd5-ce66-4ca0-bdc3-20e1a6aed73a/demymrq-3507c47c-65e2-4d83-9f82-c482eede67b2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1MDBmYmQ1LWNlNjYtNGNhMC1iZGMzLTIwZTFhNmFlZDczYVwvZGVteW1ycS0zNTA3YzQ3Yy02NWUyLTRkODMtOWY4Mi1jNDgyZWVkZTY3YjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IkLRzJ0T1h-On-ERXfNtn3GepHWGYyBY7AJYabT5WDE' style='position:absolute; top:0px; right:-20px; width:450px' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-110px; left:0px; width:100%;' />
+
+<img src='https://cdna.artstation.com/p/assets/images/images/002/180/388/large/paul-mafayon-cover-les-nains.jpg?1458313160' style='position:absolute; bottom:-350px; left:-160px; width:650px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:160px; width:100; height:50%; transform:scalex(-1);' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:340px; left:0px; width:50%; transform:scaleY(-1) scalex(-1);' />
+
+
+
+### Wildhammer
+
+*“To the skies!”*
+<br><br>
+As a hill dwarf, you probably hail from the Wildhammer clan and its allies, and live in the Aerie Peak. Wildhammer dwarves are similar in appearance to their Ironforge kin, though many shave their heads and they are slightly taller and leaner. Exposure to sun and high winds darkens and toughens their skin. Wildhammers string beads and feathers into their hair and beards as good luck charms, and paint tattoos on their bodies in homage to the totems, ideas and creatures they revere.
+
+#### Affiliation
+***Alliance or independent.*** The Wildhammer clan is not a member of the Alliance, but Wildhammer dwarves are allies of the Alliance and would certainly help it in a war (and have done so in the past). They are distant with humans and Ironforge dwarves, but have formed a kinship with high elves. Wildhammers and high elves shared much in common in the past, including a love of nature and hatred of evil. Many high elves have grown introverted and brooding of late, which concerns the Wildhammers. The dwarves are appalled at the defection of the blood elves, an event which has caused them to see their high elf allies with new eyes. They also get along well with night elves, as the two races share much in common.
+
+#### Wildhammer Traits
+***Ability Score Increase.*** Your Spirit score increases by 1.<br>
+***Bravery.*** You have advantage to all saves against fear.<br>
+***Mountain Born.*** You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold weather in the wilderness or while exploring.<br>
+***Natural Handler.*** You have proficiency with Animal Handling. If handling beasts that naturally live in mountains such as gryphons or mountain lions, you gain Expertise instead.<br>
+<br>
+***Male Names.*** Kazdin, Hagrim, Dondar, Soldrin.<br>
+***Female Names.*** Kella, Lorim, Ar-ya, Senica.<br>
+***Family Names.*** Beastclaw, Greatbeard, Thundertamer, Windseer.<br>
+
+\columnbreak
+
+<div style='margin-top:431px;'></div>
+
+### Bronzebeard
+
+*“For Khaz Modan!”*
+<br><br>
+As a mountain dwarf, you probably hail from the Bronzebeard clan and its allies, and live in Khaz Modan. Ironforge dwarves are stout and powerful, with short muscular bodies, and prefer tying their hair (male or female) in ornate braids.
+
+#### Affiliation
+***Alliance.*** While the dwarves of Ironforge appreciate the fighting skill of the Horde, it is with grim eyes that they look upon the orcs and their allies, the trolls and the Forsaken. Although the dwarves have held dealings of commerce and diplomacy with the high elves, they keep the people of Quel‘Thalas at an arm‘s distance. While the night elves may share the same allegiances, the dwarves look upon them with suspicion and some trepidation. Humans, however, are the staunch and constant allies of the dwarven people and find welcome, favor and kindness when in dwarven lands.
+
+#### Bronzebeard Traits
+***Ability Score Increase.*** Your Strength score increases by 1.<br>
+***Dwarven Combat Training.*** You have proficiency with firearms and explosives of all types, even if you do not have proficiency in engineering, and gain proficiency with light armor.<br>
+***Resilience.*** You have advantage against poisons and resistance to poison damage.<br>
+***Stonecunning.*** Whenever you make an Intelligence (History) check or Mining checks related to stonework and minerals, you are considered both proficient and as if having Expertise in either History or Mining (choose one).<br><br>
+***Male Names.*** Barab, Aradun, Thorin, Magni, Garrim, Wendel, Thurimar.<br>
+***Female Names.*** Chise, Helge, Ferya, Furga, Krona, Imli.<br>
+***Family Names.*** Thunderforge, Bronzebeard, Hammergrim, Thornsteel, Chunderstout.<br>
+
+\pagebreak
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/010/220/695/large/stanton-feng-the-dark-iron-dwarves-a.jpg?1523256674' style='position:absolute; top:0px; right:-200px; width:1000px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:60%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:300px; left:0px; width:50%; transform:scaleY(-1)' />
+
+
+
+### Dark Iron
+
+*“You shall serve.”*
+<br><br>
+As a darklands dwarf, you probably hail from the Dark Iron clans, lead by the Sorcerer-thane Thaurissan. Reviled as betrayers of their fellow dwarves, and living in the mountain-halls of Blackrock Mountain, Dark Iron dwarves are slaves to the great elemental Firelord Ragnaros, and serve him in the latent volcanic mountain.<br>
+Dark Irons seem identical to Ironforge dwarves, except that their skin tones are ashen and gray, and their eyes are golden-red. Dark Irons who adventure can often reach into the power in their bloodline and spontaneously conjure flames.<br> 
+Hoarse of voice and prone to undertone muttering, Dark Irons do not inspire trust easily.
+
+#### Affiliation
+***Alliance or Independent.*** Hatred comes to Dark Iron dwarves against all races, and in their service to Ragnaros, they see only rivals, thralls, and enemies. Some dark irons have found kinship with their cousins the Wildhammers and the Bronzebeards, and chose to join the Alliance.
+
+#### Dark Iron Traits
+***Ability Score Increase.*** Your Intelligence score increases<br>
+by 1.<br>
+***Dwarven Combat Training.*** You have proficiency with firearms and explosives of all types, even if
+you do not have proficiency in engineering, and gain proficiency in light armor.<br>
+***Fire-Lord’s Favor.*** You have resistance to fire damage.<br>
+***Burning Heart.*** You know the produce flame cantrip (caster level equal to your character level).
+Intelligence is your spellcasting ability for it.
+<br><br>
+***Male Names.*** Beld, Franclorn, Lokhtos, Grall.<br>
+***Female Names.*** Aster, Channis, Mogran, Wellia.<br>
+***Family Names.*** Angerforge, Darkbargainer, Firesmite, Forgewright.
+
+\pagebreak
+
