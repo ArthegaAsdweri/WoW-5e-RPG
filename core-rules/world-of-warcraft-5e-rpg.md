@@ -819,8 +819,7 @@ Alleria Windrunner is the only elf shown to be able to keep the transformation i
 
 <br><br>
 
-After the rift is set, you can teleport to it as a bonus action, it as if using the blink step spell. This is useable once per long rest, and acts as the spell for all other purposes. The rift remains up to 1 minute, and can be used so long as you are within 100 feet of it (so long as you
-placed it within the normal range beforehand).<br>
+After the rift is set, you can teleport to it as a bonus action, it as if using the blink step spell. This is useable once per long rest, and acts as the spell for all other purposes. The rift remains up to 1 minute, and can be used so long as you are within 100 feet of it (so long as you placed it within the normal range beforehand).<br>
 ***Void Magic.*** You know the chill touch cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the shadow word pain spell as a 2nd level spell. Charisma or Intelligence (your choice) is your spellcasting ability for these spells, and you use your mana pool for these abilities (even if you are not normally a spellcaster). While you use such abilities (and after
 using them for one hour), your eyes glow a pale white.
 
@@ -828,3 +827,79 @@ If you can already cast such spells (and have a sufficiently high caster level),
 for free.<br><br>
 ***Male and Female Names.*** Void elves follow the naming traditions of the high elven culture from which they were selected from<br>
 ***Family Names.*** Blackfeather, Duskblade, Shadowwalker, Swiftshadow, Velvetkind.
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/002/997/401/4k/l-in-.jpg?1468288355' style='position:absolute; top:0px; left:-50px; width:1100px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/forsaken-front.webp' style='position:absolute; top:150px0px; left:20px; height:55%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:250px; right:0px; width:890px;' />
+
+<div class="copyright" style="top:355px; position:absolute; right:55px; color:#fff;">
+
+[&copy; Becky Watson](https://www.artstation.com/artwork/1naZ8e "Becky Watson on Artstation")
+
+</div>
+
+<div style="margin-top:550px;"></div>
+
+## Forsaken
+*“We are the Forsaken. We will slaughter anyone who stands in our way”*<br>
+-- Lady Sylvanas Windrunner”
+<br><br>
+Undead humans and elves freed from the Lich King‘s control during the second stage of the Third War, the Forsaken are a strange and dark force. Hailing from the twisted, skittering darkness of Undercity, the Forsaken are nominally allied with the Horde but serve only themselves. Their objectives are twofold: eliminate the Scourge, and establish a place for themselves on Azeroth.
+
+Four years ago, the high elven Ranger General Sylvanas Windrunner fell in combat against the Scourge. Prince Arthas raised her as a banshee and compelled her to follow his command. When the Lich King‘s power waned in the incidents surrounding the Frozen Throne, Sylvanas harnessed her fury and tore herself free from his skeletal grasp. She freed many other undead as well, and
+recruited powerful allies from the Burning Legion and the surrounding ogre clans. Sylvanas dubbed her new force the Forsaken, and the undead established their capital in the labyrinthine crypts beneath Lordaeron‘s capital city. Their sprawling, subterranean realm is called Undercity.
+
+As a forsaken undead, your alliance with the Horde started out as necessity and convenience, and your previous life bears witness to the many tragedies of Azeroth‘s reality. Needing both time and help to fight against their former Scourge masters, the Forsaken have a reputation of utter ruthlessness, human experimentation, and moral ambiguity.
+
+<br><br>
+<div style="margin-top:420px;"></div>
+
+Although humans make the vast population of Forsaken, there is also a population of high elves
+(usually becoming dark rangers), and other races, which leaves a lingering bit of their abilities.
+
+### Affiliation
+***Horde, or independent.*** Though the Forsaken do not trust anyone and no one trusts them, they are members of the Horde and, for now, do their best to help their allies and placate their ambassadors. Forsaken have even less love for the Alliance, particularly because they clash constantly with the human organization called the Scarlet Crusade. Some have thrown their lot with the Burning Legion, believing that only it is potent enough to defeat the Lich King.
+
+### Forsaken Traits
+***Size.*** Forsaken vary based on their original form before death - those who were medium before death are medium.<br>
+***Speed.*** Your base walking speed is 30 feet.<br>
+***Darkvision.*** Accustomed to dark crypts and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
+***Cannibalize.*** You can consume the corpse of any natural creature. When you use this ability, you can spend hit dice to heal as if you completed a short rest. You can also mana siphon at the same time. Consuming a corpse takes 1 minute (instead of 1 hour for a short rest). You do not have the other benefits of rest, however (such as regaining ability uses). A natural creature may be fully
+cannibalized once before their corpse becomes unusable and without sufficient benefit for another cannibalism.<br>
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/010/726/401/large/laura-sava-undex-copy.jpg?1525896135' style='position:absolute; top:0px; left:50px; width:1130px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:20px; height:100%;' />
+
+***Knowledge from Beyond.*** The forsaken are uniquely acquainted with death. You can choose one of the below abilities.
+* *Elven Blood (must have been an elf).* You have lingering elven blood in your veins. You have proficiency with the Perception skill, and can gain one of the following racial traits, depending on your elven subrace.
+  * *Arcane Legacy (high elf or blood elf)*
+  * *Blessing of the Nightwell (Nightborne)*
+  * *Preternatural Calm (void elf)*
+  * *Shadowmeld (night elf)*
+* *Human Blood (must have been a human).* You have lingering human blood in your veins. You gain the Skillful racial trait and a +1 bonus to a third ability score of your choice.<br>
+* *Necrotic Touch.* You can cast the plague rune spell. This can be used once until a short or long rest. At 6th level, you gain another use of the ability or choose to heighten the spell‘s level to a 3rd level spell. You can make the same choice at the 11th and 16th levels (4th or 5th level, or additional uses). While you use this ability, your hand and eyes emit an eerie green glow.
+* *Natural Alchemist.* You have proficiency with Alchemist‘s Supplies and the Alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you gain later proficiency, you gain expertise to the roll instead.
+* *Orcish Blood (must have been an orc).* You have lingering orcish blood in your veins. You can choose one talent as per the Warrior Tradition racial trait and gain a +1 bonus to your Strength score.
+____
+***Undead Nature.*** You don‘t require air, food, drink, or sleep. You are also immune to non-magical poisons and diseases, and have advantage to effects that cause the exhausted and poisoned conditions.
+
+You also count as undead for the purposes of healing spells and effects that target undead. For this purpose, you cannot be healed by the holy light spell, but are healed with the death coil spell, and can be targeted by the death pact and protection from good and evil spells, although you are unaffected by charm person (but charm undead instead).
+
+You may also declare your racial origin before you rose (human, elf, orc, etc.) and are counted as being that race much for all intents and purposes that specify race (such as gaining use of elf, human, or orc specific weapons and feats).<br>
+***Will of the Forsaken.*** You have advantage against fear effects.<br>
+
+***Languages.*** You can speak, read, and write Common, Gutterspeech, and one extra language of your choice, typically based upon the language you spoke before being turned into a Forsaken.<br><br>
+***Male Names.*** Roderick, Magan, Danforth, Lansire.<br>
+***Female Names.*** Yellen, Limmy, Sarias, Mierelle.<br>
+***Family Names.*** Dartfall, Blacksling, Ghoulhunter, Blastlich.
+
+\pagebreakNum
