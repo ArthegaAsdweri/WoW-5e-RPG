@@ -289,7 +289,7 @@ judgment is key.
 
 \pagebreakNum
 
-# Races
+# Chapter 2: Races
 
 <div class="wide">
 
@@ -901,5 +901,106 @@ You may also declare your racial origin before you rose (human, elf, orc, etc.) 
 ***Male Names.*** Roderick, Magan, Danforth, Lansire.<br>
 ***Female Names.*** Yellen, Limmy, Sarias, Mierelle.<br>
 ***Family Names.*** Dartfall, Blacksling, Ghoulhunter, Blastlich.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66965d8a-d7e4-42b9-89fa-dfb517a0824a/d89nlkp-4c63a6e7-461d-476d-8f17-b7df3718dba0.jpg/v1/fill/w_600,h_848,q_75,strp/gnomecha_rilla_by_artlon_d89nlkp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODQ4IiwicGF0aCI6IlwvZlwvNjY5NjVkOGEtZDdlNC00MmI5LTg5ZmEtZGZiNTE3YTA4MjRhXC9kODlubGtwLTRjNjNhNmU3LTQ2MWQtNDc2ZC04ZjE3LWI3ZGYzNzE4ZGJhMC5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LdZ4nrSh6kftIXqrbZ5OEAq9txQL4IKaHH1_13l7rL8' style='position:absolute; top:-100px; right:-80px; width:530px; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:50px; left:200px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-70px; width:100%; height:60%;' />
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66965d8a-d7e4-42b9-89fa-dfb517a0824a/d8tubiy-f6698f1b-ec96-4fe0-828d-1f9622dbe78b.jpg/v1/fill/w_800,h_1108,q_75,strp/commission__jilette_sawblaster_by_artlon_d8tubiy-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEwOCIsInBhdGgiOiJcL2ZcLzY2OTY1ZDhhLWQ3ZTQtNDJiOS04OWZhLWRmYjUxN2EwODI0YVwvZDh0dWJpeS1mNjY5OGYxYi1lYzk2LTRmZTAtODI4ZC0xZjk2MjJkYmU3OGIuanBnIiwid2lkdGgiOiI8PTgwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.I15UVL6Qz6LbRcYisLwq-OzPNWUu1CeWuotkcdS8Jjc' style='position:absolute; bottom:-50px; left:0px; width:400px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:200px; width:50%; height:50%; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:470px; left:0px; width:50%; height:20%; transform:scaleY(-1);' />
+
+
+
+<div style="margin-top:0px;"></div>
+
+## Gnome
+*“Up and away!”*
+<br><br>
+As one of the gnomish people of the Alliance, you are comfortable standing with your more physically and politically-apt allies to cover you as you go about your businesses. Proficient in the higher arts of engineering and arcana, gnomes are behind many developments in the intellectual and creative sides of the Alliance, creating spells, gadgets, and vehicles to propel their human, elven, and dwarven friends (as well as their new allies in the Alliance) to a better tomorrow.
+
+### Affiliation
+***Alliance.*** Gnomes are great friends of the Ironforge dwarves and have fought and died alongside human soldiers. They are wary of the high elves, but so is everyone else, so they don‘t feel too bad about that. They battled the Horde in the Second War and have a bit of a grudge against orcs, but gnomes are a kindly and forgiving lot and are willing to give the orcs a second chance.
+
+Gnomes and goblins have always been rivals — though whether this rivalry is a friendly or brutal one depends on the individuals involved. Gnomes have not been on Kalimdor long enough to form proper opinions about its denizens. Tauren and night elves both seem rather rustic for gnome sensibilities — but they can make friends with anyone.
+
+### Gnomish Traits
+
+***Ability Score Increase.*** Your Intelligence score increases by 2, and your Stamina increases by 1.<br>
+***Age.*** Adulthood at 40, can live up to be 500.<br>
+***Size.*** Gnomes range from between 3 to 4 feet tall and average around 40 pounds. Your size is Small.<br>
+***Speed.*** Your base walking speed is 25 feet.<br>
+
+\columnbreak
+
+<div style="margin-top:560px;"></div>
+
+***Darkvision.*** You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
+***Artificer’s Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you have expertise instead of just proficiency.<br>
+***Escape Artist.*** You have advantage on all saving throws to escape grapples, bonds, or other movement-restricting abilities or effects that hamper your freedom of movement.<br>
+***Gnome Cunning.*** You have advantage on all Intelligence, Spirit, and Charisma saving throws against magic.<br>
+***Natural Tinker.*** You have proficiency with Engineer‘s Tools, but it is treated as if your proficiency bonus is +1. If you later gain proficiency in Engineer‘s Tools by another way, you gain expertise in the skill instead.<br>
+***Naturally Stealthy.*** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.<br>
+***Extra Language.*** You can speak, read, and write one extra language of your choice.<br>
+***Languages.*** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarven script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.<br><br>
+***Male Names.*** Kiggle, Grobnick, Kazbo, Hagin, Snoonose.<br>
+***Female Names.*** Beggra, Nefti, Sorassa, Gamash.<br>
+***Family Names.*** Spinpistol, Airslicer, Bombtosser, Greatgear, Mekkatorque.
+
+\pagebreakNum  
+
+<img src='https://cutewallpaper.org/21/wow-goblin-wallpaper/Pix-For-Goblin-Wow-Wallpaper-in-2019-Warcraft-art-.jpg' style='position:absolute; top:-50px; left:0px; width:800px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:80px; right:0px; width:890px;' />
+
+<div style="margin-top:350px;"></div>
+
+## Goblin
+*“Time is money, friend!”*
+<br><br>
+Goblins value technology as a useful aspect of commerce. Some say that their advantage — and their curse — is to be the primary users of technology in a world governed by magic. While dwarves and gnomes share focused aspects of this gift, goblin technology is more far-reaching and sinister and makes a larger impact on the natural world, and mixes with alchemy in a gloriously unstable blend.
+
+They employ vast teams of engineers and alchemists who expand on current technology and produce gadgets and potions to suit a wide array of applications. They constantly build and repair machines and work on new formulae. Unfortunately, goblins are both passionately genius yet suffer from undisciplined minds. Their lack of focus means that many creations end up half-finished as something else catches their attention.
+
+Goblins hired themselves out to the Horde in the Second War, but now they belong only to themselves and whoever pays the most. Constantly building and inventing requires massive resources, both for creating the machines themselves and maintaining those that actually work.
+
+Cannibalizing old machines only partially sustains this fervent activity of creation, so goblins rely on trade with as many races and cultures as possible. They are the quintessential merchants, peddling all manner of exotic goods for the highest possible prices.
+
+As one of the goblin-folk, you have a reputation for money-grabbing, dishonest work, and unreliability, yet being loyal to money means you always have customers (and a place) in a war-torn world.
+
+### Affiliation
+***Independent or Horde.*** Goblin cartels serve as political bodies, and so far, the only cartel that chose to join the Horde was the Bilgewater cartel.
+
+### Goblin Traits
+
+***Ability Score Increase.*** Your Intelligence score increases by 2, and your Charisma increases by 1.<br>
+
+\columnbreak
+
+<div style="margin-top:390px;"></div>
+
+***Age.*** Goblins typically reach adulthood around 20 years old, and live to be 100 years old.<br>
+***Size.*** Goblins range from between 3 to 4 feet tall and average around 40 pounds. Your size is Small.<br>
+***Speed.*** Your base walking speed is 25 feet.<br>
+***Darkvision.*** You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
+***Best Deals Anywhere.*** Anything you purchase costs 10% less, and anything you sell grants you 10% more of its value. You gain proficiency with the Charisma (Persuasion) skill.<br>
+***Inured to Explosions.*** You have resistance to thunder damage.<br>
+***Living Better.*** You can gain one of the below abilities.
+* You gain proficiency with any two skills of your choice.
+* You have proficiency with Engineer‘s Tools, but it is treated as if your proficiency bonus is +1. If you later gain proficiency in Engineer‘s Tools by another way, you gain expertise in the skill instead.
+* You have proficiency with Alchemist‘s Supplies and the Alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you gain later proficiency, you gain expertise to the roll instead.
+___
+***Trader’s Lore.*** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.<br>
+***Extra Language.*** You can speak, read, and write three extra languages of your choice.<br>
+Languages. You can speak, read, and write Common and Goblin. The Goblin language sounds as if it were a Troll dialect, but borrows from dozens of other languages.<br><br>
+***Male Names.*** Zautso, Beedle, Chizbolt, Nuzak, Jastor, Jareth.<br>
+***Female Names.*** Lystis, Mefeero, Sazai, Rossa.<br>
+***Family Names.*** Steamgear, Boltnose, Manclamp, Leafgrinder, Gringott, Gallywix<br>
 
 \pagebreakNum
