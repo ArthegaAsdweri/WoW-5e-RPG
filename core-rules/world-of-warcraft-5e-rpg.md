@@ -1044,3 +1044,69 @@ Humans tend toward no particular alignment. The best and the worst are found amo
 ***Male Names.*** Merander, Gyram, Derrick, Henry.<br>
 ***Female Names.*** Lilla, Merian, Richelle, Ammi.<br>
 ***Family Names.*** Renn, Townguard, Silversmith, Runetouch.
+
+\pagebreakNum
+
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fee25258-439e-4f14-b0dc-51ee1e8b642e/d7ur0kn-04e9ea05-e8de-4162-b20d-5c57247c098f.jpg/v1/fill/w_1280,h_720,q_75,strp/draenor_wallpaper_by_ddddd210_d7ur0kn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZmVlMjUyNTgtNDM5ZS00ZjE0LWIwZGMtNTFlZTFlOGI2NDJlXC9kN3VyMGtuLTA0ZTllYTA1LWU4ZGUtNDE2Mi1iMjBkLTVjNTcyNDdjMDk4Zi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XSe5wRoZyCEGg4YhzenFMR8oRvYOO2j4Szk6vQG_jBs' style='position:absolute; top:-50px; left:0px; width:1000px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:180px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/orc-front.webp' style='position:absolute; top:210px; left:10px; width:400px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:450px; left:-250px; width:890px; transform:rotate(30deg);' />
+
+<div class="copyright">
+https://www.deviantart.com/tamplierpainter/art/Warmaiden-889199765
+</div>
+
+<div style="margin-top:670px;"></div>
+
+## Orc
+*“Lok'tar ogar!”*<br><br>
+To their enemies, they are brutal and fearsome opponents, without parallel in their ferocity and cunning. To their allies, they are noble and honorable, following the traditions of a rediscovered past.
+
+The orcs of Azeroth are part of a race that has once again found its true spirit, shunning the cruel practices of arcane and demonic magic for the paths of wisdom and power. Some orcs still hang on to the arcane practices of the past, but their time is fading.
+
+The concept of honor pervades all echelons of orcish society. Even the naming of an orc is temporary until he has performed a rite of passage. Once an orc has brought honor to his name and the name of his clan, the elders give him a second name based upon his deed. For an orc, honor is as important as his clan, and most will die defending either clan or personal reputation. 
+
+\columnbreak
+
+<div style="margin-top:480px;"></div>
+
+This is a new development for the orcs; before, when led by the forces tainted by the Burning Legion, the orcs were a bestial force barely controlled by demonic magic.
+
+As one of the orcish people, you may hail from the exodus lead by Warchiefs Thrall and Grom Hellscream, and belong to the core tribes that form the new Horde, such as the Warsong Clan, Frostwolf, and Bleeding Hollow Clan, or you may belong to one of the sinister demon-worshipping tribes, such as the Laughing Skull or the Burning Blade Clans. Alternatively, you may belong to one of the clans who have never left their homeland of Draenor, such as the Mag‘har, who are brown in color. The greater the influence of fel on orcs, the brighter green their skin becomes. Some other clans have differently-colored skins, such as gray with yellow eyes (Dragonmaw Clan) or pale white (Shattered Hand Clan).
+
+### Affiliation
+***Horde.*** Thrall formed the Horde with determination and sheer will and created an alliance of races that has shaken the foundations of the world to its core. Having destroyed the legacy of Grom Hellscream by bringing the orcs out of the depths of demon worship and servitude to unseen powers, Thrall rules the Horde in Kalimdor with wisdom and temperance. The orcs are as much a part of the Horde as the Horde is part of what the orcs have become.
+
+### Orcish Traits
+
+***Ability Score Increase.*** Your Strength score increases by 2, and your Stamina increases by 1. You may also choose one third ability score and increase it by 1.<br>
+***Age.*** Orcs mature and age a little faster than humans, reaching adulthood around the age of 20 and rarely live up to be 100 years old.<br> 
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/73396b8c-e810-4c64-a57c-b6aa7e6ec798/dbtjobw-1ebf98d8-9043-4ef7-aae6-179a03055427.jpg/v1/fill/w_1280,h_800,q_75,strp/garrosh__son_of_hellscream_by_mr__jack_dbtjobw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNzMzOTZiOGMtZTgxMC00YzY0LWE1N2MtYjZhYTdlNmVjNzk4XC9kYnRqb2J3LTFlYmY5OGQ4LTkwNDMtNGVmNy1hYWU2LTE3OWEwMzA1NTQyNy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.HIZK0gmx692d8_rYnJdFdYtE8UCth1cac5dkLNFgfeQ' style='position:absolute; top:-50px; right:-400px; height:105%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:-35px; left:-40px; width:100%; height:60%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:270px; left:0px; width:50%; transform:scaleY(-1);' />
+
+***Size.*** Orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.<br>
+***Speed.*** Your base walking speed is 30 feet.<br>
+***Darkvision.*** You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
+***Menacing.*** You gain proficiency in the Intimidation or Insight skills, and may use Strength or Stamina for Intimidation checks instead of Charisma for Intimidation checks.<br>
+***Warrior Tradition.*** You may choose two of the below talents. You are treated as a 1st level warrior for these effects (unless you later take a level in warrior).
+* *Aggressive.* You gain the Aggressive talent.
+* *Berserker Rage.* You gain the Berserker Rage talent. If you later gain the talent, increase the total times you can rage before a long rest by 1. You may also choose one spellcasting class, and cast spells from that class while raging.
+* *Brutal Critical.* You gain the Brutal Critical talent.
+* *Relentless.* You gain the Relentless talent. If you later gain the talent, you reduce the base DC by 5.
+* *Shock Resistant.* You gain the Shock Resistant talent.
+____
+***Orcish Combat Training.*** You have proficiency with the battleaxe, handaxe, attack claws, and the shortbow.<br>
+***Languages.*** You can speak, read, and write Common and Orcish. Orcish is a harsh, grating language with hard consonants.<br><br>
+***Male Names.*** Grom, Thrum, Drog, Gorrum, Harg, Thurg, Karg.<br>
+***Female Names.*** Groma, Hargu, Igrim, Agra, Dragga, Grima.<br>
+***Family Names.*** Doomhammer, Deadeye, Foebinder, Elfkiller, Skullsplitter, Axeripper, Tearshorn, Fistcrusher.
