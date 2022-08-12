@@ -1004,3 +1004,43 @@ Languages. You can speak, read, and write Common and Goblin. The Goblin language
 ***Family Names.*** Steamgear, Boltnose, Manclamp, Leafgrinder, Gringott, Gallywix<br>
 
 \pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/000/636/703/large/philip-straub-lordaeron-final.jpg?1429384994' style='position:absolute; top:-150px; left:0px; width:900px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:80px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/human-front.webp' style='position:absolute; top:250px; right:-15px; width:430px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:330px; right:0px; width:890px;' />
+
+<div style="margin-top:380px"></div>
+
+## Human
+*“Go with honor, friend.”*<br><br>
+Humans are among the youngest races on Azeroth, but they make up for it by being the most populous. With life spans generally shorter than the other races, humans strive all the harder to achieve great heights in empire building, exploration, and magical study. This aggressive and inquisitive nature leads the human nations to become active and influential in the world.
+
+As a human, your people value virtue, honor, and courage, though like all races they also pursue power and wealth. Humans have spent generations battling dark forces and have lost some of their greatest kingdoms to them. This loss embitters humans, and they have a warlike view of diplomacy — swing first, ask questions later. Aided by belief in the Holy Light, humans have fought the hardest and endured the most during the wars against the Horde and the Burning Legion. You may hail from the ruins of once-glorious Lordaeron, the island-nation of Kul Tiras, the mountains of Alterac, the highlands of Stromgarde, or the rebuilt capital of Stormwind, amongst other nations.
+
+Despite all their tragedies, humans remain hardy and brave — thoroughly committed to building strong societies, reinforcing their kingdoms and reclaiming their nations. Years of war have
+
+### Affiliation
+Humans tend toward no particular alignment. The best and the worst are found among them. Most are loyal to the Grand Alliance, but there are pockets of independents, horde-allied, or even those tied to the Burning Legion or Scourge as demon-worshipping Warlocks and Scourge-following Necromancers, respectively.
+
+### Human Traits
+
+***Ability Score Increase.*** Two different ability scores increase by 1.<br>
+
+\columnbreak
+
+<div style="margin-top:630px"></div>
+
+***Age.*** Humans reach adulthood at the age of 15 and live up to be 80.<br>
+***Size.*** Humans vary widely in height and build, from barely 5 feet to well over 6 feet tall. Regardless of your position in that range, your size is Medium.<br>
+***Speed.*** Your base walking speed is 30 feet.<br>
+***Feat.*** You gain one feat of your choice.<br>
+***Human Spirit.*** You may grant yourself advantage to any one saving throw. After you use this ability, you can‘t use it again until you finish a short rest.<br>
+***Skillful.*** You gain proficiency with one skill or tool of your choice. You may not choose Engineer‘s Tools or the Infusion Kit.<br>
+***Languages.*** You can speak, read, and write Common and one extra language of your choice. Humans typically learn the languages of other peoples they deal with, including obscure dialects. They are fond of sprinkling their speech with words borrowed from other tongues: Orc curses, Elven musical expressions, Dwarven military phrases, and so on.<br><br>
+***Male Names.*** Merander, Gyram, Derrick, Henry.<br>
+***Female Names.*** Lilla, Merian, Richelle, Ammi.<br>
+***Family Names.*** Renn, Townguard, Silversmith, Runetouch.
