@@ -1110,3 +1110,51 @@ ____
 ***Male Names.*** Grom, Thrum, Drog, Gorrum, Harg, Thurg, Karg.<br>
 ***Female Names.*** Groma, Hargu, Igrim, Agra, Dragga, Grima.<br>
 ***Family Names.*** Doomhammer, Deadeye, Foebinder, Elfkiller, Skullsplitter, Axeripper, Tearshorn, Fistcrusher.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75882b50-c21c-4b17-8f5b-7a72894d1da8/d4g3a4l-f861d88a-7c1e-43a0-b72f-4d9c5861f92d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ODgyYjUwLWMyMWMtNGIxNy04ZjViLTdhNzI4OTRkMWRhOFwvZDRnM2E0bC1mODYxZDg4YS03YzFlLTQzYTAtYjcyZi00ZDljNTg2MWY5MmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U8SwaSmdWG7-8RZbeB3pRJp-mTGVM04btLVqBkJeADk' style='position:absolute; top:-20px; left:-25px; width:1600px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/pandaren-front.webp' style='position:absolute; top:140px; right:-100px; width:800px; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:290px; left:0; width:100%;' />
+
+<div class="copyright">
+https://www.deviantart.com/mr--jack/art/Chen-Stormstout-Legendary-Brewmaster-511918367
+</div>
+
+<div style="margin-top:450px;"></div>
+
+## Pandaren
+*“You seem a little parched.”*<br><br>
+As a Pandaren, you are honorable and filled with a love of good company, good food – and every now and then, a good friendly brawl. The pandaren have been content to live in seclusion, allowing their culture to flourish and thrive away from the influence of the outside world.
+
+However, every now and then, a pandaren is born with a thirst for adventure that rivals his or her thirst for a strong drink, and he or she strikes out to explore beyond Pandaria‘s shores. One of the most famous of such wanderers was the brewmaster Chen Stormstout, who set out looking for exotic ingredients for his special ale and wound up an integral part of the founding of the Horde. During the bleak days that preceded the sundering of the world, when demons flooded onto Azeroth and threw the entirety of the mortal realm into jeopardy, the last Emperor of the pandaren discovered a way to protect his land from devastation. His deal with fate shrouded his land within an impenetrable mist for ten thousand years, but the nature of his transaction has left Pandaria haunted ever since.
+As a Pandaren, you may have been one of the wanderers that left the misty island to explore the outside world and bring news back home.
+
+Your allies might wonder from where you came and whether they could visit your home, you know that the mists shall only lift when the time is right.
+
+### Affiliation
+***Independent, Horde, or Alliance.*** Pandaren drift across affiliations, doing whatever they wish and making friends on either side.
+
+\columnbreak
+
+<div style="margin-top:600px;"></div>
+ 
+### Pandaren Traits
+
+***Ability Score Increase.*** Your Stamina score increases by 2, and your Spirit by 1.<br>
+***Age.*** Pandaren reach adulthood at about the age of 80, and can live up to be 350.<br>
+***Size.*** Your size is medium. Pandaren average 5 1/2 feet in height, and make assured and precise movements, despite them often reaching the weight of 400 pounds.<br>
+***Speed.*** Your base walking speed is 30 feet.<br>
+Bouncy. You can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your Stamina modifier.<br>
+***Inner Peace***. You have proficiency with the Insight and Perception skills. In addition, while you are wearing light or no armor, you gain a +1 bonus to Armor Class.<br>
+***Feat.*** You may choose one of the following feats of your choice: Tavern Brawler, Grappler, or Brew Mastery (if your starting class is monk).<br>
+***Languages.*** You can speak, read, and write Common and Pandaren.<br><br>
+***Male Names.*** Huojin, Aiguo, Dac Kien.<br>
+***Female Names.*** Jinjing, Xueyou, Ling, Vuong.<br>
+***Family Names.*** Stoneclaw, Firespear, Silentrunner, Winterwalker, Rainsword, Brewscroll, Whitebrow.
+
+\pagebreakNum
