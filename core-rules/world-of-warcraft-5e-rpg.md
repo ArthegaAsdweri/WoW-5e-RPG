@@ -1158,3 +1158,53 @@ Bouncy. You can use your reaction when you fall to reduce any falling damage you
 ***Family Names.*** Stoneclaw, Firespear, Silentrunner, Winterwalker, Rainsword, Brewscroll, Whitebrow.
 
 \pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca85bac9-b1bd-48b9-9b43-cf65b22b0861/dei2rqw-4c977a2b-63de-43d5-86a1-3a484df661e7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NhODViYWM5LWIxYmQtNDhiOS05YjQzLWNmNjViMjJiMDg2MVwvZGVpMnJxdy00Yzk3N2EyYi02M2RlLTQzZDUtODZhMS0zYTQ4NGRmNjYxZTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OXEh07VEE0NKJupwBtNp4J0Rjz2pyUg6xplbWz3fw-I' style='position:absolute; top:-50px; left:-25px; width:1100px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:50px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/tauren-front.webp' style='position:absolute; top:80px; right:0px; width:450px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:220px; left:0; width:100%;' />
+
+<div class="copyright">
+https://www.deviantart.com/glennraneart/art/Tauren-Shaman-156985503
+</div>
+
+<div style="margin-top:300px;"></div>
+
+## Tauren
+*“Walk with the earth mother.”*<br><br>
+The plains of Kalimdor have long been a home to these tremendous nomads. The tauren are a race of shamans, hunters and warriors who long ago developed a complex culture and system of living without the aid of stonework, steel or conquest. This is not to say that the tauren are a race of pacifists, for when they are angered they are capable of retaliating with swift and decisive brutality.
+As a Tauren of Kalimdor, you prefer to act instead of talk, and seem to be brooding for most observers. Tauren rarely speak unless there is a true reason to, preferring to act instead of talk. However, once a tauren has learned to interact with a companion, there seems to be a more open and enthusiastic exchange of words.
+
+### Affiliation
+***Horde.*** When the tauren first encountered the orcs of Thrall‘s Horde, the tauren recognized the orcs as spiritual brethren. No other race shared such a similar outlook on the world, and the shamans of both races met frequently to discuss the matters of the spirit world. While the tauren see the orcs and trolls as potential friends to welcome, they rarely trust the Forsaken with more than a nod and a place to set their withered feet.
+
+### Tauren Traits
+***Ability Score Increase.*** Your Strength score increases by 2, and your Spirit and Stamina scores increase by 1 each.<br>
+***Age.*** A Tauren typically claims adulthood around the age of 50 and can live to be 150 years old.<br>
+***Size.*** Tauren are much larger than other races. Males average 7 1/2 feet tall and 400 pounds, while females are usually a bit shorter and lighter.
+
+Tauren are mostly muscle, having incredibly developed physiques and brawny frames most suitable for combat. They are medium sized.<br>
+***Speed.*** Your base walking speed is 30 feet.<br>
+***Endurance.*** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. You also have resistance against poison damage.<br>
+
+\columnbreak
+
+<div style="margin-top:490px;"></div>
+
+***Gore.*** You can use an attack action to make a gore attack with your horns. It is a melee unarmed attack that deals 1d8 piercing damage plus your Strength modifier. If you used the Dash action before the attack (such as spending last round to approach or having the ability to use it as a bonus action), you may also use the Shove action. This is a strike effect.<br>
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.<br>
+***Plainswalker.*** Tauren can reach prodigious speed when continually moving. If you use the Dash action once per round for at least three rounds, you gather enough momentum to add a +10 bonus to your land speed, allowing you to travel as fast as a wolf (Speed 40). This bonus ends if you stop moving for any purpose. While benefitting from this speed, you are treated as if you are dashing for the purposes of the gore ability, and also have advantage to saving throws versus exhaustion from forced marches.<br>
+***Self-Mastery.*** You have proficiency with one of the following skills and one of the following tools:
+* Spirit (Nature) or Spirit (Perception)
+* Mining tools or Herbalism kit
+____
+***Warstomp.*** You gain the Tremor talent as a 1st level warrior. If you later gain the talent, you can use the talent two additional times.<br>
+***Languages.*** Common, Taur-ahe. The language of the tauren is often harsh and slow-sounding, which is reflected in the names of their children.<br><br>
+***Male Names.*** Azok, Bron, Turok, Garaddon, Hruon, Jeddek.<br>
+***Female Names.*** Argo, Serga, Grenda, Beruna, Halfa.<br>
+***Family Names.*** Darkthorn, Thunderhoof, Stormhorn, Quillsplitter, Stonebreaker, Plainstalker, Spiritwalker
+
+\pagebreakNum
