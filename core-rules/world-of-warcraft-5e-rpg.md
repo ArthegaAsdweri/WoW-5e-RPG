@@ -830,7 +830,7 @@ for free.<br><br>
 
 \pagebreakNum
 
-<img src='https://cdnb.artstation.com/p/assets/images/images/002/997/401/4k/l-in-.jpg?1468288355' style='position:absolute; top:0px; left:-50px; width:1100px;' />
+<img src='https://cdnb.artstation.com/p/assets/images/images/002/997/401/4k/l-in-.jpg?1468288355' style='position:absolute; top:-20px; left:-50px; width:1100px;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
 
@@ -1206,5 +1206,152 @@ ____
 ***Male Names.*** Azok, Bron, Turok, Garaddon, Hruon, Jeddek.<br>
 ***Female Names.*** Argo, Serga, Grenda, Beruna, Halfa.<br>
 ***Family Names.*** Darkthorn, Thunderhoof, Stormhorn, Quillsplitter, Stonebreaker, Plainstalker, Spiritwalker
+
+\pagebreakNum
+
+<img src='https://cdna.artstation.com/p/assets/images/images/000/586/612/large/jordi-gonzalez-escamilla-jungle.jpg?1443928656' style='position:absolute; top:-50px; left:-25px; width:1100px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:130px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/troll-front.webp' style='position:absolute; top:70px; left:0px; width:600px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:360px; left:130px; width:90%; transform:rotate(-20deg);' />
+
+<div class="copyright">
+https://cdna.artstation.com/p/assets/images/images/013/464/240/large/dmitriy-nedviga-1.jpg?1539715737
+</div>
+
+<div style="margin-top:567px;"></div>
+
+## Troll
+Several troll subspecies exist, and they are — almost universally – considered depraved by the civilized peoples of the world due to their brutality, cannibalistic ways, and use of dark magic. Jungle trolls are humanoids that live in Azeroth‘s wilderness, and Ice trolls are known as the descendants of a vicious civilization that (to this day) resists the Lich King‘s dominion in Northrend.
+
+During Thrall‘s exodus from Lordaeron, the Horde rescued the Darkspear tribe, jungle trolls who lived on one of the many islands in the great sea from the mysterious Sea Witch. The Darkspear tribe owes Thrall and the orcs a great debt, and allied themselves with the Horde in gratitude. Their relationship with the noble orcs and tauren has begun to change the Darkspear trolls‘ dark ways. Jungle trolls are sly and cunning, and their society is tribal yet highly regimented.
+
+Each tribe includes a chieftain, who is either the most powerful warrior in the tribe (called Shadow Hunters) or the most accomplished spellcaster (called Witch Doctors); the chieftain leads his soldiers in raids against other creatures.
+
+As a troll, you are often viewed as vicious, brutal and evil, and history lends credence to this reputation. Waging constant wars against civilization and attempt to reclaim past glories is a fervent call for your people, who are seen (and commonly are) a lurking menace in any wilderness area
+
+\columnbreak
+
+<div style="margin-top:533px;"></div>
+
+and willingly ally themselves with other dark powers to achieve their goals.
+
+Darkspear trolls of the Horde, however, deny this legacy. The Horde has taught them camaraderie, restraint and, to a lesser extent, kindness. Zandalari trolls are also a new addition to the Horde, and unlike most trolls, they have a continuous unbroken legacy of civilization—the Empire of Zandalar, a political entity that stood since the War of the Ancients. This lends them great clout among the other trolls, making their empire act as mediator in inter-troll affairs or when times of great troubles arise.
+
+### Affiliation
+Troll affiliations are wildly different ever since the great Troll empires fell.
+### Trollish Traits
+
+***Ability Score Increase.*** Your Agility score increases by 1 and your Stamina increases by 1. You may also choose one third ability score and increase it by 1.<br>
+***Age.*** Trolls reach adulthood at the age of 18 and live up to be 80 years old.<br>
+***Size.*** Trolls are larger and bulkier than humans, and they average around 7 feet tall and 200 pounds, although their lanky build and slouched pose undermines their height. Your size is Medium.<br>
+***Speed.*** Your base walking speed is 30 feet.<br>
+***Darkvision.*** You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56007dc8-5120-4ab2-9c86-77e2876f8364/db5hsxv-cdd3b24c-c461-44e1-9aa4-0680ad8872f9.jpg/v1/fill/w_600,h_849,q_75,strp/wow_troll_warrior_by_zamberz_db5hsxv-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODQ5IiwicGF0aCI6IlwvZlwvNTYwMDdkYzgtNTEyMC00YWIyLTljODYtNzdlMjg3NmY4MzY0XC9kYjVoc3h2LWNkZDNiMjRjLWM0NjEtNDRlMS05YWE0LTA2ODBhZDg4NzJmOS5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.VoUqDunJuTd25HUrXdfHEgIXwoJNojP3zWLpXfhQ7o4' style='position:absolute; bottom:0px; right:-250px; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:-0; left:-50px; width:100%; height:100%;' />
+
+***Ancient Culture.*** You can gain one of the below abilities.
+* *Berserker Warrior.* You can rage as if you had the berserker rage talent as a 1st level warrior. If you gain the talent, you increase the total times you can rage by 1. Your rage also increases the damage of ranged thrown attacks as if they were melee weapon attacks (so long as they use Strength).
+* *Blessed by Loa.* You know the vicious mockery cantrip. If you have the ability to cast spells, this consumes mana as normal. Otherwise, it has no cost to use.
+* *Naturally-Attuned.* You gain a favored terrain, as a 1st level hunter. If you ever become a hunter or gain a favored terrain, you may choose another while retaining this bonus.
+____
+***Rapid Regeneration.*** Whenever you rest or are subject to healing, you can roll twice and take the higher result of any roll to grant you hit points. If this dice has a special effect on a certain result (such as of the holy priest and paladins‘ Light‘s Insight ability), you may either choose to roll the healing twice or roll maximized dice, not both.
+You can also regrow a lost limb after a week of losing them, unless the limb was lost through your own will or through magic, so long as you have adequate rest and satiation.<br>
+***Keen Nose.*** You have advantage on all Spirit (Perception) tests related to smell.<br>
+***Troll Combat Training.*** You have proficiency with the battleaxe, handaxe, and all weapons that have the thrown or ammunition properties, except firearms (unless proficient otherwise).<br>
+***Languages.*** You can speak, read, and write Common and Troll.<br><br>
+***Male Names.*** Drak, Gul, Zol, Vol, Ros, Mig, Gal, Doth, Mag, Ran, Vis.<br>
+***Female Names***. Moor, Mesk, Dan, Mel, Shi, Mith, Hai, So, Lith, Arn, Din, Mak.<br>
+***Family Names.*** Trolls usually employ titles rather than family names, but commonly take their tribe name as a family name.
+
+### Subrace
+Ancient divides among the troll-folk resulted in two main subraces: forest trolls, and ice trolls. Choose one of these subraces.
+
+\pagebreakNum
+
+<img src='https://cdna.artstation.com/p/assets/images/images/033/270/400/large/anthony-avon-troll-hunter-small.jpg?1609007249' style='position:absolute; top:-50px; right:-50px; width:500px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:-35px; left:-40px; width:100%; height:60%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:230px; right:0px; width:890px;' />
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/005/108/219/large/dongming-yang-6.jpg?1488509523' style='position:absolute; bottom:-50px; left:0px; width:400px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:-35px; right:-40px; width:100%; height:610px; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; bottom:410px; left:0px; width:50%; transform:scaleY(-1);' />
+
+
+### Amani (Forest Troll)
+
+Coming Soon
+
+\columnbreak
+
+<div style="margin-top:550px;"></div>
+
+### Darkspear (Jungle Troll)
+*“What‟cha want me do?”*<br><br>
+As a jungle troll, you belong to the Darkspear tribe, the Zandalari, or their associates (such as most trolls who inhabit the isles of the Great Sea).
+
+#### Affiliation
+***Horde or Independent.*** Darkspear jungle trolls are steadfastly loyal to the orcs. Though they practice voodoo and many retain their savage natures, Thrall lets them live in his borders and generally do what they want. They feel a great debt to the orcs, and their time fighting alongside the tauren has made them friends of these creatures as well. They are suspicious of the Forsaken, but so is everyone else.
+
+#### Darkspear Traits
+
+***Ability Score Increase.*** Your Agility score increases by 1.<br>
+***Dark Promise.*** Jungle trolls have innate aptitudes that usually only show when they develop. Choose one of the below abilities:
+* You have proficiency with Alchemist‘s Supplies and the Alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you later gain Alchemy, you gain expertise in the skill instead.
+* You gain proficiency with the Charisma (Intimidation) and Agility (Stealth) skills.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e030b36e-d8f1-46fb-b6e1-eae282bea4b6/d8kqjp0-ea271774-9db6-41a8-bb76-5c1cf3922fab.jpg/v1/fill/w_600,h_862,q_75,strp/kih_by_denahelmi_d8kqjp0-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODYyIiwicGF0aCI6IlwvZlwvZTAzMGIzNmUtZDhmMS00NmZiLWI2ZTEtZWFlMjgyYmVhNGI2XC9kOGtxanAwLWVhMjcxNzc0LTlkYjYtNDFhOC1iYjc2LTVjMWNmMzkyMmZhYi5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Yun9Q8S5N-zLC288FabFmEitVYi_YbUKHgAHSOn-tOs' style='position:absolute; top:-50px; right:-50px; width:450px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:-35px; left:-40px; width:100%; height:60%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:230px; right:0px; width:890px;' />
+
+<img src='https://cdna.artstation.com/p/assets/images/images/015/693/280/large/annika-maar-talanji2small.jpg?1549287541' style='position:absolute; bottom:-70px; left:0px; width:450px;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:-35px; right:-40px; width:100%; height:610px; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; bottom:410px; left:0px; width:50%; transform:scaleY(-1);' />
+
+### Drakkari - Ice Troll
+*“You got it... heh heh eh...”*
+<br><br>
+As an ice troll, you belong to the tribes in Northrend or high mountains in Azeroth (such as Khaz Modan), commonly the Drakkari or Frostmane tribe, respectively. Ice trolls average one foot taller than other trolls.
+
+#### Affiliation
+***Independent.*** Ice trolls are steadfastly loyal to themselves above all others, and typically show loyalty to their tribes and kings, although they often also see the uses of allying with the Horde (especially those who might share their ancestral hate to the Alliance‘s dwarves, elves, and humans).
+
+#### Drakkari Traits
+***Ability Score Increase.*** Your Stamina and Strength scores increases by 1.<br>
+***Hostile Homeland.*** You gain resistance to cold damage.<br>
+
+\columnbreak
+
+<div style="margin-top:550px;"></div>
+
+### Farraki (Sand Troll)
+*“Feel the fury of the sands!”*<br>
+-- Chief Ukorz Sandscalp
+<br><br>
+As a sand troll, you belong to the Sandfury (Farraki) or Sandscalp tribes. Sand trolls average one foot shorter than other trolls.
+
+#### Affiliation
+***Independent.*** Sand trolls are loyal to their clans, and resist intruders by conducting hit-and-run raids from the depths of the desert while astride swift raptors. Some sand trolls have chosen to ally with the Horde, usually after extended interaction with goblin holds at the shores of Tanaris.
+
+#### Farraki Traits
+
+***Ability Score Increase.*** Your Agility and Stamina scores increase by 1.<br>
+***Hostile Homeland.*** You gain resistance to fire damage.<br>
 
 \pagebreakNum
