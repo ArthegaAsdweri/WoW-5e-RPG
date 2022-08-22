@@ -1290,7 +1290,7 @@ Ancient divides among the troll-folk resulted in two main subraces: forest troll
 
 ### Amani (Forest Troll)
 
-Coming Soon
+TODO: Coming Soon
 
 \columnbreak
 
@@ -1353,5 +1353,46 @@ As a sand troll, you belong to the Sandfury (Farraki) or Sandscalp tribes. Sand 
 
 ***Ability Score Increase.*** Your Agility and Stamina scores increase by 1.<br>
 ***Hostile Homeland.*** You gain resistance to fire damage.<br>
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceb9e091-7c46-41e1-a84e-a636e9e7b50d/d9asm9d-a99377e7-0959-44fe-b008-a011cb805d12.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlYjllMDkxLTdjNDYtNDFlMS1hODRlLWE2MzZlOWU3YjUwZFwvZDlhc205ZC1hOTkzNzdlNy0wOTU5LTQ0ZmUtYjAwOC1hMDExY2I4MDVkMTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W1-KuWk5XPqJUDMYc5YiV8ijbXIE6nthkvdKTt3OT-8' style='position:absolute; top:-0px; left:0; width:1100px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<img src='https://www.hahn-webdesign.de/wow5e/worgen-front.webp' style='position:absolute; top:80px; right:0px; width:450px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:430px; left:0; width:100%;' />
+
+<div class="copyright">
+https://www.deviantart.com/brevis--art/art/WoW-Krognart-821975270
+</div>
+
+<div style="margin-top:457px;"></div>
+
+
+## Worgen
+*“Get gabbin‟ or get going.”*<br><br>
+The worgen's first verified appearance in the Eastern Kingdoms has been traced back to the Third War, when the archmage Arugal utilized the wolf-beasts as a weapon against the Scourge. Arugal's weapons soon turned against him, however, as the curse of the worgen rapidly spread among the human population, transforming ordinary men and women into ravenous, feral creatures. Arugal adopted many of the worgen as his own and retreated to the former mansion of Baron Silverlaine, the estate now known as Shadowfang Keep. The curse, however, was not contained. It persisted in the lands of Silverpine and extended even into the walled nation of Gilneas, where the curse rapidly reached pandemic levels.
+
+The citizens of the human nation of Gilneas found themselves trapped, with no hope of escape. They retreated deeper within the isolated domain, and there they survived, fearful of the savage presence that lurked just outside the barricades. Tensions among the displaced citizens escalated over time, resulting in a civil war that now threatens to destabilize the embattled nation even more.
+Records indicate that the worgen, a race of lupine humanoids, existed for a time in Kalimdor. Other evidence also suggested that the Worgen were from a different world that came through portals by Archmage Arugal. More recent evidence suggested that their true origin might have a connection to the night elves and a secretive druidic order from Kalimdor's distant past.
+
+It was the night elves who (by happenstance) created the curse in the first place. Obligated to help their newfound allies, they re-introduced them to the Alliance.
+
+\columnbreak
+
+<div style="margin-top:725px;"></div>
+
+There are those among the Gilneans, however, who cling to hope. Many believe that a cure for the worgen curse may exist, although others have nearly given up, fearful that if they should lose hope, their humanity will be lost forever.
+
+### Affiliation
+Independent or Alliance. The Worgen of Gilneas re-joined their brethren of the Alliance once the Worgen Curse spread through their people, but in most cases, Worgen prefer to cater to their own hungers and ambitions.
+
+### Worgen Traits
+***Ability Score Increase.*** Your Agility score increases by 2 and your Strength score increases by 1.<br>
+***Age.*** As humans.<br>
+***Size.*** Worgens are about the same size as humans when in humanoid and Worgen form. Your size is Medium.<br>
+***Speed.*** Your base walking speed is 30 feet.
 
 \pagebreakNum
