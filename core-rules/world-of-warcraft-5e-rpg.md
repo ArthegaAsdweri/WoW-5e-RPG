@@ -1944,3 +1944,667 @@ Upon reaching 16th level, you can augment up to three potions at any given time.
 * Your potion has a 25% chance to enhance the imbiber with increased lifeforce. If the target is reduced to 0 hit points or dies within 4 hours of imbibing the potion, they are affected with the revivify spell. The potion must replicate a spell level of 6 or higher to gain this augmentation.
 
 \pagebreakNum
+
+<img src='https://cdna.artstation.com/p/assets/images/images/030/626/108/large/eduardo-acevedo-dearhknightfinalfinal.jpg?1601171332' style='position:absolute; top:-150px; right:-0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:490px;"></div>
+
+## Death Knight (DKN)
+*Clad in armor streaked with warm blood, the human‘s eyes
+glow in a cold blue light as he swings his greatsword with
+precise fury, keep foes occupied with him. As he does so, his
+allies around him watch as his wounds seem to heal by
+vampiric-like magic even as the enemy falls.*
+<br><br>
+*Standing tall against the oncoming horde, a blood elf
+embraces the frozen resolve within to shrug off her enemies‘
+attacks. Imbuing her twin shortswords with the power of the
+frozen north, her attacks break through their armor with
+reckless abandon, sending icy bits of armor, bone, and flesh flying.*
+<br><br>
+*A dwarf gazes over the battlefield alone, remembering a past life when he commanded legions of
+his brethren to defend their homelands. No longer the same dwarf, he raises his hand, binding the
+corpses to undeath, once more in the position of command, old loyalties broken in death.*
+
+Years after the destruction of Draenor, the immensely powerful Lich King created a new breed of
+death knights: malevolent, rune-wielding warriors of the Scourge. The first and greatest of these was
+the Lich King's chosen champion, Prince Arthas Menethil. Once a mighty paladin of the Silver
+Hand, the prince sacrificed his soul to claim the runeblade Frostmourne in a desperate bid to save
+his people, and having his soul bound for eternal servitude under the Lich King. The rest are
+primarily made up of other fallen paladins whose souls were twisted and bound to the will of the
+Frozen Throne.
+
+Like Gul'dan's death knights, these dark champions possess unholy strength; they, however, do not
+possess free will and their minds are inexorably entwined with and 
+
+\columnbreak
+
+<div style="margin-top:490px;"></div>
+
+dominated by the Lich King's vast consciousness.
+
+Despite the potential loss of free will, some powerful mortals are intrigued by
+the promise of immortality and pledge their souls freely into the Lich King's service to achieve it.
+
+In the years since Arthas shattered the Frozen Throne and merged with the Lich King, the power
+and fury of the death knights has only grown. Now these unrelenting crusaders of the damned
+eagerly await the Lich King's command to unleash their fury on Azeroth once again.
+
+Unlike death knights of the Old Horde, the Scourge's death knights are not limited to their use of
+ranged spell casting abilities. In addition, these tireless death knights are considerably stronger,
+faster, and more agile than they were in life. However, both generations are equally destructive and
+terrifying to engage in the field of battle.
+
+### Fallen Protectors
+Most death knights were once virtuous defenders of humanity and truth as paladins. However,
+once the paladin ranks were disbanded by the failing Alliance, many of these holy warriors traveled
+to the quarantined lands to ease the suffering of those left within the plague-ridden colonies.
+
+Though the paladins were resistant to disease, they were persecuted by the general populace who
+believed that they had been infected by the foul plague. A small band of paladins, embittered by
+society's cruelty, traveled north to find the plague's source. These renegade knights succumbed to
+bitter hatred over the course of their grueling quest.
+
+When they finally reached Ner'zhul's icy fortress in Northrend they had become dark and
+brooding. The Lich King offered them untold power in exchange for their services and loyalty. The
+weary, vengeful warriors accepted his dark pact, 
+and although they retained their humanity, their
+twisted souls were bound to his evil
+ will for all time. 
+
+\pagebreakNum
+
+Bestowed with black, vampiric Runeblades and
+shadowy steeds, death knights serve as the Scourge's mightiest generals.
+
+### Release from Service
+When the Lich King's control of his death knights was broken, his former champions sought
+revenge for the horrors committed under his command. After their vengeance was won, the death
+knights found themselves without a cause and without a home. One by one they trickled into the
+land of the living in search of a new purpose.
+
+The Knights of the Ebon Blade is a faction consisting of the renegade death knights that broke free
+of the Lich King's control after the battle of Light's Hope Chapel. Led by Highlord Darion
+Mograine, the Knights of the Ebon Blade have allied themselves with the Alliance and the Horde
+with the help of Highlord Tirion Fordring of the Knights of the Silver Hand, and have pledged to
+do their part in defeating their former master, the Lich King. Their main base is Acherus: The
+Ebon Hold, taken from the Scourge after breaking free.
+
+### Creating a Death Knight
+When creating your Death Knight, consider your relationship with the person or being that
+resurrected you. Do you know who it was, or why they brought you back from death? Do you feel
+indebted to them for giving you a second chance at life, or are you angry that they took you away
+from your eternal rest?
+
+Death knights often have terrible stories to tell that ended with their deaths. Consider your story
+before your death—if you were once a paladin, consider the oath you took. Do you remember it? Do
+you choose to follow those tenets again, or forsake your paladin teachings and follow a new path? If
+you were a noble or important member of your society, how do you cope with their expectations
+and your role? What evils have you committed under the Lich King‘s dominion? Have you
+committed crimes that you secretly approve of, such as the murder of a noble who let you down in
+your old life, or lethally ending rivalries in life? Have you been commanded to use your power to
+raise the dead, and have you had a choice in raising anyone you once knew?
+
+Also, consider if and how you will attempt to reintegrate with society; most citizens of Azeroth fear
+and suspect the intentions of death knights, and might try to sabotage their acceptance. Have you
+wronged anyone who might oppose your reentry into society? Will you accept being separate from
+all factions, and choose to take up quests with only like-minded individuals?
+
+#### Quick Build
+You can make a death knight quickly by following these suggestions. First, Strength should be your
+highest ability score, followed by Charisma. Second, choose the noble or criminal background
+
+### Class Features
+As a death knight, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per death knight level
+- **Hit Points at 1st Level:** at 1st Level 10 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Stamina modifier per death knight level after 1st
+
+#### Proficiencies
+___
+- **Armor:** All armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+
+___
+- **Saving Throws:** Strength, Spirit
+- **Skills:** Choose four from Athletics, Insight, Intimidation, Medicine, Deception, and Religion.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a martial weapon and a shield or *(b)* two martial weapons
+- *(a)* five javelins or *(b)* any simple melee weapon
+- *(a)* a priest‘s pack or *(b)* an explorer‘s pack
+- Chain mail and an unholy symbol
+
+### Special
+
+#### Corruption
+Upon gaining a level in this class, you may permanently pledge your soul as well, turning yourself
+into an undead creature (permanently gaining the below Undead Nature ability, and counting as
+the undead creature type).
+
+#### Undead Nature
+You don‘t require air, food, drink, or sleep. You are also immune to nonmagical
+poisons and diseases, and have advantage to effects that cause the exhausted and poisoned
+conditions.
+
+Also, an uncorrupted draenei who takes on the mantle of death knight may alter their Gift of the
+Naaru ability, casting the Death Hex spell instead, as the draenei takes a unique shadow-fel shade of
+their Eredar heritage in exchange of the holy powers of the Naaru. This extremely uncommon
+sacrifice also takes its toll on the draenei‘s body, slowly morphing their appearance through
+extended exposure to fel magic to be more like the Eredar, but turning their skin sickly pale blue
+instead of red.
+
+
+#### Rune Spells
+Death Knights are the only class that can access the rune array spell, and can prepare different runes
+for strike effects. Runes are magical enhancements that can enhance a death knight‘s weapon
+attacks, and can be released in coordination with the Runic Strike ability to cause a devastating
+strike.
+
+#### Rune-Bound
+Upon gaining a level in this class, you can turn one (of both, if using two weapons to fight) of your
+weapons into Runeblades, a weapon infused with the might of the Lich King and his blessing.
+Runeblades have three benefits:
+* They serve as spellbooks and store spells (as described under Spellcasting).
+* You gain advantage to saving throws against any effect that controls your character or alters
+their alignment against the Lich King‘s will while using them.
+* The blade serves as an unholy symbol.
+* The runeblade is a greater attunement weapon (see Chapter 5: Equipment).
+You cannot have multiple Runeblades (beyond the one you choose or two you fight with). If lost,
+the blade usually finds its way back to you (or you to it) due to the bond you share. 
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfbf532e-ac46-41ef-9c12-6e1afb6fea89/danbugw-bdea6d95-c8c3-4583-905d-5e0702e709dc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmYmY1MzJlLWFjNDYtNDFlZi05YzEyLTZlMWFmYjZmZWE4OVwvZGFuYnVndy1iZGVhNmQ5NS1jOGMzLTQ1ODMtOTA1ZC01ZTA3MDJlNzA5ZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yc8QSKLW3f8oJ7KXFFE22ocokNzmrc8cfGrHoCNkfXc' style='position:absolute; top:-100px; right:-150px; width:200%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:300px; right:0px; width:890px;' />
+
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Caster Level |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Divine Sense, Corrupting Touch | - |
+| 2nd | +2 | Fighting Style, Runic Strike, Spellcasting | 1 (1st level)
+| 3rd | +2 | Aura (Abandonment), Dark Path | 2 (1st level)
+| 4th | +2 | Ability Score Improvement | 2 (1st level)
+| 5th | +3 | Extra Attack | 3 (2nd level)
+| 6th | +3 | Cursed Carrier, Aura (Necrotic) | 3 (2nd level)
+| 7th | +3 | Dark Path Feature | 4 (2nd level)
+| 8th | +3 | Ability Score Improvement | 4 (2nd level)
+| 9th | +4 | - | 5 (3rd level)
+| 10th | +4 | Aura (Unholy) | 5 (3rd level)
+| 11th | +4 | Improved Runic Strike | 6 (3rd level)
+| 12th | +4 | Ability Score Improvement | 6 (3rd level)
+| 13th | +5 | - | 7 (4th level)
+| 14th | +5 | Dispelling Touch, Aura (Distracting) | 7 (4th level)
+| 15th | +5 | Dark Path Feature | 8 (4th level)
+| 16th | +5 | Ability Score Improvement | 8 (4th level)
+| 17th | +6 | - | 9 (5th level)
+| 18th | +6 | Aura (Vulnerability), Aura Improvement | 9 (5th level)
+| 19th | +6 | Ability Score Improvement | 10 (5th level)
+| 20th | +6 | Dark Path Feature | 10 (5th level)
+
+</div>
+
+\pagebreakNum
+
+#### Divine Sense
+The presence of strong evil registers on your senses like a soothing darkness, gifting peaceful
+oblivion of death and whispers of powerful forces, and powerful good brings painful brightness,
+shattered memories, and the creeping return of life.
+
+As an action, you can open your awareness to detect such forces. Until the end of your next turn,
+you know the location of any celestial, fiend, or undead within 60 feet of you that is not behind
+total cover.
+
+You know the type (celestial, fiend, or undead) of any being whose presence you sense, but not its
+identity (the lich Kel‘Thuzad, for instance). Within the same radius, you also detect the presence of
+any place or object that has been consecrated or desecrated, as with the hallow spell.
+You can use this feature a number of times equal to 1 + your Charisma modifier.
+
+When you finish a long rest, you regain all expended uses.
+
+#### Corrupting Touch
+Your cursed touch can cause unholy wounds. As an action, you may perform a corrupting touch on
+a target, investing them with damaging energies. For every mana point you spend for Corrupting
+Touch, you heal a number of hit points equal to your proficiency bonus if targeting an undead or
+fiend. Amount you heal is instead treated as shadow damage for living creatures (in which case, this
+requires a melee spell attack). Excess hit points are lost, and you cannot heal or deal more damage
+than a value equal to your maximum hit points. When performing Corrupting Touch on yourself,
+this is instead a bonus action, and you are always healed by this ability, regardless of your creature
+type.
+
+Alternatively, you can expend the mana to inflict one disease or one poison of your choice. Each
+disease or poison requires spending mana points equal to one-quarter the saving throw DC of the
+poison or disease. You may inflict multiple diseases or poisons this way. You can choose be a carrier
+to up to three separate poisons or diseases on your person. You need previous exposure to a poison
+or disease to be a carrier.
+
+This feature has no effect on constructs.
+
+#### Spellcasting
+By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast
+spells as a paladin does.
+
+##### Conjuring and Binding
+A death knight can conjure and bind aberrations, fiends, and undead.
+
+##### Preparing and Casting Spells
+Each death knight level provides you with 0.5 caster levels in the death knight class (minimum 0).
+
+You follow the normal progression to unlock spell levels (see the table under the Mana section).
+
+You can change your list of prepared spells by consulting your runeblade‘s runes (treat as a
+spellbook), which takes 1 minute per spell level to alter the readied spell.
+
+You prepare the list of death knight spells that are available for you to cast, choosing from the
+death knight spell list.
+
+You can also change your list of prepared spells when you finish a long rest by training and
+studying your Runeblade (treat as a spellbook). Preparing a new list of death knight spells requires
+time spent in prayer and re-attuning to the
+
+\columnbreak
+
+spell-runes: at least 1 minute per spell level for each spell
+on your list.
+
+##### Spellcasting Ability
+Charisma is your spellcasting ability for your death knight spells, since their power derives from the
+strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting
+ability. In addition, you use your Charisma modifier when setting the saving throw DC for a death
+knight spell you cast and when making an attack roll with one.
+<br><br>
+**Spell save DC** = 8 + your proficiency bonus +
+
+your Charisma modifier
+<br>
+**Spell attack modifier** = your proficiency bonus +
+
+your Charisma modifier
+
+##### Spellbook – Runeblade
+At 2nd level, your runeblade contains three 1st-level death knight spells of your choice. When you
+level up, you gain 2 additional death knight spells of your choice. You may also acquire new spells
+by research, tutelage, or from the spellbooks and scrolls of spellcasters who have spells you can cast.
+
+Your runeblade is effectively your spellbook, and you may add spells by scribing with runic inks.
+
+You can choose to store your death knight spells in a spellbook instead or as runes on any other
+surface as well.
+
+##### Spellcasting Focus
+You can use an unholy symbol as a spellcasting focus for your death knight spells, or you can treat
+your runeblade as your focus.
+
+#### Fighting Style
+At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options.
+
+You can‘t take a Fighting Style option more than once, even if you later get to choose again.
+
+* **Defense** While you are wearing armor, you gain a +1 bonus to AC.
+* **Dueling** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to
+damage rolls with that weapon.
+* **Great Weapon Fighting** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are
+wielding with two hands, you can reroll the die and must use the new roll. The weapon must have
+the two-handed or versatile property for you to gain this benefit.
+* **Two-Weapon Fighting**
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the
+second attack.
+
+#### Runic Strike
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend mana
+equal to one death knight spell to deal shadow damage to the target, in addition to the weapon‘s
+damage.
+
+The extra damage is 2d8 for a 1st-level spell, plus 1d8 for each spell level higher than 1st, to a
+maximum of 5d8. The damage increases by 1d8 if the target is a celestial or a follower of the Holy
+Light (or if not a follower, one who merely uses it).
+
+If you have a rune active, you may also perform a Runic Strike without expending mana (called Runic Release),
+
+\pagebreakNum
+
+terminating the effects of the rune (plus an additional effect depending on the
+seal). Despite the name, Runic Strike does not count as a Strike effect.
+
+#### Death Knight Aura
+Starting at 3rd level, your mastery over aura spells begins to manifest. You always have the following
+aura spells prepared.
+* At 3rd level, you always have the abandonment aura spell prepared.
+* At 6th level, you always have the necrotic aura spell prepared.
+* At 10th level, you always have the unholy aura spell prepared.
+* At 14th level, you always have the distraction aura spell prepared.
+* At 18th level, you always have the vulnerability aura spell prepared.
+Furthermore, you may cast each of the above aura spells for no cost once upon reaching the
+described level. You regain all expended uses after a short rest. You may expend a free aura use to
+cancel one successful turn undead attempt that affected your undead allies.
+
+#### Dark Path
+When you reach 3rd level, you walk a path that defines you as a death knight forever. Up to this
+time you have been in a preparatory stage, committed to the path but not yet sworn to it. Now you
+choose the Path of Blood for vengeance, Path of Frost for cold disregard for life, or Path of the
+Unholy to defy the heavens, all detailed at the end of the class description.
+
+Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features
+include path spells and the Channel Divinity feature.
+
+##### Path Spells
+Each path has a list of associated spells. You gain access to these spells at the levels specified in the
+path description. Once you gain access to a path spell, you always have it prepared. Path spells
+don‘t count against the number of spells you can prepare each day.
+
+If you gain a path spell that doesn‘t appear on the death knight spell list, the spell is nonetheless a
+death knight spell for you.
+
+##### Channel Divinity
+Your path allows you to channel divine energy to fuel magical effects. Each Channel Divinity
+option provided by your path explains how to use it. When you use your Channel Divinity, you
+choose which option to use. You must then finish a short or long rest to use your Channel Divinity
+again. Some Channel Divinity effects require saving throws. When you use such an effect from this
+class, the DC equals your death knight spell save DC.
+
+By default, you may always Turn Good, and gain an additional choice from your Path.
+
+##### Channel Divinity: Turn Good
+As an action, you present your unholy symbol and speak a prayer censuring humanoids, celestials,
+and beasts, using your Channel Divinity. Each humanoid, celestial or beast that can see or hear you
+within 30 feet of you must make a Spirit saving throw.
+
+If the creature fails its saving throw, it is turned for 1 minute or until it takes damage. A turned
+creature must spend its turns trying to move as far away from you as it can, and it can‘t willingly
+move to a space within 30 feet of you. It also can‘t take reactions. For its action, it can use only the
+Dash action or try to escape from an effect that prevents it from moving. If there‘s nowhere to
+move, the creature can use the Dodge action.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you
+can‘t increase an ability score above 20 using this feature.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action
+on your turn.
+
+#### Cursed Carrier
+Starting at 6th level, you can carry diseases in your body, and spread them by touch (if contact),
+scratch (if injury), breath (if inhaled), or spit (if ingested). You can carry up to three diseases of your
+choice with this ability, above the normal three added by Corrupting Touch.
+
+#### Improved Runic Strike
+By 11th level, you are so suffused with the might of the Lich King that all your melee weapon
+strikes carry his unholy power with them. Whenever you hit a creature with a melee weapon, the
+creature takes an extra 1d8 shadow damage. If you also use your Runic Strike with an attack, you
+add this damage to the extra damage of your Runic Strike.
+
+#### Dispelling Touch
+Beginning at 14th level, you can use your action to end one spell on yourself or on one willing
+creature that you touch. You can use this feature a number of times equal to your Charisma
+modifier (a minimum of once). You regain expended uses when you finish a long rest.
+
+#### Aura Improvement
+Also starting at 18th level, you can no longer lose concentration on an aura from taking damage,
+and may extend the range of any aura spell by 100%. Any effect that would normally dispel the
+aura instead suppresses it for 1 minute instead.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37c3550a-3d32-4b63-b5f1-38dcd9c76c73/da0zfk3-2e9fc56c-6faa-4eaa-bb10-c87747bb8387.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3YzM1NTBhLTNkMzItNGI2My1iNWYxLTM4ZGNkOWM3NmM3M1wvZGEwemZrMy0yZTlmYzU2Yy02ZmFhLTRlYWEtYmIxMC1jODc3NDdiYjgzODcuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nlrqiaF5gmTHFWnzk1-nI4R8fHnRmf_O30zKrkLNwCI' style='position:absolute; top:-50px; right:-0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:490px;"></div>
+
+### Path of Blood
+You are a dark guardian who manipulates and corrupts life energy to sustain themselves in the face
+of the enemy‘s onslaught. Blood death knights invoke ancient legends of blood-drinking beings
+who are immortal on the battlefield.
+<br><br>
+<div class='classTable'>
+
+#### Path of Blood Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Death coil, charm undead |
+| 5th | Essence seal, earth shield (bone shield) |
+| 9th | Bind undead (3rd level), bestow curse |
+| 13th | Confusion, rune array (worm) |
+| 17th | Antilife shell, death and decay |
+
+</div>
+
+#### Channel Divinity: Blood Ward
+You can spend a Channel Divinity use as a reaction to enhance
+any aura you have to resist hostile magic. Choose one school of magic. You can grant yourself and
+everyone within range of any aura you have advantage on saving throws versus any magical effect
+from that school 1 minute.
+
+#### Blood Strike [Strike]
+Beginning when you choose this archetype at 3rd level, whenever you hit a
+living creature with a melee weapon attack, you can spend one of your hit dice to regain health.
+
+\columnbreak
+
+<div style="margin-top:510px;"></div>
+
+#### Blood Tap
+Starting at 7th level, whenever you use Death Pact to restore mana, the mana restored
+is increased by 50% (or 3 mana points per spell level).
+
+#### Will of the Necropolis
+Starting at 15th level, whenever you are bloodied, you may cast the death
+coil spell as a bonus action instead of an action. This feature can be used once per instance of you
+suffering the condition, or twice per instance if you are under the effects of the avatar form death
+knight spell.
+
+#### Life Stealer
+Starting at 20th level, whenever you are dropped to 0 hit points, you may use your
+death pact spell on any dying creature as well as undead and fiends as a reaction.
+
+You may also instead tear the life from living targets within 30 ft. as a reaction, stealing a number
+of hit points equal to ¼ their current hit points, and restoring your hit points by the same amount.
+
+The target may resist with Stamina saving throw against your Spell Save DC. This may be used once
+per Charisma modifier (minimum 1) before requiring a long rest. 
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9bc57284-6caf-4c30-ae5b-dcc05f974273/d21vlv7-44be8e64-e231-44dd-9f24-9a1a52fdcf3a.jpg/v1/fill/w_1280,h_849,q_75,strp/warcraft_lich_king_cover_by_tonywashingtonart_d21vlv7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzliYzU3Mjg0LTZjYWYtNGMzMC1hZTViLWRjYzA1Zjk3NDI3M1wvZDIxdmx2Ny00NGJlOGU2NC1lMjMxLTQ0ZGQtOWYyNC05YTFhNTJmZGNmM2EuanBnIiwiaGVpZ2h0IjoiPD04NDkiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC85YmM1NzI4NC02Y2FmLTRjMzAtYWU1Yi1kY2MwNWY5NzQyNzNcL3Rvbnl3YXNoaW5ndG9uYXJ0LTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.BbvTFitXIi7RWimIbeck5Mzl-y-BOVXEgkXxZl9NFe4' style='position:absolute; top:-50px; right:-0; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:480px;"></div>
+
+### Path of Frost
+You are a harbinger of doom, channeling runic power and delivering freezing weapon strikes. Frost
+death knights are terrors of the frozen wastes.
+<br><br>
+<div class='classTable'>
+
+#### Path of Frost Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Icy touch, rune array (frozen wastes) |
+| 5th | Hold, consecration/desecration |
+| 9th | Blizzard, curse of the elements |
+| 13th | Blight, ice storm |
+| 17th | Cone of cold (howling blast), cripple |
+
+</div>
+
+#### Channel Divinity: Freeze
+You can spend a Channel Divinity use as an action to cause enemies
+within a 20-foot radius to be wracked with unbearable pain as you freeze their blood. The targets
+must succeed a Charisma save or suffer Disadvantage to all attack rolls and skill checks, and move
+at half movement while in the affected area. This lasts for a number of rounds equal to your Death
+Knight level. A creature can repeat the saving throw at the end of its turn every round.
+
+#### Frost Presence
+Starting when you gain this archetype at 3rd level, whenever you deal cold damage
+through a death knight spell or ability, you deal extra cold damage equal to your proficiency bonus,
+
+\columnbreak
+
+<div style="margin-top:490px;"></div>
+
+applying once per round. You also gain resistance to cold damage.
+
+#### Might of the Wastes [Strike]
+Starting at 7th level, your frost-sharpened weapons deals a critical hit
+on a roll of 19 or 20 as a strike effect. You also deal an additional 1d4 points of cold damage
+whenever you strike an enemy with this. You may also add the extra damage from your Frost
+Presence ability to this. Despite being a strike effect, you can make an off-hand attack with a Bonus
+Action and still maintain this strike effect.
+
+#### Frozen Soul
+Starting at 15th level, whenever you reduce a creature to 0 hit points from a cold
+spell, or if they under the effects of your Freeze channel divinity, your next Runic Strike within 1
+hour has no mana cost. You may also choose to deal half of your Runic Strike‘s extra damage as
+cold damage. If you choose to do so, you may add half the bonus to damage from your Frost
+Presence ability. If you are under the effects of the avatar form death knight spell, your next two
+Runic Strikes within 1 hour have no mana cost.
+
+#### Pillar of Frost
+Starting at 20th level, supernatural ice hangs heavy on your body. This increases
+your strength score by 4 to a max of 24 and your Stamina by 2 to a max of 22.
+
+\pagebreakNum
+
+<img src='https://sv.bagoum.com/getRawImage/0/0/108531030' style='position:absolute; top:-150px; right:-0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:490px;"></div>
+
+### Unholy Path
+You are a pale horseman of death, leading undead troops to battle, fueled with hatred of the living.
+Unholy death knights lead armies of the dead and overwhelm their enemies.
+<br><br>
+<div class='classTable'>
+
+#### Unholy Path Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Death coil, charm undead |
+| 5th | Essence seal, earth shield (bone shield) |
+| 9th | Blizzard, curse of the elements |
+| 13th | Blight, ice storm |
+| 17th | Cone of cold (howling blast), cripple |
+
+</div>
+
+#### Channel Divinity: Bolster Undead
+You can use a Channel Divinity use to guard undead against
+being turned, as well as empowering them. All and any undead under your command within 30 ft.
+of you may add your Proficiency bonus to attack rolls, skill checks, and saving throws for one
+minute, and may ignore one Turn Undead attempt. This does not stack with their own proficiency
+bonuses.
+
+You cannot benefit from the numeric bonus, even if you are undead, but can resist one Turn
+
+Undead attempt as normal. This bonus remains for ten minutes.
+
+\columnbreak
+
+<div style="margin-top:500px;"></div>
+
+#### Undead Companion
+At 3rd level, you gain a bound companion that accompanies you on your
+adventures and can fight alongside you. The companion must be an undead that is no larger than
+Medium and that has a challenge rating of 1/2 or lower (for example, a lesser ghoul). See Bound
+Companion for more details.
+
+#### Bond
+Due to your bond with the creature, you can add your proficiency bonus to the undead‘s AC,
+attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. This does
+not stack with their own proficiency bonuses.
+
+Its hit point maximum equals its normal maximum or four times your death knight level,
+whichever is higher. The creature benefits from Bolster Undead the same way you do.
+
+#### Leveling up
+Your undead companion improves in CR the higher your level becomes, CR equal to 1 per every 8
+levels of Death Knight (improving to 1 CR at level 4, 2 CR at level 8, and 3 CR at level 16). This
+either takes the form of choosing a higher-level companion, or adding hit dice to the companion
+until its CR increases.
+
+When reaching 8th level, you can choose a Large creature. The companion also gains an Ability
+Score Improvement once you do (this acts as the normal feature).
+
+#### Special
+Bonding with an undead requires spending one hour animating it, and the next hour drawing from
+any superficial memories before its death. You can apply the skeletal or zombie monster template to
+any creature that qualifies and 
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05b0e45f-a322-4466-ad5c-50ce84a3f038/dbs3zrq-77049858-588a-471d-9ac7-32da0f2c81d4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1YjBlNDVmLWEzMjItNDQ2Ni1hZDVjLTUwY2U4NGEzZjAzOFwvZGJzM3pycS03NzA0OTg1OC01ODhhLTQ3MWQtOWFjNy0zMmRhMGYyYzgxZDQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IvjWZXj_YNddDioOXxqr-c9cAKmMhq070vPGunqGJKs' style='position:absolute; bottom:0; right:-300px; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; left:-50px; width:100%; height:100%;' />
+
+can be subject to animation by casting the bind spell on them.
+
+
+You may also raise your enemies to serve as undead companions, so long as their CR are within the
+described guidelines (treat 1 level as 1 CR).
+
+#### Grave March
+At 7th level, your auras increase in strength. You may maintain two aura spells at
+once as if they were one spell. Furthermore, your allies can also benefit from two auras at a time, so
+long as one of these spells is the Unholy Aura spell. The maximum duration of your unholy aura
+spell is 4 hours instead of 1.
+
+Also, whenever in a forced march, all creatures under your unholy aura spell have advantage to
+saving throws to continue a march without suffering exhaustion, and can move at a fast pace
+without incurring a penalty to their Passive Spirit (Perception) score.
+
+#### Army of the Dead
+Starting at 15th level, your conjure undead (animate undead) spells are inherently
+stronger than others. You may cast the conjure undead spell as an action instead of 1 minute when
+conjuring undead. Once this feature is used, it cannot be used again until after a short rest.
+
+If you cast the spell with its full casting time, a number of zombies arise to fight for you and protect
+you while you focus on casting the spell. The number of zombies is equal to 2 per spell level, so far
+as there are sufficient corpses within 30 feet.
+
+These temporary undead followers are friendly to you and your allies, and are controlled as normal
+summons, but do not count against your limit of summoned undead. The DM has the zombies‘
+statistics. Once the spell‘s casting time ends and you successfully cast the conjure undead spell, you
+can use an action to maintain the additional zombies. The additional zombies cannot remain more
+than 10 minutes. If you lose concentration on the spell, you also lose concentration on the
+zombies, and they stop animating.
+
+Furthermore, if you do not have the required number of corpses (the required material focus) for
+animating undead, you use corpses from any place so long as you are within 1 mile of a graveyard,
+mass grave, battlefield, or any location with sufficient number of corpses so long as they are not on
+hallowed ground. The earth must be loose enough for the zombies to dig their way out. The
+temporary undead you create from casting conjure undead require the corpses to be within 30 feet,
+however.
+
+#### Unholy Champion
+Starting at 20th level, you gain the avatar form death knight spell for no cost if
+you didn‘t already have it. Furthermore, you augment the spell in the following ways:
+* You are instantly healed for 3d8 + 10 hit points. The healing increases by 1d8 per spell
+level above 3rd.
+* You become resistant to damage from good aligned targets (or magical weapons) as well as
+to shadow damage.
+* Any undead within any active aura you have regains 2d6 hit points every round. This
+cannot exceed half their total hit points.
+
+\pagebreakNum
