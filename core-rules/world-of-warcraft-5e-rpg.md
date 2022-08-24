@@ -2608,3 +2608,569 @@ to shadow damage.
 cannot exceed half their total hit points.
 
 \pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c75620e2-1a4d-436d-8d02-cf917a2d47c8/dellejy-3b8464df-b19f-46a7-80d2-7e1411d71662.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3NTYyMGUyLTFhNGQtNDM2ZC04ZDAyLWNmOTE3YTJkNDdjOFwvZGVsbGVqeS0zYjg0NjRkZi1iMTlmLTQ2YTctODBkMi03ZTE0MTFkNzE2NjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Iod-JskVxsuH3oxD6D1YmTiKfGDHD-oMo2D292v6EUM' style='position:absolute; top:0px; right:-50px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:160px; right:0px; width:890px;' />
+
+<div style="margin-top:440px;"></div>
+
+## Druid (DRD)
+*The night elf notices a broken blade of familiar design, and
+then a disturbance in the distance. She rises, and runs toward
+the sound, leaping through the forest expertly and silently. As
+she comes to a waterfall, she leaps off the edge of the cliff, a
+wave of purple mist enveloping her, as she shapeshifts into a
+saber cat, prepared for further pursuit.*
+<br><br>
+*An ancient troll stands quietly atop an equally old ziggurat, eyes
+narrowing against the bright red sunrise. In the distance, the
+waves bring the promise of war as ships sail towards his
+homeland. He speaks a prayer to the Loa, before shapeshifting
+into a leathery-winged primordial pterrordax, and rising upon the winds to scout the danger
+approaching his home.*
+<br><br>
+*A worgen stalks the forest, hunting her quarry, smelling blood. She emerges to a worgen stirred
+into a blood-frenzy upon a wounded human, prepared to bite it. She shouts, causing the mindless
+beast to turn to her. She raises her hand, bringing a pillar of moonlight down, searing the worgen‘s
+fur. As the blinding light subsides, an unconscious human lies on the grass, curse overwhelmed by
+the moon-goddess‘s holy strength.*
+<br><br>
+Druids are keepers of the world who walk the path of nature, following the wisdom of the Ancients
+and Cenarius, healing and nurturing the world. To druids, nature is a delicate balance of actions in
+which even the smallest imbalance can create storming turmoil from peaceful skies. Druids draw
+their power from this natural energy, using it to change their shapes and command the forces of
+nature. Traditionally, druids chose the path of a specific animal totem. Since the invasion of the
+Burning Legion, however, most druids have undergone a number of reforms, including
+encouraging the study of magic from all totems. Druids who do this are known as druids of the
+wild.
+
+\columnbreak
+
+<div style="margin-top:460px;"></div>
+
+### Balance and Harmony
+Druids harness the vast powers of nature to preserve balance and protect life. With experience,
+druids can unleash nature‘s raw energy against their enemies, raining celestial fury on them from a
+great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.
+
+Druids can also direct this power to heal wounds and restore life to fallen allies. They are deeply in
+tune with the animal spirits of Azeroth. As master shapeshifters, druids can take on the forms of a
+variety of beasts, morphing into a bear, cat, storm crow, or sea lion with ease. This flexibility allows
+them to fill different roles during their adventures, tearing enemies to shreds one minute and
+surveying the battlefield from the sky the next. These keepers of the natural order are among the
+most versatile heroes in Azeroth, and they must be prepared to adjust to new challenges on a
+moment‘s notice.
+
+Cenarius is the patron entity of all druids. However, each group of druids has its own special
+patrons and some even have the ability to transform into a being that looks like their patron. Many
+druids take on an animal companion based on their patron.
+
+### Call of the Wild
+A druid's empathy with the creatures of the wild also allows him to shapeshift into the forms of
+other animals. For example, a wounded druid whose magical energies are running low might
+abruptly take on the form of a bear in order to better withstand further injury. Alternatively, the
+druid might shift into the form of some large cat, sneak up behind an enemy, then pounce and
+deliver a fierce flurry of melee attacks. Even the deepest oceans can be explored by a druid, who can
+simply shift into an aquatic creature, allowing him to stay underwater as long as needed.
+
+\pagebreakNum
+
+Druids come and go as they please, and their goals typically have little to do with the ‗civilized‘
+world. Unaffiliated with any specific government, the primary druidic organization on Azeroth, the
+Cenarion Circle, answers to no one but itself.
+
+The highest rank that a druid can have is that of archdruid, and there are only a few archdruids on
+Azeroth. At the moment the Cenarion Circle's leader is Archdruid Malfurion Stormrage, also
+widely considered to be the first (and greatest) mortal druid on Azeroth.
+
+### Creating a Druid
+When making a druid, consider why your character has such a close bond with nature. Perhaps
+your character lives in a society where druidism still thrives, or was raised by a druid after being
+abandoned in the depths of a forest, or burdened by a terrible curse to which druidism was a cure.
+
+Perhaps your character had a dramatic encounter with the spirits of nature, coming face to face
+with a giant eagle or dire wolf and surviving the experience. Maybe your character was born during
+an epic storm or a volcanic eruption, which was interpreted as a sign that becoming a druid was
+part of your character's destiny.
+
+Have you always been an adventurer as part of your druidic calling, or did you first spend time as a
+caretaker of a sacred grove or spring? Perhaps your homeland was befouled by evil, and you took up
+an adventuring life in hopes of finding a new home or purpose.
+
+Druids harness the vast powers of nature to preserve balance and protect life. With experience,
+druids can unleash nature‘s raw energy against their enemies, raining celestial fury on them from a
+great distance, binding them with enchanted vines, or ensnaring them in unrelenting cyclones.
+
+The druids of Azeroth nearly all belong to the circle of Cenarius. Druids otherwise corrupted still
+belong to the same circle. Azerothian druids are more limited in the shapes they may choose when
+transforming, but they gain an additional ability to empower said form.
+
+#### Quick Build
+You can make a druid quickly by following these suggestions. First, Spirit should be your highest
+ability score, followed by Stamina. Second, choose the hermit background. Third, choose the gust,
+thorn whip, and wrath cantrips, along with the following 1st-level spells for your idol: primal roar
+(abandonment aura), charm (beast), conjure (beast), entangling roots, faerie fire, and rejuvenation.
+
+### Class Features
+As a druid, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per druid level
+- **Hit Points at 1st Level:** 8 + your Stamina modifier
+- **Hit Points at Higher Levels:**  1d8 (or 5) + your Stamina modifier per druid level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, sickles, slings, spears
+- **Tools:** Herbalism kit
+
+___
+- **Saving Throws:** Charisma, Stamina
+- **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception,
+Religion, and Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a quarterstaff, or *(b)* any simple weapon
+- *(a)* five javelins or *(b)* a sling and 10 bullets
+- Leather armor, an explorer‘s pack, and a druidic focus (idol)
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4ef1aed0-8094-43e8-b823-adfd4d8b77f9/dcgwcsq-c21429bd-76b1-4f5e-8389-5486d0c36cb6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlZjFhZWQwLTgwOTQtNDNlOC1iODIzLWFkZmQ0ZDhiNzdmOVwvZGNnd2NzcS1jMjE0MjliZC03NmIxLTRmNWUtODM4OS01NDg2ZDBjMzZjYjYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZTRwE9wJ7VYcm1JUk2XRTgGNelNKh6NeaeKOGmea7-A' style='position:absolute; top:-100px; right:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:300px; right:0px; width:890px;' />
+
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Caster Level |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Druidic, Spellcasting | 1 (1st)
+| 2nd | +2 | Wild shape, Druidic Circle, Ancient Power | 2 (1st)
+| 3rd | +2 | - | 3 (2nd)
+| 4th | +2 | Ability Score Improvement, Wild Shape Improvement (Water) | 4 (2nd)
+| 5th | +3 | - | 5 (3rd)
+| 6th | +3 | Druid Circle Feature | 6 (3rd)
+| 7th | +3 | - | 7 (4th)
+| 8th | +3 | Ability Score Improvement, Wild Shape Improvement (Air) | 8 (4th)
+| 9th | +4 | - | 9 (5th)
+| 10th | +4 | Druid Circle Feature | 10 (5th)
+| 11th | +4 | - | 11 (6th)
+| 12th | +4 | Ability Score Improvement, Wild Shape Improvement (Plant) | 12 (6th)
+| 13th | +5 | - | 13 (7th)
+| 14th | +5 | Druid Circle Feature | 14 (7th)
+| 15th | +5 | - | 15 (8th)
+| 16th | +5 | Ability Score Improvement | 16 (8th)
+| 17th | +6 | - | 17 (9th)
+| 18th | +6 | Timeless, Beast Spells | 18 (9th)
+| 19th | +6 | Ability Score Improvement | 19 (9th)
+| 20th | +6 | Archdruid | 20 (9th)
+
+</div>
+
+\pagebreakNum
+
+#### Druidic
+You know druidic, the secret language of druids, fey, and spirits of the wild. You can speak the
+language and use it to leave hidden messages. You and others who know this language
+automatically spot such a message. Others spot the message‘s presence with a successful DC 15
+Spirit (Perception) check but can‘t decipher it without magic. If you can speak druidic, you can
+communicate one-way with all other druids and fey creatures, even if you don‘t otherwise share a
+language. Natural beasts understand simple commands in druidic.
+
+#### Spellcasting
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to your proficiency bonus.
+
+##### Conjuring and Binding
+A druid can conjure and bind aberrations, beasts, elementals, fey, oozes, and plants.
+
+##### Preparing and Casting Spells
+Each druid level provides you with 1 caster level in the druid class. You follow the normal
+progression to unlock spell levels (see the table under the Mana section).
+
+You prepare the list of druid spells that are available for you to cast, choosing from the druid spell
+list. You can also change your list of prepared spells when you finish a long rest by meditating in
+nature and consulting your druidic idol (treat as a spellbook). Preparing a new list of druid spells
+requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your
+list.
+
+##### Ritual Casting
+You can cast a druid spell as a ritual if that spell has the ritual tag and you have the spell in your
+idol. You don't need to have the spell prepared.
+
+##### Spellcasting Ability
+Spirit is your spellcasting ability for your druid spells, since your magic draws upon your devotion
+and attunement to nature. You use your Spirit whenever a spell refers to your spellcasting ability. In
+addition, you use your Spirit modifier when setting the saving throw DC for a druid spell you cast
+and when making an attack roll with one.
+<br><br>
+**Spell save DC** = 8 + your proficiency bonus +
+
+your Spirit modifier
+<br>
+**Spell attack modifier** = your proficiency bonus +
+
+your Spirit modifier
+
+##### Spellbook – Idol
+At 1st level, your idol contains six 1st-level druid spells of your choice. When you level up, you gain
+2 additional druid spells of your choice. You may also acquire new spells by research, tutelage, or
+from the spellbooks and scrolls of spellcasters who have spells you can cast.
+
+Your idol is effectively your spellbook, and you may add spells by meditating with it and inhaling
+herbal vapors.
+
+##### Spellcasting Focus
+You can use a druidic idol as a spellcasting focus for your druid spells.
+
+#### Druid Circle
+At 2nd level, you choose to identify with a circle of druids: the Circle of the Balance to preserve the
+order of nature, the Circle of the Feral Beast to act within nature‘s order, or the Circle of
+Restoration to keep and preserve living things, all detailed at the end of the class description. Your
+choice grants you features at 2nd level and again at 6th, 10th, and 14th level.
+
+#### Wild Shape
+Starting at 2nd level, you may choose a land-bound beast to morph into as an action. You can use
+this feature twice before requiring a short or long rest. The creature selected can be any beast that
+cannot fly or swim naturally, such as a wolf, lion, bear, tiger, etc. You remain in this form a number
+of hours equal to half your druid level (round down).
+
+You then revert to your normal form unless you expend another use of this feature. You can revert
+to your normal form earlier by using a bonus action on your turn. You automatically revert if you
+fall unconscious (unless if sleeping by your own volition, such as by resting or the slumber spell),
+drop to 0 hit points, or die.
+
+While you are transformed, the following rules apply:
+* Your game statistics are replaced by the statistics of the beast, but you retain your
+alignment, personality, and Intelligence, Spirit, and Charisma scores. You also retain all of your
+skill and saving throw proficiencies, in addition to gaining those of the creature.
+* If the creature has the same proficiency as you and the bonus in its stat block is higher than
+yours, use the creature‘s bonus instead of yours. If the creature has any legendary or lair actions,
+you can't use them.
+* When you transform, you assume the beast‘s hit points and Hit Dice. When you revert to
+your normal form, you retain the percentage of hit points your wild shape form ended with, but
+this cannot reduce your hit points by more than one-quarter your hit point total (for instance, wild
+shaping to a creature at full hit points and ending the spell at 0 hit points reduces your current hit
+points by one-quarter). If the spell ended from your hit points being reduced to 0 or below, you
+revert back automatically, and reduce your current hit points by one-quarter as described.
+* You can‘t cast spells unless those noted by other abilities, and your ability to speak or take
+any action that requires hands is limited to the capabilities of your beast form. Transforming
+doesn‘t break your concentration on a spell you‘ve already cast, however, or prevent you from
+taking actions that are part of a spell (such as call lightning) that you‘ve already cast.
+* You retain the benefit of any features from your class, race, or other source and can use
+them if the new form is physically capable of doing so. However, you can‘t use any of your special
+senses, such as darkvision, unless your new form also has that sense.
+* You choose whether your equipment falls to the ground in your space, merges into your
+new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is
+practical for the new form to wear a piece of equipment, based on the creature‘s shape and size.
+Your equipment doesn‘t change size or shape to match the new form, and any equipment that the
+new form can‘t wear must either fall to the ground or merge with it. Equipment that merges with
+the form has no effect until you leave the form.
+
+\pagebreakNum
+
+Starting at 4th level, you may choose a creature with natural swimming capabilities and underwater
+breathing, such as a sea lion, a seal, a fish, a shark, etc.
+At 8th level, you may choose a creature with natural flying capabilities (such as giant eagles,
+dragonhawks, storm-crows, or vultures) to the list of creatures you can transform to.
+At 12th level, you may take the form of a tree or plant creature, and add minor ancients to the list
+of creatures you can transform to.
+The chosen creature forms are equal to your Spirit modifier from each category (land, water, air,
+and plant), and the suite cannot be changed later except when leveling up (in which case you may
+choose a new suite of creatures for each category). Creatures you may transform to have a
+maximum CR of your hit dice divided by 8 (¼ at level 2, ½ at level 4, 1 at level 8, and 2 at level
+16).
+
+#### Ancient Power
+Starting at 2nd level, you may rapidly recover your mana by invoking ancient powers. You can use
+your action and bonus action on your turn to regain mana as if completed a short rest (or rested for
+one hour).
+
+You can use this feature a number of times equal to half your proficiency bonus. You regain
+expended uses when you finish a long rest. While using this feature, natural energies suffuse you,
+imposing disadvantage on attack rolls made against you, and granting you advantage to saving
+throws until the start of your turn in the next round.
+
+Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
+mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
+mana you regain for the normal rest.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you
+can‘t increase an ability score above 20 using this feature.
+
+#### Timeless
+Starting at 18th level, the primal magic that you wield causes you to age more slowly. For every 10
+actual years you live, your body ages one year only.
+
+#### Beast Spells
+Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild
+Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape,
+but you aren‘t able to provide material components.
+
+#### Archdruid
+At 20th level, you can use your Wild Shape an unlimited number of times. Additionally, you can
+ignore the verbal and somatic components of your druid spells, as well as any material components
+that lack a cost and aren‘t consumed by a spell. You gain this benefit in both your normal shape
+and your various Wild Shapes.
+
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/18973fc0-a4c9-4177-8aa2-76a2b341ee74/dbsbelc-6ea5d41f-5f83-4460-b81b-016e0274133a.png/v1/fill/w_1023,h_573,strp/druid_by_aloija_dbsbelc-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTczIiwicGF0aCI6IlwvZlwvMTg5NzNmYzAtYTRjOS00MTc3LThhYTItNzZhMmIzNDFlZTc0XC9kYnNiZWxjLTZlYTVkNDFmLTVmODMtNDQ2MC1iODFiLTAxNmUwMjc0MTMzYS5wbmciLCJ3aWR0aCI6Ijw9MTAyMyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OsiER-vQPiQwXudOjj3q2VVpm6sTUgO_evqu3KfvNIk' style='position:absolute; top:0px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:10px; right:0px; width:890px;' />
+
+<div style="margin-top:290px;"></div>
+
+### Balance
+You achieve a balance between the powers and influence of the moon and sun. Balance druids
+usually stand in the back lines, invigorating their allies and calling down shooting stars on their
+foes.
+<br><br>
+<div class='classTable'>
+
+#### Balance Circle Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Barkskin, entangling roots |
+| 5th | Call lightning, plant growth |
+| 7th | Divination, freedom of movement |
+| 9th | Commune with nature, tree stride |
+
+</div>
+
+#### Eclipse Pool
+Starting at 2nd level, whenever you successfully deal arcane or holy damage to an
+enemy through a Druidic spell or ability, you gain one Eclipse point. You cannot gain more than
+one per round. This also applies once per spell, not once per target or sigil pulse. Eclipse points are
+used to empower your abilities.
+
+For every Eclipse point you have, you may deal an additional 1 point of arcane or holy damage per
+dice of the spell, if the spells or abilities deals arcane or holy damage. You may have a maximum
+number of eclipse points equal to 2 plus your Proficiency bonus, and they remain for one hour
+after being acquired.
+
+#### Balance of Sun and Moon
+Also starting at 2nd level, you may expend one Eclipse point when
+casting a spell that deals arcane or holy damage to apply one of the following effects:
+* Deal 2d6 extra points of damage of that type atop the normal bonus
+* Cast the wrath cantrip as a bonus action. On a successful hit with the cantrip, you regain
+the Eclipse point.
+
+#### Moonkin
+Starting at 6th level, you may always transform into a wildkin when wild shaping.
+
+\columnbreak
+
+<div style="margin-top:340px;"></div>
+
+Furthermore, when transformed to a wildkin, you may still cast druidic spells of the Transmutation
+and Evocation schools. You can perform the somatic and verbal components of druid spells of the
+Transmutation and Evocation schools while in a beast shape, but you aren‘t able to provide
+material components. Furthermore, you gain three Eclipse points when you enter this form.
+
+When in this form or while under the effects of the avatar form spell, such spells cost 1 mana less
+than normal. Once you gain the Beast Spells druid feature of 18th level, you can cast spells as
+normal, but you still benefit from the mana cost reduction for those specific spell schools.
+
+Shooting Star. Starting at 10th level, you may reroll the damage roll for any druid spell you cast by
+expending an Eclipse Point. If the dice‘s roll is the maximum possible result (6 on d6, 4 on d4,
+etc.), you may roll again and add that damage to the total.
+
+Also, while under the effects of the avatar form spell, whenever you spend an Eclipse point, roll a
+1d4. On a roll of a 4, it is not spent.
+
+#### World in Balance
+Starting at 14th level, you can command the world to hear your call, and call a
+solar or lunar eclipse (depending on the time). Once this ability is used, it cannot be used again
+until after a long rest.
+
+#### Solar Eclipse (Day only)
+The sun‘s light is covered by a shadow which blankets the earth in a 5-mile
+radius centered on the druid for one hour. The area becomes dim light or normal light (your
+choice), and creatures sensitive to sunlight do not take penalties from sunlight. All your druid spells
+that deal arcane damage do so as if your Eclipse pool was full. You also gain one Eclipse Point per
+minute.
+
+#### Lunar Eclipse (Night only)
+The moon‘s light is bright and cloaked in the shadow which blankets the
+earth in a 5-mile radius centered on the druid for one hour. The area becomes either dim or
+normal light (your choice), and creatures sensitive to moonlight or sunlight take penalties
+(depending on your wish) when in the area. All your druid spells that deal holy damage do so as if
+your Eclipse pool is full. You also gain one Eclipse Point per minute. 
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/003/246/765/large/jason-wang-beastdruidsmall.jpg?1471576377' style='position:absolute; top:-50px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-50px; right:0px; width:1000px; transform:rotate(8deg);' />
+
+<div style="margin-top:250px;"></div>
+
+### Feral
+Your magical talents bring you closer to beasts of the wild, making you prime and paragon above
+them. Feral druids often take up traits of the beasts they shape to.
+
+#### Fortitude of the Wilds
+When you choose this archetype at 2nd level, you gain the ability to use
+Wild Shape on your turn as a bonus action or a reaction, rather than as an action.
+
+Additionally, while you are transformed by Wild Shape, you can use a bonus action to expend one
+spell to regain 1d8 hit points per level of the spell expended.
+
+#### Fury of the Wilds
+Also when gaining this archetype, when determining your maximum allowable
+CR to transform to, you divide your level by three, and not eight (round down), referring to the
+below table.
+
+| Druid Level | Maximum CR |
+|:---:|:---:|
+| 2 | 1/2
+| 4 | 1
+| 6 | 2
+| 9 | 3
+| 12 | 4
+| 15 | 5
+| 18 | 6
+
+#### Primal Strike
+Starting at 6th level, your attacks in beast form count as magical for the purpose of
+overcoming resistance and immunity to non-magical attacks and damage. You also gain a +1 bonus
+to your attack and damage rolls.
+
+#### Blessed Beast
+Starting at 10th level, you may gain a special ability when in wild shape. Choose any
+of category of wild shape (land, sea, air, or plant), and you may assign one of the following abilities
+to all creatures in that category when wild shaping into them, but only when in that form. Upon
+reaching 15th level, you may choose another option.
+* Defending beast: Whenever you start your turn while in wild shape, you gain 5 temporary hit points. Furthermore,
+you can, as a reaction, gain resistance to one damage type of your choice. This
+remains for one minute, and cannot be used again until you complete a short rest.
+
+\columnbreak
+
+<div style="margin-top:320px;"></div>
+
+* Furious beast: You gain the Berserker Rage talent.
+* Holy beast: You gain the priest‘s Channel Divinity as a holy priest, but only to Turn Undead.
+Your effective priest level for this ability is equal to half your druid level. Fiends are also
+turned by this ability, but cannot be destroyed as undead. You cannot increase the number of uses
+of the Channel Divinity effect (regardless of effective priest level).
+* Inspiring beast: You gain the bard‘s Inspiration ability. Your effective bard level for this
+ability is equal to half your druid level.
+* Magical beast: You may choose any four spells from your druid spell list and cast them in
+while in wild shape. This does not require somatic or verbal components, but you must have
+chosen to merge any material components with you when you chose to wild shape. If taken again,
+this ability adds four other spells. 
+Upon gaining the Beast Spells feature of 18th level, you may cast all your druid spells without
+somatic or verbal components, as this ability details. You may choose up four spells per use of this
+ability, and use their material components while wild shaped.
+* Prowling beast: Whenever you and an ally both threaten a creature, your ally gains advantage
+to attack rolls against it, and you deal 1d6 extra points of damage to it.
+* Persistent beast: Whenever you are in a wild shape, you have advantage to Stamina saving
+throws to maintain a concentration spell. Furthermore, if you lose concentration on a spell by
+taking damage while in wild shape, you regain half the mana spent on the spell. This does not
+count as a normal mana restorative effect.
+* Raking beast: You gain the rogue‘s Sneak Attack ability as a 1st level rogue. If chosen again,
+your effective rogue level for this ability is equal to half your druid level.
+Grand Beast. Starting at 14th level, your weapon attacks while in wild shape deal an additional die
+of damage, and your bonus to attack and damage rolls from your Primal Strike feature improves to
++2.
+
+Also, if you start your turn while under a wild shape, you gain 5 temporary hit points. These do not
+stack.
+
+#### Grand Beast
+Starting at 14th level, your weapon attacks while in wild shape deal an additional die
+of damage, and your bonus to attack and damage rolls from your Primal Strike feature improves to
++2.
+
+Also, if you start your turn while under a wild shape, you gain 5 temporary hit points. These do not
+stack.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/451704ac-ecec-4027-9e31-25eeffc92d0a/df2vpey-fa004da9-d625-45c7-9f70-1ce85bdcf424.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1MTcwNGFjLWVjZWMtNDAyNy05ZTMxLTI1ZWVmZmM5MmQwYVwvZGYydnBleS1mYTAwNGRhOS1kNjI1LTQ1YzctOWY3MC0xY2U4NWJkY2Y0MjQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OWRw571FbyvfRhk6rMmPokxgDdRD-Q0HXEpq07o55ho' style='position:absolute; top:0px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:100%;' />
+
+<div style="margin-top:420px;"></div>
+
+### Restoration
+You focus on the renewing and resilient quality of nature. Restoration druids appreciate the more
+organic side of nature, preferring to conjure plant allies (usually treants), heal their friends, and
+reach out through the Emerald Dream for information and insights to the future.
+<br><br>
+<div class='classTable'>
+
+#### Restoration Circle Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Pass without trace, rejuvenation |
+| 5th | Daylight, lesser restoration |
+| 7th | Divination, conjure plants (level 3) |
+| 9th | Dream, tranquility |
+
+</div>
+
+#### Healing Lore
+When you choose this archetype at 2nd level, you may alter the target of a druid sigil
+spell effect as a bonus action. This requires a successful attack against the new target, and you must
+be within the range of them to cast the spell normally. The spell‘s effects take place at the new
+target‘s turn as usual.
+
+#### Extended Growth
+Also starting at 2nd level, the maximum duration of healing sigil druid spells
+for you is doubled, and you gain advantage to the roll to maintain druid sigil spells.
+Seed of Life. Starting at 6th level, you may touch any creature as an action, and store any spell from
+the druid spell list into them, which remains latent until you discharge it with a mental command.
+
+\columnbreak
+
+<div style="margin-top:430px;"></div>
+
+If the spell‘s casting time is more than 1 action, you must also spend the casting time in contact
+with the target, as well as any required components. So long as the seed remains active, you gain a
+general and vague sense of the well-being of the creature and their physical and mental health, and
+you may use a reaction at any point to discharge the spell (in reaction to sudden pain or mental
+distress), although the spell does not specify the particulars of the triggering event.
+
+If you choose the Lesser Restoration or Greater Restoration spells (or similar effects), the spell can
+also notify you when the target is affected by a condition the spell would heal or remove (such as
+death if imbuing revivify).
+
+The seed remains active for up 24 hours, after which it fades. You may also discharge this spell only
+if the target is within 5 miles of you. If you and the target are within similar terrain and there are
+live plants within 30 feet of both of you (such as being in the same forest or desert), you can
+discharge the spell at any range so long as the natural terrain is unbroken. You can place up to
+three seeds per day, and a creature can only benefit from one at any given time.
+
+This feature has no effect on constructs unless they are plant-based or made of wood.
+
+#### Ironbark
+Starting at 10th level, whenever you heal a creature (including yourself), you may imbue
+their skin with the resilience of nature. If you do, they gain resistance to all non-magical weapon
+damage for 1 minute, or gain a number of temporary hit points equal to your level. A given
+creature can benefit only once every 24 hours.
+
+#### Improved Seed of Life
+Starting at 14th level, you may imbue up to six seeds of life at once, and
+can imbue a single target with up to two seeds. You can also use an action to see up to a distance of
+5 ft. from a creature affected by your Seed of Life, so long as the ability wasn‘t discharged yet. You
+have no use of your normal senses while you are perceiving this way.
+
+\pagebreakNum
