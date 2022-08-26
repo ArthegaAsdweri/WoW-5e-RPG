@@ -3630,3 +3630,464 @@ always treat it as if it is surprised against you, unless combat hasn‘t alread
 
 \pagebreakNum
 
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2a39b7c-da6a-4502-9d9c-8710930d1fe0/ddluxed-da62867e-20b8-420c-9d1e-cbf55a89666c.jpg/v1/fill/w_1280,h_720,q_75,strp/commission__matthew_by_alteya_ddluxed-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTJhMzliN2MtZGE2YS00NTAyLTlkOWMtODcxMDkzMGQxZmUwXC9kZGx1eGVkLWRhNjI4NjdlLTIwYjgtNDIwYy05ZDFlLWNiZjU1YTg5NjY2Yy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wkBcqtg545Uwb8kwCbS7G-ljnmjTwtzjq2JcoaPchM8' style='position:absolute; top:0px; left:-120px; width:1100px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:220px; right:0px; width:890px;' />
+
+<div style="margin-top:500px;"></div>
+
+## Mage (MGE)
+*Standing atop a ruined cliff-side chapel, a human
+mage retreats against the demonic infernal. Climbing
+up the side, the infernal barely has time to react, as
+the human raises his arms, unleashing a volley of
+fireballs at the infernal, before releasing a storm of ice
+upon the demon, sending it spiraling into the chasm
+below.*
+<br><br>
+*Surveying the battlefield from afar, a blood elf looks
+to the skies, finishing the last words of the spell. The
+clouds part as an ice crystals form, before falling to the
+ground, crashing and wreaking bloody havoc amongst
+her adversaries. Allowing the faintest smile, she walks
+away from the carnage, her duty fulfilled.*
+<br><br>
+*The draenei mage-lord clad in violet and gold robes stands firm before fel winds. As a doomguard
+elite breaks his flank, he turns to it, sweeping his hand at its direction, suffusing the fiend with
+planar magic. The wills of the two clash, and then the doomguard roars in frustration, as he is
+banished from the battlefield to whence he came. Satisfied, the draenei sweeps his staff over the
+remaining demons. As the violet crystal sweeps over them, time slows, and they are torn apart by
+swords loyal to the Army of Light.*
+<br><br>
+Students gifted with a keen intellect and unwavering discipline may walk the path of the Mage. The
+arcane magic available to magi is both great and dangerous, and thus is revealed only to the most
+devoted practitioners. To avoid interference with their spellcasting, magi wear only cloth armor, but
+arcane shields and enchantments give them additional protection. To keep enemies at bay, magi
+can summon bursts of fire or storms of ice to decimate distant
+
+\columnbreak
+
+<div style="margin-top:520px;"></div>
+
+targets and cause entire regiments to
+erupt with elemental energy, or to barrage them with violet blasts of pure arcane magic.
+
+### Scholars of the Arcane
+The wizards of Azeroth are commonly known as mages, or magi. The magi of Azeroth acknowledge
+the corrupting influence of arcane magic, and unlike Warlocks, they temper their advancement
+with cool intellect and precision.
+
+Mages focus on magic that creates and changes things, most often with the purpose of damaging
+their enemies and boosting the power of their allies. Such beings can obtain a familiar, which is a
+normal animal that gains new powers and becomes a magical beast when summoned to service by a
+mage.
+
+Magi also understand the workings of arcane energy so well they can counter most magic with great
+effectiveness. Those who have dedication to and natural predilection for one of the schools of
+specialization or a magic tradition becomes more entrenched.
+
+The magi of the Kirin Tor first mastered the art of casting spells using the elements of ice and fire.
+
+Magi are also known for being able to summon elementals, usually water elementals, but can also
+summon air, earth, and fire elementals. The greatest mortal mage ever to have lived might be the
+naga Queen Azshara (who may no longer be mortal) or the legendary human Medivh, the last
+Guardian of Tirisfal, who set in motion many events in the Third War.
+
+\pagebreakNum
+
+The first known magi on Azeroth were elves. They existed before the breaking of the Well of
+Eternity and the Exile of the High Elves, who lived on the shores of the Well of Eternity and
+wielded its tremendous magic powers. When the elven kingdom made their ancient pact to aid the
+human kingdom of Arathi, the magi learned arcane magic as well, turning the tide of the Troll
+Wars to cement the human and elven presence in Azeroth.
+
+### The Lure of Knowledge
+Mages‘ lives are seldom mundane. The closest a mage is likely to come to an ordinary life is working
+as a sage or lecturer in a library or university, teaching others the secrets of the multiverse. Other
+mages sell their services as diviners, serve in military forces, or pursue lives of crime or domination.
+
+But the lure of knowledge and power calls even the most unadventurous mages out of the safety of
+their libraries and laboratories and into crumbling ruins and lost cities. Mages believe that their
+counterparts in ancient civilizations knew secrets of magic that have been lost to the ages, and
+discovering those secrets could unlock the path to a power greater than any magic available in the
+present age.
+
+### Creating a Mage
+Creating a Mage character demands a backstory dominated by at least one extraordinary event.
+
+How did your character first come into contact with magic? How did you discover you had an
+aptitude for it? Do you have a natural talent, or did you simply study hard and practice incessantly?
+Did you encounter a magical creature or an ancient tome that taught you the basics of magic?
+
+What drew you forth from your life of study? Did your first taste of magical knowledge leave you
+hungry for more? Have you received word of a secret repository of knowledge not yet plundered by
+any other mage? Perhaps you‘re simply eager to put your newfound magical skills to the test in the
+face of danger.
+
+#### Quick Build
+You can make a mage quickly by following these suggestions. First, Intelligence should be your
+highest ability score, followed by Stamina or Agility.
+
+Second, choose the sage background. Third, choose the mage hand, light, and frost bolt cantrips,
+along with the following 1st-level spells for your spellbook: burning hands, charm (humanoid), feather
+fall, mana shield, arcane missile, and sleep.
+
+### Class Features
+As a mage, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d6 per mage level
+- **Hit Points at 1st Level:** 6 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Stamina modifier per mage level after 1st
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** None
+___
+- **Saving Throws:** Intelligence, Spirit
+- **Skills:**  Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a quarterstaff or *(b)* a dagger
+- *(a)* a component pouch or *(b)* an arcane focus
+- *(a)* a scholar‘s pack or *(b)* an explorer‘s pack
+- A spellbook
+ 
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8932fa02-b339-4e8c-99d6-115e7cd29415/d49u30f-ab16486b-14c6-4f22-8ac4-8a944d84951d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg5MzJmYTAyLWIzMzktNGU4Yy05OWQ2LTExNWU3Y2QyOTQxNVwvZDQ5dTMwZi1hYjE2NDg2Yi0xNGM2LTRmMjItOGFjNC04YTk0NGQ4NDk1MWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bqkD9QBXgctA1PM91c4TlFD5JfIVigesyQ5BoQccY9g' style='position:absolute; top:0px; left:-50px; width:980px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:300px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Caster Level |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Invocation, Spellcasting | 1 (1st)
+| 2nd | +2 | Mage Tradition | 2 (1st)
+| 3rd | +2 | - | 3 (2nd)
+| 4th | +2 | Ability Score Improvement | 4 (2nd)
+| 5th | +3 | - | 5 (3rd)
+| 6th | +3 | Mage Tradition Feature | 6 (3rd)
+| 7th | +3 | - | 7 (4th)
+| 8th | +3 | Ability Score Improvement | 8 (4th)
+| 9th | +4 | - | 9 (5th)
+| 10th | +4 | Mage Tradition Feature | 10 (5th)
+| 11th | +4 | - | 11 (6th)
+| 12th | +4 | Ability Score Improvement | 12 (6th)
+| 13th | +5 | - | 13 (7th)
+| 14th | +5 | Mage Tradition Feature | 14 (7th)
+| 15th | +5 | - | 15 (8th)
+| 16th | +5 | Ability Score Improvement | 16 (8th)
+| 17th | +6 | - | 17 (9th)
+| 18th | +6 | Spell Mastery | 18 (9th)
+| 19th | +6 | Ability Score Improvement | 19 (9th)
+| 20th | +6 | Signature Spell | 20 (9th)
+
+</div>
+
+\pagebreakNum
+
+#### Invocation
+Starting at 1st level, you may rapidly recover your mana by attuning yourself to the flows of magic.
+You can use your action and bonus action on your turn to regain mana as if completed a short rest
+(or rested for one hour).
+
+You can use this feature a number of times equal to half your proficiency bonus. You regain
+expended uses when you finish a long rest. While using this feature, the flow of raw mana protects
+you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving
+throws until the start of your turn in the next round.
+
+Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
+mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
+mana you regain for the normal rest.
+
+##### Spellcasting
+As a student of arcane magic, you have a spellbook containing spells that show the first
+glimmerings of your true power.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to your proficiency bonus.
+
+##### Conjuring and Binding
+A mage can conjure and bind aberrations, celestials, constructs, elementals, fey, fiends, oozes, and
+undead, as well homunculi creatures (creatures with the homunculus template).
+
+##### Spellbook
+At 1st level, you have a spellbook containing six 1st-level mage spells of your choice. When you
+level up, you gain 2 additional mage spells of your choice. You may also acquire new spells by
+research, tutelage, or from the spellbooks and scrolls of spellcasters who have spells you can cast.
+
+##### Preparing and Casting Spells
+Each mage level provides you with 1 caster level in the mage class. You follow the normal
+progression to unlock spell levels (see the table under the Mana section).
+
+You prepare the list of mage spells that are available for you to cast, choosing from the mage spell
+list.
+
+You can also change your list of prepared spells by consulting your spellbook after a long rest.
+
+Preparing a new list of mage spells requires time spent in study: at least 1 minute per spell level for
+each spell on your list.
+
+##### Spellcasting Ability
+Intelligence is your spellcasting ability for your mage spells, since you learn your mage spells
+through dedicated study and memorization.
+
+You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use
+your Intelligence modifier when setting the saving throw DC for a mage spell you cast and when
+making an attack roll with one.
+<br><br>
+**Spell save DC** = 8 + your proficiency bonus +
+
+your Intelligence modifier
+<br>
+**Spell attack modifier** = your proficiency bonus +
+
+your Intelligence modifier
+
+##### Ritual Casting
+You can cast a mage spell as a ritual if that spell has the ritual tag and you have the spell in your
+spellbook. You don't need to have the spell prepared.
+
+##### Spellcasting Focus
+You can use an arcane focus as a spellcasting focus for your mage spells.
+
+##### Learning Spells of 1st Level and Higher
+On your adventures, you might find other spells that you can add to your spellbook. You do not
+gain spells by default, and typically scribe spells from scrolls into your own spellbook, or purchase
+(or steal) the spellbooks of others, or research them yourself.
+
+#### Mage Tradition
+When you reach 2nd level, you choose a mage tradition, shaping your practice of magic through
+one of eight schools, or through the disciplines of Arcane, Fire, or Frost, detailed at the end of the
+class description. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th
+level.
+
+The most common traditions in Azeroth are the three below: Arcane, Fire, and Frost. Arcane and
+Frost are preferred by the students and people of Dalaran, but the grand power of Fire is nothing to
+be ignored. Other than the above specializations, the Necromancy and Conjuration schools (as
+described in the core rulebook) are common in Azeroth.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you
+can‘t increase an ability score above 20 using this feature.
+
+#### Spell Mastery
+At 18th level, you have achieved such mastery over certain spells that you can cast them at will with
+no mana cost. Choose a 2nd-level and one 3rd-level mage spell that are in your spellbook.
+
+You can cast those spells at their lowest level without expending mana when you have them
+prepared. If you want to cast either spell at a higher level (or if the spell consumes mana in its
+description), you must expend mana as normal.
+
+By spending 8 hours in study, you can exchange one or both of the spells you chose for different
+spells of the same levels.
+
+#### Signature Spell
+When you reach 20th level, you gain mastery over two powerful spells and can cast them with little
+effort. Choose two 4th-level mage spells in your spellbook as your signature spells. You always have
+these spells prepared, they don‘t count against the number of spells you have prepared, and you can
+cast each of them once at 4th level without expending mana. When you do so, you can‘t do so
+again until you finish a short or long rest.
+
+If you want to cast either spell at a higher level, you must expend mana as normal.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10bcfa0c-24e0-46b2-810d-ad75c14cdd6c/de56hmc-9e064d73-14e3-4405-ab94-1d7b6d4d29b9.jpg/v1/fill/w_1280,h_794,q_75,strp/___commission__high_elf_mage____by_shadowpriest_de56hmc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk0IiwicGF0aCI6IlwvZlwvMTBiY2ZhMGMtMjRlMC00NmIyLTgxMGQtYWQ3NWMxNGNkZDZjXC9kZTU2aG1jLTllMDY0ZDczLTE0ZTMtNDQwNS1hYjk0LTFkN2I2ZDRkMjliOS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AXJZvr3lQLVtImieTFsgZR0PZ4PdNOb8zWpYU7FL2_4' style='position:absolute; top:0px; left:-50px; width:880px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:20px; right:0px; width:890px;' />
+
+<div style="margin-top:300px;"></div>
+
+### Arcane
+You manipulate focused mysterious arcane and raw mana powers more adeptly than others,
+destroying enemies with overwhelming raw magic force. Arcane mages adopt a more scholarly
+persona than other mages.
+
+#### Arcane Spheres
+Starting at 2nd level, you gain one Arcane Sphere whenever one of the following
+happens to you:
+* You deal arcane damage to an enemy with a mage ability or spell from the mage list
+* You lose at least 4 mana points by being target of the mana burn or detonate mana spells or
+absorbing damage via the mana shield spell. If absorbing damage by the mana shield spell,
+you gain one Arcane Sphere for each 4 mana points lost this way.
+* You suffer an attack from another Mystic Blast or similar ability (usually called Mystic, Fire,
+Arcane, or Shadow Blasts), unless it is fel damage (in which case you do not gain a sphee).
+
+This applies once per spell. Arcane Spheres may be used to empower your abilities. Arcane Spheres
+may be spent for the following.
+* Augmenting Arcana. Deal 1 additional point of arcane damage per damage dice with mage
+spells and abilities that deal arcane damage. This can be spent after rolling for damage, and
+applies once per spell. This does not stack with similar abilities.
+* Mana Circulation. You may substitute 1 Arcane Sphere for 1 mana point (cannot reduce
+mana point loss beyond 1) for effects that consume mana (such as spells or mana burn and
+similar effects).
+
+You may have a maximum number of spheres equal to 2 plus your Proficiency bonus, and they
+remain for one hour after being acquired.
+
+#### Arcane Power Mastery
+Also starting at 2nd level, you gain the ability to unleash blasts of arcane
+force as an action. You gain the Mystic Blast feat. Unlike the normal Mystic Blast feat, this only
+deals arcane damage.
+
+You also always have the mana shield spell prepared, and whenever you cast the spell, you gain
+temporary hit points equal to your Arcane Blast damage until the spell ends.
+
+\columnbreak
+
+<div style="margin-top:320px;"></div>
+
+#### Presence of Mind
+Starting at 6th level, you may store bits of your mental focus and concentration
+over the day, and then discharge the stored potential to cast a spell. When you cast a mage spell
+that has a casting time of 1 action, it instead becomes a bonus action. You can cast two spells in
+one round this way, and are not restricted to cantrips. For this purpose, Mystic Blast counts as a
+spell.
+
+Once this ability is used a number of times equal to half your proficiency bonus, it cannot be used
+again until after a long or short rest.
+
+#### Arcane Power
+Starting at 10th level, you can open yourself to latent arcane energies with an
+action, channeling power you would normally be unable to channel. For the next minute, every
+mage spell you cast costs 1 less mana point (minimum 1 mana). If the spell is heightened from a
+lower spell level, it costs 2 less points instead. Once you use this ability, you cannot use it again
+until after a short or long rest, or unless you spend 4 Arcane spheres.
+
+#### Focus Power
+Starting at 14th level, you can choose to re-use arcane energies that normally
+dissipate into the ether when casting spells. Whenever you affect a target by a mage spell on your
+turn, you can also make an Arcane Blast attack without spending an action. This can be used once
+per turn, regardless of how many targets you affect by your spell, and can only be added to spells
+two levels lower than your highest-level spell.
+
+If the spell has a duration more than instantaneous, you can instead choose to deliver the damage
+at any point of the duration instead of after instantaneously striking the target (up to a maximum
+of the end of the spell‘s duration).
+
+The damage of the Arcane Blast is added to the total damage despite being of a different type (and
+is counted as one attack; thus, if the original spell had a saving throw to negate or half damage, the
+extra damage is negated or halved appropriately).
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b307a04-6ac2-4caa-9a95-8f112e6d629f/de8i5cb-c5dd89d7-003c-4122-91d1-e69f412c9616.jpg/v1/fill/w_1600,h_1600,q_75,strp/blood_elf_mage_by_deanoyebo_de8i5cb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzdiMzA3YTA0LTZhYzItNGNhYS05YTk1LThmMTEyZTZkNjI5ZlwvZGU4aTVjYi1jNWRkODlkNy0wMDNjLTQxMjItOTFkMS1lNjlmNDEyYzk2MTYuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ub1Y0vfvy8Rx96HEY0w24TnQEpNdCpmQuumzifvbfw4' style='position:absolute; top:0px; left:-475px; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:-50px; width:100%; height:100%; transform:scaleX(-1);' />
+
+\columnbreak
+
+### Fire
+You ignite enemies with bolts of flame and exploding fire, heating up until you deliver the final
+strike. Fire mages are well-appreciated engines of destruction in war.
+
+#### Controlled Destruction
+Beginning at 2nd level, you can create pockets of relative safety within the
+effects of your fire evocation spells. When you cast a fire evocation spell that affects other creatures
+that you can see, you can choose a number of them equal to 1 + your intelligence modifier. The
+chosen creatures automatically succeed on their saving throws against the spell, and they take no
+damage if they would normally take half damage on a successful save.
+
+Also, for a number of times equal to your proficiency bonus, your fire evocation spells can be used
+to set a target single on fire, inflicting the burning condition on a failed Stamina saving throw. The
+burning damage is equal to 1d6 points of fire damage, or one-quarter the number of dice the spell
+dealt (whichever is higher).
+
+You may use multiple uses on a single spell. You regain all spent uses at the end of a short rest.
+
+#### Student of Flame
+Also beginning at 2nd level, you may scribe evocation spells with other energy
+types as fire spells in your spellbook. The spells act the same way, unless the DM rules it is
+unreasonable (such as a slippery effect on a fire sleet spell). You also gain resistance to fire damage.
+
+Scorch. Starting at 6th level, you may cast fire bolt as a bonus action. Also, you may critically hit
+with any ranged fire spell attack on a 19 and a 20, dealing double damage. Also, whenever a
+creature suffers the burning condition from your fire spells, they also have disadvantage to ability
+checks so long as the condition remains.
+
+#### Black Fire
+Starting at 10th level, you may spend a bonus action and curse a creature within 30 feet
+with black flame, reducing its resistance to fire damage. The creature must succeed on a Stamina
+saving throw or fall to the hex for 1 minute. If it is immune to fire damage, it becomes resistant
+instead. If resistant, it takes fire damage normally.
+
+If it doesn't have immunity nor resistance, you (and only you) instead deal bonus fire damage to
+them equal to half your level. This applies once per spell or effect.
+
+A creature cannot be subjected to this effect more than once for 24 hours. You can only affect one
+creature with this ability at any given time.
+
+#### Pyromaniac
+At 14th level, you add the pyroblast spell to your spellbook if it isn‘t already within it.
+
+Whenever you critically hit with a ranged fire spell, you may spend a bonus action to gain one
+round of concentration on the pyroblast spell for each critical hit. The pyromaniac bonus remains
+for one hour or until you cast the spell, and stacks with itself. It cannot exceed the maximum
+damage you can deal with spell, however. For this purpose, you count as if you critically hit if one
+of the targets of your fire spells fails by a natural 1-2 on a saving throw, or if you score a natural 19-
+20 on a ranged attack with a fire spell.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/63a7bb11-3434-4a04-9f6f-0df9ea9ba1dd/dcw77fr-c058dea6-46f4-453f-8861-847b3bf5549b.jpg/v1/fill/w_1280,h_1576,q_75,strp/ice_mage_by_kaiyela_dcw77fr-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU3NiIsInBhdGgiOiJcL2ZcLzYzYTdiYjExLTM0MzQtNGEwNC05ZjZmLTBkZjllYTliYTFkZFwvZGN3Nzdmci1jMDU4ZGVhNi00NmY0LTQ1M2YtODg2MS04NDdiM2JmNTU0OWIuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.hsV_tvOhCMrkCUPhQyh70lK_bo0PEZa4pbp3FEopF3U' style='position:absolute; top:0px; right:-275px; height:100%; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; left:-50px; width:100%; height:100%;' />
+
+### Frost
+You debilitate and freeze your enemies in their tracks, before shattering them with ice magic or
+entombing them in it for eternity. Frost mages are usually explorers, as their ability to debilitate,
+slow, and evade foes gives them survivability that makes them natural to the task.
+
+#### Chilling Effects
+Starting at 2nd level, you may use a bonus action to inflict the chilled condition to
+any target of your cold spells for one round. The condition stacks as normal, even with spells that
+already chill the enemy. If multiple creatures are chilled, choose a number equal to your
+Intelligence modifier.
+
+#### Student of Frost
+Also beginning at 2nd level, you may scribe evocation spells with other energy
+types as cold spells in your spellbook. The spells act the same way, unless the DM rules it is
+unreasonable (such as a burning effect on a cold spell). You also gain resistance to cold damage.
+
+#### Ice Lance
+Starting at 6th level, you know the frost bolt cantrip, and can always cast it as a bonus
+action. You can also use this cantrip if you already cast a spell in the same round.
+
+Also, you can create a path of frost over water (or any liquid that freezes at a similar temperature)
+with any spell that deals cold damage (including cantrips). This freezes a number of consecutive 5-
+foot squares equal to double the spell level (or a single square if a cantrip).
+
+The frozen path melts away in one minute (or may not if the weather is at below freezing). The path
+can also be broken by spending 5 feet of movement for every 5-foot square.
+
+#### White Ice
+Starting at 10th level, you may spend a bonus action and curse a creature within 30 feet
+with white ice, reducing its resistance to cold damage. The creature must succeed on a Stamina
+saving throw or fall to the hex for 1 minute.
+
+If it is immune to cold damage, it becomes resistant instead. If resistant, it takes cold damage
+normally. If it doesn't have immunity nor resistance, you (and only you) instead deal bonus cold
+damage to them equal to half your level. This applies once per spell or effect.
+
+A creature cannot be subjected to this effect more than once for 24 hours. You can only affect one
+creature with this ability at any given time.
+
+#### Ice Statues
+At 14th level, whenever you a target of your mage spells is restrained by having their
+speed reduced to 0 by the chilled condition, they are also incapacitated for the duration of the
+chilled condition. Against such targets, your frost bolt cantrip is automatically a critical hit if it
+successfully hits, but the chilled condition ends prematurely (and is not applied for frost bolt).
+
+Also, whenever you deal damage to a creature that exceeds one-half their maximum hit points at
+once, they are both restrained and incapacitated for one hour (or until they thaw out, whichever
+comes first). Both effects end prematurely if the target is hit.
+
+\pagebreakNum
+
