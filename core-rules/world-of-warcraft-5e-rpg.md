@@ -321,11 +321,11 @@ The draenei are a powerfully-build alien race that originates from Argus. They a
 
 ### Draenei Traits
 
-***Ability Score Increase.*** Your Spirit or Intelligence<br>      increases by 1.<br>
-***Age.*** A typical Draenei claims adulthood around 100 years<br>     old, and can live to about ten thousand
+***Ability Score Increase.*** Your Spirit or Intelligence<br>      increases by 1.<br>
+***Age.*** A typical Draenei claims adulthood around 100 years<br>     old, and can live to about ten thousand
 years old.<br>
-***Affiliation.*** Each sub-race is inclined to its own<br>     affiliations.<br>
-***Size.*** Draenei stand between 7 and 8 feet tall and<br>     average about 300 pounds. Your size is Medium.
+***Affiliation.*** Each sub-race is inclined to its own<br>     affiliations.<br>
+***Size.*** Draenei stand between 7 and 8 feet tall and<br>     average about 300 pounds. Your size is Medium.
 As befitting their Eredar heritage, Draenei have hooved feet, tendrils that grow from the neck and
 short tails, and their skin color is affected by the magic they naturally absorb (with fel magic
 reddening them, holy magic rendering their skins blue to violet, and void magic darkening them to
@@ -356,9 +356,9 @@ may declare use of this ability upon landing a critical hit.<br>
 altered dialect that is less corrupt, and thus does not impose penalties when speaking, but is
 perfectly understandable by fiends.<br>
 <br>
-***Male Names.*** Amka, Doruno, Kozza, Sarhash, Shunn,<br>     Thylon, Voluth<br>
-***Female Names.*** Corevva, Daalny, Demetra, Fetwa,<br>     Lan‘era, Me‘era, Tanmatra<br>
-***Family Names.***  Draenei do not have family names, but<br>     take a title according to their deeds.
+***Male Names.*** Amka, Doruno, Kozza, Sarhash, Shunn,<br>     Thylon, Voluth<br>
+***Female Names.*** Corevva, Daalny, Demetra, Fetwa,<br>     Lan‘era, Me‘era, Tanmatra<br>
+***Family Names.***  Draenei do not have family names, but<br>     take a title according to their deeds.
 
 #### Subraces
 
@@ -414,10 +414,10 @@ help them find their way back.
 #### Krokul Traits
 
 ***Ability Score Increase.*** Your Agility increases by 2.<br>
-***Adapter.*** You may always act when surprised at a combat<br>     encounter (even if you failed your
-Perception check to<br>     notice it). You also have advantage versus weather effects.<br>
-***Stalker.*** You have proficiency with the Perception and<br>     Stealth skills. If you already have proficiency
-with one of<br>     these skills, you gain Expertise instead.
+***Adapter.*** You may always act when surprised at a combat<br>     encounter (even if you failed your
+Perception check to<br>     notice it). You also have advantage versus weather effects.<br>
+***Stalker.*** You have proficiency with the Perception and<br>     Stealth skills. If you already have proficiency
+with one of<br>     these skills, you gain Expertise instead.
 
 \columnbreak
 
@@ -4088,6 +4088,560 @@ successfully hits, but the chilled condition ends prematurely (and is not applie
 Also, whenever you deal damage to a creature that exceeds one-half their maximum hit points at
 once, they are both restrained and incapacitated for one hour (or until they thaw out, whichever
 comes first). Both effects end prematurely if the target is hit.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f7ace064-63a1-4cb2-a566-a730ba61ca6d/d4girpi-99a3aed4-ac8e-4133-a7bd-07f9fd397ca4.jpg/v1/fill/w_800,h_500,q_75,strp/pandaren_monk_wallpaper_by_roscofox_d4girpi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvZjdhY2UwNjQtNjNhMS00Y2IyLWE1NjYtYTczMGJhNjFjYTZkXC9kNGdpcnBpLTk5YTNhZWQ0LWFjOGUtNDEzMy1hN2JkLTA3ZjlmZDM5N2NhNC5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.3Mjv4CKBSgW3L3HtxzQbdncvje6VaC9x-Z7FTiCgZG8' style='position:absolute; top:-50px; left:0px; width:850px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:120px; right:0px; width:890px;' />
+
+<div style="margin-top:410px;"></div>
+
+## Monk (MNK)
+
+*Witnessing an orc and a human locked in battle on his
+land, a pandaren intervenes. Expertly placing his staff
+between the two combatants and intercepting, he parries
+every one of their blows, using their own attacks against
+them. Without landing a single attack on his adversaries, he
+emerges triumphant.*
+<br><br>
+*An ancient temple lays atop the snowy peak of a mountain,
+the violent winds cut away at the pandaren‘s face as she
+meditates. She can feel the balance of the world, the good
+and bad, the calm and the rage, the silence and the storm.
+The mists slowly curl around her paws, filling her shivering
+body with warmth, soothing her aching muscles and lifting
+her broken spirit.*
+<br><br>
+*The wildhammer dwarf gathers power into himself, tattoos on his back shimmering. He then
+releases a single powerful blow that shatters a stone larger than he. He then turns to the three orcs
+hiding in the bushes, and smirks as they flee, leaving their weapons behind.*
+<br><br>
+When the pandaren were subjugated by the mogu centuries ago, it was the monks that brought
+hope to a seemingly dim future. Restricted from using weapons by their slave masters, these
+pandaren instead focused on harnessing their chi and learning weaponless combat. When the
+opportunity for revolution struck, they were well-trained to throw off the yoke of oppression.
+Dwarves and tauren are also familiar with the way of the monk, although they know it as runeweaving.
+
+### Masters of the Mind
+Experts of bare-handed combat, monks never rely solely on the need to have a weapon in their
+hands to defend against their enemies. Although most widely known to the outside world for their
+fearsome jabs and flying kicks, they refuse to limit themselves to a single method of combat.
+
+\columnbreak
+
+<div style="margin-top:430px;"></div>
+
+Many monks prefer instead to ―soak it up‖ and seem to revel in the intoxicating effect of absorbing
+blow after blow while their companions press the attack. Other monks specialize in calling upon
+the restorative power of the mists to balance the good and bad energy within people, returning
+them to good health and fortune. Monks make careful study of a magical energy that most
+monastic traditions call chi.
+
+This energy is an element of the magic that suffuses the multiverse—specifically, the element that
+flows through living bodies. Monks harness this power within themselves to create magical effects
+and exceed their bodies‘ physical capabilities, and some of their special attacks can hinder the flow
+of chi in their opponents. Using this energy, monks channel uncanny speed and strength into their
+unarmed strikes. As they gain experience, their martial training and their mastery of chi gives them
+more power over their bodies and the bodies of their foes.
+
+### Discipline and Harmony
+Monks bring a unique martial arts style to any fight, and harness an exotic form of magical energy
+that‘s unfamiliar to those who practice other arcane arts. They seek spiritual balance in life and in
+combat, and as dangerous as monks can be on the battlefield, they‘re rarely looking to pick a fight
+without just cause.
+
+They view the world through a different lens, finding power through serenity and inner peace—then
+expressing it through artful combat techniques and powers that mend life. Perhaps most
+surprisingly, Monks are also adept at producing powerful brews they consume to aid them in battle.
+
+Some monks live entirely apart from the surrounding population, secluded from anything that
+might impede their spiritual progress. Others are sworn to isolation, emerging only to serve as spies
+or assassins at the command of their leader, a noble patron, or some other mortal or divine power.
+
+\pagebreakNum
+
+### Creating a Monk
+The Monks of Azeroth usually follow Pandaren monastery tradition, ever since they were
+subjugated by the mogu. They usually act independently from factions, seeing the ebb and flow of
+right and wrong to belong with neither sides, and can be found in the most unusual of places,
+seeking wisdom or enlightenment.
+
+As you make your monk character, think about your connection to the monastery where you
+learned your skills and spent your formative years. Were you an orphan or a child left on the
+monastery‘s threshold? Did your parents promise you to the monastery in gratitude for a service
+performed by the monks? Did you enter this secluded life to hide from a crime you committed? Or
+did you choose the monastic life for yourself?
+
+Consider why you left. Did the head of your monastery choose you for a particularly important
+mission beyond the cloister? Perhaps you were cast out because of some violation of the
+community‘s rules. Did you dread leaving, or were you happy to go? Is there something you hope to
+accomplish outside the monastery? Are you eager to return to your home? If you are a dwarf or
+tauren, do you follow the old ways of rune-weaving? Why have you chosen this path over others,
+and how do you compare your ancient traditions with the more structured beliefs of the pandaren
+monks?
+
+As a result of the structured life of a monastic community and the discipline required to harness
+chi, monks are almost always lawful in alignment.
+
+#### Quick Build
+You can make a monk quickly by following these suggestions. First, make Agility your highest
+ability score, followed by Spirit. Second, choose the hermit background.
+
+### Class Features
+As a monk, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 186 per monk level
+- **Hit Points at 1st Level:** 8 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Stamina modifier per monk level after 1st
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Simple weapons, shortswords, darts, quarterstaffs
+- **Tools:** Choose one type of artisan‘s tools or one musical instrument.
+___
+- **Saving Throws:** Strength, Agility
+- **Skills:** Choose two from Acrobatics, Athletics, History, Insight, Religion, and Stealth
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a shortsword or *(b)* any simple weapon
+- *(a)* a dungeoneer‘s pack or *(b)* an explorer‘s pack
+- 10 darts
+- A keg of brew or tea
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2072433-1e0d-4ee1-b05e-cabb4f7937a7/d802ll5-7a655008-d82d-4db7-871a-94e80321214e.jpg/v1/fill/w_1280,h_1811,q_75,strp/blood_elf_monk_by_darren_wee_by_3dsensemediaschool_d802ll5-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgxMSIsInBhdGgiOiJcL2ZcL2EyMDcyNDMzLTFlMGQtNGVlMS1iMDVlLWNhYmI0Zjc5MzdhN1wvZDgwMmxsNS03YTY1NTAwOC1kODJkLTRkYjctODcxYS05NGU4MDMyMTIxNGUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.MmJPl_sHdcyo4s5RjYVjbhVV4XHSSEF-zDF9ovOpq34' style='position:absolute; top:-110px; left:-50px; width:850px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:300px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Martial | Talents | Features |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | 1d4 | - | Unarmored Defense, Martial Arts
+| 2nd | +2 | 1d4 | 1 | Ki
+| 3rd | +2 | 1d4 | 2 | Monk Tradition
+| 4th | +2 | 1d4 | 3 | Ability Score Improvement
+| 5th | +3 | 1d6 | 3 | Extra Attack, Stunning Strike
+| 6th | +3 | 1d6 | 3 | Ki-Empowered Strikes, Monk Tradition feature
+| 7th | +3 | 1d6 | 4 | Stillness of Mind
+| 8th | +3 | 1d6 | 4 | Ability Score Improvement
+| 9th | +4 | 1d6 | 5 | -
+| 10th | +4 | 1d6 | 5 | Purity of Body
+| 11th | +4 | 1d8 | 5 | Monk Tradition feature
+| 12th | +4 | 1d8 | 5 | Ability Score Improvement
+| 13th | +5 | 1d8 | 5 | Tongue of the Sun and Moon
+| 14th | +5 | 1d8 | 6 | -
+| 15th | +5 | 1d8 | 6 | Timeless Body
+| 16th | +5 | 1d8 | 6 | Ability Score Improvement
+| 17th | +6 | 1d10 | 6 | Monk Tradition feature
+| 18th | +6 | 1d10 | 6 | Empty Body
+| 19th | +6 | 1d10 | 6 | Ability Score Improvement
+| 20th | +6 | 1d10 | 6 | Perfect Self
+
+</div>
+
+\pagebreakNum
+
+#### Martial Arts
+At 1st level, your practice of martial arts gives you mastery of combat styles that use unarmed strikes
+and monk weapons, which are shortswords and any simple melee weapons that don‘t have the twohanded or heavy property.
+
+You gain the following benefits while you are unarmed or wielding only monk weapons and you
+aren‘t wearing armor or wielding a shield:
+* You can use Agility instead of Strength for the attack and damage rolls of your unarmed
+strikes and monk weapons.
+* You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon.
+This die changes as you gain monk levels, as shown in the Martial column of the Monk table. If you
+have a greater damage die, you may choose that instead.
+* When you use the Attack action with an unarmed strike or a monk weapon on your turn,
+you can make one unarmed strike as a bonus action. For example, if you take the Attack action and
+attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you
+haven't already taken a bonus action this turn.
+
+Certain monasteries use specialized forms of the monk weapons. For example, you might use a
+nunchaku (club that is two lengths of wood connected by a short chain) or a kama (sickle with a
+shorter, straighter blade), or even a large tankard of alcohol (club). Whatever name you use for a
+monk weapon, you can use the game statistics provided for the weapon.
+
+#### Ki
+Starting at 2nd level, your training allows you to harness the mystic energy of ki (or Chi within
+Pandaren circles). Your access to this energy is represented by a number of ki points. You have a
+number of Ki points equal to your monk level.
+
+You can spend these points to fuel various ki features. You start knowing three such features: Flurry
+of Blows, Patient Defense, and Step of the Wind. You learn more ki features as you gain levels in
+this class.
+
+When you spend a ki point, it is unavailable until you finish a short or long rest, at the end of
+which you draw all of your expended ki back into yourself.
+
+You must spend at least 30 minutes of the rest meditating to regain your ki points. Some of your ki
+features require your target to make a saving throw to resist the feature‘s effects.
+The saving throw DC is calculated as follows:
+<br><br>
+**Ki save DC** = 8 + your proficiency bonus +
+
+your Spirit modifier.
+
+##### Flurry of Blows
+Immediately after you take the Attack action on your turn, you can spend 1 ki point to make two
+unarmed strikes as a bonus action.
+
+##### Patient Defense
+You can spend 1 ki point to take the Dodge action as a bonus action on your turn.
+
+##### Step of the Wind
+You can spend 1 ki point to take the Disengage or Dash action as a bonus action on your turn, and
+your jump distance is doubled for the turn.
+
+\columnbreak
+
+##### Casting Ki Spells
+Some monk abilities allow you to cast spells. To cast one of these spells, you use its casting time and
+other rules, but you don‘t need to provide material components for it. You can spend additional ki
+points to the original value to increase the level of the spell that you cast, provided that the spell
+has an enhanced effect at a higher level, as burning hands does. The spell's level increases by 1 for
+each additional ki point you spend. For example, if you are a 5th-level Brewmaster and use Breath
+of Fire to cast burning hands, you can spend 2 ki points to cast it as a 2nd-level spell or 3 ki and cast
+it as a 3rd level spell. The maximum number of ki points you can spend to cast a spell in this way
+(including its base ki point cost and any additional ki points you spend to increase its level) is
+determined by your monk level, as shown in the Spells and Ki Points table. Your effective
+spellcasting ability score is Spirit. 
+
+#### Monk Talent
+Starting at 2nd level, you gain a class talent, representing your various special abilities, either by use
+of Ki, natural grace in movement, or esoteric fighting techniques. See Class Talents at the end of
+the Chapter 3 for options.
+
+Whenever you qualify for another talent (as detailed in the talent column), you can choose another
+talent or gain another use of an existing talent.
+
+#### Monk Tradition
+When you reach 3rd level, you commit yourself to a monk tradition: the way of the Brewmaster,
+who excels in mysterious drinks, the way of the Mistweaver, who heals themselves and others, or
+the way of the Windwalker, the adventurous and evasive combatant.
+
+All traditions are detailed at the end of the class description. Your tradition grants you features at
+3rd level and again at 6th, 11th, and 17th level.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1.
+
+As normal, you can‘t increase an ability score above 20 using this feature.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action
+on your turn.
+
+#### Stunning Strike
+Starting at 5th level, you can interfere with the flow of ki in an opponent‘s body. When you hit
+another creature with a melee weapon attack, you can spend 1 ki point to attempt a stunning
+strike. The target must succeed on a Stamina saving throw or be stunned until the end of your next
+turn. Despite the name, this is not a strike effect.
+
+#### Ki-Empowered Strikes
+Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming
+resistance and immunity to non-magical attacks and damage.
+
+#### Stillness of Mind
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be
+charmed or frightened.
+
+\pagebreakNum
+
+#### Purity of Body
+At 10th level, your mastery of the ki flowing through you makes you immune to disease and
+poison.
+
+Furthermore, whenever you make a saving throw and fail, you can spend 1 ki point to reroll it and
+take the second result.
+
+#### Tongue of the Sun and Moon
+Starting at 13th level, you learn to touch the ki of other minds so that you understand all spoken
+languages. Moreover, any creature that can understand a language can understand what you say.
+
+#### Timeless Body
+At 15th level, your ki sustains you so that you suffer none of the frailty of old age, and you can't be
+aged magically. You can still die of old age, however. In addition, you no longer need food or water.
+
+#### Empty Body
+Beginning at 18th level, you can use your action to spend 4 ki points to become invisible for 1
+minute. During that time, you also have resistance to all damage but arcane damage.
+
+Additionally, you can spend 8 ki points to cast the astral projection spell, without needing material
+components. When you do so, you can‘t take any other creatures with you.
+
+#### Perfect Self
+At 20th level, when you roll for initiative and have no ki points remaining, you regain 4 ki points.
+
+\pagebreakNum
+
+
+<img src='https://www.itl.cat/pngfile/big/108-1089473_world-of-warcraft-mists-of-pandaria-wallpaper-and.jpg' style='position:absolute; top:-180px; left:-10px; width:860px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:0px; right:0px; width:890px;' />
+
+<div style="margin-top:300px;"></div>
+
+### Brewmaster
+You are focused on evading blows and empowering themselves and your allies through your brews.
+Brewmasters make the most common of monk adventurers.
+
+#### Brewmaster Focus
+Upon reaching 3rd level and gaining this monk tradition, you may add the
+following Ki power to your repertoire.
+
+##### Breath of Fire
+As an action, you can spend 1 Ki to cast the burning hands spell. This
+requires only verbal components. You can spend additional Ki to heighten the spell.
+
+#### Drunken Style Stance [Stance]
+Also starting at 3rd level, you can use a bonus action to enter the
+drunken style stance. So long as you are in this stance, use of the Step of the Wind Ki ability does
+not spend Ki. Furthermore, due to your consistent drunken interventions, a target successfully
+struck by one of your melee weapon attacks has have disadvantage to attack rolls to attacks that do
+not target you, and reduces its spell DCs and spell attack bonus by 4 points if the spell does not
+include you.
+
+This stance is broken if you move more than your normal speed in a single round.
+
+#### Brewmaster Ki
+Upon reaching 6th level, you gain the following new Ki powers and add them to
+your repertoire.
+
+##### Purifying Touch [Strike]
+As an action, you can spend 3 Ki and cast the dispel magic spell.
+
+This requires touching the effect or creature that is subject to the effect. You may use this as a
+touch or as a strike effect. You can spend additional Ki to heighten the spell. If you end a spell this
+way, you regain a number of Ki points equal to the dispelled spell‘s level (if dispelling multiple
+spells, choose only the highest-level spell). This cannot restore more Ki than double the amount
+spent on the ability.
+
+##### Brewmaster’s Stagger
+As a reaction, you may spend 2 Ki and stagger damage done to you,
+spreading the damage over multiple rounds. You suffer one-quarter the damage you would
+
+\columnbreak 
+
+<div style="margin-top:300px;"></div>
+
+normally suffer. At the start of your turn in the next round, you suffer another one-quarter. This
+continues at the start of your turn every round until you spread the damage over a total of four
+rounds (suffering one-quarter every round). If you would stagger damage when at 0 hit points, you
+automatically fail your death saving throw. You cannot stagger damage unless you are benefitting
+from Unarmored Defense.
+
+Whenever you choose to stagger damage while in Drunken Style Stance, you may direct any excess
+healing you would benefit to the pool of staggered damage.
+
+#### Brewmaster’s Sturdiness
+Also starting at 6th level, you can use your weight to enhance your blows
+and deflect attacks.
+
+Your AC increases by one-half your Strength modifier, and you may add 3 points of damage to all
+your melee attacks that are modified by Strength so long as you are above half your carrying
+capacity. You must benefit from Unarmored Defense to make use of this ability.
+
+#### Ox Stance [Stance]
+Starting at 11th level, you may enter this stance as a bonus action by spending
+2 Ki. While in this stance, you may add your Spirit modifier to all saving throws, and you are
+enhanced with greater resilience. You may stagger damage twice for no cost, and whenever you
+choose to stagger damage while in this stance, you suffer one less round of damage (suffering a total
+of three-quarters damage). Furthermore, you do not automatically fail death saving throws from
+triggered by staggered damage.
+
+Also, the first time you enter this stance, you gain temporary hit points equal to double your level.
+
+If you succeed on an Agility or Strength saving throw against an effect and take no damage, you
+may enter this stance for only 1 Ki point, as a reaction.
+
+This stance is also broken if you move more than your normal speed in a single round.
+
+#### Zen Pose
+Starting at 17th level, your Ox Stance is enhanced into Zen Pose. So long as you do not
+take damage from an attack and do not fail a saving throw, your enemies have disadvantage to
+attack rolls against you, and you have advantage to all saving throws. Whenever both rolls (from
+advantage or disadvantage) are resolved to your benefit while in the pose (such as an attack failing
+once normally and again due to disadvantage), you regain 1 Ki point.
+
+\pagebreakNum
+
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe3babb3-440b-405c-bd1c-42a94057f514/d9kzjpe-a9cb80a8-71a8-4a39-a60b-2ed32afbd091.png/v1/fill/w_1192,h_670,q_70,strp/debenedictis_wallpaper___world_of_warcraft_by_ginnypinnyart_d9kzjpe-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2ZlM2JhYmIzLTQ0MGItNDA1Yy1iZDFjLTQyYTk0MDU3ZjUxNFwvZDlrempwZS1hOWNiODBhOC03MWE4LTRhMzktYTYwYi0yZWQzMmFmYmQwOTEucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.tab7_tuLXU48EJFF089ySgAzOL5NgxfK1DJ5Ce380QM' style='position:absolute; top:-150px; left:-50px; width:980px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:-40px; right:0px; width:890px;' />
+
+<div style="margin-top:250px;"></div>
+
+### Mistweaver
+You are focused on empowering and supporting allies. Mistweavers are usually the most elusive of
+the monk disciplines.
+
+#### Mistweaver Focus
+Upon reaching 3rd level and gaining this monk tradition, you may add the
+following Ki power to your repertoire.
+
+##### Soothing Mist
+As an action, you may expend Ki and gain a cloud of healing mists. The
+creature gains 2d6 hit points for every Ki point invested. You may target a creature up to 15 feet
+away (or a number of creatures within 30 feet of one another), and distribute healing amongst as
+many creatures as you wish. If benefitting from Thunder Focus Tea, this ability heals 5 extra hit
+points.
+
+If you already used your action to attack a hostile creature and landed at least one successful hit on
+your turn in the last round, you may use this ability as a bonus action instead.
+
+You may alternatively expend hit points from your pool of healing to cure the target of one disease
+or neutralize one poison affecting it, with a number of hit points required equal to one-half the
+saving throw DC of the poison (round up). You can cure multiple diseases and neutralize multiple
+poisons with a single use of Soothing Mist, expending hit points separately for each one. This
+feature has no effect on constructs or undead.
+
+##### Enveloping Mist
+As an action, you can spend 1 Ki to cast the rejuvenation or expeditious
+retreat spells as 1st level spells. These requires only verbal components. You can spend additional Ki
+to heighten the spells.
+
+Mistweaver’s Enlightenment. Also upon gaining this monk tradition, whenever you deal damage
+to a target, you are enhanced with enlightenment for until the end of your turn in the next round.
+
+You may either reduce the Ki cost of an ability you use by 1 point (minimum 1 point), or use the
+Soothing Mist Ki power with no expenditure of Ki. This heals as if you spent 1 Ki point only, but
+cannot heal a creature above its Bloodied value. 
+
+#### Mistweaver Ki
+Upon reaching 6th level, you gain the following new Ki powers and add them to
+your repertoire.
+
+\columnbreak
+
+<div style="margin-top:270px;"></div>
+
+##### Control Ki
+As an action, you may spend 2 Ki to cast the mute spell. Upon reaching 9th
+level, you may also cast dispel magic as a 3rd level spell. You may either cast them with their normal
+ranges, use them as strike effects, or imbue them into your brews if you have the Brewer feat. In
+this case, they are the only imbued effect. You can spend Ki to heighten this effect.
+
+If the target of your mute spell fails their saving throw or if your dispel magic spell successfully dispels
+a spell, you regain 1 Ki.
+
+##### Mist Weave
+As an action, you can spend 2 Ki to cast the fog cloud and blink step spells as
+2nd level spells. You can spend Ki to heighten this effect. If you use the blink step spell to end
+adjacent to an ally and target them with your Soothing Mist ability, you regain half the Ki you
+spend on the ability.
+
+Furthermore, so long as you have at least 2 Ki, you suffer only light obstruction, and never heavy
+obstruction from mist and fog.
+
+#### Mistweaver’s Peace
+Also starting at 6th level, you can spend 3 Ki to cast the barrier ward spell as a
+3rd level spell. Furthermore, if a creature fails to force its way through the barrier or attempts to
+deal damage to the barrier, it is pushed 10 feet away from the barrier. If attempting to damage the
+barrier, the target is pushed only if they fail a Strength saving throw against your Ki DC. 
+
+#### Life Cocoon
+Starting at 11th level, you may spend 2 Ki points designate an allied creature with a
+cocoon of Ki as an action, which remains for 1 minute. While invigorated this way, the creature
+gains 3d10 temporary hit points. So long as the temporary hit points remain, the target heals 50%
+more hit points from healing effects.
+
+A creature cannot benefit from life cocoon more than once every 24 hours. You may use this ability
+on yourself while stunned or asleep, but not while incapacitated.
+
+#### Enlightenment
+Starting at 17th level, you may spend 7 Ki to cast the resurrection spell, or 4 Ki to
+cast the revivify spell. Once the resurrection spell is cast, you cannot cast it again until you complete a
+short rest, regardless if you have Ki remaining.
+
+Furthermore, your Life Cocoon ability grants 5d10 temporary hit points instead of 3d10, and a
+creature can benefit once per a short rest. 
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4eedabb7-e1b0-4c92-ac16-f008aac2739c/daf23t6-c69d114b-c6bb-4a3b-88d8-00110b015311.png/v1/fill/w_1600,h_1905,q_80,strp/justinia_by_dianaiiz_daf23t6-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRlZWRhYmI3LWUxYjAtNGM5Mi1hYzE2LWYwMDhhYWMyNzM5Y1wvZGFmMjN0Ni1jNjlkMTE0Yi1jNmJiLTRhM2ItODhkOC0wMDExMGIwMTUzMTEucG5nIiwiaGVpZ2h0IjoiPD0xOTA1Iiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvNGVlZGFiYjctZTFiMC00YzkyLWFjMTYtZjAwOGFhYzI3MzljXC9kaWFuYWlpei00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.gAcV8mfoe4w9MtBQnk12nKKtrW7UYxDDFMOQiDmN5rE' style='position:absolute; top:-80px; left:-50px; width:850px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:60px; right:0px; width:890px;' />
+
+<div style="margin-top:350px;"></div>
+
+### Windwalker
+You are focused on hand-to-hand combat and evasion of the enemy‘s blows. Windwalkers are
+usually the most confrontational of the monk disciplines.
+
+#### Windwalker Focus
+Upon reaching 3rd level and gaining this monk tradition, you may add the
+following Ki power to your repertoire.
+
+##### Superior Martial Arts
+As an action, you may spend 2 Ki and deal a single unarmed attack
+roll as an area of effect (expending any number of attacks). You may choose to make it a 5-footburst around you (Hurricane Kick), a 10-foot cone (Fists of Fury), or a 15-foot line (Flying Serpent
+Kick). You may move within the specified area of effect without provoking reactions from the
+creatures in the area of effect (such as kicking through a line of enemies and landing behind them
+with a Flying Serpent Kick, or shifting 5 feet to the right after a Hurricane Kick, or moving 10 feet
+to one side after a Fists of Fury). Creatures affected can attempt an Agility saving throw against your
+Ki DC to half the damage.
+
+This action counts as if you made a single unarmed attack for the purposes of your Martial Arts
+feature and Flurry of Blows ability.
+
+#### Windwalker Grace
+Also upon gaining this monk tradition, whenever you deal damage to a target,
+you can use your Step of the Wind Ki ability without spending a Ki point.
+
+#### Windwalker Ki
+Upon reaching 6th level, you gain the following new Ki powers and add them to
+your repertoire.
+
+##### Destroy Mana [Strike]
+As an action, you may spend 2 Ki to cast the mana burn spell. This
+requires touching the effect or creature that is subject to the effect, and does not require vocal
+components. You can choose to make this ability destroy Ki instead, in which case it removes half
+the mana points it would normally remove. You may treat this as a strike effect. You can spend Ki
+to heighten this effect.
+
+\columnbreak
+
+<div style="margin-top:350px;"></div>
+
+##### Rising Sun [Strike].
+As a bonus action, you may perform an upwards kick, dealing
+unarmed damage and imposing an additional effect. You may also choose between dealing extra
+2d6 damage, or adding 1d6 to any melee weapon attack you make against the target for the next
+minute. If the target succeeds on a Strength saving throw, they take half the 2d6 extra damage, or,
+if you chose the second option, ignore the extra damage.
+
+#### Combo Attacks
+Starting at 11th level, you score a critical hit with your weapon attacks on a 19-20.
+
+If you already possess this range, the range increases by 1 point to 18-20. When you score a critical
+hit, you may either use any one Ki ability with no action or Ki cost (such as flurry of blows, Rising
+Sun, your Superior Martial Arts abilities, or Quivering Palm once you gain it), or choose to regain 2
+Ki.
+
+#### Quivering Palm
+At 17th level, you gain the ability to set up lethal vibrations in someone‘s body.
+
+When you hit a creature with an unarmed strike, you can use a bonus action and 3 Ki to start these
+imperceptible vibrations, which last for a number of days equal to your monk level. The vibrations
+are harmless unless you use your action to end them. To do so, you and the target must be on the
+same plane of existence. When you use this action, the creature must make a Stamina saving throw.
+
+If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 shadow damage instead. You
+may place these vibrations even with a harmless touch (which may require a Charisma (Deception)
+check contested to a Spirit (Insight) check).
+
+You can have only one creature under the effect of this feature at a time. You can choose to end
+the vibrations harmlessly without using an action.
 
 \pagebreakNum
 
