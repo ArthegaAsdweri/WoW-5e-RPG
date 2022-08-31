@@ -2081,14 +2081,14 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a priest‘s pack or *(b)* an explorer‘s pack
 - Chain mail and an unholy symbol
 
-### Special
+#### Special
 
-#### Corruption
+##### Corruption
 Upon gaining a level in this class, you may permanently pledge your soul as well, turning yourself
 into an undead creature (permanently gaining the below Undead Nature ability, and counting as
 the undead creature type).
 
-#### Undead Nature
+##### Undead Nature
 You don‘t require air, food, drink, or sleep. You are also immune to nonmagical
 poisons and diseases, and have advantage to effects that cause the exhausted and poisoned
 conditions.
@@ -2100,14 +2100,13 @@ sacrifice also takes its toll on the draenei‘s body, slowly morphing their app
 extended exposure to fel magic to be more like the Eredar, but turning their skin sickly pale blue
 instead of red.
 
-
-#### Rune Spells
+##### Rune Spells
 Death Knights are the only class that can access the rune array spell, and can prepare different runes
 for strike effects. Runes are magical enhancements that can enhance a death knight‘s weapon
 attacks, and can be released in coordination with the Runic Strike ability to cause a devastating
 strike.
 
-#### Rune-Bound
+##### Rune-Bound
 Upon gaining a level in this class, you can turn one (of both, if using two weapons to fight) of your
 weapons into Runeblades, a weapon infused with the might of the Lich King and his blessing.
 Runeblades have three benefits:
@@ -3549,6 +3548,8 @@ though you are blind to your own surroundings if you do so.
 
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:-50px; width:100%; height:100%; transform:scaleX(-1);' />
 
+.
+
 \columnbreak
 
 ### Marksman
@@ -3981,6 +3982,8 @@ extra damage is negated or halved appropriately).
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7b307a04-6ac2-4caa-9a95-8f112e6d629f/de8i5cb-c5dd89d7-003c-4122-91d1-e69f412c9616.jpg/v1/fill/w_1600,h_1600,q_75,strp/blood_elf_mage_by_deanoyebo_de8i5cb-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcLzdiMzA3YTA0LTZhYzItNGNhYS05YTk1LThmMTEyZTZkNjI5ZlwvZGU4aTVjYi1jNWRkODlkNy0wMDNjLTQxMjItOTFkMS1lNjlmNDEyYzk2MTYuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Ub1Y0vfvy8Rx96HEY0w24TnQEpNdCpmQuumzifvbfw4' style='position:absolute; top:0px; left:-475px; height:100%;' />
 
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:-50px; width:100%; height:100%; transform:scaleX(-1);' />
+
+.
 
 \columnbreak
 
@@ -4645,3 +4648,581 @@ the vibrations harmlessly without using an action.
 
 \pagebreakNum
 
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c75d1491-03f2-456d-b247-9e5596e90c3a/deb7igp-bdcbb5d9-591f-4e67-b47f-b59360b13629.png/v1/fill/w_1280,h_905,strp/juniper_stites_by_axilusturner_deb7igp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvYzc1ZDE0OTEtMDNmMi00NTZkLWIyNDctOWU1NTk2ZTkwYzNhXC9kZWI3aWdwLWJkY2JiNWQ5LTU5MWYtNGU2Ny1iNDdmLWI1OTM2MGIxMzYyOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.J4QYXrDm94pb1LytMyvOJe_OGSaQSx-8YreMwwMw-Pg' style='position:absolute; top:-80px; left:-50px; width:850px;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:500px;"></div>
+
+## Paladin (PLD)
+*A draenei pores over an ancient libram, moving its pages by his
+mere will. Summoning a blessing, he shuts the tome as light
+arises from his hooves to the heavens. Hefting his crystalline
+greathammer, he exits, aware that his return is unlikely at best.*
+<br><br>
+*Huddled together, two young orcs cower as a fierce dragon
+lands with a resounding crash atop the chieftain‘s hut. She roars
+before spewing liquid fire upon the great watchtower, revealing
+the orcs in the light. She releases a blast of flame at them—but
+then stops. The red inferno dissipates to reveal tauren clad in
+golden plate, holding aloft a mighty shield that blocked her fire. Telling the orcs to run, the tauren
+prepares himself to face the dragon alone, satisfied he has bought the young orcs the time they
+needed to escape.*
+<br><br>
+*A human rides through haunted plague-lands on a wounded steed. As he nears an abandoned
+barn, hisses are from undead throats, as six ghouls skulk from the interior of the barn. The rider
+raises a bare hand, causing a burst of holy light to rise from the earth to burn the ghouls. After his
+deed is done, the rider continues on, the land still marked with his power, temporarily freed from
+unholy blight.*
+<br><br>
+This is the call of the paladin: to protect the weak, to bring justice to the unjust, and to vanquish
+evil from the darkest corners of the world. These holy warriors are equipped with plate armor so
+they can confront the toughest of foes, and the blessing of the Light allows them to heal wounds
+and, in some cases, even restore life to the dead.
+
+\columnbreak
+
+<div style="margin-top:520px;"></div>
+
+### The Cause of Righteousness
+Paladins are virtuous defenders of the weak, and tireless, unfaltering enemies of the undead.
+Mixing elements of the warrior and the clerics of the Holy Light, the paladin is a tough melee
+fighter.
+
+The paladin is a warrior of the Holy Light. They uphold all that is good and true in the world and
+revile all that is evil and sinister, especially undead and the Burning Legion. They offer succor to
+the beleaguered and smite their enemies with holy fervor. They are particularly potent against
+undead, as these creatures threaten the goodly races and the Holy Light burns them terribly. The
+presence of any evil is reprehensible to paladins, but they focus their efforts on destroying undead
+and demons.
+
+These warriors uphold the tenets of the Holy Light and defend their factions from the predations
+of any threat. Found in almost every corner of Azeroth fighting the forces of evil and barbarism,
+these stalwart warriors of faith ceaselessly uphold their vigil against demonic forces from beyond the
+Dark Portal. Paladins are the embodiment of good and selfless dedication to the protection of their
+peoples. They help the innocent and punish the wicked. As such, paladins are generally of good
+alignment.
+
+### Bexond the Mundane Life
+Almost by definition, the life of a paladin is an adventuring life. Unless a lasting injury has taken
+him or her away from adventuring for a time, every paladin lives on the front lines of the cosmic
+struggle against evil.
+
+\pagebreakNum
+
+Fighters are rare enough among the ranks of the militias and armies of the world, but even fewer
+people can claim the true calling of a paladin. When they do receive the call, these warriors turn
+from their former occupations and take up arms to fight evil. Sometimes their oaths lead them into
+the service of the crown as leaders of elite groups of knights, but even then their loyalty is first to
+the cause of righteousness, not to crown and country. Adventuring paladins take their work
+seriously. A delve into an ancient ruin or dusty crypt can be a quest driven by a higher purpose
+than the acquisition of treasure. Evil lurks in dungeons and primeval forests, and even the smallest
+victory against it can tilt the cosmic balance away from oblivion.
+
+### Creating a Paladin
+The most important aspect of a paladin character is the nature of his or her holy quest. Although
+the class features related to your oath don‘t appear until you reach 3rd level, plan ahead for that
+choice by reading the oath descriptions at the end of the class.
+
+Are you a devoted servant of good, loyal to justice and honor, a holy knight in shining armor
+venturing forth to smite evil? Are you a glorious champion of the Light, cherishing everything
+beautiful that stands against the shadow? Are you a defender who can stand before sea of foes
+without flinching? Or are you an embittered loner sworn to deliver retribution on those who have
+done great evil?
+
+#### Quick Build
+You can make a paladin quickly by following these suggestions. First, Strength should be your
+highest ability score, followed by Charisma. Second, choose the noble background. Third, choose
+the following 1st-level spells for your libram: compelled duel, holy light, and seal array (righteousness).
+
+### Class Features
+As a paladin, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per paladin level
+- **Hit Points at 1st Level:** 10 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Stamina modifier per paladin level after 1st
+
+#### Proficiencies
+___
+- **Armor:** All armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+___
+- **Saving Throws:** Stamina, Charisma
+- **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Deception, and Religion.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a martial weapon and a shield or *(b)* two martial weapons
+- *(a)* five javelins or *(b)* any simple melee weapon
+- *(a)* a priest‘s pack or *(b)* an explorer‘s pack
+- Chain mail, a holy symbol, and a holy libram
+ 
+\columnbreak
+
+#### Special
+
+##### Seal Spells
+Paladins are the only class that can access the seal array spell, and can prepare different seals for
+strike effects. Seals are magical enhancements that can enhance a paladin‘s weapon attacks, and can
+be released in coordination with the Crusader Strike ability to cause a devastating strike. 
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c36f7afb-d24d-4cab-84b2-a4939a459680/d89ckmi-2ea907ca-dcec-496e-a188-847367ffe1a6.jpg/v1/fill/w_1024,h_872,q_75,strp/paladin_concept_by_ajnazzaro_d89ckmi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODcyIiwicGF0aCI6IlwvZlwvYzM2ZjdhZmItZDI0ZC00Y2FiLTg0YjItYTQ5MzlhNDU5NjgwXC9kODlja21pLTJlYTkwN2NhLWRjZWMtNDk2ZS1hMTg4LTg0NzM2N2ZmZTFhNi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Y2uUIknGGbVguYwYHlM7w0GdgCBxYPV1tE5fyRNpn48' style='position:absolute; top:0px; right:-0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:350px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Caster Level |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Divine Sense, Lay on Hands | -
+| 2nd | +2 | Crusader Strike, Fighting Style, Spellcasting | 1 (1st)
+| 3rd | +2 | Aura (Devotion), Holy Oath | 2 (1st)
+| 4th | +2 | Ability Score Improvement | 2 (1st)
+| 5th | +3 | Extra Attack | 3 (2nd)
+| 6th | +3 | Divine Health, Aura (Retribution) | 3 (2nd)
+| 7th | +3 | Holy Oath Feature | 4 (2nd)
+| 8th | +3 | Ability Score Improvement | 4 (2nd)
+| 9th | +4 | - | 5 (3rd)
+| 10th | +4 | Aura (Crusader) | 5 (3rd)
+| 11th | +4 | Improved Crusader Strike | 6 (3rd)
+| 12th | +4 | Ability Score Improvement | 6 (3rd)
+| 13th | +5 | - | 7 (4th)
+| 14th | +5 | Cleansing Touch, Aura (Concentration) | 7 (4th)
+| 15th | +5 | Holy Oath Feature | 8 (4th)
+| 16th | +5 | Ability Score Improvement | 8 (4th)
+| 17th | +6 | - | 9 (5th)
+| 18th | +6 | Aura (Resistance), Aura Improvement | 9 (5th)
+| 19th | +6 | Ability Score Improvement | 10 (5th)
+| 20th | +6 | Holy Oath Feature | 10 (5th)
+
+
+</div>
+
+\pagebreakNum
+
+#### Divine Sense
+The presence of strong evil registers on your senses like a noxious odor, and powerful good rings
+like heavenly music in your ears. As an action, you can open your awareness to detect such forces.
+
+Until the end of your next turn, you know the location of any celestial, fiend, or undead within 60
+feet of you that is not behind total cover. You know the type (celestial, fiend, or undead) of any
+being whose presence you sense, but not its identity (the lich Kel‘Thuzad, for instance). Within the
+same radius, you also detect the presence of any place or object that has been consecrated or
+desecrated, as with the hallow spell. You can use this feature a number of times equal to 1 + your
+Charisma modifier. When you finish a long rest, you regain all expended uses.
+
+#### Lay on Hands
+Your blessed touch can cure wounds. As an action, you may lay your hands on a target, investing
+them with healing energies. For every mana point you spend for Lay on Hands, you heal a number
+of hit points equal to your proficiency bonus. Amount you heal is instead treated as holy damage
+for undead and fiends (in which case, this requires a melee spell attack). Excess hit points are lost,
+and you cannot heal or deal more damage than a value equal to your maximum hit points. When
+performing Lay on Hands on yourself, this is instead a bonus action.
+
+Alternatively, you can expend the mana to cure one disease or one poison of your choice. Each
+disease or poison requires spending mana points equal to one-quarter the saving throw DC of the
+poison or disease. You may cure multiple diseases or poisons this way. This feature has no effect on
+constructs.
+
+You gain a mana pool as if you were a second level paladin (see the Spellcasting feature below), with
+the pool size as if you had no access to 1st level spells.
+
+#### Crusader Strike
+Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend mana as
+if you cast a spell to deal holy damage to the target, in addition to the weapon‘s damage. The extra
+damage is 1d8 plus 1d8 per spell level (maximum 6d8 with a 5th level spell). If the target is a fiend
+or an undead, you gain +5 to the strike‘s damage.
+
+If you have a seal active, you may also perform a Crusader Strike without expending mana (called
+Seal Release or Judgment), terminating the effects of the seal (plus an additional effect depending
+on the seal). Despite the name, Crusader Strike does not count as a Strike effect.
+
+#### Fighting Style
+At 2nd level, you adopt a style of fighting as your specialty. Choose one of the following options.
+You can‘t take a Fighting Style option more than once, even if you later get to choose again.
+* **Defense** While you are wearing armor, you gain a +1 bonus to AC.
+* **Dueling** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to
+damage rolls with that weapon.
+* **Great Weapon Fighting** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are
+wielding with two hands, you can reroll the die and must use the new roll. The weapon must have
+the two-handed or versatile property for you to gain this benefit.
+* **Protection** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use
+your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+
+#### Spellcasting
+By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast
+spells as a priest does.
+
+##### Conjuring and Binding
+A paladin can conjure and bind celestials.
+
+##### Preparing and Casting Spells
+Each paladin level provides you with 0.5 caster levels in the paladin class (minimum 0). You follow
+the normal progression to unlock spell levels (see the table under the Mana section).
+
+You can also change your list of prepared spells by consulting your libram (treat as a spellbook)
+after a long rest. Preparing a new list of paladin spells requires time spent in study: at least 1 minute
+per spell level for each spell on your list.
+
+##### Spellcasting Ability
+Charisma is your spellcasting ability for your paladin spells, since their power derives from the
+strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting
+ability. In addition, you use your Charisma modifier when setting the saving throw DC for a
+paladin spell you cast and when making an attack roll with one.
+<br><br>
+**Spell save DC** = 8 + your proficiency bonus +
+
+your Charisma modifier
+<br>
+**Spell attack modifier** = your proficiency bonus +
+
+your Charisma modifier
+
+##### Spellbook – Libram
+At 2nd level, your libram contains three 1st-level paladin spells of your choice. When you level up,
+you gain 2 additional paladin spells of your choice. You may also acquire new spells by research,
+tutelage, or from the spellbooks and scrolls of spellcasters who have spells you can cast.
+
+Your libram is effectively your spellbook, and you may add spells by scribing it with new insights
+regarding the faith and how to protect and promote it.
+
+##### Spellcasting Focus
+You can use your holy libram as a spellcasting focus for your paladin spells, as well as the store for
+them.
+
+#### Aura
+Starting at 3rd level, your mastery over aura spells begins to manifest. You always have the following
+aura spells prepared.
+* At 3rd level, you always have the devotion aura spell prepared.
+* At 6th level, you always have the retribution aura spell prepared.
+* At 10th level, you always have the crusader aura spell prepared.
+* At 14th level, you always have the concentration aura spell prepared.
+* At 18th level, you always have the resistance aura spell prepared.
+
+\pagebreakNum
+
+Furthermore, you may cast each of the above aura spells for no cost once upon reaching the
+described level. You regain all expended uses after a short rest.
+
+#### Holy Oath
+When you reach 3rd level, you walk a path that defines you as a paladin forever. Up to this time
+you have been in a preparatory stage, committed to the path but not yet sworn to it.
+
+You may choose the Oath of Holiness to aid the helpless, Oath of Protection to guard the weak, or
+Oath of Retribution to smite the wicked, all detailed at the end of the class description.
+
+Your choice grants you features at 3rd level and again at 7th, 15th, and 20th level. Those features
+include oath spells and the Channel Divinity feature.
+
+##### Oath Spells
+Each oath has a list of associated spells. You gain access to these spells at the levels specified in the
+oath description. Once you gain access to an oath spell, you always have it prepared. Oath spells
+don‘t count against the number of spells you can prepare each day.
+
+If you gain an oath spell that doesn‘t appear on the paladin spell list, the spell is nonetheless a
+paladin spell for you.
+
+##### Channel Divinity
+Your path allows you to channel divine energy to fuel magical effects. Each Channel Divinity
+option provided by your path explains how to use it. When you use your Channel Divinity, you
+choose which option to use. You must then finish a short or long rest to use your Channel Divinity
+again. Some Channel Divinity effects require saving throws. When you use such an effect from this
+class, the DC equals your paladin spell save DC.
+
+You may always Turn Undead, and you gain an additional choice from your Path.
+
+##### Channel Divinity: Turn Undead
+As an action, you present your holy symbol and speak a prayer censuring fiends and undead, using
+your Channel Divinity. Each fiend or undead that can see or hear you within 30 feet of you must
+make a Spirit saving throw.
+
+If the creature fails its saving throw, it is turned for 1 minute or until it takes damage. A turned
+creature must spend its turns trying to move as far away from you as it can, and it can‘t willingly
+move to a space within 30 feet of you. It also can‘t take reactions. For its action, it can use only the
+Dash action or try to escape from an effect that prevents it from moving. If there‘s nowhere to
+move, the creature can use the Dodge action.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1.
+
+As normal, you can‘t increase an ability score above 20 using this feature.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action
+on your turn.
+
+\columnbreak
+
+#### Divine Health
+Starting at 6th level, the divine magics flowing within you grant you immunity to diseases and
+advantage against poison, as well as resistance against poison damage.
+
+#### Improved Crusader Strike
+By 11th level, you are so suffused with the might of the Light that all your melee weapon strikes
+carry its divine power with it. Whenever you hit a creature with a melee weapon, the creature takes
+an extra 1d8 holy damage. If you also use your Crusader Strike with an attack, you add this damage
+to the extra damage of your Crusader Strike.
+
+#### Cleansing Touch
+Beginning at 14th level, you can use your action to end one spell on yourself or on one willing
+creature that you touch.
+
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once).
+You regain expended uses when you finish a long rest.
+
+#### Aura Improvement
+Also starting at 18th level, you have advantage to any check to maintain an aura, and may extend
+the range of any aura spell by 100%. Any effect that would normally dispel the aura instead
+suppresses it for 1 minute instead. 
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b37d301f-0c94-46b7-9514-d22c7f29a63f/d8r9n17-4be2da7b-1e60-4be6-b6c6-c76ae5e93cee.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IzN2QzMDFmLTBjOTQtNDZiNy05NTE0LWQyMmM3ZjI5YTYzZlwvZDhyOW4xNy00YmUyZGE3Yi0xZTYwLTRiZTYtYjZjNi1jNzZhZTVlOTNjZWUuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WmWYcX66l7xtm7i7YS1g5ukPgyF9amPQlKL3EBhdXYA' style='position:absolute; top:-150px; right:-0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:100px; right:0px; width:890px;' />
+
+<div style="margin-top:400px;"></div>
+
+### Oath of Holiness
+Your oath is to heal and inspire your allies. Holy paladins are common, and are usually wellregarded battle healers.
+<br><br>
+<div class='classTable'>
+
+#### Oath of Holiness Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Protection from evil and good, sanctuary |
+| 5th | Lesser restoration, zone of truth |
+| 9th | Beacon of hope, revivify (or redemption) |
+| 13th | Freedom of movement, guardian of faith |
+| 17th | Commune, mass revivify (or mass redemption) |
+
+</div>
+
+#### Channel Divinity: Light of Dawn
+When you take this oath at 3rd level, you can spend a Channel
+Divinity use and an action, to present your holy symbol and release an outburst of the Holy Light
+of Creation, allowing one friendly creature within 30 feet to use a hit dice as if they rested. The ally
+also gains temporary hit points equal to double your Charisma modifier.
+
+#### Holy Vision
+At 3rd level, whenever you cast a healing spell from the paladin spell list and the dice
+shows the maximum possible result (such as a 6 on a d6), you may roll the maximized dice again
+and add the amount healed to the total. This applies to healing spells that deal damage to undead.
+This does not stack with other similar abilities.
+
+This acts similarly to the Light‘s Insight ability of the holy priesthood. If having both features, and
+if the re-rolled dice results in a maximum result as well, you may roll a third time.
+
+\columnbreak
+
+<div style="margin-top:420px;"></div>
+
+#### Holy Auras
+At 7th level, your auras increase in strength. You may maintain two aura spells at once
+as if they cost one case of concentration. Furthermore, your allies can benefit from two auras at a
+time.
+
+Also, whenever an ally is within one of your aura spells, they are more easily healed by you. If you
+are using a paladin healing spell, it can heal one additional dice of damage to them. If you are using
+the Lay on Hands feature, it can heal 25% extra hit points. If you are using the holy shock spell, it
+can heal or deal one additional dice of damage if the target is within one of your aura spells.
+
+#### Latent Prayer
+Starting at 15th level, you may cast a healing spell on a creature that only activates
+whenever the creature wishes. This does not require concentration on your end, and the creature
+(or you) may declare use of the spell as a reaction. This effect remains for one day or until used, and
+leaves a holy mark that can be detected as the healing spell. A single creature can only benefit from
+one latent prayer until they take a long rest. This may also be applied to undead to harm them (if
+possible).
+
+If you use this ability while under the effect of the avatar form paladin spell, you can affect a second
+time in the same period.
+
+#### Illuminated Healer
+By 20th level, whenever a creature that benefits from a healing effect (such as
+Light of Dawn, or healing spell) originating from you manifest a holy shield. This holy shield grants
+them temporary hit points equal to the amount they were healed by you.
+
+This shield remains until ten minutes have passed. A creature can benefit from a single holy shield
+only once every hour. When you benefit from maximized dice via your Holy Vision feature, you
+may roll again (up to twice per instance).
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1366870d-f4a1-4e2c-a952-1dd79847779c/dd9w2cl-71e89fb0-3746-4f5b-966c-54756f25ab6b.jpg/v1/fill/w_982,h_814,q_70,strp/battle_at_boralus_harbor_by_mirasand_dd9w2cl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2MSIsInBhdGgiOiJcL2ZcLzEzNjY4NzBkLWY0YTEtNGUyYy1hOTUyLTFkZDc5ODQ3Nzc5Y1wvZGQ5dzJjbC03MWU4OWZiMC0zNzQ2LTRmNWItOTY2Yy01NDc1NmYyNWFiNmIuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.btc6XH1DUNkX6h_51UYRuKDZq-HKCfV98McapG2zMX0' style='position:absolute; top:-100px; right:-0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:20px; right:0px; width:890px;' />
+
+<div style="margin-top:310px;"></div>
+
+### Oath of Protection
+Your oath is to guard your allies and all friends of the Holy Light. Protection paladins are very
+tough foes who can survive hefty abuse.
+<br><br>
+<div class='classTable'>
+
+#### Oath of Protection Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Sanctuary, shield |
+| 5th | Lesser restoration, warding bond |
+| 9th | Beacon of hope, revivify (or redemption) |
+| 13th | Aura of life, death ward |
+| 17th | hope of healing, wall of force |
+
+</div>
+
+#### Channel Divinity: Rook’s Move
+When you take this oath at 3rd level, you may spend a Channel
+Divinity use to swap places with any ally as a reaction. Choose an ally that is about to be attacked by
+a weapon attack, or an ally who took damage from a weapon attack roll. The two of you change
+places, ignoring attacks of opportunity provoked as part of movement and difficult terrain. The ally
+must be within 30 feet of you, you must have a clear path to them, and the target must be of your
+size category or smaller.
+
+If you use this ability before the attack roll is made, but you must declare use of this ability before
+knowing whether the attack would hit the ally. The attack roll is made against your normal AC.
+
+If you declare this ability after the attack roll is successful, the attack is automatically successful, and
+you switch places, even if you would have otherwise been unharmed (it such as by having a higher
+AC value than the attacker‘s attack roll).
+
+#### Avenger’s Shield
+Starting 3rd level, you may throw a shield you are wearing as a ranged thrown
+attack (even if it is normally strapped to your arm). The shield acts as a light thrown weapon with a
+range of 30/60 feet that deals 1d4 + your Strength modifier in damage. The damage dealt is half holy and half
+
+\columnbreak
+
+<div style="margin-top:330px;"></div>
+
+bludgeoning, and furthermore the target gains the distracted condition for until the
+beginning of your turn in the next round. The shield returns instantaneously to your hand, and
+may be used again in the same round if you have multiple attacks.
+
+Also, so long as you are using a shield, you cannot lose concentration on an aura spell due to
+damage. The Improved Auras ability grants you advantage to any concentration spell from the
+Paladin spell list instead.
+
+#### Opportune Prayer
+Starting at 7th level, whenever you reduce an enemy to 0 hit points, you may
+cast a healing spell from the paladin spell list as a reaction (so long as the spell has a maximum
+casting time of 1 action). You may also do this whenever you score a critical hit, are hit with a
+critical hit, or when reduced to 0 hit points.
+
+Furthermore, so long as you have multiple attacks, you can spend them to allow your Avenger‘s
+Shield to target multiple creatures. Regardless if the shield hits or misses, it may target another
+creature within 30 feet of the first target (up to one target per attack action spent this way). When
+you no longer have any extra attacks or choose to stop the bounce, the shield returns to you.
+
+If you are under the effects of the avatar form paladin spell, you can bounce your shield at one extra
+target.
+
+#### Holy Sentinel
+Starting at 15th level, your Avenger‘s Shield deals 2d4 points of damage instead of
+1d4. Also, whenever you successfully strike a target with the shield, you gain a d4 dice (up to a
+maximum number of dice equal to 3d4). If you deal Holy damage or heal at least 1 hit point of
+damage with your Paladin spells or your Lay on Hands feature, you may expend the dice and add
+the result to your roll.
+
+This applies once per spell.
+
+#### Ardent Defender
+At level 20, you may, as a reaction, you may gain resistance to all damage for one
+round. Once this feature is used a number of times equal to your Charisma modifier, it cannot be
+used again until you complete a long rest.
+
+When you no longer have uses of this ability, your Opportune Prayer ability allows you to cast any
+paladin spell when it is triggered instead (subject to the same casting time restriction).
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1366870d-f4a1-4e2c-a952-1dd79847779c/devne2e-3733f4db-e58f-4831-99d7-d35b0d673b98.jpg/v1/fill/w_1280,h_760,q_75,strp/last_stand_by_mirasand_devne2e-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzYwIiwicGF0aCI6IlwvZlwvMTM2Njg3MGQtZjRhMS00ZTJjLWE5NTItMWRkNzk4NDc3NzljXC9kZXZuZTJlLTM3MzNmNGRiLWU1OGYtNDgzMS05OWQ3LWQzNWIwZDY3M2I5OC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rnMtbgG8rDS3URsuNQWi4PgtYPsTnVGlDQgH58oggQg' style='position:absolute; top:-30px; right:-0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:90px; right:0px; width:890px;' />
+
+<div style="margin-top:380px;"></div>
+
+### Oath of Retribution
+Your oath is to bring retribution to the wicked, avenging wrongs made but not settled. Retribution
+paladins are often wandering knights, hunting down villains and depraved monsters.
+<br><br>
+<div class='classTable'>
+
+#### Oath of Retribution Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 3rd | Compelled duel, heroism |
+| 5th | Branding smite, warding bond |
+| 9th | Daylight, haste |
+| 13th | Death ward, guardian of faith |
+| 17th | Aligned weapon (or holy weapon), flame strike (or argent cleansing) |
+
+</div>
+
+#### Channel Divinity
+Sword of Light. When you take this oath at 3rd level, you can spend a Channel
+Divinity use and an action to imbue one weapon that you are holding with positive energy. For 1
+minute, you add your Charisma modifier to attack rolls made with that weapon (a minimum bonus
+of +1). The weapon also emits bright light in a 20-foot-radius and dim light 20 feet beyond that. If
+the weapon is not already magical, it becomes magical for the duration.
+
+You can end this effect on your turn as a bonus action. If you are no longer holding or carrying this
+weapon, or if you fall unconscious, this effect ends. The light is treated as a light spell of your
+highest-level paladin level for the purposes of dispelling darkness.
+
+#### Arm of the Law
+At 3rd level, you may perform a Crusader Strike as a ranged spell attack. The
+attack has a range of 30 feet, and deals only
+
+\columnbreak
+
+<div style="margin-top:400px;"></div> 
+the holy damage as well as any seal release effects.
+If you use a thrown weapon, you can use Crusader Strike at a range of up to 30 feet.
+
+Also, whenever you use Crusader Strike or release a seal, you can Dash as a bonus action, but only
+to approach the target of your Crusader Strike or an allied creature within 10 feet of the target.
+
+#### Sword of Truth
+Starting at 7th level, you add your Charisma modifier to your melee weapon
+damage rolls, and whenever you perform a Crusader Strike, you regain hit points equal to half the
+holy damage you dealt using the ability.
+
+Lastly, if you are under the effects of the avatar form paladin spell, you can choose one seal you can
+cast, and that seal is cast for no mana cost, and remains active until the avatar form spell ends.
+
+#### Divine Storm
+Starting at 15th level, whenever you use a Crusader Strike, you may allow the holy
+energies to radiate from you in a blazing storm of holy radiance. All hostile creatures within 5 feet
+of you suffer the same holy damage dealt by the Crusader Strike ability. They may halve the damage
+on a successful Spirit saving throw against your Spell save DC.
+
+If you released a seal, the release effect is applied only to the initial creature. You also only regain
+hit points appropriate to the damage you dealt the initial target.
+
+If you are under the effects of the avatar form paladin spell, you may reroll any 1 or 2 on a damage
+dice for your Crusader Strike, and you must choose the new roll, even if the new roll is a 1 or a 2.
+
+#### Emancipate
+At level 20, your Cleansing Touch ability may be used at a range of 10 feet, and you
+may always cast it on yourself, even when otherwise incapacitated.
+Furthermore, whenever you have no mana points remaining or uses of Cleaning Touch, you may
+spend hit dice to fuel your Crusader Strike feature (up to one hit dice per spell level). 
+
+\pagebreakNum
