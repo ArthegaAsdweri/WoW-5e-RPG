@@ -5226,3 +5226,831 @@ Furthermore, whenever you have no mana points remaining or uses of Cleaning Touc
 spend hit dice to fuel your Crusader Strike feature (up to one hit dice per spell level). 
 
 \pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11007c0e-23f5-4d77-b795-bceb4e19b4e2/d97dl4f-a1c90848-7269-4546-8d4c-c373f0e84612.png/v1/fill/w_1024,h_576,q_80,strp/anduin_wrynn_by_spiritaj_d97dl4f-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTEwMDdjMGUtMjNmNS00ZDc3LWI3OTUtYmNlYjRlMTliNGUyXC9kOTdkbDRmLWExYzkwODQ4LTcyNjktNDU0Ni04ZDRjLWMzNzNmMGU4NDYxMi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bxEB7XujQTnHlBQcOOz2JD-nzyVe2oTMQZ2xNsQ8yoQ' style='position:absolute; top:0px; right:-100px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+## Priest (PRS)
+*A human screams in agony as blood gushes from the wound in his chest. A night elf comes to his
+aid, whispering a prayer to Elune, before nocking an arrow to her bow. Moonlight breaks through
+the tree canopy above, as the gash in the human‘s chest heals closes.*
+<br><br>
+*As an orc receives arrow after arrow to the chest, he falls to the ground, motionless. Before long, a
+yellow-white light shines upon him, and climbs to his feet, revealing a blood elf behind, raising her
+staff high, bathed in a similar light.*
+<br><br>
+*Testing the boundaries of his sanity, a forsaken taps into the power of his psyche and calls to the
+Forgotten Shadow, melting the mind of a fanatic bent on scourge his kin from the land.*
+<br><br>
+Through priests, the divine powers of the Light and Void channel into the world, mending wounds
+or wreaking havoc. True mastery of these forces comes through worship to greater beings, such as
+Elune, the Old Gods, or even the Holy Light itself. Whether devoted to the Light, or a servant of
+the Void Lords, a priest is an ambassador for their deity, imbued by the energies they deliver.
+
+### Agents of Light or Shadow
+Wielding the power of the Holy Light, priests can unleash powerful healing energies to restore their
+allies and undo harm. Manipulating the shadows from the Void equips a priest with devastating
+abilities, able to bring complete chaos, shattering the minds of their foes. Careful balance and
+discipline permits a priest to truly master the most absolute energies of the Universe, granting them
+the ability to heal through shadow, and harm through the light.
+
+\columnbreak
+
+<div style="margin-top:450px;"></div>
+
+Comprehension of the light allows a priest to heal the most serious of wounds, and even undo
+death. The power to wield the light doesn‘t require extensive practice or study, instead relying on
+the user‘s faith in their own abilities. Those who follow the ways of the Void were often once
+worshippers of the Light. As such, priests are among the most devout people in Azeroth.
+
+A priest is incredibly useful in battle, no matter their discipline. Whether they heal their allies,
+protect them from harm altogether, or blast the minds of their enemies into submission, few are
+more effective than these devout followers of the Light and Shadow, especially when coupled with
+their influence in greater society.
+
+### Servants and Acolytes
+Many across Azeroth practice divine magic, regardless of intermediaries, and as such many cults
+have formed. Servitude of the Light brings restorative healing powers, while giving oneself to the
+Shadow grants power over the mind, shadows and even insanity itself. A priestess of Elune taps
+into powers of nature and the balance of sun and moon, while a priest of death calls to the Lich
+King to curse his foes.
+
+Whether good or evil, a priest will rarely abandon their cause, often fighting to the death, or
+sacrificing themselves in place of an ally. Finding someone as loyal as a priest is a rare thing indeed.
+
+Found all over Azeroth, a priest of the Church of the Holy Light brings healing and restorative
+powers in times of peace, and protection in times of war, a true advocate for good. A death priest of
+the Lich King or a follower of the Cult of the Forgotten Shadow manipulates the shadows to bring
+death and destruction to their enemies, warping their minds into madness, often serving evil
+purposes, though not always. A follower of Elune can serve her goddess‘s will, setting out to right
+wrongs or to retrieve articles of the faith.
+
+\pagebreakNum
+
+It is not unheard of for servants of the Light to use it for evil. Since the Light responds to belief
+that one‘s actions are right, which makes it impossible to wield it in the knowledge that one‘s
+action are truly evil.
+
+Absolute faith is crucial to harnessing the Light, which is why priests make excellent servants. Many
+priests that have abandoned the Light and have opted to harness darker energies retain their
+devotion, and while many question their motives, their faith is unwavering, and they continue to
+serve their deity.
+
+### Creating a Priest
+Priest of Azeroth are known as priests or clerics, depending on their domains and focus. They
+channel their power through their conviction, not through the direct power of their patrons. The
+Scarlet Crusade, for example, channel the Holy Light due to their belief in their cause, although
+many betray principles the Church of the Holy Light considers tenants of the faith.
+
+As you create your priest, always remember the faith you serve and the ideals your character
+conveys. Decide how your character came into the service of that particular faith or cult, such as
+through divine intervention or through your character‘s own choosing. Are you renowned as a
+devout follower of your deity, a fanatic, a troublemaker? How do others of your faith perceive you?
+If you have an ultimate goal, keep it in mind when you advance your character.
+
+Priests may be of any alignment and allegiance.
+
+Priests serve their faith--either that of the Light through the Holy priesthood, the Old Gods though
+the Shadow priesthood, the Lich King through the Death priesthood, taking a neutral stance
+between the forces of the world with Discipline priesthood, or serving the Moon goddess Elune
+through the universally-female Moon priesthood.
+
+#### Quick Build
+You can make a priest quickly by following these suggestions. First, Spirit should be your highest
+ability score, followed by Strength or Stamina. Second, choose the acolyte background. Third,
+choose the light, smite, and word of radiance cantrips, along with the following 1st-level spells for your
+libram: inner fire, holy light (or death coil), mind blast, renewing light, sanctuary, and shield of faith.
+
+### Class Features
+As a priest, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per priest level
+- **Hit Points at 1st Level:** 8 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Stamina modifier per priest level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** All simple weapons
+- **Tools:** None
+___
+- **Saving Throws:** Spirit, Charisma
+- **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a club or *(b)* a quarterstaff
+- *(a)* leather armor, or *(b)* chain shirt (if proficient)
+- *(a)* a light crossbow and 20 bolts or *(b)* any simple weapon
+- *(a)* a priest‘s pack or *(b)* an explorer‘s pack
+- A holy (or unholy or neutral) symbol and libram
+ 
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de4be64b-e500-415f-8edf-24f127b586ac/der9i6m-29b67098-05ce-4be1-bacf-60eb0a6ccd5c.png/v1/fill/w_1024,h_627,q_80,strp/commission_cesselia_by_nozomi_m_der9i6m-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI3IiwicGF0aCI6IlwvZlwvZGU0YmU2NGItZTUwMC00MTVmLThlZGYtMjRmMTI3YjU4NmFjXC9kZXI5aTZtLTI5YjY3MDk4LTA1Y2UtNGJlMS1iYWNmLTYwZWIwYTZjY2Q1Yy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-mQNzzMbkwz_h6n9WYwC6yecDgaW8ItZE_CsGcrDPA4' style='position:absolute; top:0px; right:0; height:60%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:350px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Caster Level |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Priesthood, Spellcasting, Unarmored Defense | 1 (1st)
+| 2nd | +2 | Channel Divinity (1/rest), Priesthood Feature, Desperate Prayer | 2 (1st)
+| 3rd | +2 | - | 3 (2nd)
+| 4th | +2 | Ability Score Improvement | 4 (2nd)
+| 5th | +3 | - | 5 (3rd)
+| 6th | +3 | Channel Divinity (2/rest), Priesthood Feature | 6 (3rd)
+| 7th | +3 | - | 7 (4th)
+| 8th | +3 | Ability Score Improvement, Priesthood Feature | 8 (4th)
+| 9th | +4 | - | 9 (5th)
+| 10th | +4 | Divine Intervention | 10 (5th)
+| 11th | +4 | - | 11 (6th)
+| 12th | +4 | Ability Score Improvement | 12 (6th)
+| 13th | +5 | - | 13 (7th)
+| 14th | +5 | - | 14 (7th)
+| 15th | +5 | - | 15 (8th)
+| 16th | +5 | Ability Score Improvement | 16 (8th)
+| 17th | +6 | Priesthood Feature | 17 (9th)
+| 18th | +6 | Channel Divinity (3/rest) | 18 (9th)
+| 19th | +6 | Ability Score Improvement | 19 (9th)
+| 20th | +6 | Divine Intervention Improvement | 20 (9th)
+
+</div>
+
+\pagebreakNum
+
+#### Priesthood
+Choose one priesthood or domain related to your deity: Death (Lich King), Discipline (Balance),
+Holy (Holy Light), Moon (Elune), or Shadow (Forgotten Shadow). Each priesthood is detailed at
+the end of the class description. Your choice grants you domain spells and other features when you
+choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that
+feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
+
+#### Spellcasting
+As a practitioner of divine magic, you draw your power from the divines themselves, channeling
+their will through your body.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to your proficiency bonus.
+
+##### Conjuring and Binding
+A priest can conjure and bind aberrations, beasts, celestials, elementals, fey, fiends, oozes, and
+undead, as well homunculi creatures (creatures with the homunculus template).
+
+##### Preparing and Casting Spells
+Each priest level provides you with 1 caster level in the priest class. You follow the normal
+progression to unlock spell levels (see the table under the Mana section).
+
+You prepare the list of priest spells that are available for you to cast, choosing from the priest spell
+list.
+
+You can also change your list of prepared spells by consulting your libram (treat as a spellbook)
+after a long rest. Preparing a new list of priest spells requires time spent in study: at least 1 minute
+per spell level for each spell on your list.
+
+##### Spellcasting Ability
+Spirit is your spellcasting ability for your priest spells, since you learn your priest spells through
+dedication to a higher force.
+
+You use your Spirit whenever a spell refers to your spellcasting ability. In addition, you use your
+Spirit modifier when setting the saving throw DC for a priest spell you cast and when making an
+attack roll with one.
+<br><br>
+**Spell save DC** = 8 + your proficiency bonus +
+
+your Spirit modifier
+<br>
+**Spell attack modifier** = your proficiency bonus +
+
+your Spirit modifier
+
+##### Priesthood Spells
+Each priesthood has a list of spells—its priesthood spells—that you gain at the priest levels noted in
+the priesthood description. Once you gain a priesthood spell, you always have it prepared, and it
+doesn‘t count against the number of spells you can prepare each day.
+
+If you have a priesthood spell that doesn‘t appear on the priest spell list, the spell is nonetheless a
+priest spell for you.
+
+##### Spellbook – Libram
+At 1st level, your libram contains six 1st-level priest spells of your choice. When you level up, you
+gain 2 additional priest spells of your choice. You may also acquire new spells by research, tutelage,
+or from the spellbooks and scrolls of spellcasters who have spells you can cast.
+
+Your libram is effectively your spellbook, and you may add spells by scribing in your insights
+regarding the secrets of the powers you serve.
+
+##### Spellcasting Focus
+You can use your holy symbol as a spellcasting focus for your priest spells.
+
+#### Unarmored Defense
+Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals
+10 + your Agility modifier + your Spirit modifier.
+
+#### Desperate Prayer
+Starting at 1st level, you may rapidly recover your mana by invoking powers from beyond. You can
+use your action and bonus action on your turn to regain mana as if completed a short rest (or
+rested for one hour).
+
+You can use this feature a number of times equal to half your proficiency bonus. You regain
+expended uses when you finish a long rest. While using this feature, your connection to your
+chosen power guards you, imposing disadvantage on attack rolls made against you, and granting
+you advantage to saving throws until the start of your turn in the next round.
+
+Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
+mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
+mana you regain for the normal rest.
+
+#### Channel Divinity
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that
+energy to fuel magical effects. You start with two such effects: Invoke Power and an effect
+determined by your priesthood. Some domains grant you additional effects as you advance in levels,
+as noted in the domain description. When you use your Channel Divinity, you choose which effect
+to create. You must then finish a short or long rest to use your Channel Divinity again.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class,
+the DC equals your priest spell save DC. Beginning at 6th level, you can use your Channel Divinity
+twice between rests, and beginning at 18th level you can use it three times between rests. When you
+finish a short or long rest, you regain your expended uses.
+
+##### Channel Divinity: Invoke Power
+As a bonus action, you present your symbol and speak a prayer to your patron power, filling you
+with mysterious strength. The next spell you cast within 1 minute has its mana cost reduced 2
+points (minimum 0). At higher levels, the invocation further reduces the mana cost.
+
+##### Invoke Power Table
+| Priest Level | Invocation Strength |
+|:---:|:---:|:---|:---:|:---:|
+| 5 | 3
+| 8 | 4
+| 11 | 5
+| 14 | 6
+| 17 | 7
+
+\pagebreakNum
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you
+can‘t increase an ability score above 20 using this feature.
+
+#### Divine Intervention
+Beginning at 10th level, you can call on your deity to intervene on your behalf when your need is
+great.
+
+Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower
+than your priest level, your deity intervenes. The DM chooses the nature of the intervention; the
+effect of any priest spell or priesthood spell would be appropriate.
+
+Imploring your deity‘s aid requires you to use your action.
+
+If your deity intervenes, you can‘t use this feature again for 7 days. Otherwise, you can use it again
+after you finish a long rest. At 20th level, your call for intervention succeeds automatically, no roll
+required.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/608672ce-587a-40c4-a173-81956e4cd12d/dcyflp5-92b6f09e-6ec8-4d01-9769-1a6378e89940.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYwODY3MmNlLTU4N2EtNDBjNC1hMTczLTgxOTU2ZTRjZDEyZFwvZGN5ZmxwNS05MmI2ZjA5ZS02ZWM4LTRkMDEtOTc2OS0xYTYzNzhlODk5NDAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LFiJ7tkP9IYvYnyxg5ATYzJsMpYBpIVfdTfnfzSSqcc' style='position:absolute; top:-15px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:20px; right:0px; width:890px;' />
+
+<div style="margin-top:300px;"></div>
+
+### Death Priesthood
+You follow the Lich King, gaining unholy powers from your devotion to the Dark Lord of the
+Dead. Death priesthoods are feared and reviled figures in civilized societies, as they are often seen
+as harbingers for a Scourge invasion.
+<br><br>
+<div class='classTable'>
+
+#### Death Priesthood Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Bane, sleep |
+| 3rd | Gentle repose, see invisibility |
+| 5th | Conjure undead (animate undead), speak with dead |
+| 7th | Blight, drain life |
+| 9th | Contagion, unhallow |
+
+</div>
+
+#### Death Can Wait
+At first level, you gain advantage against all Death Saving Throws, attempts to
+stabilize, and saves against necromancy spell effects.
+
+You may also sacrifice yourself ritually to become a shade, gaining incorporeality (see Introduction),
+but becoming unable to cast spells. You gain telepathy with who sacrificed you, and may
+communicate with them and share what you see as an action from their part. This remains so long
+as you and your lord are in the same plane. The connection may be willingly transferred to another
+creature. The transformation is complete after one day of death, and cannot be reversed short of a
+wish spell or divine intervention.
+
+#### Lich King’s Favor
+Starting at 2nd level, you add all necromancy spells from all spell lists to your
+spell list. Using necromancy spells that are not on your spell list cost 1 additional mana point.
+
+#### Channel Divinity: Turn Living
+Also starting at 2nd level, you can, as an action, present your
+symbol and speak a prayer censuring the living. Each living creature that can see or hear you within
+30 feet of you must 
+
+\columnbreak
+
+<div style="margin-top:320px;"></div>
+
+make a Spirit saving throw. If the creature fails its saving throw, it is turned for
+1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't
+willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use
+only the Dash action or try to escape from an effect that prevents it from moving. If there's
+nowhere to move, the creature can use the Dodge action.
+
+When you reach 5th level, you can also outright destroy the living you turn with this feature.
+When a living creature fails its saving throw against your Turn Living feature, the creature is
+instantly destroyed if its challenge rating is at or below a certain threshold, as shown in the Turn
+Living table. It disintegrates, leaving only a pile of dust, so commands the Lich King.
+
+##### Turn Living Table
+| Priest Level | Destroys Living of CR |
+|:---:|:---:|
+| 5th | 1/2 or lower
+| 8th | 1 or lower
+| 11th | 2 or lower
+| 14th | 3 or lower
+| 17th | 4 or lower
+
+#### Cultist of the Damned
+Starting at 6th level, you can cast any Necromancy spell as a ritual even if it
+doesn't have the ritual tag.
+
+#### Death's Touch
+At 8th level, you may use an action to target any dying creature within 90 feet with
+a ranged spell attack. The creature fails one death saving throw instantly. You also have Resistance
+to shadow damage.
+
+#### Avatar of Death
+At 17th level you have the ―Command Undead‖ ability as if you were a
+Necromancer equal to your priest level. Also, whenever you defeat a creature using a necromancy
+spell, they cannot be resurrected or reincarnated so long as you have not dropped to 0 hit points
+since you defeated them. They can however be raised as undead.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b60d4252-4c13-497c-a942-d98b23ae7e0f/daehtgt-f857059f-beb3-4f08-a7c3-fc5e01a93882.jpg/v1/fill/w_1600,h_1067,q_75,strp/gnome_priest___world_of_warcraft_by_muju_daehtgt-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA2NyIsInBhdGgiOiJcL2ZcL2I2MGQ0MjUyLTRjMTMtNDk3Yy1hOTQyLWQ5OGIyM2FlN2UwZlwvZGFlaHRndC1mODU3MDU5Zi1iZWIzLTRmMDgtYTdjMy1mYzVlMDFhOTM4ODIuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.eAddIPxBBn8qAYqeBrl1pCmPSk3CSuIKfPQ7YAFdNo4' style='position:absolute; top:-50px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:20px; right:0px; width:890px;' />
+
+<div style="margin-top:300px;"></div>
+
+### Discipline Priesthood
+You follow the tenets of balance and self-improvement, balancing the forces of Light and Shadow
+within you—a concept often called Chakra training. Your magics can shield allies from taking
+damage as well as heal their wounds. Discipline priests do not advertise themselves, but act as other
+priests.
+<br><br>
+<div class='classTable'>
+
+#### Discipline Priesthood Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Arcane armor, sanctuary |
+| 3rd | Aid (or power word fortitude), levitate |
+| 5th | Remove curse, warding bond |
+| 7th | Death ward, stoneskin |
+| 9th | Hold (up to 4 creature types), telekinesis |
+
+</div>
+
+#### Chakra Ward
+Beginning at 1st level, while you are wearing no armor and not wielding a shield,
+you take 3 less damage from all slashing, piercing, and bludgeoning damage (minimum 1).
+Extended Wards. Also beginning at 1st level, you double the duration of any active spell that
+grants temporary hit points and all Power Word spells.
+
+#### Channel Divinity: Atonement
+Starting at level 2, you may, as an action, use a channel divinity
+attempt to grant any ally within 30 ft. a polar link to your spells. Whenever you deal damage via a
+priest spell to a target within 30 feet of the warded ally, the warded creature regains Hit Points
+equal to 2 + the spell‘s level (or only 2 for a cantrip). This effect remains for one minute.
+
+This feature has no effect if the mana cost of the spell has been reduced to 0.
+
+\columnbreak
+
+<div style="margin-top:300px;"></div>
+
+#### Channel Divinity: Penance
+Starting at level 2, you may, as an action, use channel divinity to
+enhance up to 3 targets within 30 ft. with Penance until the end of your turn in the next round. If
+a target who benefits from Penance takes damage, you can choose to grant that target resistance
+against any damage type you specify, and end the Penance effect for the remaining targets. If all the
+targets suffer damage at the same time (such as from an area of effect ability or spell), they all
+benefit, and the effect ends for them.
+
+#### Restitution
+Starting at 6th level, whenever a creature benefitting from your Channel Divinity: Penance ability suffers damage; you may deflect a fraction of the damage back to the aggressor as a
+reaction if it is within 60 ft. If multiple targets are damaged at the same time (such as by suffering
+from an area of effect ability or spell), you can deflect the damage to the source, so long as it is
+within 60 ft.
+
+In both cases, this requires a successful ranged spell attack, and on a success, the creature damaging
+the warded targets take damage equal to half all the damage they dealt. This does not alter the type
+of damage dealt.
+
+Furthermore, if you use Channel Divinity: Penance a creature that is already a target of your
+Channel Divinity: Atonement, roll a d4. On a roll of 2 to 4, the Channel Divinity is not spent, and
+can be used again.
+
+#### Chakra Cleansing
+Starting at 8th level, whenever you cast a shielding spell, you may apply one of
+the two effects as a bonus action.
+* You may dispel a magical effect the target suffers from. This acts as dispel magic with a spell
+level equal to the level of the shielding spell you cast.
+* You may grant additional temporary hit points equal to double the spell‘s level.
+
+#### Infused Shield
+Starting at 17th level, whenever you cast a healing or shielding spell, you may freely
+convert temporary hit points from your priest spells to actual hit points, or vice versa. A healing
+spell that grants temporary hit points is counted as a shielding spell, and benefits from the Chakra
+Cleansing and Extended Wards abilities.
+___
+Furthermore, you may use your Channel Divinity: Penance ability as a reaction instead of an
+action.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d0b96e36-f76d-4af4-9379-8c1ae2d5d5c8/def5xue-db54c01b-1475-48ea-b4bc-574b18911b1e.jpg/v1/fill/w_1280,h_1975,q_75,strp/pride_of_exodar_by_tamplierpainter_def5xue-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTk3NSIsInBhdGgiOiJcL2ZcL2QwYjk2ZTM2LWY3NmQtNGFmNC05Mzc5LThjMWFlMmQ1ZDVjOFwvZGVmNXh1ZS1kYjU0YzAxYi0xNDc1LTQ4ZWEtYjRiYy01NzRiMTg5MTFiMWUuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.G5WQGBjSA4lZcAquGH5sMOJLYn4qU2xT7AWV-GF2fEI' style='position:absolute; top:0px; right:-250px; height:100%; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:100%;' />
+
+### Holy Light Priesthood
+You are a vessel of the Holy Light‘s will, a versatile healer who can reverse damage on individuals or
+groups and even heal from beyond the grave. Holy priests are well-adored and respected among the
+Alliance.
+<br><br>
+<div class='classTable'>
+
+#### Holy Priesthood Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Bless, holy light |
+| 3rd | Lesser restoration, spiritual weapon |
+| 5th | Haste (or light‘s speed), revivify |
+| 7th | Death ward, guardian of faith |
+| 9th | Mass cure wounds (or hope of healing), mass revivify |
+
+</div>
+
+#### Light’s Insight
+Starting at 1st level, whenever you cast a healing spell from the priest spell list and
+the dice shows the maximum possible result (such as a 6 on a d6), you may roll the maximized dice
+again and add the amount healed to the total. This applies to healing spells that deal damage to
+undead. This acts similarly to the Holy Vision ability of the holy oath. If having both features, and
+if the re-rolled dice results in a maximum result as well, you may roll a third time.
+
+#### Light’s Embrace
+Also starting at 1st level, your healing spells are more effective. Whenever you use
+a priest spell of 1st level or higher to restore hit points to a creature, the creature regains additional
+hit points equal to 2 + the spell‘s level. If the spell heals multiple creatures, the additional healing is
+added to the total, not to each creature.
+
+You may also turn fiends when you use your Channel Divinity to turn undead.
+
+#### Channel Divinity: Restore Life
+Starting at 2nd level, you may use your action while presenting
+your holy symbol to evoke healing energy that can restore a number of hit points equal to five times
+your priest level. Choose any creatures within 30 feet of you, and divide those hit points among
+them. This feature can restore a creature to no more than half of its hit point maximum. You can‘t
+use this feature on a construct, but may target undead to damage by expending healing, dealing
+holy damage instead of healing them.
+
+#### Channel Divinity: Turn Undead
+Also starting at 2nd level, you can, as an action, present your
+holy Symbol and speak a prayer censuring the Undead. Each Undead that can see or hear you
+within 30 feet of you must make a Spirit saving throw. If the creature fails its saving throw, it is
+turned for 1 minute or until it takes any damage.
+
+\pagebreakNum
+
+.
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/451704ac-ecec-4027-9e31-25eeffc92d0a/dfbrf51-6502d175-1ef0-4b39-838c-02aafc47a281.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1MTcwNGFjLWVjZWMtNDAyNy05ZTMxLTI1ZWVmZmM5MmQwYVwvZGZicmY1MS02NTAyZDE3NS0xZWYwLTRiMzktODM4Yy0wMmFhZmM0N2EyODEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QEdzWFV70op1J1VhVpQRhG1xbSjYluYhyzRwXc6z57Q' style='position:absolute; top:-50px; right:-50px; height:105%; transform:rotate(15deg);' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:-40px; width:100%; height:100%; transform:scaleX(-1);' />
+
+\columnbreak
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't
+willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use
+only the Dash action or try to escape from an effect that prevents it from moving. If there's
+nowhere to move, the creature can use the Dodge action.
+
+When you reach 5th level, you can also outright destroy undead you turn with this feature.
+
+When an undead fails its saving throw against your Turn Undead feature, the creature is instantly
+destroyed if its challenge rating is at or below a certain threshold, as shown in the Turn Undead
+table.
+
+##### Turn Undead Table
+
+| Priest Level | Destroys Undead of CR |
+|:---:|:---:|
+| 5th | 1/2 or lower
+| 8th | 1 or lower
+| 11th | 2 or lower
+| 14th | 3 or lower
+| 17th | 4 or lower
+
+#### Channel Divinity: Focused Light
+Starting at 6th level, you may use a channel divinity to alter the
+target and refresh the duration of any healing sigil spell you cast on a target. This may be used
+outside your turn, possibly recovering from a dispelled sigil by shifting it to another target. This
+requires a spell attack as normal. This costs a reaction if used outside your turn, and a bonus action
+if on your turn.
+
+#### Angelic Form
+Starting at 8th level, you gain the avatar form priest spell for no cost if you didn‘t
+already have it. Furthermore, you augment the spell in the following ways:
+* You can cast the spell as a reaction when reduced to 0 hit points. When this happens, the
+spell also restores one-quarter your full hit points and mana. If you enter the avatar form
+this way cast healing, restorative, and domain spells so long as the form persists.
+* When you cast the spell, you can dispel one magical effect on you (as if by the dispel magic
+spell, spell level equal to the avatar form spell).
+___
+After the spell‘s duration ends, you return to your normal form, and are reduced to 10% of your
+maximum hit points. You also learn celestial, if you don‘t already know how to speak it.
+
+#### Guardian Spirit
+Starting at 17th level, you may target any ally within 30 ft., granting them a
+guardian angel spirit. This spirit increases the amount of healing taken from all your priest spells by
+25%, and may be sacrificed to either grant resistance against any one attack the target, or
+automatically stabilize the target if they are reduced to 0 hit points. This does not affect constructs
+or undead. This may be used once per rest.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bac900bd-3cc5-46a7-afae-e8f34a32393f/dfashf7-6d21c17b-9a02-4e1e-9e15-2976de4b4299.jpg/v1/fill/w_1125,h_710,q_70,strp/shaelyndra_commission_by_x_celebril_x_dfashf7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzNyIsInBhdGgiOiJcL2ZcL2JhYzkwMGJkLTNjYzUtNDZhNy1hZmFlLWU4ZjM0YTMyMzkzZlwvZGZhc2hmNy02ZDIxYzE3Yi05YTAyLTRlMWUtOWUxNS0yOTc2ZGU0YjQyOTkuanBnIiwid2lkdGgiOiI8PTE4MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.mGIdw-tGqaUelMzfMQj6FFg9xe0PkVr4U8XRPf-mOUg' style='position:absolute; top:-50px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:100px; right:0px; width:890px;' />
+
+<div style="margin-top:400px;"></div>
+
+### Moon Priesthood
+You are part of the ancient and well-respected sisterhood of the night-elven moon goddess Elune,
+and your path is of serenity, grace, and reflection. Moon priestesses favor using subtlety, the
+bow, and hit-and-run techniques to guard her flock, but act in accordance with the two faces of the
+moon.
+<br><br>
+<div class='classTable'>
+
+#### Moon Priesthood Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Shot array (all except black arrow), trueshot aura |
+| 3rd | Invisibility, moonbeam |
+| 5th | Remove curse, shooting star |
+| 7th | Dominate, hallucinatory terrain |
+| 9th | Dream, starfall |
+
+</div>
+
+#### Facets of the Moon Goddess
+Upon choosing this priesthood, you become attuned to the dual
+faces of Elune, the goddess of the moon. Whenever the moon (or one moon of your realm) enters a
+new phase, you may adapt that aspect of Elune. This choice is made at the end of a long rest. This
+changes how some of your priesthood features act.
+* *Full Moon Aspect.* The full moon aspect of Elune is known as the Mother Moon. It is more
+adept with healing and providing support, as well as ranged combat, and represents calm
+wisdom and righteous, precise action.
+* *New Moon.* The new moon aspect of Elune is known as the Night Warrior. It is more adept
+with melee combat, and represents the furious savagery of nature, vengeful aspects of the
+goddess, and her shepherding the souls of the dead to beyond the stars.
+
+\columnbreak
+
+<div style="margin-top:400px;"></div>
+
+You are also always able to see the moon (or its outline, if it if you have line of sight to it, even in
+daylight. In the new moon phase, you can see the moon‘s outline. You cannot gain normally
+benefits from observing it except at night, however, when Elune‘s power waxes, unless the power
+specifies so.
+
+#### Might of the Moon
+Starting at 1st level, so long as you can observe the moon and are at night, you
+are affected by the inner fire spell (level equal to highest spell level you can access). In other
+conditions, the bonus provided by the spell is halved (minimum 0).
+
+You do not require have to be outdoors to benefit from this feature. If there are multiple moons in
+the realm you are in, any moon suffices.
+
+#### Favor of Elune
+Also starting at 1st level, you gain the Favored by Elune talent, and gain
+proficiency with all ranged projectile weapons and medium armor. You also gain a one of the
+following blessings, depending on the lunar phase you have chosen.
+<br>
+*Full Moon Priestess* You may add your spirit modifier to damage rolls with bows of all types.
+<br>
+*New Moon Priestess* You may choose one fighting style (chosen from the list of the warrior class).
+
+#### Channel Divinity: Moonlight Calm
+Starting at 2nd level, when you channel divinity, you may
+channel an aspect of Elune‘s grace to calm a creature within 30 feet of you. You may target a
+humanoid or beast, or a creature in another shape (such as a druid in wild shape or a shapeshifter).
+* If you target a beast or humanoid, the creature must succeed on a Charisma saving throw or it
+is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is
+friendly to you and other creatures you designate. If you treat them fairly, they do not revert to
+their original hostility after the duration ends.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4393cf8a-04c2-45a9-8d81-ac7ae7ae4296/de3ozor-d186329b-ae63-48d7-a33f-c3779b926be6.jpg/v1/fill/w_1117,h_715,q_70,strp/tyrande_whisperwind_by_bash_a_de3ozor-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNSIsInBhdGgiOiJcL2ZcLzQzOTNjZjhhLTA0YzItNDVhOS04ZDgxLWFjN2FlN2FlNDI5NlwvZGUzb3pvci1kMTg2MzI5Yi1hZTYzLTQ4ZDctYTMzZi1jMzc3OWI5MjZiZTYuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.iZPjJ4YCVjKqduJJQgORFXcKBgLdPFQ8Wjx8Bl27Y-E' style='position:absolute; top:0px; right:-550px; height:100%; transform:scaleX(-1);' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:100%;' />
+
+* If you target a Druid in their Wild Shape or a shapeshifting creature, they revert to their
+original shape if they fail a Charisma saving throw, and cannot shapeshift for one minute. They
+may repeat the saving throw at the end of their turn every round.
+
+#### Channel Divinity: Moonlight Ward
+Starting at 6th level, you may spend a Channel Divinity use
+as a bonus action and designate one ally within 30 feet as your moonlight ward. The ward remains
+for 1 minute. Depending on the phase of the moon, your ward has one of the following effects:
+* *Full Moon*. So long as the ally remains within range, you may use a bonus action to heal the
+target with any healing spell from the priest spell list that normally requires an action. If the
+spell normally costs a bonus action to cast (such as the flash of light spell), it may instead cast it
+as a reaction.
+* *New Moon*. So long as the ally within range, you can cast any spell that deals psychic or shadow
+damage as a bonus action so long as you target a creature who attacked your moonlit ward in
+the last round. If the spell normally costs a bonus action to cast (such as the flash of light spell),
+it may instead cost a reaction. You cannot cast sigil spells this way.
+___
+If you successfully dealt weapon damage to an enemy before using the moonlight ward, the mana
+cost of the spell (healing or damaging, respectively) is reduced by 1 (minimum 1). This can stack
+with the normal reduction for repeat-casting a spell.
+
+#### Elune’s Grace
+Starting at 8th level, you can bless creatures with a shard of your goddess‘s grace.
+Depending on your chosen phase, you can grant a creature you affect by your spells one of the
+below blessings. Once you use the blessings three times, you cannot bless another creature until you
+complete a short rest. You may use multiple blessings per round (they do not require an action).
+* *Full Moon*. You priest spells that restore hit points heal the maximum amount for the dice for
+one target.
+* *New Moon*. Your priest spells that deal psychic or shadow damage deal maximum damage for
+the dice for one target.
+___
+If you are under the effects of the avatar form priest spell, you can use the blessing two additional
+times before a short rest.
+
+#### Moon's Luck
+Starting at 17th level, you gain the Lucky feat. You have a number of Luck Points
+equal to half of your Priest level (rounded down) in the following conditions, depending on the
+phase you have chosen:
+* *Full Moon*. When you are under direct moonlight.
+* *New Moon*. When you are under the new moon.
+___
+You may use Luck Points to use your Elune‘s Grace feature instead of the number of limited
+blessings. In other conditions to the ones specified, each Luck Point has half the benefit (requiring
+spending two points instead of one for a benefit of the feat).
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e6990272-656d-47fb-806c-96bb08442d92/d80t8qh-e1c5f716-b517-4dbf-afab-c337c3c3ba49.jpg/v1/fill/w_1154,h_692,q_70,strp/shadow_priest_by_serraarc_d80t8qh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvZTY5OTAyNzItNjU2ZC00N2ZiLTgwNmMtOTZiYjA4NDQyZDkyXC9kODB0OHFoLWUxYzVmNzE2LWI1MTctNGRiZi1hZmFiLWMzMzdjM2MzYmE0OS5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6dXN0nZ_d7NMZjj0E9lC-b1voNVIZJIT5iaygxBDSzM' style='position:absolute; top:0px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:100px; right:0px; width:890px;' />
+
+<div style="margin-top:400px;"></div>
+
+### Shadow Priesthood
+You answered the call of the Old Gods, joining the Cult of the Forgotten Shadow, gaining powers
+over the eldritch mysteries and powers of the ancient changed beings. Shadow Priests use sinister
+shadow magic, especially sigil spells, to eradicate enemies.
+<br><br>
+<div class='classTable'>
+
+#### Shadow Priesthood Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Dissonant whispers, sleep |
+| 3rd | Fear, hex array (only dream eat) |
+| 5th | Blight, curse of weakness |
+| 7th | Black tentacles (or old gods‘ grasp), confusion |
+| 9th | Hold (up to 4 creature types), vampiric aura |
+
+</div>
+
+#### Shadow Orbs
+Starting at 1st level, whenever you successfully deal psychic damage to an enemy
+through a spell or ability, you gain one Shadow orb. This applies once per spell. Shadow orbs
+spheres may be used to empower your abilities. Shadow Orbs may be spent for the following.
+* Meld into Madness. Reduce the mana cost of one priest spell you cast. The reduction in
+mana cost is one point per Shadow orb removed (minimum mana cost 1). For each level of
+madness you have, a single Shadow orb can reduce the mana cost by 0.5 points (round
+down).
+* Prey on the Psyche. Deal 1 additional point of psychic damage per damage dice with spells
+and abilities that deal psychic damage. This can be spent after rolling for damage, and
+applies once per spell. This does not stack with similar abilities.
+
+\columnbreak
+
+<div style="margin-top:420px;"></div>
+
+___
+You may have a maximum number of orbs equal to 2 plus your Proficiency bonus, and they remain
+for one hour after being acquired.
+
+#### Mind Quickening
+Also starting at 1st level, your expanded mind gives you the ability to touch the
+minds of other creatures. You can communicate telepathically with any creature you can see within
+30 feet of you. You don‘t need to share a language with the creature for it to understand your
+telepathic utterances, but the creature must be able to understand at least one language.
+
+You may also pronounce the verbal components of your priest spells mentally, so that only the
+target can hear them. This way, you cast spells in areas of silence or while muted, so long as at least
+one target of the spell is within 30 feet and within line of sight.
+
+#### Attuned to the Void
+Starting at 2nd level, you may dip your spells into the raw maddening power
+of the Void, coloring them permanently. Choose a number of priest spells equal to your proficiency
+bonus.
+
+You may scribe such spells that deal damage with other energy types as psychic or shadow spells in
+your spellbook. The spells act the same way, unless the DM rules it is unreasonable.
+
+#### Channel Divinity: Devouring Plague
+Also starting at 2nd level, you may use an action while
+presenting your unholy symbol to evoke dark energy, dealing psychic damage equal to five times
+your priest level, halved with a Spirit saving throw. Choose any creatures within 30 feet of you, and
+divide the damage among them. This feature can reduce a creature to no more than half of its hit
+point maximum. You can‘t use this feature on undead or constructs. You regain hit points equal to
+the total damage you dealt.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/111e155a-5ab6-4f4b-82a1-91da2fe5b9c4/dcztlyr-4e8e6a41-4547-4147-8559-103e9c3748c2.jpg/v1/fill/w_1124,h_711,q_70,strp/shadow_priest___world_of_warcraft_character_2_2_by_adriengonzalez_dcztlyr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIxMyIsInBhdGgiOiJcL2ZcLzExMWUxNTVhLTVhYjYtNGY0Yi04MmExLTkxZGEyZmU1YjljNFwvZGN6dGx5ci00ZThlNmE0MS00NTQ3LTQxNDctODU1OS0xMDNlOWMzNzQ4YzIuanBnIiwid2lkdGgiOiI8PTE5MTkifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.o3wBqa5mv_eL_i82s4E12hv6lybxsEXszgMOUjfuUxU' style='position:absolute; top:0px; right:-500px; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:78%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:500px; left:0px; width:50%; transform:scaleY(-1);' />
+
+If you have at least one shadow orb before using this ability, you may choose to gain no shadow
+orbs from this ability‘s use for the round, and share the healing gained with them (costing one
+shadow orb to include one creature in the sharing).
+
+You may reduce the amount of hit points you (and your chosen allies) can potentially gain from
+this ability and convert the healing energies to mana restoration. Every five hit points of healing are
+converted to one mana point (up to a maximum of half the healing potential). Once a creature
+benefits from this mana restoration, it cannot benefit again until it completes a long rest.
+
+#### Channel Divinity: Focused Psyche
+Starting at 6th level, you may use a channel divinity to alter the
+target and refresh the duration of any damaging sigil spell you cast on a target. This may be used
+outside your turn, possibly recovering from a dispelled sigil by shifting it to another target. This
+requires a spell attack as normal. This costs a reaction if used outside your turn, and a bonus action
+if on your turn.
+
+#### Shadow Form
+Starting at 8th level, you gain the avatar form priest spell for no cost if you didn‘t
+already have it. Furthermore, you augment the spell in the following ways:
+* You can cast the spell as a reaction when reduced to 0 hit points. When this happens, the
+spell also restores one-quarter your full hit points and mana, and grants you 4 Shadow
+orbs. If you enter the avatar form this way, you can only cast psychic, sigil, and domain
+spells so long as the form persists.
+* When you cast the spell, you can dispel one magical effect on you (as if by the dispel magic
+spell, spell level equal to the avatar form spell).
+___
+After the spell‘s duration ends, you return to your normal form, and are reduced to 10% of your
+maximum hit points. You also learn shath‘yar, if you don‘t already know how to speak it.
+
+#### Vampiric Embrace
+Starting at 17th level, whenever you deal damage with a damaging sigil or
+psychic effect, you may can count one-quarter the damage dealt and grant it as healing to allies
+within 30 feet of the target, dividing the healing evenly. You may instead divide the damage by ten,
+and grant it as mana restoration to the same number of targets.
+
+Unlike normal mana restoration effects, this can benefit a target up to three times before it cannot
+be used again for an hour, although you cannot restore more mana to yourself than the cost of the
+spell you used.
+
+\pagebreakNum
+
