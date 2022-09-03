@@ -6432,3 +6432,604 @@ round. This may be used once per short rest, and remains so long as you continue
 Starting at 17th level, when you target a bloodied creature with a sneak attack, you may
 deal double the sneak attack damage. Once affected, the target is immune to this ability until they
 complete a short rest.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10bcfa0c-24e0-46b2-810d-ad75c14cdd6c/dd8j664-7e97c614-e0da-4430-b531-41574fa13283.jpg/v1/fill/w_1280,h_793,q_75,strp/___commission__zandalari_witch_doctor____by_shadowpriest_dd8j664-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwYmNmYTBjLTI0ZTAtNDZiMi04MTBkLWFkNzVjMTRjZGQ2Y1wvZGQ4ajY2NC03ZTk3YzYxNC1lMGRhLTQ0MzAtYjUzMS00MTU3NGZhMTMyODMuanBnIiwiaGVpZ2h0IjoiPD03OTMiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8xMGJjZmEwYy0yNGUwLTQ2YjItODEwZC1hZDc1YzE0Y2RkNmNcL3NoYWRvd3ByaWVzdC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.k5AyvRUgjoeZTxK96OaxSREPylCDcKbLoWW1n5Its_Q' style='position:absolute; top:0px; right:-100px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:500px;"></div>
+
+## Shaman (SHM)
+*A tauren standing atop a cliff calmly raises his hand,
+leaning on a giant halberd, sprinkling reagents upon
+the grasslands below. The golden dust is carried on a
+spirit of the wind. A giant totem bound to his back
+trembles in approval.*
+<br><br>
+*A red-bearded dwarf stands on shaking ground,
+unmoved, as the earth cracks before him, spewing the
+beginnings of lava. As his comrades collapse, he
+points at it with commanding presence, shouting in a
+primordial tongue that speaks to the very earth. The
+beginnings of a chaotic volcanic eruption slow, before
+the primal powers of the earth and fire retreat,
+calmed, back into the earth.*
+<br><br>
+*Cleaving through fiendish foes with a bloodied axe in one hand and lightning-enhanced attack
+claws in the other, the orc shouts a war cry to rally his allies. Bearing a wolf-pelt over his shoulders,
+he raises an olive-skinned arm to the skies, summoning a bolt of lightning from the stormy clouds
+before, which he then sends at a gathering of demons with a resounding clap of thunder.*
+<br><br>
+Shaman are mortal mediators between the very elements themselves. Often spiritual guides of their
+communities, these powerful practitioners commune with the ancestors and seek to balance the
+raging elemental forces, and can call upon them in battle to scorch and blast their enemies, or to
+strengthen and heal their allies. Shaman can enhance their weapons with elemental effects, smite
+enemies with lightning strikes and bursts of lava, and summon powerful elementals to their aid.
+
+\columnbreak
+
+<div style="margin-top:520px;"></div>
+
+### Spiritual Powers
+Shaman are spiritual guides and practitioners, not of the divine, but of the very elements. Unlike
+some other mystics, shaman commune with forces that are not strictly benevolent. The elements
+are chaotic, and left to their own devices, they rage against one another in unending primal fury. It
+is the call of the shaman to bring balance to this chaos. Acting as moderators among earth, fire,
+water, and air, shaman summon totems that focus the elements to support the shaman‘s allies or
+punish those who threaten them.
+
+Shaman are spiritual visionaries of tribes and clans. These gifted warriors can see into the world of
+spirits and communicate with creatures invisible to the eyes of normal beings. They are beset by
+visions of the future and use their sight to guide their people through troubled times. Although
+shaman may seem wise and serene at first, they are formidable foes; when angered, their wrath is as
+fierce as those who have a connection to divines or to nature.
+
+During combat, shaman place damaging and controlling totems on the ground to maximize their
+effectiveness while hindering their enemies. Shaman are versatile enough to battle foes up close or
+at range, but wise shamans choose their avenue of attack based on their enemies' strengths and
+weaknesses.
+
+### Gift of the Elements
+Commanding chaotic and conflicting elements, a shaman is a force that hears the world tremble
+and directs its wrath. Communicating with spirits of flame, winds, and stone, shamans channel the
+
+\pagebreakNum
+
+power of the storm, earth, and fire to their will. A shaman‘s holy symbol is a small ancestral relic or
+totem of bone, wood, or iron that can be carried in one‘s hand.
+
+The elements are chaotic, however, and left to their own devices, they rage against one another in
+unending primal fury. It is the call of the shaman to bring balance to this chaos, acting as
+moderators among earth, fire, water, and air. The spirit of life is a hidden and elusive one, but
+shamans often channel healing energies through water until they are able and proficient enough to
+negotiate bringing the dead to life via invoking life spirits.
+
+As shamans mediate between elemental spirits, it is unsurprising that such aptitude eventually
+translates to connecting with other kinds of spirits as well, including that of incorporeal undead
+(such as banshees or ghosts) or the shaman‘s own ancestors.
+
+Besides the great shamanistic traditions of the orcs, Wildhammer dwarves are familiar with
+shamanism in its ancestral worship form, and Tauren are most well-versed with the spirits of earth
+and sky, both having traditions ancient to modern Azeroth.
+
+### Creating a Shaman
+When you create your shaman the most important question to ask is how you became attuned to
+the spirits. Was it a natural event such as being born during a mystical meteor shower? Did terrible
+dreams plague you as a child and it wasn‘t until you had matured that you realized the truth of your
+abilities?
+
+How does your character perceive their abilities? Maybe you view them as a duty to the souls
+around you, an endless task to lend aid to the spirits and help them into the afterlife? Or even
+perhaps you view the spirits as tools to advance your own plans, choosing to exploit the spirits you
+see rather than helping them?
+
+#### Quick Build
+You can make a shaman quickly by following these suggestions. First, Spirit should be your highest
+ability score, followed by Strength or Stamina. Second, choose the hermit background. Third,
+choose the create bonfire, invoke elements, and thunderclap cantrips, along with the following 1st-level
+spells for your master totem: absorb elements, conjure (elementals), elemental shock, fog cloud, healing
+ward, and lightning orbs.
+
+
+### Class Features
+As a shaman, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per shaman level
+- **Hit Points at 1st Level:** 8 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Stamina modifier per shaman level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** All simple weapons, bludgeons, axes, daggers, and quarterstaffs
+- **Tools:** Herbalism kit
+___
+- **Saving Throws:** Stamina, Charisma
+- **Skills:** Choose two from History, Insight, Medicine, Persuasion, and Religion
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a battle axe or *(b)* a warhammer
+- *(a)* leather armor, or *(b)* chain shirt
+- *(a)* 2 Handaxes or *(b)* a shield
+- *(a)* a priest‘s pack or *(b)* an explorer‘s pack
+- A shamanistic focus (minor totem)
+ 
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10bcfa0c-24e0-46b2-810d-ad75c14cdd6c/dcsgyne-42b4d2fc-e0e4-42d0-a66d-97ec753361a6.jpg/v1/fill/w_1280,h_793,q_75,strp/___commission__tauren_shaman____by_shadowpriest_dcsgyne-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwYmNmYTBjLTI0ZTAtNDZiMi04MTBkLWFkNzVjMTRjZGQ2Y1wvZGNzZ3luZS00MmI0ZDJmYy1lMGU0LTQyZDAtYTY2ZC05N2VjNzUzMzYxYTYuanBnIiwiaGVpZ2h0IjoiPD03OTMiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8xMGJjZmEwYy0yNGUwLTQ2YjItODEwZC1hZDc1YzE0Y2RkNmNcL3NoYWRvd3ByaWVzdC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.JpCJcIMYOKbD6miM7oEcPSXYWSjmwiPPDcTt5hCgCps' style='position:absolute; top:0px; right:-100px; width:140%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:350px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Caster Level |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Kalimag, Spellcasting, Shamanistic Art | 1 (1st)
+| 2nd | +2 | Channel Elements (1/rest), Art Feature, Mana Surge | 2 (1st)
+| 3rd | +2 | - | 3 (2nd)
+| 4th | +2 | Ability Score Improvement | 4 (2nd)
+| 5th | +3 | Release Elemental (CR 1/2) | 5 (3rd)
+| 6th | +3 | Channel Elements (2/rest), Art Feature | 6 (3rd)
+| 7th | +3 | - | 7 (4th)
+| 8th | +3 | Ability Score Improvement, Release Elemental (CR 1), Art Feature| 8 (4th)
+| 9th | +4 | - | 9 (5th)
+| 10th | +4 | Elemental Intervention | 10 (5th)
+| 11th | +4 | Release Elemental (CR 2) | 11 (6th)
+| 12th | +4 | Ability Score Improvement | 12 (6th)
+| 13th | +5 | - | 13 (7th)
+| 14th | +5 | Release Elemental (CR 3) | 14 (7th)
+| 15th | +5 | - | 15 (8th)
+| 16th | +5 | Ability Score Improvement | 16 (8th)
+| 17th | +6 | Release Elemental (CR 4), Art Feature | 17 (9th)
+| 18th | +6 | Channel Elements (3/rest) | 18 (9th)
+| 19th | +6 | Ability Score Improvement | 19 (9th)
+| 20th | +6 | Elemental Intervention Improvement | 20 (9th)
+
+</div>
+
+\pagebreakNum
+
+#### Kalimag
+You know Kalimag, the language of elementals and wind, earth, fire, and water spirits. You can
+speak the language and use it to leave hidden messages. You and others who know this language
+automatically spot such a message. If you can speak Kalimag, you can communicate with all other
+shamans and elementals, even if you don‘t otherwise share a language.
+
+#### Spellcasting
+By 1st level, you have learned to draw on raw elemental might through meditation and
+communication with the elements.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to your proficiency bonus.
+
+##### Conjuring and Binding
+A shaman can conjure and bind aberrations, elementals, fiends, oozes, and undead, as well spirit
+creatures (creatures with the spirit template).
+
+Furthermore, you can be Called (see Calling, see Chapter 10) by the elements and elementals,
+although they usually only call to ask for aid regarding circumstances that threaten the balance of
+powers, such as extensive drilling efforts, an upcoming wildfire in a dry area, or a coming storm in
+around 24 hours before they take place.
+
+##### Preparing and Casting Spells
+Each shaman level provides you with 1 caster level in the shaman class. You follow the normal
+progression to unlock spell levels (see the table under the Mana section).
+
+You prepare the list of shaman spells that are available for you to cast, choosing from the shaman
+spell list.
+
+You can also change your list of prepared spells by consulting your totem (treat as a spellbook) after
+a long rest. Preparing a new list of shaman spells requires time spent in study: at least 1 minute per
+spell level for each spell on your list.
+
+##### Spellcasting Ability
+Spirit is your spellcasting ability for your shaman spells, since you learn your shaman spells through
+primal contact with the elemental forces.
+
+You use your Spirit whenever a spell refers to your spellcasting ability. In addition, you use your
+Spirit modifier when setting the saving throw DC for a shaman spell you cast and when making an
+attack roll with one.
+<br><br>
+**Spell save DC** = 8 + your proficiency bonus +
+
+your Spirit modifier
+<br>
+**Spell attack modifier** = your proficiency bonus +
+
+your Spirit modifier
+
+##### Spellbook – Master Totem
+At 1st level, your totem contains six 1st-level shaman spells of your choice. When you level up, you
+gain 2 additional shaman spells of your choice. You may also acquire new spells by research,
+tutelage, or from the spellbooks and scrolls of spellcasters who have spells you can cast.
+
+Your totem is effectively your spellbook, and you may add spells by meditating with it and burning
+incense and rare herbs. This totem is usually also known as your spell totem.
+
+\columnbreak
+
+##### Spellcasting Focus
+You can use your shamanistic symbol as a spellcasting focus for your shaman spells. These are
+typically totems, tufts of wolf hair, or a carving of your spiritual animal.
+
+#### Shamanistic Art
+Choose one shamanistic art or focus related to how you view the elements and how they have
+received you, such as Elemental to focus on bringing the elements‘ wrath down, enhancement to
+strengthen yourself through the elements, or restoration, in which the elements are in balance.
+Each art is detailed at the end of the class description.
+
+Your choice grants you art spells and other features when you choose it at 1st level. It also grants
+you additional ways to use Channel Elements when you gain that feature at 2nd level, and
+additional benefits at 6th, 8th, and 17th levels.
+
+#### Art Spells
+Each art has a list of spells—its art spells—that you gain at the shaman levels noted in the art
+description. Once you gain an art spell, you always have it prepared, and it doesn‘t count against
+the number of spells you can prepare each day. If you have an art spell that doesn‘t appear on the
+priest spell list, the spell is nonetheless a shaman spell for you.
+
+#### Channel Elements
+At 2nd level, you gain the ability to channel elemental energy directly, using that energy to fuel
+magical effects. You start with two such effects: Turn Elementals and an effect determined by your
+art. Some arts grant you additional effects as you advance in levels, as noted in the art description.
+
+When you use your Channel Elements, you choose which effect to create. You must then finish a
+short or long rest to use your Channel Elements again.
+
+Some Channel Elements effects require saving throws. When you use such an effect from this class,
+the DC equals your shaman spell save DC. Beginning at 6th level, you can use your Channel
+Elements twice between rests, and beginning at 18th level you can use it three times between rests.
+When you finish a short or long rest, you regain your expended uses.
+
+##### Channel Elements: Turn Elementals
+As an action, you present your shamanistic symbol and speak a prayer dismissing and quelling
+elementals. Each elemental that can see or hear you within 30 feet of you must make a Spirit saving
+throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can‘t
+willingly move to a space within 30 feet of you. It also can‘t take reactions. For its action, it can use
+only the Dash action or try to escape from an effect that prevents it from moving. If there‘s
+nowhere to move, the creature can use the Dodge action.
+
+While it is turned, you may also opt to calm the elemental, rendering it passive and not hostile for
+one minute. If treated fairly and listened to, the elemental might reveal why it is angered, and may
+demand from the shaman to address a problem that is wracking the elementals in the region (or
+beyond).
+
+\pagebreakNum
+
+#### Mana Surge
+Starting at 2nd level, you may rapidly recover your mana by calling out to fonts of spiritual power.
+You can use your action and bonus action on your turn to regain mana as if completed a short rest
+(or rested for one hour).
+
+You can use this feature a number of times equal to half your proficiency bonus. You regain
+expended uses when you finish a long rest. While using this feature, the flow of elemental power
+protects you, imposing disadvantage on attack rolls made against you, and granting you advantage
+to saving throws until the start of your turn in the next round.
+
+Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
+mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
+mana you regain for the normal rest.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you
+can‘t increase an ability score above 20 using this feature.
+
+#### Release Elemental
+Starting at 5th level, when an elemental fails its saving throw against your Turn Elemental feature,
+you may subject the creature to a dispel (as the dispel magic spell), release it from its bindings (if
+bound by the bind or essence seal spells), return it to its realm of origin (as the banishment spell), or
+destroy it outright if its challenge rating is at or below a certain threshold, as shown in the Release
+Elemental table. This ability only functions when you declare your intention to use it.
+ 
+| Shaman Level  | Releases Elemental of CR |
+|:---:|:-----------:|
+| 5th | 1/2 or lower
+| 8th | 1 or lower
+| 11th | 2 or lower
+| 14th | 3 or lower
+| 17th | 4 or lower
+
+If targeting an elemental whose essence is captured and is being used to fuel a device with an
+elemental engine, you can cause it to suffer from the malfunctioned condition with a successful
+spell attack against the wielder of the device. If the device already is malfunctioned, a successful
+spell attack releases the elemental instead, which appears at any point between you and the device
+(you can choose the point). Such elementals usually serve the shaman for 1 day or until they can
+return the favor.
+
+Destroying elementals is a secret art known to shamans, and is typically only used against
+elementals that are corrupted by fel energies, as elementals are usually receptive to shamans who
+turn them (see above).
+
+#### Elemental Intervention
+Beginning at 10th level, you can call on the elements of Azeroth to intervene on your behalf when
+your need is great. Imploring the elements‘ aid requires you to use your action. Describe the
+assistance you seek, and roll a percentile dice. If you roll a number equal to or lower than your
+shaman level, the elements intervene. The DM chooses the nature of the intervention; the effect of
+any shaman spell or art spell would be appropriate. This ability is treated as divine intervention in
+all respects.
+
+If the elements intervene, you can‘t use this feature again for 7 days. Otherwise, you can use it again
+after you finish a long rest. At 20th level, your call for intervention succeeds automatically, no roll
+required.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37fcc6d4-4b21-4ffd-afc0-b3a3a425e043/d86g4f2-1e3f59ca-5424-4588-ae0d-0cc886aa0601.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3ZmNjNmQ0LTRiMjEtNGZmZC1hZmMwLWIzYTNhNDI1ZTA0M1wvZDg2ZzRmMi0xZTNmNTljYS01NDI0LTQ1ODgtYWUwZC0wY2M4ODZhYTA2MDEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.R87TNRfLk766AunzDXdg7CTFAG8AmW7rkwSq7ARUJ-M' style='position:absolute; bottom:0px; right:-120px; height:70%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; bottom:470px; right:0px; width:890px; transform:scaleY(-1);' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; left:-40px; width:100%; height:70%;' />
+
+### Elemental
+Your ability to command the elements at long ranges, and influence and aid their allies at equal
+distance is renowned and respected. Elementalists make up most adventuring shamans.
+<br><br>
+<div class="classTable">
+
+#### Elemental Art Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Fog cloud, elemental shock |
+| 3rd | Animal messenger (or animal spirit), gust of wind |
+| 5th | Call lightning, sending |
+| 7th | Control water, ice storm |
+| 9th | Maelstrom, teleport circle (to areas of elemental power) |
+
+</div>
+
+#### Elemental Mastery
+Starting at 1st level, you may change any elemental damage type dealt by your
+shaman spells to another type. This requires a bonus action.
+
+#### Acclimation
+Also at 1st level, you are also immune to the hostile effects of weather. By spending
+an action, you can determine the weather for the next 24 hours with a 50% degree of accuracy. You
+can also sense any weather-changing spells when they are being cast within 5 miles of your location,
+and can roughly identify whether the caster is a friend or foe to the elements or shamans.
+
+Channel Elements: Wrath. At 2nd level, you can spend a Channel Elements use to wield the
+power of the elements with unchecked ferocity. When you roll for any type of elemental damage,
+you can use a Channel Elements attempt to deal maximum damage instead.
+
+#### Elemental Mixing
+Starting at 6th level, when you roll elemental damage from a shaman spell of
+spell level 1 1st or higher, you can apply one of the following effects.
+* *Earth Slide*. The target is pushed 10 feet in any direction you choose.
+* *Fire Sear*. The target is scorched for one round.
+* *Frost Snap*. The target is chilled for one round.
+* *Storm Toss*. The target takes disadvantage to attack rolls.
+___
+These effects stack with others, whenever possible (such as by the elemental shock spell). For example,
+an elemental shock that deals lightning (lightning shock) normally imposes the Storm Toss effect. You
+can also add the Earth Slide effect to push the target as well.
+
+#### Bonded Elemental
+Starting at 8th level, you may conjure an elemental and render its duration
+permanent. If the elemental dies, you can perform the ritual again to summon another. This
+elemental does not require concentration to maintain and does not count against the normal limit
+for the bind spell, with a maximum spell level rendered permanent equal to one-half the maximum
+spell level of the elemental you can bond.
+
+#### Elemental Storm
+When you reach level 17, you gain the ability to summon a fully-realized
+thunderstorm, snowstorm, or firestorm at your location. The earth is blanketed by a 5-mile radius
+centered on you for one hour. This otherwise acts as control weather, and takes 10 minutes to cast
+as normal. However, so long as the elemental storm is active, you may also use an action to cause a
+10-foot wide cylinder of elemental wrath that deals 10d6 damage (thunder, lighting, cold, or fire,
+depending on the storm type). The range of this ability is as far as you can see within the radius,
+and the affected creatures are entitled an Agility saving throw to half damage.
+
+Whenever you call the elemental cylinder, the dice damage is reduced by 2d6. When they reach
+0d6, the storm ends prematurely (even if maintaining concentration), as the elemental spirits
+become calmer. Once used, this ability cannot be used again until after a long rest.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0500fbd5-ce66-4ca0-bdc3-20e1a6aed73a/ddxo26q-16f0d3db-2b85-4108-bb57-3f13a2b31a4c.jpg/v1/fill/w_1280,h_1118,q_75,strp/charge_by_hazelgee_ddxo26q-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTExOCIsInBhdGgiOiJcL2ZcLzA1MDBmYmQ1LWNlNjYtNGNhMC1iZGMzLTIwZTFhNmFlZDczYVwvZGR4bzI2cS0xNmYwZDNkYi0yYjg1LTQxMDgtYmI1Ny0zZjEzYTJiMzFhNGMuanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.UhvYhSsMOE7Co8l-aJRoksXBIPnY_zQbtp1KGIdlXkY' style='position:absolute; top:-30px; right:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:480px;"></div>
+
+### Enhancement
+Your magic is woven to your combat style, empowering your ability harm their enemies in melee
+combat. Enhancement shamans usually use two weapons.
+<br><br>
+<div class="classTable">
+
+#### Enhancement Art Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Elemental tongue, shield
+| 3rd | Conjure (Spirit Dire Wolf), earth shield
+| 5th | Bloodlust, spirit infusion
+| 7th | Death ward, freedom of movement (or grace of air)
+| 9th | Windfury tongue, true seeing
+
+</div>
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with martial weapons. Also, you gain the
+Dual Wielder feat if you didn‘t already have it. If you already have it, you add +1 to your weapon
+damage rolls with either weapon.
+
+#### Elemental Command
+Also at 1st level, you gain increased proficiency and command over the
+elements. You may perform any of the following abilities a number of times equal to your Spirit
+modifier. All such uses of elemental command are restored after a short rest.
+
+\columnbreak
+
+<div style="margin-top:500px;"></div>
+
+* *Command the Storm*. When a creature within 5 feet of you that you can see hits you with an
+attack, you can use your reaction to cause the creature to make an Agility saving throw. The
+creature takes 2d6 lightning or thunder damage (your choice) on a failed saving throw, and half
+as much damage on a successful one. If they took at least 5 points of damage, they are pushed 5
+feet away. The damage increases by 1 dice for every two spell levels you can access above 1st
+level (up to 6d6).
+* *Command the Earth*. You may send a tremor through the earth as a bonus action as an elemental
+command, unbalancing your enemies. In a 30-foot-sphere centered on you, you may send a
+shockwave, dealing 2d6 + your Spirit modifier in bludgeoning damage (or your off-handed
+weapon damage, whichever is higher), with an Agility saving throw to half damage. You may
+instead shape this as a 15-foot-long cone, or a 30-foot-long line. If you also have the Tremor
+talent, you may expend a use of Tremor. If you elect to do so, creatures who fail the Agility
+saving throw are also knocked prone and suffer 5 additional points of damage. The damage
+increases by 1 dice for every two spell levels you can access above 1st level (up to 6d6).
+* *Command the Flame*. You may cast fire bolt as a bonus action or as a reaction as a use of
+elemental command. You may add this damage to your off-hand attack as part of the same
+action.
+___
+Also, choose one weapon you are proficient in and enhance it with a shard of your essence. So long
+as you wield the weapon, it counts as a spellcasting focus, and you may use it to perform somatic
+components of your shaman spells. You can only have one weapon enhanced this way.
+
+\pagebreakNum
+
+#### Channel Elements: Elementalist Combat
+At 2nd level, you can spend a Channel Elements use to
+invoke a blessing from the elementals. This does not cost an action. This blessing boosts your
+combat capabilities beyond those even of experienced warriors for 1 minute. While this blessing is
+active, your strike and shot effects do not cost a bonus action to apply, so long as they are from the
+shaman class or from shaman spells. Furthermore, if you successfully affect the target with two
+attacks or more, you may push the creature up to 10 feet away (plus an additional 10 feet for each
+extra attack), so long as it is not more than one size category larger you. If the strike would normally
+push the enemy, the forced movement does not stack.
+
+The blessing ends early if you are knocked unconscious, or if their turn ends without being
+attacked or attacking a hostile creature, or if not casting a non-cantrip shaman spell.
+Flurry. Starting at 6th level, when you take an action to attack, you can attack twice instead of
+once.
+
+#### Spirit Wolves
+Starting at 8th level, you can summon two dire wolves with the spirit template as an
+action, which take their turns immediately after yours. The wolves dissipate after 5 minutes, and do
+not require concentration. So long as the wolves are within 10 feet of you, your movement speed
+increases to match their own.
+
+Furthermore, whenever you succeed on more than two attacks and the spirit wolves are within 30
+feet of you, they can make an attack of opportunity as a reaction against any creature that is within
+5 feet of them. If either succeeds on attacking, you regain 1d6+1 hit points.
+
+After using this feature, you must finish a short rest before you can use it again. The DM has the
+wolves‘ statistics, and applies the spirit template appropriately. The dire wolves‘ Challenge is always
+of a value equal to one-eighth your shaman level (allowing you to enhance them, as described in the
+Monster Guide).
+
+#### Greater Investitures
+Starting at 17th level, you can may cast one of the four ‘Investiture‘ spells
+(Investiture of Flame, Investiture of Wind, etc.) with a use of Elemental Command.
+
+While under the effects of one of the spells, whenever you cast the elemental shock or elemental tongue
+spells that deals the same damage type as described in the investiture (if any), the spell deals double
+damage (as if a critical hit). This can stack with a critical hit (up to triple damage).
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e39bc8-2533-40fc-bccd-5fe75d3e2b24/d1uuyko-d4addca7-2199-4095-8612-bb04c9990fd4.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4ZTM5YmM4LTI1MzMtNDBmYy1iY2NkLTVmZTc1ZDNlMmIyNFwvZDF1dXlrby1kNGFkZGNhNy0yMTk5LTQwOTUtODYxMi1iYjA0Yzk5OTBmZDQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rHef9u9WZ-36-SDz3dSDyEPmLLdDQdHsymMgjwJ-cHs' style='position:absolute; top:-50px; right:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+## Restoration
+You focuses on magic that heals and divines the future—your totems, as a consequence, are stronger
+than that of other paths. Restoration shamans are often thought of as more spiritual than others,
+and are known as witch-shamans or spirit-walkers.
+<br><br>
+<div class="classTable">
+
+#### Restoration Art Spells
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Healing ward, riptide
+| 3rd | Ancestral guardians, totemic recall
+| 5th | Healing stream, revivify (or ancestral sight)
+| 7th | Death ward, spirit link totem
+| 9th | Healing stream totem, tranquility (or healing rain)
+
+</div>
+
+#### Ancestral Blessing
+At 1st level, whenever you heal a creature, you add your Spirit modifier to the
+total amount of healing given. This applies once per spell. If the target is blood-related to you or
+sworn to the same blood-oath, the benefits of this ability is doubled for them. See Chapter 10 for
+details on Blood Oaths.
+
+Also, any healing totem costs 1 less mana point to cast (minimum 1).
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+#### Elusive Totems
+Also starting at 1st level, you may move any or all of your totems up to half your
+own speed as a reaction, not as a bonus action. This cannot interrupt an attack, but gives the totem
+a bonus to AC equal to your Spirit modifier versus an attack you react to.
+
+You also increase their hit points by your level (to a total of three times your level). Totems also
+gain the benefit of the Evasion rogue ability when using your Agility saving throw bonus.
+
+Lastly, if one of your totems are destroyed, you regain one-quarter the mana cost you spent on it.
+If you are traveling overland with totems out, they move with you.
+
+#### Channel Elements: Life-Link
+Starting at 2nd level, you may channel the elements and spend an
+action to cast effects spirit link spell (even if you normally cannot cast it). Furthermore, whenever a
+creature is healed, the healing is also distributed through the link as well. You may add this effect
+to as an existing spirit link spell as well by using channel divinity, so long as you were the one who
+cast it.
+
+#### Cleanse Spirit
+Starting at 6th level, you may use an action to cast the dispel magic spell (spell level
+equal to the highest spell level you can access) to any creature within 30 feet, but not on objects,
+areas, or creatures without spirits (such as Undead or Constructs). This may be used a number of
+times equal to your Spirit modifier (minimum 1). You may spend three uses to cast the remove
+curse instead with the same limitations. All expended uses are replenished at a long rest. To
+unwilling targets, this must be a ranged spell attack.
+
+Also, whenever you dispel any number of magical effects, you may choose to apply one of the
+following additional effects:
+
+\pagebreakNum
+
+* Allow the target to spend a hit dice to heal themselves
+* Deal 1d6 points of arcane damage for each spell level removed
+* Reduce the target‘s speed by 10 feet for 1 minute
+
+#### Deep Healing
+Starting at 8th level, your healing spells heal much more if the target is already
+wounded. If the target of one of your shaman healing spells is bloodied, the benefits of your
+Ancestral Blessing ability is doubled (double your Spirit modifier in extra hit points). If the target is
+at 0 hit points and is unstable, the benefits triple.
+
+Also, so long as one of your shaman totems is within 30 feet of you, you can cast any shaman
+healing spell through it as if you were standing in its space. You can ‗chain‘ the shaman totem,
+extending healing via the totems you prepare.
+
+#### Totem Mastery
+Starting at 17th level, you may activate two totems with the same reaction. You
+may also include totems in the spirit link spell or effect, despite them being objects and not
+creatures. For this purpose, they have resistance against any damage shared through the link,
+soaking up the total damage distributed.
+
+Also, whenever one of your totems is attacked (and not necessarily hit), it can move 10 feet in any
+direction. If it ends adjacent to an ally, the totem regains 2d6 hit points.
+
+\pagebreakNum
