@@ -6054,3 +6054,381 @@ spell you used.
 
 \pagebreakNum
 
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1366870d-f4a1-4e2c-a952-1dd79847779c/de50942-b8805799-35ac-48e6-88cb-badc911ef494.jpg/v1/fill/w_1159,h_689,q_70,strp/death_from_above_by_mirasand_de50942-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzYxIiwicGF0aCI6IlwvZlwvMTM2Njg3MGQtZjRhMS00ZTJjLWE5NTItMWRkNzk4NDc3NzljXC9kZTUwOTQyLWI4ODA1Nzk5LTM1YWMtNDhlNi04OGNiLWJhZGM5MTFlZjQ5NC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jWA_y0EnM2lKiNMFORlGGxCpcEkJJikzRWdkXlmQ1t4' style='position:absolute; top:0px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+## Rogue (RGE)
+
+*A hooded figure walks towards the entrance of a shop,
+as a crow as black as night flies from its rest above the
+shop‘s sign. The human shopkeeper studies the man
+carefully, before sliding a book from its shelf. The
+bookcase slowly creaks open and the hooded figure
+enters the dark passage. As the figure passes, they toss
+a single silver piece with an odd symbol to the counter
+top, which is quickly collected by the shopkeep.*
+<br><br>
+*Lost, a traveler finds a mansion in the middle of the
+woods. Starving and cold, she approaches the manor.
+Inside the guests lay motionless, slumped over their
+dinner. She slowly walks up to the head of the table, where she sees the heavy frame of a man. She
+notices a wide cut in his neck, as a sharp pain is felt in her chest. As the traveler looks down, a
+black dagger protrudes from her abdomen. Falling to the ground she sees the rotten grin of a
+forsaken, as blood spills to the ground and she draws her last breath.*
+<br><br>
+*In a run-down inn on the coast, a band of sailors drink and sing merrily into the night. Suddenly a
+goblin, clad in leather and armed with a shortsword and loaded pistol, strolls in. All faces turn to
+the wanted sign across the room mirroring the goblin intruder‘s face. With a grin the goblin cocks
+her pistol, and in a few moments, the goblin leaves the inn once more, swinging a few purses
+stained with blood.*
+
+### Skill and Precision
+Rogues possess a wide range of skills that allow them to accomplish feats from finding secret doors
+to smacking a magic item until it works. They are excellent in a fight, and if they can strike quickly
+or unseen — or are flanking an enemy with the help of a thoughtful ally — they can be truly deadly.
+Of course, they also excel at stealth.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+The rogues of Azeroth are the masters of subterfuge, skilled and cunning adversaries of those who
+dare not look into the shadows to see what lurks there. Roguery is a profession for those who seek
+the adventures of stalking in silent forests, dimly lit halls, and heavily guarded strongholds. Using
+trickery in combat and able to vanish at the slightest distraction, the rogue is a welcome addition to
+any group of adventurers. Ideal spies, deadly to those they can catch unaware, rogues have no
+problem finding a place in the world. Deadly masters of stealth, rogues are the whispers in shadowy
+corners and the hooded figures crossing dark fields. Skilled with daggers and the art of silent death,
+these vagabonds and bandits skulk about Azeroth seeking targets and profit. A member of almost
+any race can learn the tricks necessary to become a skilled rogue. Still, for the tauren and draenei,
+such a profession is an alien concept and therefore rare among those peoples. Whether they are
+diplomats, spies, thieves, scoundrels, entertainers, or simply adventurers, they can be found plying
+just about any trade from Mount Hyjal to Ratchet.
+
+### A Shady Living
+Rogues fend for themselves, looking for fights in which they dictate the terms. They‘re the shadows
+in the night that remain unseen until the right moment comes to strike—then they dispatch an
+opponent with quick blade work or a deadly toxin snuck acutely into the bloodstream. Rogues are
+opportunistic thieves, bandits, and assassins, but there‘s an unparalleled art to what they do.
+
+From the high-contract assassin hired in secret by respected noblemen to the lowly street mugger,
+rogues are the ones called upon when maintaining the status quo requires a questionable solution
+— and by fulfilling it, they are branded as outcasts by the very society that calls upon their service.
+
+\pagebreakNum
+
+In Azeroth, rogues are largely free agents, though some prefer to join an organization for safety and
+ease of employment. Ravenholdt and the Syndicate are examples. Other recognized rogue
+organizations include the Shattered Hand, the Deathstalkers, and SI:7.
+
+### Creating a Rogue
+As you create your rogue character, consider the character‘s relationship to the law. Do you have a
+criminal past—or present? Are you on the run from the law or from an angry thieves‘ guild master?
+Or did you leave your guild in search of bigger risks and bigger rewards? Is it greed that drives you
+in your adventures, or some other desire or ideal?
+
+What was the trigger that led you away from your previous life? Did a great con or heist gone
+terribly wrong cause you to reevaluate your career? Maybe you were lucky and a successful robbery
+gave you the coin you needed to escape the squalor of your life.
+
+Did wanderlust finally call you away from your home? Perhaps you suddenly found yourself out off
+from your family or your mentor, and you had to find a new means of support. Or maybe you
+made a new friend—another member of your adventuring party—who showed you new possibilities
+for earning a living and employing your particular talents.
+
+Rogues represent thieves, treasure-hunters, cunning spies, and aspiring adventurers. Using their
+skills and cunning (and sometimes gifted with a knack for technology or strange magics), rogues are
+always welcome to any faction, and many works for more than two at any given time as scouts,
+double agents, and false merchants.
+
+For rogues, the only code is the contract, and their honor is purchased in gold. Free from the
+constraints of a conscience, these mercenaries rely on brutal and efficient tactics. Lethal assassins
+and masters of stealth, they will approach their marks from behind, piercing a vital organ and
+vanishing into the shadows before the victim hits the ground.
+
+#### Quick Build
+You can make a rogue quickly by following these suggestions. First. Agility should be your highest
+ability score. Make Intelligence your next-highest if you want to excel at Investigation. Choose
+Charisma instead if you plan to emphasize deception and social interaction. Second, choose the
+charlatan background.
+
+### Class Features
+As a rogue, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per rogue level
+- **Hit Points at 1st Level:** Level: 8 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Stamina modifier per rogue level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, hand crossbows, longswords, rapiers, scimitars, shortswords
+- **Tools:** Thieves‘ tools or Poisoner‘s Kit
+___
+- **Saving Throws:** Agility, Intelligence
+- **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation,
+Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+* *(a)* a rapier or *(b)* a shortsword
+* *(a)* a shortbow and quiver of 20 arrows or *(b)* a shortsword
+* *(a)* a burglar‘s pack, *(b)* a dungeoneer‘s pack, or (c) an explorer‘s pack
+* Leather armor, two daggers, and thieves‘ tools or poisoner‘s tools
+___
+One use of a poison (a vial, a dash, etc.) are considered creations of moderate complexity (1 day) to
+create.
+ 
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/feac120a-4482-4a91-9cee-fce7fbde0dbe/dbrlxyf-bb5748e3-24d3-4e6a-8a68-1d59e913add6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlYWMxMjBhLTQ0ODItNGE5MS05Y2VlLWZjZTdmYmRlMGRiZVwvZGJybHh5Zi1iYjU3NDhlMy0yNGQzLTRlNmEtOGE2OC0xZDU5ZTkxM2FkZDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oorfRtsgtYwRmNbA14fL4LBXziFTXMKlz9t-ZfxNANc' style='position:absolute; top:0px; right:0; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:350px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Sneak Attack| Talents | Features |
+|:---:|:---:|:---|:---:|:---:|:---:|
+| 1st | +2 | 1d6 | - | Expertise, Sneak Attack, Thieves‘ Cant
+| 2nd | +2 | 1d6 | 1 | -
+| 3rd | +2 | 2d6 | 1 | Rogue Archetype
+| 4th | +2 | 2d6 | 1 | Ability Score Improvement
+| 5th | +3 | 3d6 | 2 | -
+| 6th | +3 | 3d6 | 2 | Expertise
+| 7th | +3 | 4d6 | 3 | -
+| 8th | +3 | 4d6 | 3 | Ability Score Improvement
+| 9th | +4 | 5d6 | 3 | Rogue Archetype feature
+| 10th | +4 | 5d6 | 3 | Ability Score Improvement
+| 11th | +4 | 6d6 | 4 | -
+| 12th | +4 | 6d6 | 4 | -
+| 13th | +5 | 7d6 | 4 | -
+| 14th | +5 | 7d6 | 4 | -
+| 15th | +5 | 8d6 | 5 | -
+| 16th | +5 | 8d6 | 5 | Ability Score Improvement
+| 17th | +6 | 9d6 | 5 | Rogue Archetype feature
+| 18th | +6 | 9d6 | 6 | -
+| 19th | +6 | 10d6 | 6 | Ability Score Improvement
+| 20th | +6 | 10d6 | 6 | Stroke of Luck
+
+</div>
+
+\pagebreakNum
+
+#### Expertise
+At 1st level, choose two of your skill proficiencies, or one of your skill proficiencies and your
+proficiency with thieves‘ tools. Your proficiency bonus is doubled for any ability check you make
+that uses either of the chosen proficiencies.
+
+At 6th level, you can choose two more of your proficiencies (in skills or with thieves‘ tools) to gain
+this benefit.
+
+#### Sneak Attack
+Beginning at 1st level, you know how to strike subtly and exploit a foe‘s distraction. Once per turn,
+you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on
+the attack roll. The attack must use a finesse or a ranged weapon. You don‘t need advantage on the
+attack roll if another enemy of the target is within 5 feet of it, that enemy isn‘t incapacitated, and
+you don‘t have disadvantage on the attack roll.
+
+The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak
+Attack column of the Rogue table.
+
+#### Thieves’ Cant
+During your rogue training you learned thieves‘ cant, a secret mix of dialect, jargon, and code that
+allows you to hide messages in seemingly normal conversation. Only another creature that knows
+thieves‘ cant understands such messages. It takes four times longer to convey such a message than it
+does to speak the same idea plainly. In addition, you understand a set of secret signs and symbols
+used to convey short, simple messages, such as whether an area is dangerous or the territory of a
+thieves‘ guild, whether loot is nearby, or whether the people in an area are easy marks or will
+provide a safe house for thieves on the run.
+
+#### Rogue Talent
+Starting at 2nd level, you gain a class talent, representing your ability to function under pressure or
+perform specialized tasks, either by quick thinking, good use of skill, special aptitude towards
+magic, or by lightning-fast reflexes. See Class Talents at the end of the Chapter 3 for options.
+
+Whenever you qualify for another talent (as detailed in the talent column), you can choose another
+talent or gain another use of an existing talent.
+
+#### Roguish Archetype
+At 3rd level, you choose an archetype that you emulate in the exercise of your rogue abilities:
+Assassination, which focuses on capturing the opponent unawares a quickly dispatching of them,
+Outlaw, which focuses on dueling and swashbuckling, and Subtlety, which attunes one‘s self with
+shadows so much that they begin to aid him. All are detailed at the end of the class description.
+Your archetype choice grants you features at 3rd level and then again at 9th, 13th, and 17th level.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one
+ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As
+normal, you can‘t increase an ability score above 20 using this feature.
+
+#### Blindsense
+Starting at 14th level, if you are able to hear, you are aware of the location of any hidden or
+invisible creature within 10 feet of you.
+
+#### Stroke of Luck
+At 20th level, you have an uncanny knack for succeeding when you need to. If your attack misses a
+target within range, you can turn the miss into a hit. Alternatively, if you fail an ability check, you
+can treat the d20 roll as a 20.
+
+Once you use this feature, you can‘t use it again until you finish a short or long rest.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a8b89eb-212e-48ac-b1d8-0554cbe12ff1/dcjvd7c-2d4aaf16-4da1-43d7-9fc5-677d1def3c78.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhOGI4OWViLTIxMmUtNDhhYy1iMWQ4LTA1NTRjYmUxMmZmMVwvZGNqdmQ3Yy0yZDRhYWYxNi00ZGExLTQzZDctOWZjNS02NzdkMWRlZjNjNzguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.SlJ6RZn1KmCmZHaLZhqDXewnj7NxQ-UXupmmzghYc6Y' style='position:absolute; top:0px; right:-150px; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:100%;' />
+
+### Assassination
+You are deadly master of poisons, who can dispatch various victims with vicious dagger strikes and
+amazing talents. Assassins are usually independent agents who perform contracts with various
+organizations to further their own goals.
+
+#### Assassinate
+Starting at 3rd level, you are at your deadliest when you get the drop on your enemies.
+
+You have advantage on attack rolls against any creature that hasn‘t taken a turn in the combat yet.
+
+In addition, any hit you score against a creature that is surprised is a critical hit.
+
+Also, if you don‘t already have proficiency with a poisoner‘s kit, you gain proficiency in it, and you
+gain advantage to saving throws against your own poisons.
+
+#### Disrupting Strike [Strike]
+Also starting at 3rd level, you gain experience in fighting casters.
+
+Whenever you deal sneak attack damage with a melee weapon, you may give up a portion of the
+damage to inflict on the target the distracted condition for one round per 1d6 of sneak attack given
+up.
+
+#### Dispatch
+Starting at 9th level, whenever attacking a target that is bloodied, your sneak attack dice
+improves from 1d6 to d10.
+
+#### Expert Poisoner
+Starting at 13th level, the Poisoned condition if delivered by you also inflicts
+disadvantage on one saving throw type you choose for the duration of the condition. You also
+gather triple the normal amount of crafting materials for poisons when harvesting (such as from
+raw materials or from creatures).
+
+#### Vendetta
+Starting at 17th level, you may mark one target within 100 feet with an action, and have
+advantage to all Perception checks to perceive them, as well as advantage to the first attack of every
+turn against them. The benefits remain for one minute, and may be used once before a short rest.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/61b9d7bf-4e42-4f65-90d5-02f136e4443e/dcnk5cv-2d5f1d2a-11f1-48de-aceb-bc4c08bcee8f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzYxYjlkN2JmLTRlNDItNGY2NS05MGQ1LTAyZjEzNmU0NDQzZVwvZGNuazVjdi0yZDVmMWQyYS0xMWYxLTQ4ZGUtYWNlYi1iYzRjMDhiY2VlOGYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4JOqd6rRrnLQxkmfTd54j3ffnZUbiY2R_ttRP4o-1b4' style='position:absolute; top:0px; left:-250px; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:-40px; width:100%; height:100%; transform:scaleX(-1);' />
+
+.
+
+\columnbreak
+
+### Outlaw
+You are a swashbuckler, duelists, or combatant who uses agility and guile to stand toe-to-toe with
+opponents. Outlaw rogues are usually pirates and highwaymen.
+
+#### Riposte
+Starting at 3rd level, you may deflect an incoming attack by using a reaction, thereby
+adding your Proficiency bonus to your AC. If your AC is then high enough to make the enemy
+miss after it would have been a success, you can make an attack of opportunity against the enemy.
+
+Outlaw rogues also gain proficiency with firearms and explosives.
+
+#### Revealing Strike [Strike]
+Also at 3rd level, a target struck with this ability must make an Agility
+saving throw contested by your own. If you succeed, the target loses all increases to AC from a
+single type against all targets for until the end of your next round. This may be used to nullify
+armor bonuses, insight bonuses, or Agility bonuses, but not all three.
+
+A creature that suffers the effects of Revealing Strike cannot be targeted again for 24 hours. This is
+a strike effect that costs a bonus action.
+
+#### Quick Combatant
+Beginning at 9th level, you can attack twice, instead of once, whenever you take
+the Attack action on your turn.
+
+If you roll a successful attack roll with one of these attacks, you may forgo dealing damage with that
+attack to give yourself advantage on the next attack you make. This may only be done with melee
+attacks.
+
+#### Disabling Strike [Strike]
+Starting at 13th level, your keen eye and calculating mind makes your
+Sneak Attacks even more potent. Whenever you succeed on an attack that deals Sneak Attack
+damage, you may elect to not deal sneak attack damage, and force your target to make an Agility
+saving throw contested by your own. If the target fails the saving throw, it gains one of the following
+conditions at your choice.
+* Slowed by 1/2 their normal movement rate for until the end of its turn in the next round.
+* Blinded for until the end of its turn in the next round.
+* Stunned for until the end of its turn in the next round.
+___
+This is a strike effect that costs a bonus action. A creature cannot suffer more than once against
+your Disabling Strike in 24 hours. If you have the dire strike ability, you can deal half your sneak
+attack damage when applying a dire strike.
+
+#### Killing Spree
+Starting at 17th level, you tap into your reserves of speed, going into a killing spree.
+
+While you are in this state, you may double your movement and gain advantage on your first attack
+at the beginning of every round. Your movement doesn't provoke opportunity attacks. This state
+remains for 1 minute, or until you spend one of your rounds without making an attack roll or if
+you are not targeted with an attack roll. This may be used once per short rest.
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/050/728/201/large/petra-zemankova-tofusenshi-biggysweatsjpg.jpg?1655540994' style='position:absolute; top:0px; right:-100px; height:100%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:100%;' />
+
+### Subtlety
+Your affinity with shadows reached beyond the mundane, tapping into shadowy arcane powers.
+Subtlety rogues are often spies who sell their secrets to the highest bidder.
+
+#### Shadow Spellcasting
+Drawing on mysterious shadow-magics, you can cast spells to shape that essence to your will. You
+cast spells drawn from the Mage spell list, and are restricted to spells from the Conjuration,
+Evocation, Enchantment, and Illusion schools. You may also scribe spells in Thieves‘ Cant. You
+also gain a spellbook as a 1st-level mage.
+
+You gain bonus spells on your 8th, 14th, and 20th level. These spells can be of any schools.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to your proficiency bonus.
+One of your cantrips must be the mage hand cantrip.
+
+##### Preparing and Casting Spells
+Each rogue level provides you with 0.5 a caster level in the Mage class (minimum 0). You follow the
+normal progression to unlock spell levels (see the table under the Mana section).
+
+You prepare the list of Mage spells that are available for you to cast, choosing from the mage spell
+list. Your spellcasting otherwise follows the same rules as the mage class (with regards to which
+creatures you can conjure, spellbooks, etc.). Your spellcasting ability is Intelligence.
+
+#### Premeditation
+Also on 3rd level, you may use 3 rounds (counted as 3 actions) to study an enemy.
+
+If you do, you may always apply your sneak attack damage against them (even without advantage or
+an ally nearby) for one minute, unless the target moves more than their full speed in one round. In
+addition, any hit you score against a creature that is surprised is a critical hit.
+
+#### Vanish
+Starting at 9th level, you may grant yourself invisibility as a reaction. This invisibility
+remains until the end of your next turn. This may be used once per point of Intelligence modifier,
+and replenishes after a short rest.
+
+#### Shadow Dance
+Starting at 13th level, you may initiate a shadow dance by moving more than 10
+feet. While in this stance, you grant yourself concealment as per the blur spell. Also while in the
+stance, creatures affected or distracted by your mage spells (such as a summoned monster or an
+image illusion, but not the distracted condition) grant you advantage to your first attack at any
+round. This may be used once per short rest, and remains so long as you continue moving.
+
+#### Backstab
+Starting at 17th level, when you target a bloodied creature with a sneak attack, you may
+deal double the sneak attack damage. Once affected, the target is immune to this ability until they
+complete a short rest.
