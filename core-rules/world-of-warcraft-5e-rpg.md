@@ -1271,13 +1271,13 @@ As one of the orcish people, you may hail from the exodus lead by Warchiefs Thra
 ***Size.*** Orcs are somewhat larger and bulkier than humans, and they range from 5 to well over 6 feet tall. Your size is Medium.<br>
 ***Speed.*** Your base walking speed is 30 feet.<br>
 ***Darkvision.*** You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
-***Menacing.*** You gain proficiency in the Intimidation or Insight skills, and may use Strength or Stamina for Intimidation checks instead of Charisma for Intimidation checks.<br>
-***Warrior Tradition.*** You may choose two of the below talents. You are treated as a 1st level warrior for these effects (unless you later take a level in warrior).
+***Menacing.*** You gain proficiency in the Intimidation or Insight skills, and may use Strength for Intimidation checks instead of Charisma.<br>
+***Warrior Tradition.*** You may choose two of the below features. You are treated as a 1st level warrior, hunter, or rogue for talents (unless you later take a level in warrior).
 * *Aggressive.* You gain the Aggressive talent.
-* *Berserker Rage.* You gain the Berserker Rage talent. If you later gain the talent, increase the total times you can rage before a long rest by 1. You may also choose one spellcasting class, and cast spells from that class while raging.
-* *Brutal Critical.* You gain the Brutal Critical talent.
+* *Brutal Critical.* You gain the Brutal Critical talent, and can apply it to spell damage rolls once per spell. 
 * *Relentless.* You gain the Relentless talent. If you later gain the talent, you reduce the base DC by 5.
 * *Shock Resistant.* You gain the Shock Resistant talent.
+* *Primal Intuition.* You have proficiency with two of the following skills of your choice: Animal Handling, Medicine, Nature, Perception, and Survival.
 ____
 ***Orcish Combat Training.*** You have proficiency with the battleaxe, handaxe, attack claws, and the shortbow.<br>
 ***Languages.*** You can speak, read, and write Common and Orcish. Orcish is a harsh, grating language with hard consonants.<br><br>
@@ -1372,7 +1372,7 @@ Tauren are mostly muscle, having incredibly developed physiques and brawny frame
 
 <div style="margin-top:490px;"></div>
 
-***Gore.*** You can use an attack action to make a gore attack with your horns. It is a melee unarmed attack that deals 1d8 piercing damage plus your Strength modifier. If you used the Dash action before the attack (such as spending last round to approach or having the ability to use it as a bonus action), you may also use the Shove action. This is a strike effect.<br>
+***Gore.*** You can use an attack action to make a gore attack with your horns. It is a melee unarmed attack that deals 1d8 piercing damage plus your Strength modifier. If you used the Dash action before the attack (such as spending last round to approach or having the ability to use it as a bonus action), you may also use the Shove action. This is a strike effect. If you cast a spell, you may use your gore attack as a bonus attack at the same round.<br>
 ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.<br>
 ***Plainswalker.*** Tauren can reach prodigious speed when continually moving. If you use the Dash action once per round for at least three rounds, you gather enough momentum to add a +10 bonus to your land speed, allowing you to travel as fast as a wolf (Speed 40). This bonus ends if you stop moving for any purpose. While benefitting from this speed, you are treated as if you are dashing for the purposes of the gore ability, and also have advantage to saving throws versus exhaustion from forced marches.<br>
 ***Self-Mastery.*** You have proficiency with one of the following skills and one of the following tools:
@@ -1437,7 +1437,6 @@ Troll affiliations are wildly different ever since the great Troll empires fell.
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:-0; left:-50px; width:100%; height:100%;' />
 
 ***Ancient Culture.*** You can gain one of the below abilities.
-* *Berserker Warrior.* You can rage as if you had the berserker rage talent as a 1st level warrior. If you gain the talent, you increase the total times you can rage by 1. Your rage also increases the damage of ranged thrown attacks as if they were melee weapon attacks (so long as they use Strength).
 * *Blessed by Loa.* You know the vicious mockery cantrip. If you have the ability to cast spells, this consumes mana as normal. Otherwise, it has no cost to use.
 * *Naturally-Attuned.* You gain a favored terrain, as a 1st level hunter. If you ever become a hunter or gain a favored terrain, you may choose another while retaining this bonus.
 ____
@@ -1674,7 +1673,7 @@ These lightly armored individuals are experts in creating a variety of special e
 ### Magic and Science
 In the Warcraft universe, alchemy is not merely pseudo-chemistry—it is an art that draws power from the primal elements of life, not unlike actual magic. An alchemist is a master of the art who takes it leaps and bounds further than their peers, who are limited in their alchemical products to mere healing poultices and anti-toxins, reaching heights of reviving the dead or manifesting massive explosives.
 
-The greatest strength of an alchemist is their versatility. They can themselves adequately but can specialize in being battle-chemists who augment themselves with potions before tearing their enemies apart with their own hands. They can choose to focus on the augmentative powers of their mixtures, delaying harm and healing wounds, or to debilitate their enemies with negative status effects. Damage dealt by an alchemist‘s potions usually focus on concussive or poison damage, but they are also broad in scope, dealing fire or frost or lighting as required of them. The better they anticipate their opposition, the better the alchemist can prepare. 
+The greatest strength of an alchemist is their versatility. They can themselves adequately but can specialize in being battle-chemists who augment themselves with potions before tearing their enemies apart with their own hands. They can choose to focus on the augmentative powers of their mixtures, delaying harm and healing wounds, or to debilitate their enemies with negative status effects. Damage dealt by an alchemist’s potions usually focus on concussive or poison damage, but they are also broad in scope, dealing fire or frost or lighting as required of them. The better they anticipate their opposition, the better the alchemist can prepare. 
 
 The success of alchemists relies greatly on the formulae and recipes they have in their formula books. They gain new formulae as they gain experience, study other formula books, or research independently.
 
@@ -1696,7 +1695,7 @@ Alchemy itself does not fall strictly in one end between science and magic, but 
 Alchemists support soldiers and adventurers, and could easily take to the field themselves, brewing and concocting potions, poisons, and poultices to support (or create) allies on the field. Some work to support their communities, others attempt to replicate (or surpass) the work of the Scourge's necromancers, and others focus on self-empowering through strange concoctions they imbibe.
 
 ### Creating an Alchemist
-As you make your alchemist character, consider the origins of their knowledge: were they selftaught, a student of another alchemist, or did they gain this mastery by esoteric means? Alchemy is a difficult discipline—how did you accomplish the challenge to gain your status? Were you motivated by war, fortune, or by something else entirely, such as the lack of magical talent to become a spellcaster?
+As you make your alchemist character, consider the origins of their knowledge: were they self-taught, a student of another alchemist, or did they gain this mastery by esoteric means? Alchemy is a difficult discipline—how did you accomplish the challenge to gain your status? Were you motivated by war, fortune, or by something else entirely, such as the lack of magical talent to become a spellcaster?
 
 Perhaps you preferred the reliable mundane science of alchemy over the unexpected extraordinary power of magic, or took comfort in the fact that you were in demand in an urban setting—there is no lack of adventurers who might need your aid as an alchemist if you do not wish to go out and adventure. Do you have any peers among alchemists? Do they perceive your approach to science as calm and intellectual, or rash but with great breakthroughs or a dangerous form of meddling with life and death that should not be tolerated? Do you have a special ambition or goal to achieve as an alchemist—such as making magic-like effects accessible to the mundane public, providing affordable healing, and counters to common ailments, or are your creations for your own monetary benefit?
 
@@ -1769,10 +1768,10 @@ You start with the following equipment, in addition to the equipment granted by 
 \pagebreakNum
 
 #### Alchemy
-When starting with this class, you have proficiency with Alchemist‘s Supplies and can use them with uncanny skill. You can create alchemical mixtures from any spell that belongs to the alchemist spell list, so long as you have the alchemical formula. This does not allow you to cast spells, only to know them enough to create potions. Each level in the alchemist class provides you with 1 caster level to access alchemical formulae, as appropriate to the alchemist spell list.
+When starting with this class, you have proficiency with Alchemist’s Supplies and can use them with uncanny skill. Unlike most characters proficient with Alchemist’s Supplies, you refer to the alchemist spell list for your spells, not your own spells (or formulas you have access to). This ability does not allow you to cast spells, only to know them enough to create potions. Each level in the alchemist class provides you with 1 caster level to access alchemical formulae, as appropriate to the alchemist spell list.
 
 ##### Cantrips
-At 1st level, you know a number of cantrips equal to your proficiency bonus. As normal for alchemist spells, you cannot cast them, but can turn them into potions. Cantrips do not require a formula book, and are always memorized.
+At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus. As normal for alchemist spells, you cannot cast them, but can turn them into potions (unless you chose the Innate Cantrips focus from Weird Science). Cantrips do not require a formula book, and are always memorized.
 
 ##### Conjuring and Binding
 An alchemist can conjure and bind aberrations, constructs, elementals, oozes, plants, and undead, as well homunculi creatures (creatures with the homunculus template). 
@@ -1800,10 +1799,10 @@ At 1st level, your formula book contains four 1st-level alchemist spells of your
 
 Your formula book is effectively your spellbook, and you may add spells by studying with it and replicating experiments found in other formula books.
 
-#### Inurement
-You also gain the ability to craft temporary and unstable alchemical creations at certain levels. Such creations have limitations compared to normal crafting (as described in Chapter 7), but are more accessible and useable in combat.
-
 \columnbreak
+
+#### Inurement
+You also gain the ability to craft unstable alchemical creations at a moment’s notice. Such creations have some limitations compared to normal crafting (as described in Chapter 7), but are more accessible and useable in combat. You also need the required tools at hand (Alchemist’s Supplies).
 
 You also need the required tools at hand (Alchemist‘s Supplies).
 
@@ -1826,21 +1825,19 @@ Creating temporary alchemical creations costs an Action if a Consumable, or 1 mi
 <sup>3</sup> Starting at 5th level, your Common-level temporary creations do not consume crafting materials, but still require access to your tools (Alchemist‘s Supplies).
 
 ##### Crafting Point Cost
-Your ability to do such rapid and innovative creations strains your mind and creative capabilities.
-
-You are afforded a pool of Crafting Points (which act as Mana Points). Similarly to Mana Points, you spend points to spontaneously craft items and regain such points by resting. This is subject to the following points of difference, however:
+Your ability to do such rapid and innovative creations strains your mind and creative capabilities. You are afforded a pool of Crafting Points (which act as Mana Points). Similarly to Mana Points, you spend points to spontaneously craft items and regain such points by resting. This is subject to the following points of difference, however:
 * You have a number of Crafting Points equal to your Intelligence score (not modifier) plus your proficiency bonus plus one-half your Alchemist level (round down). Unlike mana points, your pool is unaffected by the spell level you can access. As this power is not magical in nature, you are unaffected by any anti-magic effects such as an antimagic field or mana burn effects.
 * You do not regain points by mana-restorative effects, such as Mana Potions or resting near mana fountains. However, so long as you are in a relevant resource node or crafting area (such as an alchemical grove or your stronghold), you regain points with a +50% increase, as you draw inspiration from them.
 * Your creation costs scale by the item‘s rarity and your ability to craft them; and are thus limited by the Rarity column in your class chart. You can craft anything you have memorized or if you refer to the formula of in your possession (such as in your formulae book).
-____
+
+\pagebreakNum
+
 A temporary creation that breaks down, fails, or expires can be harvested for one-half of the crafting
 materials invested. This does not apply to Consumables that were successfully used.
 Your temporary creations can be made permanent by paying the rest of the crafting cost.
 
 ##### Material Cost
 As well as consuming Crafting Points, temporary creations also cost material costs appropriate to their rarity, as detailed above.
-
-\pagebreakNum
 
 ##### Temporary Item Duration
 Once created, the temporary item remains until used (if a Consumable), until it breaks down (if a Creature), or up to 5 minutes.
@@ -1865,7 +1862,7 @@ Also at 1st level, you may choose a weird science or avenue of natural talent to
 If a humanoid or a creature with the homunculus template, the creature is loyal to you, but retains a shadow of free will. It can be commanded to go against its nature (or what it perceives as its nature) with a DC 15 Charisma check. Bonding with a homunculus requires spending one hour communicating with the creature by means it can understand, and spending the next seven hours in bonding activities (fixing/healing/conversing/etc.). The companion can use your potions as if it was you.
 * *Innate Cantrips.* You can use any cantrips you have learned, so long as you have access to your Formula Book. You can use cantrips as if you were a spellcaster, and do not need to turn them into potions or use any resources on them (such as mana or inurement).
 * *Potion Slinger.* You may choose one type of ranged weapon (such as crossbows or bows) and gain proficiency if you don‘t already have it. Furthermore, you may spend a potion to infuse the projectile with the potion‘s effects. You may choose to activate the potion before launching the projectile (to take into account the spell‘s original casting time), but the spell otherwise takes place as if the target was hit (or the area it landed on) is the spell‘s original target. You may choose to deal the ranged weapon‘s damage on impact or to only apply the potion‘s effect. 
-* *Mithridatism.* You gain innate power over poisons. You naturally generate up to four doses of basic poison (as described in the Player‘s Handbook) whenever you complete a long rest. The poison‘s DC is equal to your Alchemy Spell Save DC, however, and the damage is equal to 1d4 Poison damage per Alchemist spell level you can access. The poison expires before you complete your next long rest, replenishing your store. If you have an empty Mithridatism dose slot, you can choose to fill it with a poison you are affected by, so long as you succeed on the saving throw against it and are aware of its presence. You can store this poison for future use, but cannot otherwise generate it.
+* *Mithridatism.* You gain innate power over poisons. You naturally generate up to four doses of basic poison (as described in the Player’s Handbook) whenever you complete a long rest. The poison’s DC is equal to your Alchemy Spell Save DC, however, and the damage is equal to 1d4 Poison damage per Alchemist spell level you can access. The poison expires before you complete your next long rest, replenishing your store. If you have an empty Mithridatism dose slot, you can choose to fill it with a poison you are affected by, so long as you succeed on the saving throw against it and are aware of its presence. You can store this poison for future use, but cannot otherwise generate it.
 You also have skill in deploying poisons that are in your dosage slots, and gain temporary immunity to such poisons so long as they are not deployed. You may deploy poisons as described under Chapter 7: Poisoner‘s Kit.  
 
 #### Efficient Alchemy
@@ -1889,14 +1886,13 @@ Path spells do not need to be stored in the alchemical notebook.
 If you gain a path spell that doesn‘t appear on the alchemist spell list, the spell is nonetheless an
 alchemist spell for you.
 
+\pagebreakNum
+
 #### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can‘t increase an ability score above 20 using this feature.
 
-
 #### Empowered Physique
 Starting at 5th level, you do not automatically incur miscibility when using potions within 1 hour of one another. 
-
-\pagebreakNum
 
 You may benefit from a number of potions at a given time equal to 1 + your
 Stamina modifier (minimum 1) without risking miscibility.
@@ -1929,14 +1925,14 @@ You can have a number of potions stored this way equal to your proficiency bonus
 
 Starting at 18th level, activating a potion on your internal clock costs no reaction.
 
+\columnbreak
+
 #### Adaptable Inurement
 Starting at 17th level, you can utilize a sample or body part of a creature and mix it into a potion as a Bonus Action, inuring the target to it. If inured this way, the target can use your temporary potion as if it were you. This includes anything from hair, a bit of skin, saliva, blood, or nails.
 
 Furthermore, whenever it uses a potion inured to it, it can roll twice and choose the result when miscibility is rolled.
 
 You are always counted as if you are inured to your own potions. If you could already roll twice on miscibility, you can roll three times instead.
-
-\columnbreak
 
 #### Synthesized Potions
 Starting at 20th level, you can create synthesized potions. A synthesized potion has the benefit of one potion of a specific rarity, and includes the effect of another potion of a rarity two steps below.
@@ -2028,7 +2024,7 @@ You push your body past the normal limit—mutation is no mere rage or chemical 
 | Level | Spells |
 |:---:|:---:|
 | 3rd | Absorb elements, mage armor |
-| 5th | Alter self, berserker rage |
+| 5th | Alter self, berserker frenzy |
 | 9th | Fly, gaseous form |
 | 13th | Cripple, stoneskin |
 | 17th | Flesh to stone, true seeing |
@@ -2056,7 +2052,7 @@ Starting at 6th level, whenever you are under the effects of the mutate spell, y
 
 Furthermore, you can attack twice, instead of once, whenever you take the Attack action on your turn.
 
-Lastly, you no longer gain exhaustion from the berserker rage spell, and you do not lose your action when the haste spell ends for you.
+Lastly, you no longer gain exhaustion from the berserker frenzy spell, and you do not lose your action when the haste spell ends for you.
 
 ##### Battle Chemist
 Starting on 10th level, you gain the Flash Bomber talent. These uses stack with the Weird Science feature (if you already chose it).
@@ -2227,14 +2223,7 @@ resurrected you. Do you know who it was, or why they brought you back from death
 indebted to them for giving you a second chance at life, or are you angry that they took you away
 from your eternal rest?
 
-Death knights often have terrible stories to tell that ended with their deaths. Consider your story
-before your death—if you were once a paladin, consider the oath you took. Do you remember it? Do
-you choose to follow those tenets again, or forsake your paladin teachings and follow a new path? If
-you were a noble or important member of your society, how do you cope with their expectations
-and your role? What evils have you committed under the Lich King‘s dominion? Have you
-committed crimes that you secretly approve of, such as the murder of a noble who let you down in
-your old life, or lethally ending rivalries in life? Have you been commanded to use your power to
-raise the dead, and have you had a choice in raising anyone you once knew?
+Death knights often have terrible stories to tell that ended with their deaths. Consider your story before your death—if you were once a paladin, consider the oath you took. Do you remember it? Do you choose to follow those tenets again, or forsake your paladin teachings and follow a new path? If you were a noble or important member of your society, how do you cope with their expectations and your role? What evils have you committed under the Lich King’s dominion? Have you committed crimes that you secretly approve of, such as the murder of a noble who let you down in your old life, or lethally ending rivalries in life? Have you been commanded to use your power to raise the dead, and have you had a choice in raising anyone you once knew?
 
 Also, consider if and how you will attempt to reintegrate with society; most citizens of Azeroth fear
 and suspect the intentions of death knights, and might try to sabotage their acceptance. Have you
@@ -2360,20 +2349,9 @@ You can use this feature a number of times equal to 1 + your Charisma modifier.
 When you finish a long rest, you regain all expended uses.
 
 #### Corrupting Touch
-Your cursed touch can cause unholy wounds. As an action, you may perform a corrupting touch on
-a target, investing them with damaging energies. For every mana point you spend for Corrupting
-Touch, you heal a number of hit points equal to your proficiency bonus if targeting an undead or
-fiend. Amount you heal is instead treated as shadow damage for living creatures (in which case, this
-requires a melee spell attack). Excess hit points are lost, and you cannot heal or deal more damage
-than a value equal to your maximum hit points. When performing Corrupting Touch on yourself,
-this is instead a bonus action, and you are always healed by this ability, regardless of your creature
-type.
+Your cursed touch can cause unholy wounds. As an action, you may perform a corrupting touch on a target, investing them with damaging energies. For every mana point you spend for Corrupting Touch, you heal 1 hit point if targeting an undead or fiend, up to a maximum amount every action equal to half your maximum hit points. Amount you heal is instead treated as shadow damage for living creatures (in which case, this requires a melee spell attack). When performing Corrupting Touch on yourself, this is instead a bonus action, and you are always healed by this ability, regardless of your creature type.
 
-Alternatively, you can expend the mana to inflict one disease or one poison of your choice. Each
-disease or poison requires spending mana points equal to one-quarter the saving throw DC of the
-poison or disease. You may inflict multiple diseases or poisons this way. You can choose be a carrier
-to up to three separate poisons or diseases on your person. You need previous exposure to a poison
-or disease to be a carrier.
+Alternatively, you can expend the mana to inflict one disease or one poison of your choice. Each disease or poison requires spending mana points equal to the saving throw DC of the poison or disease. You may inflict multiple diseases or poisons this way. You can choose be a carrier to up to three separate poisons or diseases on your person. You need previous exposure to a poison or disease to be a carrier.
 
 This feature has no effect on constructs.
 
@@ -2471,9 +2449,8 @@ aura spells prepared.
 * At 10th level, you always have the unholy aura spell prepared.
 * At 14th level, you always have the distraction aura spell prepared.
 * At 18th level, you always have the vulnerability aura spell prepared.
-Furthermore, you may cast each of the above aura spells for no cost once upon reaching the
-described level. You regain all expended uses after a short rest. You may expend a free aura use to
-cancel one successful turn undead attempt that affected your undead allies.
+___
+Furthermore, you may cast each of the above aura spells once upon reaching the described level for no cost. You regain all expended uses after a short rest. You may expend one aura use to cancel one successful turn undead attempt that affected your undead allies.
 
 #### Dark Path
 When you reach 3rd level, you walk a path that defines you as a death knight forever. Up to this
@@ -2586,8 +2563,7 @@ living creature with a melee weapon attack, you can spend one of your hit dice t
 <div style="margin-top:510px;"></div>
 
 #### Blood Tap
-Starting at 7th level, whenever you use Death Pact to restore mana, the mana restored
-is increased by 50% (or 3 mana points per spell level).
+Starting at 7th level, whenever you use Death Pact to restore mana, the mana restored is increased by 50%.
 
 #### Will of the Necropolis
 Starting at 15th level, whenever you are bloodied, you may cast the death
@@ -2627,7 +2603,7 @@ death knights are terrors of the frozen wastes.
 |:---:|:---:|
 | 3rd | Icy touch, rune array (frozen wastes) |
 | 5th | Hold, consecration/desecration |
-| 9th | Blizzard, curse of the elements |
+| 9th | Blizzard |
 | 13th | Blight, ice storm |
 | 17th | Cone of cold (howling blast), cripple |
 
@@ -2651,7 +2627,7 @@ through a death knight spell or ability, you deal extra cold damage equal to you
 applying once per round. You also gain resistance to cold damage.
 
 #### Might of the Wastes [Strike]
-Starting at 7th level, your frost-sharpened weapons deals a critical hit
+Starting at 7th level, your frost-sharpened weapons land a critical hit
 on a roll of 19 or 20 as a strike effect. You also deal an additional 1d4 points of cold damage
 whenever you strike an enemy with this. You may also add the extra damage from your Frost
 Presence ability to this. Despite being a strike effect, you can make an off-hand attack with a Bonus
@@ -2975,7 +2951,7 @@ language. Natural beasts understand simple commands in druidic.
 Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
 
 ##### Cantrips
-At 1st level, you know a number of cantrips equal to your proficiency bonus.
+At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus.
 
 ##### Conjuring and Binding
 A druid can conjure and bind aberrations, beasts, elementals, fey, oozes, and plants.
@@ -3078,18 +3054,9 @@ maximum CR of your hit dice divided by 8 (¼ at level 2, ½ at level 4, 1 at lev
 16).
 
 #### Ancient Power
-Starting at 2nd level, you may rapidly recover your mana by invoking ancient powers. You can use
-your action and bonus action on your turn to regain mana as if completed a short rest (or rested for
-one hour).
+Starting at 2nd level, you may rapidly recover your mana by invoking ancient powers. You can use your action and bonus action on your turn to regain up to 20 mana points. 
 
-You can use this feature a number of times equal to half your proficiency bonus. You regain
-expended uses when you finish a long rest. While using this feature, natural energies suffuse you,
-imposing disadvantage on attack rolls made against you, and granting you advantage to saving
-throws until the start of your turn in the next round.
-
-Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
-mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
-mana you regain for the normal rest.
+You replenish your reserve of ancient power when you finish a long rest. While using this feature, natural energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
 
 #### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
@@ -3110,7 +3077,6 @@ At 20th level, you can use your Wild Shape an unlimited number of times. Additio
 ignore the verbal and somatic components of your druid spells, as well as any material components
 that lack a cost and aren‘t consumed by a spell. You gain this benefit in both your normal shape
 and your various Wild Shapes.
-
 
 \pagebreakNum
 
@@ -3293,9 +3259,9 @@ stack.
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/451704ac-ecec-4027-9e31-25eeffc92d0a/df2vpey-fa004da9-d625-45c7-9f70-1ce85bdcf424.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ1MTcwNGFjLWVjZWMtNDAyNy05ZTMxLTI1ZWVmZmM5MmQwYVwvZGYydnBleS1mYTAwNGRhOS1kNjI1LTQ1YzctOWY3MC0xY2U4NWJkY2Y0MjQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OWRw571FbyvfRhk6rMmPokxgDdRD-Q0HXEpq07o55ho' style='position:absolute; top:0px; right:0; width:100%;' />
 
-<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:100%;' />
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:120px; right:0px; width:100%;' />
 
-<div style="margin-top:420px;"></div>
+<div style="margin-top:380px;"></div>
 
 ### Restoration
 You focus on the renewing and resilient quality of nature. Restoration druids appreciate the more
@@ -3318,38 +3284,25 @@ reach out through the Emerald Dream for information and insights to the future.
 </div>
 
 #### Healing Lore
-When you choose this archetype at 2nd level, you may alter the target of a druid sigil
-spell effect as a bonus action. This requires a successful attack against the new target, and you must
-be within the range of them to cast the spell normally. The spell‘s effects take place at the new
-target‘s turn as usual.
+When you choose this archetype at 2nd level, you may alter the target of a druid sigil spell effect as a bonus action. This requires a successful attack against the new target, and you must be within the range of them to cast the spell normally. The spell’s effects take place at the start of your turn as normal, and you must declare use of this ability at the start of your turn.
 
 #### Extended Growth
-Also starting at 2nd level, the maximum duration of healing sigil druid spells
-for you is doubled, and you gain advantage to the roll to maintain druid sigil spells.
-Seed of Life. Starting at 6th level, you may touch any creature as an action, and store any spell from
-the druid spell list into them, which remains latent until you discharge it with a mental command.
+Also starting at 2nd level, the duration of healing spells from the druid spell list for you is increased by 1 round (such as the rejuvenation sigil spell).
+
+#### Seed of Power
+Starting at 6th level, you may cast a spell on a target and store it on a creature you touch. The spell, if cast this way, does not manifest immediately, and is stored until you discharge it with a mental command. The seed remains active for up to 1 hour. 
 
 \columnbreak
 
-<div style="margin-top:430px;"></div>
+<div style="margin-top:400px;"></div>
 
-If the spell‘s casting time is more than 1 action, you must also spend the casting time in contact
-with the target, as well as any required components. So long as the seed remains active, you gain a
-general and vague sense of the well-being of the creature and their physical and mental health, and
-you may use a reaction at any point to discharge the spell (in reaction to sudden pain or mental
-distress), although the spell does not specify the particulars of the triggering event.
+So long as the seed of power remains active, you gain a general and vague sense of the well-being of the creature and their physical and mental health (such as being rested, excited, pained, etc.), and you may use a reaction at any point to discharge the spell. You do not know the nature of the effect, but can tell that the target has been damaged in a certain way.
 
-If you choose the Lesser Restoration or Greater Restoration spells (or similar effects), the spell can
-also notify you when the target is affected by a condition the spell would heal or remove (such as
-death if imbuing revivify).
+If you choose the Lesser Restoration or Greater Restoration spells (or similar effects), the spell can also notify you when the target is affected by a condition the spell would heal or remove (such as death, if casting revivify as a Seed of Power spell).
 
-The seed remains active for up 24 hours, after which it fades. You may also discharge this spell only
-if the target is within 5 miles of you. If you and the target are within similar terrain and there are
-live plants within 30 feet of both of you (such as being in the same forest or desert), you can
-discharge the spell at any range so long as the natural terrain is unbroken. You can place up to
-three seeds per day, and a creature can only benefit from one at any given time.
+You may also discharge this spell only if the target is within 5 miles of you, or if both you and the target are in the same terrain, and both have live plants within 30 feet of both of you (such as if being in the same forest or desert). 
 
-This feature has no effect on constructs unless they are plant-based or made of wood.
+You can place up to three seeds per day, and a creature can only benefit from one at any given time. This feature has no effect on constructs unless they are plant-based or made of wood.
 
 #### Ironbark
 Starting at 10th level, whenever you heal a creature (including yourself), you may imbue
@@ -3357,11 +3310,12 @@ their skin with the resilience of nature. If you do, they gain resistance to all
 damage for 1 minute, or gain a number of temporary hit points equal to your level. A given
 creature can benefit only once every 24 hours.
 
-#### Improved Seed of Life
-Starting at 14th level, you may imbue up to six seeds of life at once, and
-can imbue a single target with up to two seeds. You can also use an action to see up to a distance of
-5 ft. from a creature affected by your Seed of Life, so long as the ability wasn‘t discharged yet. You
-have no use of your normal senses while you are perceiving this way.
+#### Wild Growth
+Starting at 14th level, whenever you cast a healing sigil from your druid spell list, you can target one additional target, even if the spell specifies only one target. The spell must be three levels below your highest spell level. 
+
+Also, a number of times equal to your Spirit modifier (minimum 1), you may use an action to prematurely end a healing sigil spell from the druid spell list. If you choose to do this, the target gains the full benefit as if the spell ended normally.
+
+You regain all uses of this ability when you complete a long rest. 
 
 \pagebreakNum
 
@@ -3371,14 +3325,14 @@ have no use of your normal senses while you are perceiving this way.
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:220px; right:0px; width:100%;' />
 
-<div style="margin-top:490px;"></div>
+<div style="margin-top:480px;"></div>
 
 ## Hunter (HTR)
 
 *A dwarf watches over frozen mountains, a loyal bear next to him
 breathing out warm buffs of breath against the falling snow. The
 dwarf studies the tracks in the snow, and then lifts his firearm,
-beckoning the bear to continue forward.*
+beckoning the bear to continue forward to hunt down the invader to his homeland.*
 <br><br>
 *Stalking her prey, a troll loads a bolt into her crossbow. The
 panther is completely unaware of her, as she prowls through the
@@ -3514,29 +3468,7 @@ bullets, and a powder horn
 \pagebreakNum
 
 #### Favored Enemy
-Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking
-to a certain type of enemy. Choose a type of favored enemy: aberrations, beasts, celestials,
-constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead.
-Alternatively, you can select two races of humanoid (such as gnolls and orcs) as favored enemies.
-
-You have advantage on contested skill checks against your favored enemies, as well as on
-Intelligence checks to recall information about them, and when making an attack against them, you
-deal 2 extra points of damage.
-
-When you gain this feature, you also learn one language of your choice that is spoken by your
-favored enemies, if they speak one at all. As you gain levels, your choices reflect the types of
-monsters you have encountered on your adventures. You choose one additional favored enemy, as
-well as an associated language, at 6th and 14th level.
-
-You may switch this feature (and your chosen favored enemy) by performing the following tasks
-against one creature type (or two races of humanoids):
-* Defeat it in single combat
-* Track and survey the creature type for at a total of 24 hours over 7 days
-* Examine its corpse for at one hour
-You cannot change a favored enemy this way if it is limited to an organization, but can do the same
-to other organizations. You may switch back to previously studied favored enemy at the end of a
-long rest. The language gained by the initial favored enemy choices cannot be re-chosen by
-switching favored enemies.
+Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy. You gain the Favored Enemy talent. At 6th and 14th level, you gain it again.
 
 #### Hunter Talent
 Starting at 1st level, you gain a class talent, representing your preferred tactics and abilities you
@@ -3621,8 +3553,6 @@ You also gain one of the following features of your choice:
 * The Suffused Arrows talent.
 * The Flash Bomber talent
 
-\pagebreakNum
-
 #### Hunter Archetype
 At 3rd level, you choose an archetype that you strive to emulate: the Beast Master who bonds with
 an animal, a Marksman who always finds their target and excels in bringing them down, and a
@@ -3638,6 +3568,8 @@ can‘t increase an ability score above 20 using this feature.
 #### Extra Attack
 Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action
 on your turn.
+
+\pagebreakNum
 
 #### Hide in Plain Sight
 Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have
@@ -3988,18 +3920,9 @@ You start with the following equipment, in addition to the equipment granted by 
 \pagebreakNum
 
 #### Invocation
-Starting at 1st level, you may rapidly recover your mana by attuning yourself to the flows of magic.
-You can use your action and bonus action on your turn to regain mana as if completed a short rest
-(or rested for one hour).
+Starting at 1st level, you may rapidly recover your mana by invoking attuning yourself to the flows of magic. You can use your action and bonus action on your turn to regain up to 20 mana points. 
 
-You can use this feature a number of times equal to half your proficiency bonus. You regain
-expended uses when you finish a long rest. While using this feature, the flow of raw mana protects
-you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving
-throws until the start of your turn in the next round.
-
-Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
-mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
-mana you regain for the normal rest.
+You replenish your reserve of the flows when you finish a long rest. While using this feature, arcane energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
 
 ##### Spellcasting
 As a student of arcane magic, you have a spellbook containing spells that show the first
@@ -4048,6 +3971,8 @@ your Intelligence modifier
 ##### Ritual Casting
 You can cast a mage spell as a ritual if that spell has the ritual tag and you have the spell in your
 spellbook. You don't need to have the spell prepared.
+
+\columnbreak
 
 ##### Spellcasting Focus
 You can use an arcane focus as a spellcasting focus for your mage spells.
@@ -4110,21 +4035,17 @@ persona than other mages.
 Starting at 2nd level, you gain one Arcane Sphere whenever one of the following
 happens to you:
 * You deal arcane damage to an enemy with a mage ability or spell from the mage list
-* You lose at least 4 mana points by being target of the mana burn or detonate mana spells or
-absorbing damage via the mana shield spell. If absorbing damage by the mana shield spell,
-you gain one Arcane Sphere for each 4 mana points lost this way.
+* You lose at least 8 mana points by being target of the mana burn or detonate mana spells or absorbing damage via the mana shield spell. If absorbing damage by the mana shield spell, you gain one Arcane Sphere for each 8 mana points lost this way.
 * You suffer an attack from another Mystic Blast or similar ability (usually called Mystic, Fire,
 Arcane, or Shadow Blasts), unless it is fel damage (in which case you do not gain a sphee).
-
+___
 This applies once per spell. Arcane Spheres may be used to empower your abilities. Arcane Spheres
-may be spent for the following.
-* Augmenting Arcana. Deal 1 additional point of arcane damage per damage dice with mage
+may be spent for the following:
+* *Augmenting Arcana.* Deal 1 additional point of arcane damage per damage dice with mage
 spells and abilities that deal arcane damage. This can be spent after rolling for damage, and
 applies once per spell. This does not stack with similar abilities.
-* Mana Circulation. You may substitute 1 Arcane Sphere for 1 mana point (cannot reduce
-mana point loss beyond 1) for effects that consume mana (such as spells or mana burn and
-similar effects).
-
+* *Mana Circulation.* You may substitute 1 Arcane Sphere for 2 mana points (cannot reduce mana point loss beyond 1) for effects that consume mana (such as spells or mana burn and similar effects).
+___
 You may have a maximum number of spheres equal to 2 plus your Proficiency bonus, and they
 remain for one hour after being acquired.
 
@@ -4151,11 +4072,7 @@ Once this ability is used a number of times equal to half your proficiency bonus
 again until after a long or short rest.
 
 #### Arcane Power
-Starting at 10th level, you can open yourself to latent arcane energies with an
-action, channeling power you would normally be unable to channel. For the next minute, every
-mage spell you cast costs 1 less mana point (minimum 1 mana). If the spell is heightened from a
-lower spell level, it costs 2 less points instead. Once you use this ability, you cannot use it again
-until after a short or long rest, or unless you spend 4 Arcane spheres.
+Starting at 10th level, you can open yourself to latent arcane energies with an action, channeling power you would normally be unable to channel. For the next minute, every mage spell you cast costs 2 less mana points (minimum 1 mana). If the spell is heightened from a lower spell level, it costs 4 less points instead. Once you use this ability, you cannot use it again until after a short or long rest, or unless you spend 4 Arcane spheres.
 
 #### Focus Power
 Starting at 14th level, you can choose to re-use arcane energies that normally
@@ -4278,10 +4195,7 @@ A creature cannot be subjected to this effect more than once for 24 hours. You c
 creature with this ability at any given time.
 
 #### Ice Statues
-At 14th level, whenever you a target of your mage spells is restrained by having their
-speed reduced to 0 by the chilled condition, they are also incapacitated for the duration of the
-chilled condition. Against such targets, your frost bolt cantrip is automatically a critical hit if it
-successfully hits, but the chilled condition ends prematurely (and is not applied for frost bolt).
+At 14th level, whenever a target of your mage spells becomes restrained by having their speed reduced to 0 by the chilled condition, they are also incapacitated for the duration of the chilled condition. Against such targets, your frost bolt cantrip is automatically a critical hit if it successfully hits, but the chilled condition ends prematurely (and is not applied for frost bolt).
 
 Also, whenever you deal damage to a creature that exceeds one-half their maximum hit points at
 once, they are both restrained and incapacitated for one hour (or until they thaw out, whichever
@@ -4588,7 +4502,7 @@ At 20th level, when you roll for initiative and have no ki points remaining, you
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:0px; right:0px; width:890px;' />
 
-<div style="margin-top:300px;"></div>
+<div style="margin-top:290px;"></div>
 
 ### Brewmaster
 You are focused on evading blows and empowering themselves and your allies through your brews.
@@ -4599,8 +4513,7 @@ Upon reaching 3rd level and gaining this monk tradition, you may add the
 following Ki power to your repertoire.
 
 ##### Breath of Fire
-As an action, you can spend 1 Ki to cast the burning hands spell. This
-requires only verbal components. You can spend additional Ki to heighten the spell.
+As an action, you can spend 1 Ki to cast the burning hands spell. This requires only verbal components. You can spend additional Ki to heighten the spell (up to the normal limit of ki spells).
 
 #### Drunken Style Stance [Stance]
 Also starting at 3rd level, you can use a bonus action to enter the
@@ -4617,13 +4530,9 @@ Upon reaching 6th level, you gain the following new Ki powers and add them to
 your repertoire.
 
 ##### Purifying Touch [Strike]
-As an action, you can spend 3 Ki and cast the dispel magic spell.
+As an action, you can spend 3 Ki and cast the dispel magic spell. 
 
-This requires touching the effect or creature that is subject to the effect. You may use this as a
-touch or as a strike effect. You can spend additional Ki to heighten the spell. If you end a spell this
-way, you regain a number of Ki points equal to the dispelled spell‘s level (if dispelling multiple
-spells, choose only the highest-level spell). This cannot restore more Ki than double the amount
-spent on the ability.
+This requires touching the effect or creature that is subject to the effect. You may use this as a touch or as a strike effect. You can spend additional Ki to heighten the spell (up to the normal limit of ki spells). If you end a spell this way, you regain a number of Ki points equal to the dispelled spell’s level (if dispelling multiple spells, choose only the highest-level spell). This cannot restore more Ki than double the amount spent on the ability.
 
 ##### Brewmaster’s Stagger
 As a reaction, you may spend 2 Ki and stagger damage done to you,
@@ -4706,11 +4615,10 @@ poisons with a single use of Soothing Mist, expending hit points separately for 
 feature has no effect on constructs or undead.
 
 ##### Enveloping Mist
-As an action, you can spend 1 Ki to cast the rejuvenation or expeditious
-retreat spells as 1st level spells. These requires only verbal components. You can spend additional Ki
-to heighten the spells.
+As an action, you can spend 1 Ki to cast the rejuvenation or expeditious retreat spells as 1st level spells. These requires only verbal components. You can spend additional Ki to heighten the spells (up to the normal limit of ki spells).
 
-Mistweaver’s Enlightenment. Also upon gaining this monk tradition, whenever you deal damage
+#### Mistweaver’s Enlightenment
+Also upon gaining this monk tradition, whenever you deal damage
 to a target, you are enhanced with enlightenment for until the end of your turn in the next round.
 
 You may either reduce the Ki cost of an ability you use by 1 point (minimum 1 point), or use the
@@ -4723,22 +4631,15 @@ your repertoire.
 
 \columnbreak
 
-<div style="margin-top:270px;"></div>
+<div style="margin-top:250px;"></div>
 
 ##### Control Ki
-As an action, you may spend 2 Ki to cast the mute spell. Upon reaching 9th
-level, you may also cast dispel magic as a 3rd level spell. You may either cast them with their normal
-ranges, use them as strike effects, or imbue them into your brews if you have the Brewer feat. In
-this case, they are the only imbued effect. You can spend Ki to heighten this effect.
+As an action, you may spend 2 Ki to cast the mute spell. Upon reaching 9th level, you may also cast dispel magic as a 3rd level spell. You may either cast them with their normal ranges, use them as strike effects, or imbue them into your brews if you have the Brewer feat. In this case, they are the only imbued effect. You can spend Ki to heighten this effect (up to the normal limit of ki spells).
 
-If the target of your mute spell fails their saving throw or if your dispel magic spell successfully dispels
-a spell, you regain 1 Ki.
+If the target of your mute spell fails their saving throw or if your dispel magic spell successfully dispels a spell, you regain 1 Ki.
 
 ##### Mist Weave
-As an action, you can spend 2 Ki to cast the fog cloud and blink step spells as
-2nd level spells. You can spend Ki to heighten this effect. If you use the blink step spell to end
-adjacent to an ally and target them with your Soothing Mist ability, you regain half the Ki you
-spend on the ability.
+As an action, you can spend 2 Ki to cast the fog cloud and blink step spells as 2nd level spells. You can spend Ki to heighten this effect (up to the normal limit of ki spells). If you use the blink step spell to end adjacent to an ally and target them with your Soothing Mist ability, you regain half the Ki you spend on the ability.
 
 Furthermore, so long as you have at least 2 Ki, you suffer only light obstruction, and never heavy
 obstruction from mist and fog.
@@ -4772,7 +4673,7 @@ creature can benefit once per a short rest.
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:60px; right:0px; width:890px;' />
 
-<div style="margin-top:350px;"></div>
+<div style="margin-top:340px;"></div>
 
 ### Windwalker
 You are focused on hand-to-hand combat and evasion of the enemy‘s blows. Windwalkers are
@@ -4803,11 +4704,7 @@ Upon reaching 6th level, you gain the following new Ki powers and add them to
 your repertoire.
 
 ##### Destroy Mana [Strike]
-As an action, you may spend 2 Ki to cast the mana burn spell. This
-requires touching the effect or creature that is subject to the effect, and does not require vocal
-components. You can choose to make this ability destroy Ki instead, in which case it removes half
-the mana points it would normally remove. You may treat this as a strike effect. You can spend Ki
-to heighten this effect.
+As an action, you may spend 2 Ki to cast the mana burn spell. This requires touching the effect or creature that is subject to the effect, and does not require vocal components. You can choose to make this ability destroy Ki instead, in which case it removes half the mana points it would normally remove. You may treat this as a strike effect. You can spend Ki to heighten this effect (up to the normal limit of ki spells).
 
 \columnbreak
 
@@ -5015,20 +4912,11 @@ desecrated, as with the hallow spell. You can use this feature a number of times
 Charisma modifier. When you finish a long rest, you regain all expended uses.
 
 #### Lay on Hands
-Your blessed touch can cure wounds. As an action, you may lay your hands on a target, investing
-them with healing energies. For every mana point you spend for Lay on Hands, you heal a number
-of hit points equal to your proficiency bonus. Amount you heal is instead treated as holy damage
-for undead and fiends (in which case, this requires a melee spell attack). Excess hit points are lost,
-and you cannot heal or deal more damage than a value equal to your maximum hit points. When
-performing Lay on Hands on yourself, this is instead a bonus action.
+Your blessed touch can cure wounds. As an action, you may lay your hands on a target, investing them with healing energies. For every mana point you spend for Lay on Hands, you heal 1 hit point, up to a maximum amount every action equal to half your maximum hit points. Amounts you heal is instead treated as holy damage for undead and fiends (in which case, this requires a melee spell attack). Excess hit points are lost. When performing Lay on Hands on yourself, this is instead a bonus action. 
 
-Alternatively, you can expend the mana to cure one disease or one poison of your choice. Each
-disease or poison requires spending mana points equal to one-quarter the saving throw DC of the
-poison or disease. You may cure multiple diseases or poisons this way. This feature has no effect on
-constructs.
+Alternatively, you can expend the mana to cure one disease or one poison of your choice. Each disease or poison requires spending mana points equal to the saving throw DC of the poison or disease. You may cure multiple diseases or poisons this way. This feature has no effect on constructs. This acts as a lesser restoration spell. 
 
-You gain a mana pool as if you were a second level paladin (see the Spellcasting feature below), with
-the pool size as if you had no access to 1st level spells.
+You gain a mana pool as if you were a second level paladin (see the Spellcasting feature below), with the pool size as if you had no access to 1st level spells.
 
 #### Crusader Strike
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend mana as
@@ -5654,18 +5542,9 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 10 + your Agility modifier + your Spirit modifier.
 
 #### Desperate Prayer
-Starting at 1st level, you may rapidly recover your mana by invoking powers from beyond. You can
-use your action and bonus action on your turn to regain mana as if completed a short rest (or
-rested for one hour).
+Starting at 1st level, you may rapidly recover your mana by invoking your diety in a desperate prayer. You can use your action and bonus action on your turn to regain up to 20 mana points. 
 
-You can use this feature a number of times equal to half your proficiency bonus. You regain
-expended uses when you finish a long rest. While using this feature, your connection to your
-chosen power guards you, imposing disadvantage on attack rolls made against you, and granting
-you advantage to saving throws until the start of your turn in the next round.
-
-Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
-mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
-mana you regain for the normal rest.
+You replenish your reserve of power when you finish a long rest. While using this feature, holy power suffuses you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
 
 #### Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that
@@ -5680,20 +5559,7 @@ twice between rests, and beginning at 18th level you can use it three times betw
 finish a short or long rest, you regain your expended uses.
 
 ##### Channel Divinity: Invoke Power
-As a bonus action, you present your symbol and speak a prayer to your patron power, filling you
-with mysterious strength. The next spell you cast within 1 minute has its mana cost reduced 2
-points (minimum 0). At higher levels, the invocation further reduces the mana cost.
-
-##### Invoke Power Table
-| Priest Level | Invocation Strength |
-|:---:|:---:|:---|:---:|:---:|
-| 5 | 3
-| 8 | 4
-| 11 | 5
-| 14 | 6
-| 17 | 7
-
-\pagebreakNum
+As a bonus action, you present your symbol and speak a prayer to your patron power, filling you with mysterious strength. The next spell you cast within 1 minute has its mana cost reduced by 4 points (minimum 0). 
 
 #### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
@@ -5755,8 +5621,7 @@ creature. The transformation is complete after one day of death, and cannot be r
 wish spell or divine intervention.
 
 #### Lich King’s Favor
-Starting at 2nd level, you add all necromancy spells from all spell lists to your
-spell list. Using necromancy spells that are not on your spell list cost 1 additional mana point.
+Starting at 2nd level, you add all necromancy spells from all spell lists to your spell list. Using necromancy spells that are not on your spell list cost 2 additional mana points.
 
 #### Channel Divinity: Turn Living
 Also starting at 2nd level, you can, as an action, present your
@@ -5789,9 +5654,8 @@ Living table. It disintegrates, leaving only a pile of dust, so commands the Lic
 | 14th | 3 or lower
 | 17th | 4 or lower
 
-#### Cultist of the Damned
-Starting at 6th level, you can cast any Necromancy spell as a ritual even if it
-doesn't have the ritual tag.
+#### Death Denied
+Starting at 6th level, you may release a burst of shadow as an action. This acts as the death nova spell. After you use this ability, you cannot use it again until you complete a short or long rest, or until you have made at least one death saving throw. 
 
 #### Death's Touch
 At 8th level, you may use an action to target any dying creature within 90 feet with
@@ -5837,7 +5701,9 @@ priests.
 #### Chakra Ward
 Beginning at 1st level, while you are wearing no armor and not wielding a shield,
 you take 3 less damage from all slashing, piercing, and bludgeoning damage (minimum 1).
-Extended Wards. Also beginning at 1st level, you double the duration of any active spell that
+
+#### Extended Wards
+Also beginning at 1st level, you double the duration of any active spell that
 grants temporary hit points and all Power Word spells.
 
 #### Channel Divinity: Atonement
@@ -5875,18 +5741,13 @@ Channel Divinity: Atonement, roll a d4. On a roll of 2 to 4, the Channel Divinit
 can be used again.
 
 #### Chakra Cleansing
-Starting at 8th level, whenever you cast a shielding spell, you may apply one of
-the two effects as a bonus action.
-* You may dispel a magical effect the target suffers from. This acts as dispel magic with a spell
-level equal to the level of the shielding spell you cast.
+Starting at 8th level, whenever you cast the Power Word Shield spell, you may apply one of the two effects as a bonus action. 
+* You may dispel a magical effect the target suffers from. This acts as dispel magic with a spell level equal to the level of the Power Word Shield spell. 
 * You may grant additional temporary hit points equal to double the spell‘s level.
 
 #### Infused Shield
-Starting at 17th level, whenever you cast a healing or shielding spell, you may freely
-convert temporary hit points from your priest spells to actual hit points, or vice versa. A healing
-spell that grants temporary hit points is counted as a shielding spell, and benefits from the Chakra
-Cleansing and Extended Wards abilities.
-___
+Starting at 17th level, whenever you cast a healing or the Power Word Shield spell, you may freely convert temporary hit points from your priest spells to actual hit points, or vice versa. A healing spell that grants temporary hit points is counted as a shielding spell, and benefits from the Chakra Cleansing and Extended Wards abilities.
+
 Furthermore, you may use your Channel Divinity: Penance ability as a reaction instead of an
 action.
 
@@ -6103,9 +5964,7 @@ damage as a bonus action so long as you target a creature who attacked your moon
 the last round. If the spell normally costs a bonus action to cast (such as the flash of light spell),
 it may instead cost a reaction. You cannot cast sigil spells this way.
 ___
-If you successfully dealt weapon damage to an enemy before using the moonlight ward, the mana
-cost of the spell (healing or damaging, respectively) is reduced by 1 (minimum 1). This can stack
-with the normal reduction for repeat-casting a spell.
+If you successfully dealt weapon damage to an enemy before using the moonlight ward, the mana cost of the spell (healing or damaging, respectively) is reduced by 2 (minimum 1). This can stack with the normal reduction for repeat-casting a spell.
 
 #### Elune’s Grace
 Starting at 8th level, you can bless creatures with a shard of your goddess‘s grace.
@@ -6164,10 +6023,7 @@ shadow magic, especially sigil spells, to eradicate enemies.
 Starting at 1st level, whenever you successfully deal psychic damage to an enemy
 through a spell or ability, you gain one Shadow orb. This applies once per spell. Shadow orbs
 spheres may be used to empower your abilities. Shadow Orbs may be spent for the following.
-* Meld into Madness. Reduce the mana cost of one priest spell you cast. The reduction in
-mana cost is one point per Shadow orb removed (minimum mana cost 1). For each level of
-madness you have, a single Shadow orb can reduce the mana cost by 0.5 points (round
-down).
+* Meld into Madness. Reduce the mana cost of one priest spell you cast. The reduction in mana cost is 2 points per Shadow orb removed (minimum mana cost 1). For each level of madness you have, a single Shadow orb can reduce the mana cost by 1 points (round down) instead.
 * Prey on the Psyche. Deal 1 additional point of psychic damage per damage dice with spells
 and abilities that deal psychic damage. This can be spent after rolling for damage, and
 applies once per spell. This does not stack with similar abilities.
@@ -6218,10 +6074,7 @@ If you have at least one shadow orb before using this ability, you may choose to
 orbs from this ability‘s use for the round, and share the healing gained with them (costing one
 shadow orb to include one creature in the sharing).
 
-You may reduce the amount of hit points you (and your chosen allies) can potentially gain from
-this ability and convert the healing energies to mana restoration. Every five hit points of healing are
-converted to one mana point (up to a maximum of half the healing potential). Once a creature
-benefits from this mana restoration, it cannot benefit again until it completes a long rest.
+You may reduce the amount of hit points you (and your chosen allies) can potentially gain from this ability and convert the healing energies to mana restoration. Every 5 hit points of healing is converted to 1 mana point. Once you restore a total amount of mana using this ability equal to your priest level, you cannot restore mana until you complete a long rest.
 
 #### Channel Divinity: Focused Psyche
 Starting at 6th level, you may use a channel divinity to alter the
@@ -6407,9 +6260,9 @@ create.
 | 9th | +4 | 5d6 | 3 | Rogue Archetype feature
 | 10th | +4 | 5d6 | 3 | Ability Score Improvement
 | 11th | +4 | 6d6 | 4 | -
-| 12th | +4 | 6d6 | 4 | -
-| 13th | +5 | 7d6 | 4 | -
-| 14th | +5 | 7d6 | 4 | -
+| 12th | +4 | 6d6 | 4 | Ability Score Improvement
+| 13th | +5 | 7d6 | 4 | Rogue Archetype feature
+| 14th | +5 | 7d6 | 4 | Blindsense
 | 15th | +5 | 8d6 | 5 | -
 | 16th | +5 | 8d6 | 5 | Ability Score Improvement
 | 17th | +6 | 9d6 | 5 | Rogue Archetype feature
@@ -6601,7 +6454,7 @@ also gain a spellbook as a 1st-level mage.
 You gain bonus spells on your 8th, 14th, and 20th level. These spells can be of any schools.
 
 ##### Cantrips
-At 1st level, you know a number of cantrips equal to your proficiency bonus.
+At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus.
 One of your cantrips must be the mage hand cantrip.
 
 ##### Preparing and Casting Spells
@@ -6809,7 +6662,7 @@ By 1st level, you have learned to draw on raw elemental might through meditation
 communication with the elements.
 
 ##### Cantrips
-At 1st level, you know a number of cantrips equal to your proficiency bonus.
+At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus.
 
 ##### Conjuring and Binding
 A shaman can conjure and bind aberrations, elementals, fiends, oozes, and undead, as well spirit
@@ -6875,7 +6728,7 @@ additional benefits at 6th, 8th, and 17th levels.
 Each art has a list of spells—its art spells—that you gain at the shaman levels noted in the art
 description. Once you gain an art spell, you always have it prepared, and it doesn‘t count against
 the number of spells you can prepare each day. If you have an art spell that doesn‘t appear on the
-priest spell list, the spell is nonetheless a shaman spell for you.
+shaman spell list, the spell is nonetheless a shaman spell for you.
 
 #### Channel Elements
 At 2nd level, you gain the ability to channel elemental energy directly, using that energy to fuel
@@ -6908,18 +6761,9 @@ beyond).
 \pagebreakNum
 
 #### Mana Surge
-Starting at 2nd level, you may rapidly recover your mana by calling out to fonts of spiritual power.
-You can use your action and bonus action on your turn to regain mana as if completed a short rest
-(or rested for one hour).
+Starting at 2nd level, you may rapidly recover your mana by invoking elemental energies. You can use your action and bonus action on your turn to regain up to 20 mana points. 
 
-You can use this feature a number of times equal to half your proficiency bonus. You regain
-expended uses when you finish a long rest. While using this feature, the flow of elemental power
-protects you, imposing disadvantage on attack rolls made against you, and granting you advantage
-to saving throws until the start of your turn in the next round.
-
-Alternatively, if you use this during a short rest or when you are below one-quarter your maximum
-mana point pool, you are treated as if you rested for two hours instead of one. This is atop the
-mana you regain for the normal rest.
+You replenish your reserve of shamanistic power when you finish a long rest. While using this feature, elemental energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
 
 #### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
@@ -7132,7 +6976,7 @@ feet of you, they can make an attack of opportunity as a reaction against any cr
 After using this feature, you must finish a short rest before you can use it again. The DM has the
 wolves‘ statistics, and applies the spirit template appropriately. The dire wolves‘ Challenge is always
 of a value equal to one-eighth your shaman level (allowing you to enhance them, as described in the
-Monster Guide).
+Monster Guide). For the purpose of this ability, the spirit template does not increase the effective CR of the wolves.
 
 #### Greater Investitures
 Starting at 17th level, you can may cast one of the four ‘Investiture‘ spells
@@ -7177,8 +7021,6 @@ total amount of healing given. This applies once per spell. If the target is blo
 sworn to the same blood-oath, the benefits of this ability is doubled for them. See Chapter 10 for
 details on Blood Oaths.
 
-Also, any healing totem costs 1 less mana point to cast (minimum 1).
-
 \columnbreak
 
 <div style="margin-top:470px;"></div>
@@ -7191,28 +7033,24 @@ a bonus to AC equal to your Spirit modifier versus an attack you react to.
 You also increase their hit points by your level (to a total of three times your level). Totems also
 gain the benefit of the Evasion rogue ability when using your Agility saving throw bonus.
 
-Lastly, if one of your totems are destroyed, you regain one-quarter the mana cost you spent on it.
+Lastly, if one of your totems is destroyed, you regain one-quarter the mana cost you spent on it.
 If you are traveling overland with totems out, they move with you.
 
 #### Channel Elements: Life-Link
-Starting at 2nd level, you may channel the elements and spend an
-action to cast effects spirit link spell (even if you normally cannot cast it). Furthermore, whenever a
+Starting at 2nd level, you may channel the elements and spend an action to replicate the effect of the spirit link spell (even if you normally cannot cast it).
+
+Furthermore, whenever a
 creature is healed, the healing is also distributed through the link as well. You may add this effect
 to as an existing spirit link spell as well by using channel divinity, so long as you were the one who
 cast it.
 
 #### Cleanse Spirit
-Starting at 6th level, you may use an action to cast the dispel magic spell (spell level
-equal to the highest spell level you can access) to any creature within 30 feet, but not on objects,
-areas, or creatures without spirits (such as Undead or Constructs). This may be used a number of
-times equal to your Spirit modifier (minimum 1). You may spend three uses to cast the remove
-curse instead with the same limitations. All expended uses are replenished at a long rest. To
-unwilling targets, this must be a ranged spell attack.
+Starting at 6th level, you may use an action to cast the dispel magic spell (spell level equal to the highest spell level you can access) to any creature within 30 feet, but not on objects, areas, or creatures without spirits (such as Undead or Constructs). This may be used a number of times equal to your Spirit modifier (minimum 1). You may spend three uses of this ability to cast the remove curse spell instead with the same limitations. All expended uses are replenished at a long rest. To unwilling targets, this must be a ranged spell attack. 
+
+\pagebreakNum
 
 Also, whenever you dispel any number of magical effects, you may choose to apply one of the
 following additional effects:
-
-\pagebreakNum
 
 * Allow the target to spend a hit dice to heal themselves
 * Deal 1d6 points of arcane damage for each spell level removed
@@ -7374,7 +7212,7 @@ You start with the following equipment, in addition to the equipment granted by 
 |:---:|:---:|:---|:---:|:---:|
 | 1st | +2 | Engineering, Innovation, Patent | Uncommon
 | 2nd | +2 | Efficient Engineering, Knack for It | Uncommon
-| 3rd | +2 | Alchemy Path, Flash Bomber | Uncommon
+| 3rd | +2 | Tinker Path, Flash Bomber | Uncommon
 | 4th | +2 | Ability Score Improvement | Uncommon
 | 5th | +3 | Favored Creations, Superfunctions | Rare
 | 6th | +3 | Path Feature | Rare
@@ -7569,7 +7407,7 @@ engineered device or ability check with Engineer‘s Tools.
 #### Consistent Innovations
 Starting from 9th level, you have advantage to any tool check to maintain an innovated device, and
 the maximum duration increases from 5 minutes to 1 hour. You lessen the malfunction rate of
-innovated devices by 2 points (to a base increase of only 2 points).
+innovated devices by 2 points (to a base increase of only 2 points). Without this ability, the malfunction rate is increased by 4 points. 
 
 #### Scavenge
 Starting at 10th level, when you gather raw materials for use with engineering, you gain triple the
@@ -7675,11 +7513,9 @@ they consume half the normal fuel.
 <div style="margin-top:520px;"></div>
 
 #### Greater Flash Bomber
-Starting at 10th level, you double the amount of times you may use the
-Flash Bomber talent before a rest, and can use any explosive (not just in bomb form).
+Starting at 10th level, you can use the Flash Bomber talent a number of times equal to double your Intelligence modifier before a rest. 
 
-You also gain the remote blueprint for free if you didn‘t already have it, and may employ it to trigger
-any number of your explosives normally, and can use it with a reaction.
+You also gain the remote blueprint for free if you didn’t already have it, and may employ it to trigger any number of your explosives normally, and can use it with a reaction.
 
 #### Explosive Resistance
 Starting at 14th level, you gain resistance to concussive, thunder, and
@@ -7772,7 +7608,7 @@ don‘t already have it.
 Starting at 14th level, all your constructs always benefit from the Coated Interior
 and Efficient Fuel modifications (for a total fuel reduction of 1/8 the normal cost for constructs).
 
-You may also double the Construct‘s Challenge Rating to its maximum hit points.
+You may also add double the Construct‘s Challenge Rating to its maximum hit points.
 
 Also, whenever you activate a gadget that requires a harness or concentration, you gain temporary
 hit points equal to 1d10 + your Tinker level, which remain until the gadget stops operating. This
