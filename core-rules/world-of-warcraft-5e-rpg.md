@@ -7,11 +7,52 @@
     padding-bottom: 1.3cm;
     position:relative;
 }
+/* pages without footer */
 .phb#p1:after {
     display:none;
 }
 .phb:after {
     content:'';
+}
+/* index */
+.index ul {
+    list-style-type:none;
+    padding-left:0;
+    margin-left:0;
+}
+.index ul li + li { 
+    margin-top:10px;
+}
+.index ul ul li {
+    margin-top:0;
+}
+.index li {
+    padding-left:0px;
+}
+.index a {
+    text-decoration:none;
+    display:grid;
+    grid-template-columns:1fr 25px;
+    color:inherit;
+    font-family:BookSanity;
+    font-size:0.75em;
+}
+.index ul li span {
+    display:block;
+    overflow:hidden;
+    white-space:nowrap;
+}
+.index span:nth-child(1):after {
+    content:' . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .';
+    font-family: BookSanity;
+    font-size: 0.317cm;
+}
+.index span + span {
+    text-align:right;
+}
+/* general styles */
+.btn {
+    max-width:200px;
 }
 .copyright {
     text-align:right;
@@ -22,6 +63,7 @@
     font-weight:normal;
     font-size:1.2em;
 }
+
 </style>
 
 <link href="https://fonts.cdnfonts.com/css/lifecraft" rel="stylesheet">
@@ -41,50 +83,52 @@
 .phb#p2:after { display:none; }
 </style>
 
-<div class='back-cover-image'></div>
+<div class='back-cover-image' style="height:100%; width:60%; overflow:hidden;">
+    <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/91dda5fd-93d0-4124-abe4-50bdf8e54899/dbk0u43-acb2ecac-06b4-459c-8adb-af9216a5d776.jpg/v1/fill/w_1024,h_576,q_75,strp/deep_forests_by_nele_diel_dbk0u43-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvOTFkZGE1ZmQtOTNkMC00MTI0LWFiZTQtNTBiZGY4ZTU0ODk5XC9kYmswdTQzLWFjYjJlY2FjLTA2YjQtNDU5Yy04YWRiLWFmOTIxNmE1ZDc3Ni5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Kkr8oxt2frn5s4ShsVJ7TbM947jhDRB54CLP9nRavo0' style="height:100%; left:0px;" />
+</div>
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; right:-100px; width:100%; height:100%; transform:scaleX(-1);' />
+
 
 <div style='margin-top:20px;'></div>
 
 <div class='back-cover-header'>
 
-Version 3.4.1
+Version 3.5
 
 </div>
 
 <div class='back-cover-text'>
 
-*“The sands of time have run out”*<br>
+*“The sands of time have run out.”*<br>
 *- Medivh, the last Guardian*
 
-Many have waited for Blizzard to approve another conversion of their world to the tabletop playing
-realm. Alas, many waited in vain.
+Many have waited for Blizzard to approve another conversion of their world to the tabletop playing realm. Alas, many waited in vain.
  
 *“We will persevere.”*<br>
 *- The Blood Elves*
 
-However, tabletop players are well-known for their persistence and tenacity in getting what they
-want to play - or at least, satisfying themselves with an adequate enough replica.
+However, tabletop players are well-known for their persistence and tenacity in getting what they want to play--or at least, satisfying themselves with an adequate enough replica. 
  
 *“Sometimes, the hand of Fate must be forced.”*<br>
 *- Illidan Stormrage*
 
 And thus, the World of Warcraft 5e RPG Conversion begun.
 
-This conversion is of the much-loved World of Warcraft Role universe, as for 5th edition of Dungeons and Dragons, made by the fans, for the fans.
+This conversion is of the much-loved World of Warcraft Role universe, as for 5th edition of Dungeons and Dragons, made by the fans, for the fans. 
 
-This not only includes special classes, races, and magical spells, but also includes magical items, and even a few subsystems (such as infusion, mana, and crafting) built in the streamlined format of 5th edition, for the benefit of all roleplayers.
+This not only includes special classes, races, and magical spells, but also includes magical items, and even a few subsystems (such as infusion, mana, and crafting) built in the streamlined format of 5th edition, for the benefit of all roleplayers. 
  
 Cover Art: [Ekaterina Shapovalova](https://www.artstation.com/artwork/or5JJ)
  
 </div>
 
-<div style='margin-top:35px;'></div>
-
-<div class='back-cover-right' style="color:#fff;">
+<div class='back-cover-right'>
 
 ##### Project
 
-**Project Start:** Aug 27, 2015<br>
+**Project Start:** Aug 27, 2015
+<br><br>
 **Edition (Content updates only):**<br>
 Beta released on Oct 11, 2015.<br>
 1.7 released on July 2016.<br>
@@ -97,30 +141,35 @@ Beta released on Oct 11, 2015.<br>
 3.2 released on June 2019.<br>
 3.3 released on November 2019.<br>
 3.4 released on August 8, 2020.<br>
-3.4.1 released on October 21, 2020.
+3.4.1 released on October 21, 2020.<br>
+3.5 released on ???
 
 <div style='margin-top:20px;'></div>
 
 ##### Credits
 
-**HOUSE RULES CONVERSION:**
+**House Rule Conversion:**
 
 DMShade
 <br><br>
-**5TH EDITION CORE RULES:**
+**5th Edition Core Rules:**
 
 Wizards of the Coast (a subsidiary of Hasbro)
 <br><br>
-**WARCRAFT INSPIRATION AND SETTING:**
+**Warcraft Inspiration and Setting:**
 
 Blizzard Entertainment Inc.
 <br><br>
-**CONTRIBUTORS**
+**Contributors**
 
-Mcgeneral, Big Mac, grimm, Jimbob, pagnabros, Neiven, Crelore, as well as all the
+Arthega, Findle, Mcgeneral, Big Mac, grimm, Jimbob, pagnabros, Neiven, Crelore, as well as all the
 commenters on the Warcraft 5e thread on The Piazza and the Discord server
 <br><br>
-**DISCLAIMER**
+**Discord Server:**
+
+https://discord.gg/XntzQC8
+<br><br>
+**Disclaimer**
 
 This work is purely recreational, and is not intended to contest and/or derive any commercial benefit in any way, shape,
 or form from any Wizards of the Coast or Blizzard Entertainment products (the D&D 5th Edition Roleplaying game, and
@@ -134,24 +183,127 @@ appeals to the ‗Fair Use‘ intent of copyright infringement laws.
 
 </div>
 
+\pagebreak
+
+# Introduction
+
+The world of Warcraft has many special traits when converted to tabletop format. It has special naming conventions, languages, and an extensive lore.
+___
+<br><br>
+## Naming Conventions
+<br>
+
+<div class='classTable'>
+
+| Old Name  | New Name |
+|:---:|:---:|
+| Dexterity (Dex) | Agility (Agi) |
+| Wisdom (Wis)	| Spirit (Spi) | 
+| Constitution (Con) | Stamina (Sta) | 
+| Very Rare (rarity) | Epic (rarity) |
+
+</div>
+
+<br>
+
+<div class='classTable'>
+
+| Old Class Name  | New Class Name |
+|:---:|:---:|
+| Cleric | Priest | 
+| Fighter | Warrior | 
+| Ranger | Hunter | 
+| Sorcerer | Warlock |
+
+</div>
+
+<br>
+
+<div class='classTable'>
+
+| Old Spell Name  | New Spell Name |
+|:---:|:---:|
+| Delayed Blast Fireball | Pyroblast (modified) |
+| Magic Missile | Arcane Missile |
+| Magic Jar | Possession (modified) |
+| Mordenkainen’s Sword | Arcane Sword |
+| Ray of Frost | Frost Bolt | 
+| Sacred Flame | Smite |
+
+</div>
+
+In some cases, a spell has a name known for a certain class (such as the warlock’s shadow bolt being known as void bolt for priests), in which case the name is unchanged but the newer is referred to in Chapter 11. 
+
+Spells not included in the above list that include their inventor’s name (Bigby’s Hand, Evard’s Black Tentacles) excises the inventor’s name (Hand, Black Tentacles, etc.), as detailed in Chapter 11.
+
+\columnbreak
+
+#### Magic and Mana
+Some spells are changed in function or name. All such spells are referred to with their new names, rather than their old names.
+
+Mana and prepared spells are also used as a core magic system, not spell slots. Mana restores over time, while resting, by drinking certain potions, and by using certain abilities. This is detailed further under chapter 10. 
+
+#### Classes
+As detailed below, some classes gain different abilities to better synergize with the mana system, while others are renamed as above. 
+
+#### Corporeality and Etherealness
+The Warcraft universe does not transit into the ethereal plane present in other settings, and thus all ethereal movement is incorporeal movement instead. 
+
+Incorporeal creatures gain damage resistance to all physical and elemental damage, but not magic damage (arcane, holy, fel, shadow, and thunder). They may also go through solid objects such as walls (treating movement as difficult terrain), but take 5 (1d10) arcane damage if ending their turn within one. They are also naturally invisible, but are not naturally silent. They cannot attack non incorporeal creatures or cast spells, but may handle force effects as normal (such as by pushing, casting force spells, or attacking with force weapons). Force effects prevent incorporeal creatures to pass through them.
+
+#### Damage Types
+Besides the normal damage descriptors in 5e D&D, the Warcraft universe has an additional damage type: Fel, which is channeled by demonic power and is inherently destructive and corruptive. It also differs in naming existing descriptors. 
+Damage types are detailed under Chapter 9.
+
 \pagebreakNum
 
+# Table of Contents
+
+<div class='index'>
+
+- ### [<span>Chapter 1: Step-by-Step-Characters</span>                <span>5</span>](#p5)
+  - #### [<span>Ability Score Summary</span>                          <span>5</span>](#p5)
+  - #### [<span>Determining Ability Scores</span>                     <span>5</span>](#p5)
+  - #### [<span>Beyond 1st Level</span>                               <span>6</span>](#p6)
+- ### [<span>Chapter 2: Races</span>                                  <span>7</span>](#races)
+  - #### [<span>Racial Mount</span>                                   <span>7</span>](#races)
+  - #### [<span>Draenei</span>                                        <span>8</span>](#draenei)
+  - #### [<span>Dwarf</span>                                          <span>10</span>](#dwarf)
+  - #### [<span>Elf</span>                                            <span>13</span>](#elf)
+  - #### [<span>Forsaken</span>                                       <span>18</span>](#forsaken)
+  - #### [<span>Gnome</span>                                          <span>20</span>](#gnome)
+  - #### [<span>Goblin</span>                                         <span>21</span>](#goblin)
+  - #### [<span>Human</span>                                          <span>22</span>](#human)
+  - #### [<span>Orc</span>                                            <span>22</span>](#orc)
+  - #### [<span>Pandaren</span>                                       <span>25</span>](#pandaren)
+  - #### [<span>Tauren</span>                                         <span>26</span>](#tauren)
+  - #### [<span>Troll</span>                                          <span>26</span>](#troll)
+  - #### [<span>Worgen</span>                                         <span>31</span>](#worgen)
+  - #### [<span>Special: Half-Breed-Race</span>                       <span>33</span>](#halfbreed)
+- ### [<span>Chapter 3: Classes</span>                                <span>34</span>](#classes)
+  - #### [<span>Alchemist</span>                                      <span>35</span>](#alchemist)
+  - #### [<span>Death Knight</span>                                   <span>44</span>](#deathknight)
+  - #### [<span>Druid</span>                                          <span>53</span>](#druid)
+  - #### [<span>Hunter</span>                                         <span>61</span>](#hunter)
+  - #### [<span>Mage</span>                                           <span>69</span>](#mage)
+  - #### [<span>Monk</span>                                           <span>76</span>](#monk)
+  - #### [<span>Paladin</span>                                        <span>84</span>](#paladin)
+  - #### [<span>Priest</span>                                         <span>92</span>](#priest)
+  - #### [<span>Rogue</span>                                          <span>105</span>](#rogue)
+  - #### [<span>Shaman</span>                                         <span>112</span>](#shaman)
+  - #### [<span>Tinker</span>                                         <span>122</span>](#tinker)
+
+</div>
+
+\pagebreakNum
 
 # Chapter 1: Step-by-Step Characters
 
-<div class="wide">
 When determining your ability scores (also known as attributes), there are two new methods to
 create them; the focused method, and the heroic method. Both yield higher attributes on average,
 suitable for the many challenges in the Warcraft universe.
-</div>
-
-<div style='margin-top:20px;'></div>
-
-<div class="wide">
 
 ## Ability Score Summary
-
-</div>
 
 #### Strength
 ___
@@ -175,24 +327,6 @@ ___
 - **Important for:** Everyone
 - **Racial Increases:** Dwarf (+2), Forsaken (+1), Gnome (+1), Human (+1), Orc (+1), Pandaren (+2), Tauren (+1), Troll (+1, +2 if Drakkari) 
 
-<div style='margin-top:20px;'></div>
-
-## Determining Ability Scores
-
-#### Focus and Foible. 
-
-This method leads to more focused characters with clearer weaknesses.
-
-Before applying modifiers, choose one focus (an ability score you‘re good at) and one foible (an ability score you‘re bad at).<br><br>
-
-*Focus*. Mark this attribute as 18
-
-*Foible*. Mark this attribute as 8
-<br><br>
-Set your remaining attributes at 10, and distribute 16 points among the ability scores in any way you desire. You may reduce an existing attribute by up to 2 points to gain 2 points to add to another attribute.
- 
-\columnbreak
-
 #### Intelligence
 ___
 - **Measures:** Mental acuity, information recall, analytical skill
@@ -215,7 +349,21 @@ ___
 - **Important for:** Warlock
 - **Racial Increases:** Forsaken (+1), Goblin (+1), Human (+1), Orc (+1), Troll (+1), Void Elf (+1)
 
-<div style='margin-top:85px;'></div>
+\columnbreak
+
+## Determining Ability Scores
+
+#### Focus and Foible. 
+
+This method leads to more focused characters with clearer weaknesses.
+
+Before applying modifiers, choose one focus (an ability score you‘re good at) and one foible (an ability score you‘re bad at).<br><br>
+
+*Focus*. Mark this attribute as 18
+
+*Foible*. Mark this attribute as 8
+<br><br>
+Set your remaining attributes at 10, and distribute 16 points among the ability scores in any way you desire. You may reduce an existing attribute by up to 2 points to gain 2 points to add to another attribute.
 
 #### Heroic Roll
 
@@ -287,24 +435,52 @@ With such options available, players benefit more from wealth and time to build 
 explosives, and more spells in a mage's spellbook, to advanced constructs and vehicles such as gyrocopters, so exercising
 judgment is key.
 
-\pagebreakNum
+\pagebreakNum 
+
+<a id="races"></a>
 
 # Chapter 2: Races
 
-<div class="wide">
+The races of Warcraft are diverse and rich. Each race has a role in the world, and their deeds resonate through the ages. Members of each race view each other with assumptions formed by past conflicts and alliances. Warcraft’s history is troubled and epic, and every aspect influences the races, their beliefs and their roles.
 
-The races of Warcraft are diverse and rich. Each race has a role in the world, and their deeds resonate through the ages. Members of each race view each other with assumptions formed by past conflicts and alliances. Warcraft‘s history is troubled and epic, and every aspect influences the races, their beliefs and their roles.
+The races described here are not the only races in the Warcraft world, but they are the most dominant, influential, and prone to adventuring. Other races can be found in the Monster Guide. 
 
-The races described here are not the only races in the Warcraft world, but they are the most dominant, influential, and prone to adventuring. Other races can be found in the Monster Guide.
+## Racial Mount
+Each race in Warcraft has affinity to one creature that serves as a primary mount, either to accommodate their skeletal and muscular structure, or for cultural reasons. Refer to the below table for details.
+<br><br>
+<div class='classTable'>
+
+| Race | Racial Mount |
+|:---:|:---:|
+| Draenei | - |
+| Unbroken | Elekk |
+| Broken | - |
+| Dwarves | - |
+| Bronzebeard | Rams |
+| Wildhammer | Gryphons |
+| Dark Iron | Core hounds |
+| Elves | - |
+| High | Horses |
+| Blood | Hawkstrider |
+| Night | Saber cats |
+| Nightborne | Saber cats |
+| Void | Hawkstrider |
+| Humans | Horses |
+| Forsaken | Skeletal horses (Horse with skeletal template) |
+| Gnomes | Mechanostriders (Tallstrider with mechanized template) |
+| Goblins | Turbo-Trike (Vehicle) |
+| Orcs | Wolves | 
+| Pandaren | Giant turtles | 
+| Tauren | Kodo beasts | 
+| Trolls | Raptors | 
+| Worgen | Horses (mountain) | 
 
 </div>
 
-...
-
-TODO (Mounts)
-
 \pagebreakNum
 
+<a id="draenei"></a>
+ 
 <img src='https://www.hahn-webdesign.de/wow5e/draenei-back.webp' style='position:absolute; top:0px; left:-100px; width:1000px' />
 
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-30px; left:0px; width:100%;' />
@@ -449,6 +625,8 @@ choice).<br>
 
 \pagebreakNum
 
+<a id="dwarf"></a>
+
 <img src='https://www.hahn-webdesign.de/wow5e/dwarf-back.webp' style='position:absolute; top:0px; right:-90px; width:1000px' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:135px; right:0px; width:890px;' />
@@ -582,6 +760,7 @@ Intelligence is your spellcasting ability for it.
 
 \pagebreakNum
 
+<a id="elf"></a>
 
 <img src='https://images7.alphacoders.com/111/1111271.jpg' style='position:absolute; top:-100px; right:-190px; width:1000px' />
 
@@ -662,16 +841,14 @@ The night elves in particular do not care for the company of high elves and in s
 
 ***Ability Score Increase.*** Your Intelligence score increases<br>
 by 1.<br>
-***High Magic.*** You know the prestidigitation cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a spell 1st level spell. When you reach 5th level, you can also cast the mute spell as a 2nd level spell.
+***High Magic.*** You know the prestidigitation cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a spell 1st level spell. When you reach 5th level, you can also cast the mute spell as a 2nd level spell. 
 
-Intelligence is your spellcasting ability for these spells, and you use your mana pool for these
-abilities (even if you are not normally a spellcaster). While you use such abilities (and after using
-them for one hour), your eyes glow a pale blue.
+Intelligence is your spellcasting ability for these spells, and you use your mana pool for these abilities (your mana pool is considered active, even if you are not normally a spellcaster). While you use such abilities, your eyes glow a pale blue, and for one hour thereafter. 
 
-If you can already cast such spells (and have a sufficiently high caster level), they are always prepared
-for free.<br>
+If you can already cast such spells (and have a sufficiently high caster level to access them), they are instead prepared for free.
+<br>
 ***Arcane Legacy.*** The high elves are uniquely attuned to magic. You can choose one of the below abilities.
-* You increase your mana pool size by 2 mana points.
+* You increase your mana pool size by 4 mana points, and you increase your Spell Save DC and Spell Attack bonus by 1 point.
 * You add an additional cantrip to your High Magic ability, chosen from the mage spell list.
 * You gain the Suffused Arrows talent. You may only take this if your first level is a hunter.
 ___
@@ -758,8 +935,7 @@ Combined with their mystical appearances and mysterious natures, interactions wi
 *“My people face a similar dilemma. I peered into all possible futures in search for an answer... and found only one.”*<br>
 -- Elisande, Grand Magistrix of the Nightborne
 <br><br>
-As a Nightborne, you hail from the ancient city of Suramar, and have spent your life sheltered by the power of the Nightwell (a simulacrum of the Well of Eternity), and the dome of arcane power weaved by Elisande, the Grand Magistrix. The nightborne look similar to night elves, but their overall appearance is darker. Their skin does not have the brighter skin tones of purple and pink
-that night elves do, instead having more pale skin with dark blue-purplish tones. A shal'dorei's hair is also far less colorful than the kal'dorei's, having only white, gray, black, or very pale-blue hair colors. Glowing tattoos seem common among nightborne, though whether these are cosmetic or a result of the Nightwell's energy is unknown. Their eyes glow a light blue.
+As a Nightborne, you hail from the ancient city of Suramar, and have spent your life sheltered by the power of the Nightwell (a simulacrum of the Well of Eternity), and the dome of arcane power weaved by Elisande, the Grand Magistrix. The nightborne look similar to night elves, but their overall appearance is darker. Their skin does not have the brighter skin tones of purple and pink that night elves do, instead having more pale skin with dark blue-purplish tones. A shal'dorei's hair is also far less colorful than the kal'dorei's, having only white, gray, black, or very pale-blue hair colors. Glowing tattoos seem common among nightborne, though whether these are cosmetic or a result of the Nightwell's energy is unknown. Their eyes glow a light blue.
 
 #### Affiliation
 ***Horde or Independent.*** When the dome began unweaving after the Battle of Nighthold during the third Burning Legion invasion of Azeroth, the leaders of the Nightborne elected to let it fade, subjecting the Nightborne to the same withdrawal the High Elves face, rather than face the alternative. Electing to join the Horde, the Nightborne found new and steadfast allies in the Blood Elves when they re-appeared in the world of Azeroth. Nightborne that are more independentminded also roam the world, searching for ways to satiate their thirst for magic before it becomes an obsession like the Blood Elves.
@@ -773,17 +949,11 @@ following two features:<br>
 * Energy Blast. You can release a blast of arcane force as if you possessed the Mystic Blast feat (arcane damage only). You may use this blast number of times equal to your Intelligence modifier before replenishing at a long rest. This deals a number of d4 dice equal to onequarter your level (minimum 1d4).
 ___
 ***Blessing of the Nightwell.*** You have resistance to arcane damage.<br>
-***Nightfallen Magic.*** You know the mage hand cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell.
+***Nightfallen Magic.*** You know the mage hand cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the arcane explosion spell as a 2nd level spell. 
 
-When you reach 5th level, you can also cast the arcane explosion spell as a 2nd level spell.
+Intelligence is your spellcasting ability for these spells, and you use your mana pool for these abilities (your mana pool is considered active, even if you are not normally a spellcaster). While you use such abilities, your eyes glow a light blue, and for one hour thereafter.
 
-<br><br>
-Intelligence is your spellcasting ability for these spells, and you use your mana pool for these
-abilities (even if you are not normally a spellcaster). While you use such abilities (and after using
-them for one hour), your eyes glow a light blue.
-
-If you can already cast such spells (and have a sufficiently high caster level), they are always prepared
-for free.<br>
+If you can already cast such spells (and have a sufficiently high caster level to access them), they are always prepared for free.<br>
 ***Extra Language.*** You can speak, read, and write one extra language of your choice.<br><br>
 ***Male Names.*** Ilthilior, Mellitharn, Lurunic, Elleshel, Mardant, Faldres.<br>
 ***Female Names.*** Kandui, Deliantha, Allainn, Freja, Alannaria, Macianne.<br>
@@ -820,15 +990,15 @@ Alleria Windrunner is the only elf shown to be able to keep the transformation i
 <br><br>
 
 After the rift is set, you can teleport to it as a bonus action, it as if using the blink step spell. This is useable once per long rest, and acts as the spell for all other purposes. The rift remains up to 1 minute, and can be used so long as you are within 100 feet of it (so long as you placed it within the normal range beforehand).<br>
-***Void Magic.*** You know the chill touch cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the shadow word pain spell as a 2nd level spell. Charisma or Intelligence (your choice) is your spellcasting ability for these spells, and you use your mana pool for these abilities (even if you are not normally a spellcaster). While you use such abilities (and after
-using them for one hour), your eyes glow a pale white.
+***Void Magic.*** You know the chill touch cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the shadow word pain spell as a 2nd level spell. Charisma or Intelligence (your choice) is your spellcasting ability for these spells, and you use your mana pool for these abilities (your mana pool is considered active, even if you are not normally a spellcaster). While you use such abilities, your eyes glow a pale white, and for one hour thereafter.
 
-If you can already cast such spells (and have a sufficiently high caster level), they are always prepared
-for free.<br><br>
+If you can already cast such spells (and have a sufficiently high caster level to access them), they are always prepared for free.<br><br>
 ***Male and Female Names.*** Void elves follow the naming traditions of the high elven culture from which they were selected from<br>
 ***Family Names.*** Blackfeather, Duskblade, Shadowwalker, Swiftshadow, Velvetkind.
 
 \pagebreakNum
+
+<a id="forsaken"></a>
 
 <img src='https://cdnb.artstation.com/p/assets/images/images/002/997/401/4k/l-in-.jpg?1468288355' style='position:absolute; top:-20px; left:-50px; width:1100px;' />
 
@@ -870,8 +1040,7 @@ Although humans make the vast population of Forsaken, there is also a population
 ***Size.*** Forsaken vary based on their original form before death - those who were medium before death are medium.<br>
 ***Speed.*** Your base walking speed is 30 feet.<br>
 ***Darkvision.*** Accustomed to dark crypts and the night sky, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can‘t discern color in darkness, only shades of gray.<br>
-***Cannibalize.*** You can consume the corpse of any natural creature. When you use this ability, you can spend hit dice to heal as if you completed a short rest. You can also mana siphon at the same time. Consuming a corpse takes 1 minute (instead of 1 hour for a short rest). You do not have the other benefits of rest, however (such as regaining ability uses). A natural creature may be fully
-cannibalized once before their corpse becomes unusable and without sufficient benefit for another cannibalism.<br>
+***Cannibalize.*** You can consume the corpse of any natural creature. When you use this ability, you can spend hit dice to heal as if you completed a short rest. You can also mana siphon at part of the same action. Consuming a corpse takes 1 minute (instead of 1 hour for a short rest). You do not have the other benefits of rest, however (such as regaining ability uses). After being cannibalized, a natural creature’s corpse becomes unusable and without sufficient benefit for another cannibalism.<br>
 
 \pagebreakNum
 
@@ -886,7 +1055,7 @@ cannibalized once before their corpse becomes unusable and without sufficient be
   * *Preternatural Calm (void elf)*
   * *Shadowmeld (night elf)*
 * *Human Blood (must have been a human).* You have lingering human blood in your veins. You gain the Skillful racial trait and a +1 bonus to a third ability score of your choice.<br>
-* *Necrotic Touch.* You can cast the plague rune spell. This can be used once until a short or long rest. At 6th level, you gain another use of the ability or choose to heighten the spell‘s level to a 3rd level spell. You can make the same choice at the 11th and 16th levels (4th or 5th level, or additional uses). While you use this ability, your hand and eyes emit an eerie green glow.
+* *Necrotic Touch.* You can cast the plague rune spell. This can be used once until a short or long rest. At 6th level, you gain another use of the ability or choose to heighten the spell’s level to a 3rd level spell. You can make the same choice at the 11th and 16th levels (4th or 5th level, or additional uses). While you use this ability, your hand and eyes emit an eerie green glow.
 * *Natural Alchemist.* You have proficiency with Alchemist‘s Supplies and the Alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you gain later proficiency, you gain expertise to the roll instead.
 * *Orcish Blood (must have been an orc).* You have lingering orcish blood in your veins. You can choose one talent as per the Warrior Tradition racial trait and gain a +1 bonus to your Strength score.
 ____
@@ -904,6 +1073,8 @@ You may also declare your racial origin before you rose (human, elf, orc, etc.) 
 
 \pagebreakNum
 
+<a id="gnome"></a>
+
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66965d8a-d7e4-42b9-89fa-dfb517a0824a/d89nlkp-4c63a6e7-461d-476d-8f17-b7df3718dba0.jpg/v1/fill/w_600,h_848,q_75,strp/gnomecha_rilla_by_artlon_d89nlkp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODQ4IiwicGF0aCI6IlwvZlwvNjY5NjVkOGEtZDdlNC00MmI5LTg5ZmEtZGZiNTE3YTA4MjRhXC9kODlubGtwLTRjNjNhNmU3LTQ2MWQtNDc2ZC04ZjE3LWI3ZGYzNzE4ZGJhMC5qcGciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.LdZ4nrSh6kftIXqrbZ5OEAq9txQL4IKaHH1_13l7rL8' style='position:absolute; top:-100px; right:-80px; width:530px; transform:scaleX(-1);' />
 
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:50px; left:200px; width:100%;' />
@@ -915,8 +1086,6 @@ You may also declare your racial origin before you rose (human, elf, orc, etc.) 
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; bottom:0px; right:200px; width:50%; height:50%; transform:scaleX(-1);' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:470px; left:0px; width:50%; height:20%; transform:scaleY(-1);' />
-
-
 
 <div style="margin-top:0px;"></div>
 
@@ -954,6 +1123,8 @@ Gnomes and goblins have always been rivals — though whether this rivalry is a 
 ***Family Names.*** Spinpistol, Airslicer, Bombtosser, Greatgear, Mekkatorque.
 
 \pagebreakNum  
+
+<a id="goblin"></a>
 
 <img src='https://cutewallpaper.org/21/wow-goblin-wallpaper/Pix-For-Goblin-Wow-Wallpaper-in-2019-Warcraft-art-.jpg' style='position:absolute; top:-50px; left:0px; width:800px;' />
 
@@ -1005,6 +1176,8 @@ Languages. You can speak, read, and write Common and Goblin. The Goblin language
 
 \pagebreakNum
 
+<a id="human"></a>
+
 <img src='https://cdnb.artstation.com/p/assets/images/images/000/636/703/large/philip-straub-lordaeron-final.jpg?1429384994' style='position:absolute; top:-150px; left:0px; width:900px;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:80px; right:0px; width:890px;' />
@@ -1047,6 +1220,7 @@ Humans tend toward no particular alignment. The best and the worst are found amo
 
 \pagebreakNum
 
+<a id="orc"></a>
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fee25258-439e-4f14-b0dc-51ee1e8b642e/d7ur0kn-04e9ea05-e8de-4162-b20d-5c57247c098f.jpg/v1/fill/w_1280,h_720,q_75,strp/draenor_wallpaper_by_ddddd210_d7ur0kn-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvZmVlMjUyNTgtNDM5ZS00ZjE0LWIwZGMtNTFlZTFlOGI2NDJlXC9kN3VyMGtuLTA0ZTllYTA1LWU4ZGUtNDE2Mi1iMjBkLTVjNTcyNDdjMDk4Zi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.XSe5wRoZyCEGg4YhzenFMR8oRvYOO2j4Szk6vQG_jBs' style='position:absolute; top:-50px; left:0px; width:1000px;' />
 
@@ -1060,7 +1234,7 @@ Humans tend toward no particular alignment. The best and the worst are found amo
 https://www.deviantart.com/tamplierpainter/art/Warmaiden-889199765
 </div>
 
-<div style="margin-top:670px;"></div>
+<div style="margin-top:665px;"></div>
 
 ## Orc
 *“Lok'tar ogar!”*<br><br>
@@ -1113,6 +1287,8 @@ ____
 
 \pagebreakNum
 
+<a id="pandaren"></a>
+
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/75882b50-c21c-4b17-8f5b-7a72894d1da8/d4g3a4l-f861d88a-7c1e-43a0-b72f-4d9c5861f92d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc1ODgyYjUwLWMyMWMtNGIxNy04ZjViLTdhNzI4OTRkMWRhOFwvZDRnM2E0bC1mODYxZDg4YS03YzFlLTQzYTAtYjcyZi00ZDljNTg2MWY5MmQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U8SwaSmdWG7-8RZbeB3pRJp-mTGVM04btLVqBkJeADk' style='position:absolute; top:-20px; left:-25px; width:1600px;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
@@ -1158,6 +1334,8 @@ Bouncy. You can use your reaction when you fall to reduce any falling damage you
 ***Family Names.*** Stoneclaw, Firespear, Silentrunner, Winterwalker, Rainsword, Brewscroll, Whitebrow.
 
 \pagebreakNum
+
+<a id="tauren"></a>
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ca85bac9-b1bd-48b9-9b43-cf65b22b0861/dei2rqw-4c977a2b-63de-43d5-86a1-3a484df661e7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NhODViYWM5LWIxYmQtNDhiOS05YjQzLWNmNjViMjJiMDg2MVwvZGVpMnJxdy00Yzk3N2EyYi02M2RlLTQzZDUtODZhMS0zYTQ4NGRmNjYxZTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OXEh07VEE0NKJupwBtNp4J0Rjz2pyUg6xplbWz3fw-I' style='position:absolute; top:-50px; left:-25px; width:1100px;' />
 
@@ -1209,6 +1387,8 @@ ____
 
 \pagebreakNum
 
+<a id="troll"></a>
+
 <img src='https://cdna.artstation.com/p/assets/images/images/000/586/612/large/jordi-gonzalez-escamilla-jungle.jpg?1443928656' style='position:absolute; top:-50px; left:-25px; width:1100px;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:130px; right:0px; width:890px;' />
@@ -1221,7 +1401,7 @@ ____
 https://cdna.artstation.com/p/assets/images/images/013/464/240/large/dmitriy-nedviga-1.jpg?1539715737
 </div>
 
-<div style="margin-top:567px;"></div>
+<div style="margin-top:557px;"></div>
 
 ## Troll
 Several troll subspecies exist, and they are — almost universally – considered depraved by the civilized peoples of the world due to their brutality, cannibalistic ways, and use of dark magic. Jungle trolls are humanoids that live in Azeroth‘s wilderness, and Ice trolls are known as the descendants of a vicious civilization that (to this day) resists the Lich King‘s dominion in Northrend.
@@ -1356,6 +1536,8 @@ As a sand troll, you belong to the Sandfury (Farraki) or Sandscalp tribes. Sand 
 
 \pagebreakNum
 
+<a id="worgen"></a>
+
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ceb9e091-7c46-41e1-a84e-a636e9e7b50d/d9asm9d-a99377e7-0959-44fe-b008-a011cb805d12.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NlYjllMDkxLTdjNDYtNDFlMS1hODRlLWE2MzZlOWU3YjUwZFwvZDlhc205ZC1hOTkzNzdlNy0wOTU5LTQ0ZmUtYjAwOC1hMDExY2I4MDVkMTIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.W1-KuWk5XPqJUDMYc5YiV8ijbXIE6nthkvdKTt3OT-8' style='position:absolute; top:-0px; left:0; width:1100px;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
@@ -1368,8 +1550,7 @@ As a sand troll, you belong to the Sandfury (Farraki) or Sandscalp tribes. Sand 
 https://www.deviantart.com/brevis--art/art/WoW-Krognart-821975270
 </div>
 
-<div style="margin-top:457px;"></div>
-
+<div style="margin-top:447px;"></div>
 
 ## Worgen
 *“Get gabbin‟ or get going.”*<br><br>
@@ -1423,6 +1604,8 @@ ___
 
 \pagebreakNum
 
+<a id="halfbreed"></a>
+
 ## Special: Half-breed Race
 The Warcraft universe also has its share of mixed-origin characters (or half races), most commonly half-elves (human and elves of any type), half-orcs (human and orcs, or draenei and orcs), and half-ogres (orcs and ogres). Some of the more famous examples are Garona Halforcen and the half-elven Alodi, the first Guardian.
 Mixed races are treated as both races with spells, magic effects, and mechanical purposes, but may be looked down upon by their parent races.
@@ -1446,6 +1629,8 @@ He would gain both Common, Orcish, and uncorrupted Eredun in either case.
 
 \pagebreakNum
 
+<a id="classes"></a>
+
 # Chapter 3: Classes
 Specializations in Warcraft act as sub-classes for most intents and purposes. Some subclasses are
 racially-locked, and thus can only be entered by fulfilling a racial requirement.
@@ -1460,6 +1645,8 @@ With this optional rule, you may exchange class features gained from archetypes 
 and only once per level.
 
 \pagebreakNum
+
+<a id="alchemist"></a>
 
 <img src='https://cdnb.artstation.com/p/assets/images/images/000/473/367/large/wes-wheeler-interior-alchemist-shop.jpg?1423878283' style='position:absolute; top:0px; right:0; width:1000px;' />
 
@@ -1944,6 +2131,8 @@ Upon reaching 16th level, you can augment up to three potions at any given time.
 * Your potion has a 25% chance to enhance the imbiber with increased lifeforce. If the target is reduced to 0 hit points or dies within 4 hours of imbibing the potion, they are affected with the revivify spell. The potion must replicate a spell level of 6 or higher to gain this augmentation.
 
 \pagebreakNum
+
+<a id="deathknight"></a>
 
 <img src='https://cdna.artstation.com/p/assets/images/images/030/626/108/large/eduardo-acevedo-dearhknightfinalfinal.jpg?1601171332' style='position:absolute; top:-150px; right:-0; width:100%;' />
 
@@ -2608,6 +2797,8 @@ cannot exceed half their total hit points.
 
 \pagebreakNum
 
+<a id="druid"></a>
+
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c75620e2-1a4d-436d-8d02-cf917a2d47c8/dellejy-3b8464df-b19f-46a7-80d2-7e1411d71662.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M3NTYyMGUyLTFhNGQtNDM2ZC04ZDAyLWNmOTE3YTJkNDdjOFwvZGVsbGVqeS0zYjg0NjRkZi1iMTlmLTQ2YTctODBkMi03ZTE0MTFkNzE2NjIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Iod-JskVxsuH3oxD6D1YmTiKfGDHD-oMo2D292v6EUM' style='position:absolute; top:0px; right:-50px; width:120%;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:160px; right:0px; width:890px;' />
@@ -3174,6 +3365,8 @@ have no use of your normal senses while you are perceiving this way.
 
 \pagebreakNum
 
+<a id="hunter"></a>
+
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bac900bd-3cc5-46a7-afae-e8f34a32393f/dd3e9z5-98c73088-aaf3-4d5c-a02c-99ca7cfcbcaa.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JhYzkwMGJkLTNjYzUtNDZhNy1hZmFlLWU4ZjM0YTMyMzkzZlwvZGQzZTl6NS05OGM3MzA4OC1hYWYzLTRkNWMtYTAyYy05OWNhN2NmY2JjYWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kFKi6FjR37UhufkL7T4WTmXZccgY9-wz8yTPwiMgqIA' style='position:absolute; top:0px; right:0; width:100%;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:220px; right:0px; width:100%;' />
@@ -3630,6 +3823,8 @@ long as you have the favored terrain talent), and whenever one of your traps har
 always treat it as if it is surprised against you, unless combat hasn‘t already started.
 
 \pagebreakNum
+
+<a id="mage"></a>
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a2a39b7c-da6a-4502-9d9c-8710930d1fe0/ddluxed-da62867e-20b8-420c-9d1e-cbf55a89666c.jpg/v1/fill/w_1280,h_720,q_75,strp/commission__matthew_by_alteya_ddluxed-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTJhMzliN2MtZGE2YS00NTAyLTlkOWMtODcxMDkzMGQxZmUwXC9kZGx1eGVkLWRhNjI4NjdlLTIwYjgtNDIwYy05ZDFlLWNiZjU1YTg5NjY2Yy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.wkBcqtg545Uwb8kwCbS7G-ljnmjTwtzjq2JcoaPchM8' style='position:absolute; top:0px; left:-120px; width:1100px;' />
 
@@ -4093,6 +4288,8 @@ once, they are both restrained and incapacitated for one hour (or until they tha
 comes first). Both effects end prematurely if the target is hit.
 
 \pagebreakNum
+
+<a id="monk"></a>
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f7ace064-63a1-4cb2-a566-a730ba61ca6d/d4girpi-99a3aed4-ac8e-4133-a7bd-07f9fd397ca4.jpg/v1/fill/w_800,h_500,q_75,strp/pandaren_monk_wallpaper_by_roscofox_d4girpi-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTAwIiwicGF0aCI6IlwvZlwvZjdhY2UwNjQtNjNhMS00Y2IyLWE1NjYtYTczMGJhNjFjYTZkXC9kNGdpcnBpLTk5YTNhZWQ0LWFjOGUtNDEzMy1hN2JkLTA3ZjlmZDM5N2NhNC5qcGciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.3Mjv4CKBSgW3L3HtxzQbdncvje6VaC9x-Z7FTiCgZG8' style='position:absolute; top:-50px; left:0px; width:850px;' />
 
@@ -4647,6 +4844,8 @@ You can have only one creature under the effect of this feature at a time. You c
 the vibrations harmlessly without using an action.
 
 \pagebreakNum
+
+<a id="paladin"></a>
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c75d1491-03f2-456d-b247-9e5596e90c3a/deb7igp-bdcbb5d9-591f-4e67-b47f-b59360b13629.png/v1/fill/w_1280,h_905,strp/juniper_stites_by_axilusturner_deb7igp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvYzc1ZDE0OTEtMDNmMi00NTZkLWIyNDctOWU1NTk2ZTkwYzNhXC9kZWI3aWdwLWJkY2JiNWQ5LTU5MWYtNGU2Ny1iNDdmLWI1OTM2MGIxMzYyOS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.J4QYXrDm94pb1LytMyvOJe_OGSaQSx-8YreMwwMw-Pg' style='position:absolute; top:-80px; left:-50px; width:850px;' />
 
@@ -5226,6 +5425,8 @@ Furthermore, whenever you have no mana points remaining or uses of Cleaning Touc
 spend hit dice to fuel your Crusader Strike feature (up to one hit dice per spell level). 
 
 \pagebreakNum
+
+<a id="priest"></a>
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/11007c0e-23f5-4d77-b795-bceb4e19b4e2/d97dl4f-a1c90848-7269-4546-8d4c-c373f0e84612.png/v1/fill/w_1024,h_576,q_80,strp/anduin_wrynn_by_spiritaj_d97dl4f-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc2IiwicGF0aCI6IlwvZlwvMTEwMDdjMGUtMjNmNS00ZDc3LWI3OTUtYmNlYjRlMTliNGUyXC9kOTdkbDRmLWExYzkwODQ4LTcyNjktNDU0Ni04ZDRjLWMzNzNmMGU4NDYxMi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.bxEB7XujQTnHlBQcOOz2JD-nzyVe2oTMQZ2xNsQ8yoQ' style='position:absolute; top:0px; right:-100px; width:120%;' />
 
@@ -6054,6 +6255,8 @@ spell you used.
 
 \pagebreakNum
 
+<a id="rogue"></a>
+
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1366870d-f4a1-4e2c-a952-1dd79847779c/de50942-b8805799-35ac-48e6-88cb-badc911ef494.jpg/v1/fill/w_1159,h_689,q_70,strp/death_from_above_by_mirasand_de50942-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzYxIiwicGF0aCI6IlwvZlwvMTM2Njg3MGQtZjRhMS00ZTJjLWE5NTItMWRkNzk4NDc3NzljXC9kZTUwOTQyLWI4ODA1Nzk5LTM1YWMtNDhlNi04OGNiLWJhZGM5MTFlZjQ5NC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jWA_y0EnM2lKiNMFORlGGxCpcEkJJikzRWdkXlmQ1t4' style='position:absolute; top:0px; right:0; width:100%;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
@@ -6434,6 +6637,8 @@ deal double the sneak attack damage. Once affected, the target is immune to this
 complete a short rest.
 
 \pagebreakNum
+
+<a id="shaman"></a>
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10bcfa0c-24e0-46b2-810d-ad75c14cdd6c/dd8j664-7e97c614-e0da-4430-b531-41574fa13283.jpg/v1/fill/w_1280,h_793,q_75,strp/___commission__zandalari_witch_doctor____by_shadowpriest_dd8j664-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwYmNmYTBjLTI0ZTAtNDZiMi04MTBkLWFkNzVjMTRjZGQ2Y1wvZGQ4ajY2NC03ZTk3YzYxNC1lMGRhLTQ0MzAtYjUzMS00MTU3NGZhMTMyODMuanBnIiwiaGVpZ2h0IjoiPD03OTMiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8xMGJjZmEwYy0yNGUwLTQ2YjItODEwZC1hZDc1YzE0Y2RkNmNcL3NoYWRvd3ByaWVzdC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.k5AyvRUgjoeZTxK96OaxSREPylCDcKbLoWW1n5Its_Q' style='position:absolute; top:0px; right:-100px; width:120%;' />
 
@@ -7033,3 +7238,545 @@ Also, whenever one of your totems is attacked (and not necessarily hit), it can 
 direction. If it ends adjacent to an ally, the totem regains 2d6 hit points.
 
 \pagebreakNum
+
+<a id="tinker"></a>
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/90a08793-f55f-4fb2-86e4-4fc693e36128/d89u2f7-c543b598-a779-4fef-8d8d-250a583f5257.jpg/v1/fill/w_1024,h_701,q_75,strp/dinobot_by_lm_lucilemeunier_d89u2f7-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzAxIiwicGF0aCI6IlwvZlwvOTBhMDg3OTMtZjU1Zi00ZmIyLTg2ZTQtNGZjNjkzZTM2MTI4XC9kODl1MmY3LWM1NDNiNTk4LWE3NzktNGZlZi04ZDhkLTI1MGE1ODNmNTI1Ny5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.5ozAw5ovioaAWwswp-DgiSB01IRcvO5okvUPbfH50a4' style='position:absolute; top:0px; right:-100px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:250px; right:0px; width:890px;' />
+
+<div style="margin-top:550px;"></div>
+
+## Tinker (TNK)
+*A dwarf holds out his rifle, standing watch over his position
+atop defensive walls. In the distance, he hears the explosion
+in a mine. Mentally calculating the distance, he turns to a
+nearby mortar, adjusting a few settings. He pulls the primer,
+smirking as the mortar lobs the explosive shell somewhere
+into the woods behind cover, releasing panicked screams
+and another blast.*
+<br><br>
+*A large mechanical construct with arms of steel and razorsharp claws approaches a keep‘s shut portcullis. The
+construct digs its claws under the steel of the gate, and
+begins pulling it upwards, as a small voice from inside the
+construct urges its fellows to pass quickly. From the walls, an
+arrow clangs on the construct‘s shoulder, causing the driver
+of the mecha to turn, lift an arm, and release a rocket barrage against the hapless archer. From
+within, a gnome squeaks out an apology.*
+<br><br>
+*The goblin‘s green skin seems almost black from the soot of her explosives as she ducks behind the
+ruined door frame, evading sling bullets and bolts of frost. She rests her back on the wall for a
+moment, and unhooks a mechanical wheel from her back. She revs up a rip-tire, packs a few pieces
+of dynamite into it, and releases it. With a roar, the wheel charges into the open gateway and lets
+out a resounding blast. The goblin then smirks at the silence, and hearing a groan, she pulls out her
+flamethrower, and moves in to clean up.*
+
+\columnbreak
+
+<div style="margin-top:570px;"></div>
+
+For the tinker, innovation is both the tool and the end. Having the brain and the tools give them
+the nearly limitless capacity to solve any problem. These engineers are lightly armored, and are
+proficient with the skills to create a variety of tools and machines to help them achieve their goals.
+
+### Consummate Innovators
+Tinkers among the smartest and most creative of the adventurers setting out to explore and
+conquer Azeroth. As a creator of incredible inventions from steam saws to siege engines, your
+devices allow them to overcome nearly any situation — and if you don‘t have the device they need,
+you just might be able to design and create a new one on the spot.
+
+Tinkers are born of necessity—economic or military. Many gnomish and goblin engineers chose to
+take up the path of the tinker because of its demand in peace and wartime, and to satisfy their
+creativity. Tinkers tend to carry about packs and pouches full of heavy tools, spare parts and
+inventions both finished and incomplete. In doing so, they quickly develop the ability to shoulder
+casually otherwise crushing burdens. Furthermore, the tinker‘s ability to put together devices out of
+random piles of spare parts or whatever wires and gears they happen to be carrying is a valuable
+asset, allowing a tinker to address problems and improvise even when they would otherwise be
+stumped.
+
+\pagebreakNum
+
+From developing vehicles such as the zeppelin or the steam engine to reliable weapons and
+explosives, tinkers are increasingly needed innovators in the changing World of Warcraft.
+
+### Adaptable Combatants
+Tinkers prefer to spend days, weeks or even months constructing the devices they design. When
+adventuring, though, tinkers are often forced to throw together a device more quickly or adapt
+pieces of fallen technology to their purposes. A tinker can arrive onto a battlefield with many tools,
+ranging from firearms, explosives, strange gadgets, to even personal vehicles and mecha. A tinker
+always balances what they can bring with what they should bring, as relying on technology that is too
+young could result in a crisis like the destruction of Gnomregan. They also look forward to
+repurposing enemy technology, and a tinker‘s strength can grow the more developed their
+opposition is.
+
+Tinkers have a reputation for being dangerous companions before specializing, born mainly of
+reckless goblins experimenting with explosives, or using gadgets made and owned by others.
+However, the true heart of the tinker profession can be found in the steady craftsmanship of the
+dwarves and the wild-eyed curiosity of the gnomes.
+
+### Creating a Tinker
+When you create a tinker, consider where you learned your craft. Are you self-taught or a student of
+a well-established guild, university, or master tinker? How has that affected your starting devices and
+formulae? Another thing to consider is your specialty—many gnomes and draenei prefer to rely on
+gadgets, while goblins lean towards explosives, and dwarves would swear on a reliable firearm.
+
+Are the components and parts of your devices usually supplied and numbered or scavenged and
+repurposed from other devices?
+
+Do you have qualms of repurposing technology (seeing it as a mark of poverty) or revel in it (seeing
+it as a proof of your power and skill)? Have you ever worked for an engineering society or guild—
+how have they treated you or used your inventions?
+
+#### Quick Build
+You can make a tinker quickly by following these suggestions. First. Intelligence should be your
+highest ability score. Make Agility your next-highest if you want to excel at using firearms and
+explosives. Choose Stamina or Strength instead if you plan to emphasize using constructs and
+mecha. Second, choose the guild artisan background. Third, choose the following starting devices
+in your engineer‘s notebook: boomstick (or auto-crossbow), fog machine (gadget), flamethrower
+(gadget), and hand grenade (or iron rockets, iron bombs, or iron mines).
+
+### Class Features
+As a tinker, you have the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per tinker level
+- **Hit Points at 1st Level:** 8 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Stamina modifier per tinker level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, hand crossbows, maces, firearms, explosives, and short swords.
+- **Tools:** Thieves‘ tools and Engineer‘s Tools
+___
+- **Saving Throws:** Agility, Intelligence
+- **Skills:** Choose four from Acrobatics, Athletics, Insight, Intimidation, Investigation, Perception,
+Performance, Persuasion, Sleight of Hand, and Stealth.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- (a) A mace or (b) a shortsword
+- (a) 2 common explosives (your choice of the following: iron bomb, iron mine, or iron rocket)
+- (a) A dungeoneer‘s pack, or (b) an explorer‘s pack
+- Leather armor, Engineer‘s Tools
+- Engineer‘s notebook, 250 gp worth of engineering materials (can be spent during charactercreation), and fuel enough for 4 devices charges of the tinker‘s choice (except alchemical fuel)
+ 
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/000/525/293/large/tooth-wu-xiii.jpg?1443929934' style='position:absolute; top:0px; right:-100px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:350px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Rarity |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Engineering, Innovation, Patent | Uncommon
+| 2nd | +2 | Efficient Engineering, Knack for It | Uncommon
+| 3rd | +2 | Alchemy Path, Flash Bomber | Uncommon
+| 4th | +2 | Ability Score Improvement | Uncommon
+| 5th | +3 | Favored Creations, Superfunctions | Rare
+| 6th | +3 | Path Feature | Rare
+| 7th | +3 | Coolness under Fire | Rare
+| 8th | +3 | Ability Score Improvement | Rare
+| 9th | +4 | Consistent Innovations | Epic
+| 10th | +4 | Scavenge, Path Feature | Epic
+| 11th | +4 | Evasion, Works as Intended | Epic
+| 12th | +4 | Ability Score Improvement | Epic
+| 13th | +5 | Battle-Tested | Legendary
+| 14th | +5 | Path Feature | Legendary
+| 15th | +5 | Efficient Engineering, Quick Tech | Legendary
+| 16th | +5 | Ability Score Improvement | Legendary
+| 17th | +6 | Shutdown | Artifact
+| 18th | +6 | Precision Guesswork | Artifact
+| 19th | +6 | Ability Score Improvement | Artifact
+| 20th | +6 | Engineering Mastery | Artifact
+
+</div>
+
+\pagebreakNum
+
+#### Engineering
+Starting when you gain your first level in this class, you are a master of engineering in the making.
+
+You gain an engineer‘s notebook and can perform marvels with the skill that few can even imagine.
+
+#### Notebook
+At 1st level, your notebook contains four blueprints of your choice that detail the specifications of
+any device you can create. When you level up, you gain 2 additional blueprints of your choice. You
+may also acquire new blueprints by research, tutelage, or from the notebooks and blueprints of
+tinkers who have devices you can create.
+
+#### Innovation
+You also gain the ability to craft temporary and unstable technological creations at certain levels.
+
+Such creations have limitations compared to normal crafting (as described in Chapter 7), but are
+more accessible and useable in combat. You also need the required tools at hand (Engineer's
+Tools).
+
+Creating temporary technological device costs an Action if a Consumable, 3 turns if a use-item
+(such as a firearm), or 1 minute if a Creature (such as turret or combat armor).
+
+| Level | Rarity | Point Cost<sup>1</sup> | Material Cost<sup>2</sup>
+|:---:|:---:|:---|:---:|:---:|
+| 1 | Common | 5 | 1 gp<sup>3</sup>
+| 1 | Uncommon | 7 | 4 gp
+| 5 | Rare | 9 | 16 gp
+| 9 | Epic | 11 | 64 gp
+| 13 | Legendary | 13 | 256 gp
+| 17 | Artifact | 15 | 1,024 gp
+
+1 You reduce the crafting point cost by your proficiency bonus. You may reduce the point cost by
+your proficiency bonus (not applied above). Common items can have their point cost reduced to 0.
+
+2 The crafting cost is unaffected by the Efficient Alchemy feature. Unlike normal crafting, the base
+crafting cost in materials is not modified for crafting class (x25 for Creatures), and thus innovating
+a Consumable costs the same as a Creature.
+
+3 Starting at 5th level, your Common-level temporary creations do not consume crafting materials,
+but still require access to your tools (Engineer's Tools).
+
+##### Crafting Point Cost
+Your ability to do such rapid and innovative creations strains your mind and creative capabilities.
+
+You are afforded a pool of Crafting Points (which act as Mana Points). Similarly to Mana Points,
+you spend points to spontaneously craft items, and regain such points by resting. This is subject to
+the following points of difference, however:
+* You have a number of Crafting Points equal to your Intelligence score (not modifier) plus
+your proficiency bonus plus one-half your Tinker level (round down). Unlike mana points, your
+pool is unaffected by the spell level you can access. As this power is not magical in nature, you are
+unaffected by any anti-magic effects such as an antimagic field or mana burn effects.
+* You do not regain points by mana-restorative effects, such as Mana Potions or resting near
+mana fountains. However, so long as you are in a relevant resource node or crafting area (such as
+an engineering workshop or your stronghold), you regain points with a +50% increase, as you draw
+inspiration from them.
+* Your creation costs scale by the item‘s rarity and your ability to craft them; and are thus
+limited by the Rarity column in your class chart. You can craft anything you have memorized or if
+you refer to the formula of in your possession (such as in your formulae book).
+___
+
+A temporary creation that breaks down, fails, or expires can be harvested for one-half the crafting
+materials invested. This does not apply to Consumables that were successfully used.
+
+Your temporary creations can be made permanent by paying the rest of the crafting cost.
+
+##### Material Cost
+As well as consuming Crafting Points, temporary creations also cost material costs appropriate to
+their rarity, as detailed above.
+
+##### Temporary Item Duration
+Once created, the temporary item remains until used (if a Consumable), until it breaks down (if a
+Use-Item or Creature), or up to 5 minutes. Temporary creations are not stable, and if the item is
+not a consumable in nature, you must succeed on a tool check (Engineer's Tools) against a DC of
+15 after a successful use (if a Use-Item), 1 minute (if a Creature), or the creation breaks down.
+
+If the item is not being used by you (or a creature bound to you), it has a +4 increase to its
+malfunction rate. You may maintain multiple temporary creations, but they all begin expiring
+starting from the round they were crafted.
+
+##### At Higher Levels
+As you increase in levels, creations of certain rarity require less time and effort. The time it takes for
+you to innovate or craft temporary versions of your creations is reduced to a Bonus Action or 3
+turns at the following levels for each rarity.
+
+| Level | Rarity | Consumable | Use-Item | Creature
+|:---:|:---:|:---|:---:|:---:|
+| 2nd | Common | Bonus Action | 1 turn | 3 turns
+| 9th | Uncommon | Bonus Action | 1 turn | 3 turns
+| 17th | Rare | Bonus Action | 1 turn | 3 turns
+
+#### Patent
+Also starting at 1st level, you gain increased mastery over a single engineered device of your creation
+that is not a consumable. Your Patented device does not malfunction when being used.
+
+Furthermore, if a construct or gadget, it takes one-quarter the fuel as normally required for a single
+use. This stacks with the reduction for certain devices (such as strike effect gadgets).
+
+The device may malfunction condition from other circumstances or abilities. This bonus only
+applies to your Patent device, and does not extend to Innovated devices (even if they are of your
+Patented device).
+
+\pagebreakNum
+
+#### Knack for It
+Starting at 2nd level, you can use your bonus action to make an Agility (Sleight of Hand) check or
+use your Thieves‘ Tools to disarm a trap or open a lock.
+
+Furthermore, you can choose to lower the malfunction rating of all devices you create by 2 points
+(minimum 1).
+
+#### Efficient Engineering
+Starting at 2nd level, your ability to whip up devices increases your efficiency in creating normal
+devices. You reduce the base crafting cost for technological devices from one-half to one-quarter
+buying price. This does not affect the costs of material components for spells nor does it affect the
+crafting costs for your Innovation ability. Normally crafting a device is also one step of complexity
+faster. This does not also reduce the cost of spell material components.
+
+Starting at 15th level, this ability also halves the cost of spell material components for your gadget
+devices.
+
+#### Tinker Path
+At 3rd level, you choose a path that you emulate in the exercise of your tinker abilities: Bomber
+who focuses on creating explosives, the Gunner who focuses on creating and shooting with
+firearms, and Gadgeteer who focuses on creating wondrous gadgets, all detailed at the end of the
+class description.
+
+Your path choice grants you features at 3rd level and then again at 6th, 10th, and 14th levels.
+
+#### Flash Bomber
+Also starting at 3rd level, you also gain the Flash Bomber talent, but may only use it for explosives.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you
+can‘t increase an ability score above 20 using this feature.
+
+#### Favored Creations
+Starting at 5th level, you gain increased proficiency in innovation. Choose up to four devices.
+
+These devices have half the Crafting Point cost, and their formulae are memorized. You may
+change a single favored creation with one week of downtime.
+
+#### Superfunction
+Also starting at 5th level, your genius allows you to use malfunction rates to your benefit.
+
+Whenever you use a device, there is a chance it performs unexpectedly well—thus the greater the
+malfunction rate, the greater the superfunction rate. A Superfunction can stack with a critical hit (if
+using a weapon-based engineered device).
+<br><br>
+**Superfunction Rate** = 20 – Malfunction Rate
+
+For instance, an explosive that has a malfunction rate of 2 has a Superfunction rate of 18-20.
+
+When a device superfunctions, it does not roll for a malfunction for the duration of the effect (see
+below, affected by energy source). It also gains a bonus depending on its energy source. Choose one
+benefit the device qualifies for.
+* *Better.* The next malfunction condition is negated, and the next use of the device consumes no
+fuel charges (so long as it doesn‘t have only one use)
+* *Faster.* The device gains a 25% increase in movement speed (if a construct or vehicle) for 1 hour
+* *Harder.* The device cannot lose charges by taking damage or suffer any negative effects that
+would normally cause it to loses charges (such as overcharging) for 1 hour
+* *Stronger.* The device deals maximum damage (no need to roll) with the next (or current) damage
+roll it makes
+___
+*Note.* Since your Patent device cannot malfunction, it can only Superfunction at a natural 20 use.
+
+#### Coolness under Fire
+Starting at 7th level, you may spend 4 Crafting Points to take 10 on any attack roll with an
+engineered device or ability check with Engineer‘s Tools.
+
+#### Consistent Innovations
+Starting from 9th level, you have advantage to any tool check to maintain an innovated device, and
+the maximum duration increases from 5 minutes to 1 hour. You lessen the malfunction rate of
+innovated devices by 2 points (to a base increase of only 2 points).
+
+#### Scavenge
+Starting at 10th level, when you gather raw materials for use with engineering, you gain triple the
+total value. This applies when harvesting existing devices, nodes, creatures, and deconstructing
+devices. If dismantling an item, this cannot exceed one-half the value of creating the item itself
+(counting any reductions).
+
+#### Evasion
+Also starting at 11th level, you can nimbly dodge out of the way of certain area effects, such as a red
+dragon‘s fiery breath or an ice storm spell. When you are subjected to an effect that allows you to
+make an Agility saving throw to take only half damage, you instead take no damage if you succeed
+on the saving throw, and only half damage if you fail. You regain 2 Crafting Points if you suffer no
+damage from a successful saving throw. If you make a saving throw versus an effect made by you,
+you can either take half damage automatically or make a saving throw. If you choose to make a
+saving throw, you take no damage on a successful save, but take normal (full) damage on a failed
+save. After gaining 2 Crafting Points, you cannot gain more unless you complete a short rest.
+
+#### Works as Intended
+Starting at 11th level, you may spend 2 Crafting Points to remove the Malfunctioned condition of a
+device you are touching. This costs a bonus action or reaction.
+
+Also, removing the Malfunctioned condition requires 2d4 minutes instead of 1 hour (or the end of
+a short rest).
+
+In both cases, this does not require you being familiar with the device.
+
+#### Battle-Tested
+Starting from 13th level, your innovated creations that have been used at least three times without
+breaking down can be kept unused indefinitely (instead of breaking down after 5 minutes).
+
+If you choose to make the item into a permanent creation, you must pay the normal crafting cost,
+but the item‘s malfunction rate is 1 point lower (minimum 0). This improved model can be shared
+and scribed down as a new innovation. You cannot battle-test a base design more than once.
+
+\pagebreakNum
+
+You may also deal double damage to objects and constructs with your melee attacks as a strike
+effect.
+___
+*Special.* For the purposes of the Superfunction ability, battle-tested creations act as if its malfunction
+rate is 1 point higher instead of 1 point lower.
+
+#### Quick Tech
+Also starting at 15th level, you may use your innovate ability on a device of equal rarity, and
+permanently alter the properties of the device. This device does not have to be built by you, nor
+does it have to be temporarily-created. This costs the same number of Crafting Points as well as the
+same time.
+
+#### Shutdown
+Starting at 17th level, you may expend 2 Crafting Points and a bonus action to increase the
+malfunction rate of any device within 10 feet of you by 5 points for up to 1 hour. You can target
+your own devices to increase the risk of malfunction and Superfunction (up to a 50% chance for
+either). If you attempt to apply this feature to another device while it is active, its benefits end for
+the previous one.
+
+#### Precision Guesswork
+Starting at 18th level, you spend half the required Crafting Points for the Coolness under Fire,
+Works as Intended, and Shutdown abilities.
+
+#### Engineering Mastery
+Starting at 20th level, you may identify the weaknesses and command triggers for any device you
+see. You gain the ability to deduce the operation and design of any device you operate or have one
+hour to study, and have a 20% chance to recreate it from memory.
+
+You can also spend a reaction if hit by a weapon attack made from a construct, trap, or engineered
+device (except firearms and crossbows) to halve the amount of damage you take from it. This does
+not stack with the bonus from your Evasion ability.
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/000/612/799/large/den-petrov-goblin-2.jpg?1428541817' style='position:absolute; top:-150px; right:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:500px;"></div>
+
+### Bomber
+You appreciate the controlled destruction behind a bomb, terrible surprise beneath a mine, and the
+terror a rocket invokes. Bomber tinkers often makes use of mortars and rocket or mine launchers,
+to deny enemy mobility as well as to deal massive damage to their enemies. Bombers are also
+known as grenadiers, and often take to the skies on gyrocopters to unleash their fury from above.
+
+#### Explosive Mastery
+Starting when you choose this archetype at 3rd level, you increase the range of
+your bombs and rockets by 15 feet, and the range of your mine‘s detection to its blast radius
+(beyond its actual position).
+
+Also, any explosive you use is automatically modified by the Careful Explosion modification, with
+no cost to the modification. If you roll a careen on mishap with an explosive, you may roll twice and
+choose the second result (even if it‘s worse).
+
+#### Corner Blast Strike
+Starting at 6th level, whenever you use an explosive, you may center it against
+one creature in the area of effect, dealing two additional dice of damage. This is a strike effect that
+can target only one creature within the blast. If the explosive already affects only a single creature
+(either by design or by fact), this is applied automatically without using a bonus action.
+
+You also gain the mortar, rocket launcher, cluster launcher and mine launcher blueprints for no cost, and
+they consume half the normal fuel.
+
+\columnbreak
+
+<div style="margin-top:520px;"></div>
+
+#### Greater Flash Bomber
+Starting at 10th level, you double the amount of times you may use the
+Flash Bomber talent before a rest, and can use any explosive (not just in bomb form).
+
+You also gain the remote blueprint for free if you didn‘t already have it, and may employ it to trigger
+any number of your explosives normally, and can use it with a reaction.
+
+#### Explosive Resistance
+Starting at 14th level, you gain resistance to concussive, thunder, and
+bludgeoning damage.
+
+Also, whenever you are in the area of concussive damage or the blast radius of an explosion, you
+can ‗ride the blast‘ and move up to one-half your speed away from the center of the blast, even if
+you otherwise took no damage from it (such as by using the Evasion ability). This can propel you
+upward if the explosion takes place under you. This distance is added to the distance the explosion
+already moves you (if possible).
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/002/966/995/large/-005pbnicgw1ez1brx7bw4j30ho0ukjx3.jpg?1467860494' style='position:absolute; top:-50px; right:-200px; height:105%;' />
+
+<img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:100%;' />
+
+### Gunner
+You are not only a renowned gunsmith, but is also an excellent marksman. Gunners are often
+called gunslingers or musketeers, and are usually employed in battlefields.
+
+#### Quick Reload
+Starting when you choose this archetype at 3rd level, you may use a bonus action to
+reload a firearm instead of an action.
+
+If you perform the Touch-Blast Strike special attack or attack with your firearm as a melee attack,
+you can also reload as part of the action, and you may add your proficiency bonus to attacks with
+firearms without bayonets. If you use a bayonet, you deal 2 extra points of damage with melee
+attacks with them.
+
+#### Special Bullets
+Starting at 6th level, you gain the Suffused Arrows talent (gaining proficiency as
+appropriate), and can create special infused bullets. You also deal 3 extra points of damage with any
+unmodified bullets.
+
+#### Practiced Precision
+Starting at 10th level, you do not take disadvantage to your ranged attack roll
+while being within 5 feet of a hostile creature, even if you don‘t attack them in melee first.
+
+You also gain the Sharpshooter feat for free. If you already had it, you gain the Archery fighting
+style (applicable to firearms only).
+
+#### Firearm Improvement
+Starting at 14th level, firearms you create always benefit from one free
+modification (equivalent to 1 EP point), chosen from any modification that applies to firearms.
+Also, whenever you apply an add-on to your firearms and suffer a malfunction, you can choose to
+let only the add-on suffer the condition.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3017a6b5-a699-4488-bc4c-9ae9ab936545/d89bnyc-7bba0d6f-3de9-4155-81d9-879b80277db4.jpg/v1/fill/w_1153,h_693,q_70,strp/markus_erdt___annoy_o_bot_by_vaejoun_d89bnyc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY5IiwicGF0aCI6IlwvZlwvMzAxN2E2YjUtYTY5OS00NDg4LWJjNGMtOWFlOWFiOTM2NTQ1XC9kODlibnljLTdiYmEwZDZmLTNkZTktNDE1NS04MWQ5LTg3OWI4MDI3N2RiNC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.QjHPiZ2myizs-kAG1AEr6uQv0JRszTpaJ8wnC0OD5Hk' style='position:absolute; top:0px; right:0px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:200px; right:0px; width:890px;' />
+
+<div style="margin-top:500px;"></div>
+
+### Gadgeteer
+You appreciate the versatility gadgets provide, or prefer to craft and control constructs such as
+mechs and vehicles of all types. Gadgeteers are often the drivers of their own devices, such as the
+engines of goblin balloons, dwarf steam tanks, or gnomish submarines and gyrocopters.
+
+#### Quick Cooldown
+Starting when you choose this archetype at 3rd level, your gadgets and
+constructs always benefit from the Quick Use and Quick Startup modifications, respectively. This
+has no cost.
+
+#### Extensive Designing
+Starting at 6th level, whenever you apply the Quick Use modification to your
+devices (as described under Quick Cooldown above), you reduce it by a further step.
+* Gadgets that replicate spell levels above 3rd level have their cooldown reduced to 1 minute
+instead of 1 hour.
+* Gadgets that replicate spell levels above 6th level have their cooldown reduced to 1 hour
+instead of 8 hours.
+___
+You may also add your proficiency bonus to attack rolls with your constructs.
+
+#### Solid Engineering
+Starting at 10th level, your devices do not lose charges when they are damaged,
+and all your devices (except bombs and firearms) consume half the normal fuel (this may stack with
+the Efficient Fuel modification).
+
+Also, you memorize the formula for phlogiston, gaining proficiency in Alchemist‘s Supplies if you
+don‘t already have it.
+
+\columnbreak
+
+<div style="margin-top:500px;"></div>
+
+#### Protective Shell
+Starting at 14th level, all your constructs always benefit from the Coated Interior
+and Efficient Fuel modifications (for a total fuel reduction of 1/8 the normal cost for constructs).
+
+You may also double the Construct‘s Challenge Rating to its maximum hit points.
+
+Also, whenever you activate a gadget that requires a harness or concentration, you gain temporary
+hit points equal to 1d10 + your Tinker level, which remain until the gadget stops operating. This
+does not stack with the benefit of the Coated Interior modification.
+
+\pagebreakNum
+
