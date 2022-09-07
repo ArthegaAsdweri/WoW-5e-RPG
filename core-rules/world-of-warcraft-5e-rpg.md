@@ -292,6 +292,7 @@ Damage types are detailed under Chapter 9.
   - #### [<span>Rogue</span>                                          <span>105</span>](#rogue)
   - #### [<span>Shaman</span>                                         <span>112</span>](#shaman)
   - #### [<span>Tinker</span>                                         <span>122</span>](#tinker)
+  - #### [<span>Warlock</span>                                        <span>130</span>](#warlock)
 
 </div>
 
@@ -7616,3 +7617,518 @@ does not stack with the benefit of the Coated Interior modification.
 
 \pagebreakNum
 
+<a id="warlock"></a>
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31a92255-861d-40f4-ad78-a2efd309b0d2/daf35cg-00f30093-89fb-4212-b2df-39a2d37ccd7a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMxYTkyMjU1LTg2MWQtNDBmNC1hZDc4LWEyZWZkMzA5YjBkMlwvZGFmMzVjZy0wMGYzMDA5My04OWZiLTQyMTItYjJkZi0zOWEyZDM3Y2NkN2EuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.xziBFyoc46qK8zeEW5CalLmaEr15t3Pt1KC5jm3_lwY' style='position:absolute; top:0px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+## Warlock (WRK)
+*Her hand waving playfully around the mana wyrm, a
+blood elf soothes the critter. In an instant, the wyrm‘s
+calm nature turns to anguish, as the elf‘s eyes turn
+green and the beast‘s essence is drawn towards her.
+Nothing is left but a glowing orb of raw mana
+between the elf‘s fingers.*
+<br><br>
+*The earth beneath the orc‘s feet decaying, the grass
+dying. An infernal nears the orc, waiting patiently for
+his master‘s command. Impatiently, the infernal
+screeches, causing even the orc to wince with fear, as
+the demon‘s master grins from the shadows beyond.*
+<br><br>
+*Murlocs advance upon the forsaken limping through the swamp. Without breaking his stride, he
+waves his hand behind him, engulfing the murlocs in flame. He marches on, scourging whoever
+stands in his way.*
+<br><br>
+Warlocks are magical practitioners that seek to understand darker, fel-based magics, including
+destructive spells. While many warlocks willingly follow the Burning Legion, there are those who
+work against it, using their magic to fight against evil. Warlocks have proven themselves to be
+powerful allies - as well as powerful foes.
+
+In the face of demonic power, most heroes see death. Warlocks see only opportunity. Dominance is
+their aim, and they have found a path to it in the dark arts. These voracious spellcasters summon
+demonic minions to fight beside them. Warlocks can ignite distant enemies in searing flame, send
+them fleeing in terror and pain, or afflict them with corrupting diseases and curses that steal the
+victim‘s vitality.
+
+### Forbidden Mysteries
+Born of trafficking with fel magic, warlocks are absolutely corrupt and unimaginably powerful.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+Their chaos magics have burnt out whole worlds and annihilated countless species over the eons.
+
+The Eredar lord Kil'jaeden taught the orcs the secrets of warlock magics, but the orcs could never
+master the powers of entropy and destruction as well the wicked Eredar. Under Archimonde's
+command, the warlocks serve as the Legion's tacticians and strategists.
+
+Warlocks peer into the Void without hesitation, leveraging the chaos they glimpse within to
+devastating ends in battle—their greatest abilities are fueled by the souls they‘ve harvested from their
+victims. They exploit powerful Shadow magic to manipulate and degrade the minds and bodies of
+their enemies. They employ Fire magic, dropping hellish rain from the sky, to immolate the
+opposition. They summon and command otherwise indomitable demons from the Twisting Nether
+to do their bidding, or even to be sacrificed as the Warlock sees fit, protecting the dark caster from
+harm.
+
+These practitioners of the profane are feared across Azeroth, and many who have felt their wrath
+now prefer to fight alongside a warlock than against one. Warlocks are common in both the
+Alliance and Horde, though in most cases they serve the Burning Legion while disguising their true
+loyalties.
+
+### Conjuring and Binding
+Warlocks are the most volatile and insatiable of spellcasters. Though they often pledge themselves
+to the service of noble causes and are not innately evil, their desire to understand darker magics
+and exercise unwavering command over demonic forces breeds mistrust among even their closest
+allies.
+
+These dark casters burn and destroy weakened foes with a combination of crippling illnesses and
+dark magic. While their demon pets protect and enhance them, warlocks strike at their enemies
+from a distance. As physically weak
+
+\pagebreakNum
+
+spellcasters bereft of heavy armor, cunning warlocks allow their
+minions to take the brunt of enemy attacks in order to save their own skin.
+
+### Creating a Warlock
+Warlocks are arcane spellcasters who study dark arts and magics associated with demons and the
+Burning Legion. Due to this, they gain a very deeply tainted reputation due to their tendencies to
+traffic and deal with demons. Hiding in cellars and secret covens, warlocks are known for making
+secret pacts for permanent demonic companions that grow steadily in power so long as the warlock
+does.
+
+Warlocks are common in both the Alliance and Horde, though in most cases they serve the
+Burning Legion while disguising their true loyalties.
+
+When creating your warlock character, think about what led you to take up the powers of evil. Did
+you decide to beat the forces of evil at their own game? Were you seduced by dark forces? Do you
+view the fel as truly evil?
+
+However you chose to follow the path of power, think about what implications it has on your
+character, and how they are perceived by greater society. Most warlocks are shunned, and live as
+pariahs—you could be a highly charismatic character, hiding your true talent for the dark arts,
+however, or might be justifying it to your followers and loved ones as fighting fire with fire.
+
+#### Quick Build
+You can make a warlock quickly by following these suggestions. First, Charisma should be your
+highest ability score, followed by Stamina. Second, choose the charlatan background. Second,
+choose the charlatan background. Third, choose the light, fire bolt, and chill touch cantrips, along
+with the following 1st-level spells for your grimoire: burning hands, charm (fiends), chaos bolt, conjure
+(fiends), immolate, and sleep.
+
+### Class Features
+As a warlock, you gain the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d6 per warlock level
+- **Hit Points at 1st Level:** 6 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Stamina modifier per warlock level after 1st.
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** None
+
+___
+- **Saving Throws:** Charisma, Spirit
+- **Skills:** Choose two from Arcana, Deception, Insight, Intimidation, Persuasion, and Religion
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a light crossbow and 20 bolts or *(b)* any simple weapon
+- *(a)* a component pouch or *(b)* an arcane focus
+- *(a)* a dungeoneer‘s pack or *(b)* an explorer‘s pack
+- Demonic grimoire (spellbook)
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/035/468/383/large/shabnam-nekounazar-warlock-8.jpg?1615043664' style='position:absolute; top:0px; right:-200px; width:150%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:350px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Features | Caster Level (Spell Level) |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Eredun, Demonic Studies, Demonic Invocation, Spellcasting | 1 (1st)
+| 2nd | +2 | Soul Shards | 2 (1st)
+| 3rd | +2 | Warlock Focus | 3 (2nd)
+| 4th | +2 | Ability Score Improvement | 4 (2nd)
+| 5th | +3 | - | 5 (3rd)
+| 6th | +3 | Demonic Study Feature | 6 (3rd)
+| 7th | +3 | - | 7 (4th)
+| 8th | +3 | Ability Score Improvement | 8 (4th)
+| 9th | +4 | - | 9 (5th)
+| 10th | +4 | Fiendish Barter | 10 (5th)
+| 11th | +4 | - | 11 (6th)
+| 12th | +4 | Ability Score Improvement | 12 (6th)
+| 13th | +5 | - | 13 (7th)
+| 14th | +5 | Demonic Study Feature | 14 (7th)
+| 15th | +5 | - | 15 (8th)
+| 16th | +5 | Ability Score Improvement | 16 (8th)
+| 17th | +6 | - | 17 (9th)
+| 18th | +6 | Demonic Study Feature | 18 (9th)
+| 19th | +6 | Ability Score Improvement | 19 (9th)
+| 20th | +6 | Soul Vault | 20 (9th)
+
+</div>
+
+\pagebreakNum
+
+#### Eredun
+You know Eredun, the language of fiends and the Burning Legion. You can speak the language,
+and do not suffer any penalty from its curse. If you can speak Eredun, you can communicate with
+all other warlocks and fiends, even if you don‘t otherwise share a language.
+
+However, you are (due to demonic promises) often more likely than others to seek out pacts
+willingly.
+
+#### Demonic Studies
+Starting at 1st level, the warlock is also initiated into a warlock circle. You may choose a demonic
+study, which describes the way you take to power. You can choose Affliction, the path of the
+withering magical casters, Demonology, who focus on their demonic allies and improving them, or
+Destruction, who summons Hellfire upon their foes. Your choice grants you features when you
+choose it at 1st level and again at 6th, 14th, and 18th level.
+
+#### Demonic Invocation
+Starting at 1st level, you may rapidly recover your mana by invoking demonic energies. You can use your action and bonus action on your turn to regain up to 20 mana points. 
+
+You replenish your reserve of demonic power when you finish a long rest. While using this feature, fel energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
+
+#### Spellcasting
+Also starting at 1st level, you gain the ability to cast spells, trafficking in demonic forces most have
+no hope of understanding or controlling. You have a grimoire containing spells that show the first
+glimmerings of your true power.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus.
+
+##### Conjuring and Binding
+A warlock can conjure and bind aberrations, elementals, fiends, oozes, and undead.
+
+##### Grimoire
+At 1st level, you have a grimoire (treat as a spellbook) containing six 1st-level warlock spells of your
+choice.
+
+##### Preparing and Casting Spells
+Each warlock level provides you with 1 caster level in the warlock class. You follow the normal
+progression to unlock spell levels (see the table under the Mana section). You prepare the list of
+warlock spells that are available for you to cast, choosing from the warlock spell list.
+
+Preparing a new list of warlock spells requires time spent in study: at least 1 minute per spell level
+for each spell on your list.
+
+##### Spellcasting Ability
+Charisma is your spellcasting ability for your warlock spells, since you strengthen your magic by
+summoning and tapping into extraplanar beings.
+
+You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your
+Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making
+an attack roll with one.
+
+\columnbreak
+
+**Spell save DC** = 8 + your proficiency bonus +
+
+your Charisma modifier
+<br>
+**Spell attack modifier** = your proficiency bonus +
+
+your Charisma modifier
+
+##### Spellbook – Grimoire
+At 1st level, your grimoire contains six 1st-level warlock spells of your choice. When you level up,
+you gain 2 additional warlock spells of your choice. You may also acquire new spells by research,
+tutelage, or from the spellbooks and scrolls of spellcasters who have spells you can cast.
+
+Your grimoire is effectively your spellbook, and you may add spells by scribing in new spells or your
+insights regarding the planes and the powers you serve.
+
+##### Spellcasting Focus
+You can use an arcane focus as a spellcasting focus for your warlock spells.
+
+#### Soul Shards
+At 2nd level, you tap into a deep and mysterious magic of souls. This wellspring is represented by
+soul shards, which allow you to weaken your enemies or strengthen your own spells, by siphoning
+off a part of the opponent‘s lifeforce.
+
+#### Soul Shards
+Your magic can bind your opponent‘s lifeforce to your own. Whenever you deal damage by a spell,
+melee or ranged weapon or spell attack, or whenever a creature you summoned or bound deals
+damage to a creature that is not a construct, they are marked by your warlock magic until the
+beginning of your turn in the next round.
+
+If the creature dies or is reduced to 0 hit points while marked this way, you gain a soul shard. A
+creature cannot be marked by more than one warlock at a given time. Any new mark replaces the
+one before it, unless the previous mark was placed by a warlock of higher level.
+
+You can have a maximum number of soul shards equal to your Warlock level. Soul shards fade at a
+rate of 1 shard per hour (or 1 shard per short rest) if not used. The creature must be a qualifying
+threat to you (such as by having a Challenge comparable with your level, or if it is able to reliably or
+consistently harm you).
+
+You may use soul shards for any of the following:
+* *Enhanced Conjuring:* You may spend one soul shard per spell level, and quicken any conjure
+spell of a casting time of 1 minute to cost only a 1 action. For until the beginning of your
+turn in the next round, your speed is 0.
+
+* *Enhanced Concentration:* When you cast a conjuration warlock spell that requires
+concentration, you may spend one soul shard to concentrate on the spell, instead of having
+to concentrate on it yourself. You cannot concentrate on more than two conjured creatures
+using this ability. When your concentration is threatened, you must roll to maintain both
+spells, however. This costs one soul shard per spell level.
+
+* *Soul Magic:* With a bonus action, you can force a living creature or an undead to take -4 to
+its saving throw of one of your warlock spells, or you can gain a +4 bonus to your own spell
+and attack rolls to such targets (including sigil rolls). This functions up to 5th level spells,
+and costs one soul shard per spell level. This bonus can be applied after knowing the result
+of the roll (whether failure or success).
+
+\pagebreakNum
+
+#### Warlock Focus
+At 3rd level, you may choose to focus on one of two warlock focuses.
+* *Fiendish Alliance:* The warlock gains a permanent bound companion that accompanies you
+on your adventures, advises you in the ways of demonology, and teaches you magical spells
+upon the completion of tasks (determined by the DM). You can also have the conjure fiend
+spell memorized. See Bound Companion for details.
+* *Shadow Harvest:* You gain the ability to reap soul shards out of your victims. As a bonus
+action you can target one hostile creature within 60 feet of you, and shearing its soul. This
+deals 1d4 points of shadow damage for each spell level you access and grants you a number
+of soul shards equal your proficiency bonus. Once you use this power, you cannot use it
+again until you complete a short or long rest. If the target dies from using this power, roll a
+d6. On a result of 5-6, you do not expend this power.
+___
+The companion you gain by the Fiendish Alliance focus must be a demon you can summon and
+bind to your service (see the bind spell) that is no larger than Medium and that has a challenge
+rating equal to the highest-level demon you can bind spell. See Bound Companion and the bind
+spell for more details.
+
+##### Bond
+When a fiend you are bound to is reduced to 0 hit points, you may transfer to them your own hit
+points as a reaction, so long as you are within 10 feet of them. You may only transfer enough hit
+points to leave them at 1 hit point.
+
+If the bound fiend is killed, you must succeed against a DC 20 Stamina saving throw or suffer 1d10
+arcane damage per Challenge of the demon, as its life-force is torn from yours. As the fiend is dead,
+you must bond with another.
+
+##### Leveling up
+The level of the fiend is equal to the highest-level demon you can bind with the warlock‘s Bind
+Fiend spell.
+
+##### Special
+Bonding with a fiend requires spending one hour communicating with the creature, and spending
+the next seven hours in activities the fiend considers to be ‗bonding‘, such as arson for imps,
+bloodshed for felguards, as the DM decides.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
+score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you
+can‘t increase an ability score above 20 using this feature.
+
+#### Fiendish Barter
+Starting on 10th level, you can generate soul shards momentarily at the expense of future access to
+them. You may use your Action and gain a number of soul shards equal to half your Warlock level
+(up to your normal maximum).
+
+Until you complete a short rest, any soul shards you gain after using this ability are deduced from
+the number of soul shards you gained by Fiendish Barter, plus another 2 Soul Shards. Once used,
+you cannot use this ability again until you complete a short rest.
+
+#### Soul Vault
+When you reach 20th level, you may gain two soul shards instead of one per every enemy reduced
+to 0 hit points as a result of your warlock spells.
+
+Also, you may stow your grimoire into the pocket realm (known as the soul vault) of your choosing
+by using 3 soul shards, and can draw it out using 1 soul shard. You do not need to physically
+possess the grimoire at that time, but must be within 100 feet of it, and spend 1 action to banish it
+into the realm or draw it back again.
+
+Only you can access the pocket realm, unless you choose a realm that multiple creatures can enter
+(in which case, you can designate the grimoire to appear at any point you previously conducted a 1-
+hour ritual to attune the book to the place).
+
+#### Demonic Studies
+An Azerothian warlock may choose one of the three below archetypes.
+
+\pagebreakNum
+
+<img src='https://cdnb.artstation.com/p/assets/images/images/030/072/287/large/jordan-kerbow-gnomie-07-1.jpg?1599519177' style='position:absolute; top:-300px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Affliction
+Your mastery over sigil spells corrupts and destroys your enemies. Affliction warlocks are feared
+exemplars of the art.
+
+#### Haunt
+Starting at 1st level, you gain the Mystic Blast feat, but must choose to deal fel damage.
+
+When casting a damaging sigil spell, you may use a single soul shard to also use your make a Mystic
+Blast attack against the same target as a bonus action. This still requires a ranged spell attack, but
+the range of the mystic blast becomes equal to the range of the sigil spell.
+
+Furthermore, whenever a creature dies while under the effect of a warlock sigil you cast, you gain a
+soul shard. This can stack with the soul shard you gain from landing a killing blow.
+
+#### Infestation
+Also starting at 1st level, you may use a soul shard to refresh the duration of a current
+sigil effect, or to automatically succeed on maintaining a sigil effect.
+
+A single creature cannot be affected by this more than once in the same 24 hours period.
+
+#### Soul Swap
+Starting at 6th level, you may alter the target of a sigil spell effect as a bonus action,
+targeting any eligible target within a range equal to the spell‘s original range. The spell‘s effects take
+place at the new target‘s turn as usual.
+
+If you are under the effects of the avatar form warlock spell and you choose to alter the target of the
+sigil spell with this ability, you may attempt a sigil roll on your original target before shifting the
+spell (possibly affecting two targets in the same turn).
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+#### Seed of Corruption
+Starting at 14th level, if you reduce a creature to 0 hit points with a damaging
+sigil or single-target channel spell effect, you may produce one of the following effects:
+* *Exploding Seed.* You may deal the sigil (or channel) damage again in a 30-foot burst. This
+does not count as an additional hit against the original target.
+* *Store Seed.* You may recapture the spell‘s effects, regaining the spell. If you choose to do so,
+you can cast the spell again for no cost against another target within 1 minute. This acts as
+if you cast the spell again, for the purposes of actions required (but not for resources spent
+like mana or components), and for the purposes of talents that trigger off spell use (such as
+your Haunt talent). You can store one seed this way.
+
+#### Corruptive Influence
+Starting at 18th level, whenever you would fail to maintain a sigil effect, you
+can either store the spell (as described in Seed of Corruption) or use your Soul Swap ability. You
+can also store up to three spells using your Seed of Corruption ability, and you can store them for
+up to 4 hours.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9859c01f-857d-4bfc-9466-ea8b290ffa4d/dc6cxn8-2ed8a8a1-7451-4aa9-8f03-91ac9690a63f.png/v1/fill/w_1280,h_795,q_80,strp/world_of_warcraft__orc_warlock_by_ludvikskp_dc6cxn8-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk1IiwicGF0aCI6IlwvZlwvOTg1OWMwMWYtODU3ZC00YmZjLTk0NjYtZWE4YjI5MGZmYTRkXC9kYzZjeG44LTJlZDhhOGExLTc0NTEtNGFhOS04ZjAzLTkxYWM5NjkwYTYzZi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.v4fGFDcmuFmdtpFBGBRfstNev403qgxv5L0ZpgxxqZ8' style='position:absolute; top:-50px; left:-50px; width:110%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Demonology
+Your consorting with demons has been noticed and appreciated by the forces in the Twisting
+Nether. A demonologist often adventures alone, relying on nobody other than himself and his
+enslaved demons.
+
+#### Blood Pact
+Starting at 1st level, all demons summoned or bonded to you gain a bonus to their
+maximum hit points as if you knew and used their true name (this may stack with actually knowing
+their true names, see Chapter 10). You may also add your proficiency bonus to all your fiendish
+allies‘ attack rolls and saving throws. This does not stack with their own proficiency bonuses.
+
+#### Demonic Echoes
+Also starting at 1st level, you may count demons as eligible targets for all
+creature-specific spells by using a soul shard (such as charm person or hold elemental). You may at any
+time grant your hit points to them as a reaction on their round, or a bonus action on your round.
+
+You may also drain their hit points with the same action (at a 2:1 ratio), though you can only
+benefit from drained hit points once every long rest.
+
+Furthermore, you gain two soul shards instead of one if a demon under your control kills a
+creature.
+
+#### Fel Mind
+Starting at 6th level, you can use the Enhanced Concentration ability without spending
+Soul Shards.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+#### Dark Secrets
+Starting at 14th level, you gain advantage to all saves versus spells, except those who
+deal holy damage, and gain immunity to one elemental damage type. You may also use a soul shard
+and a reaction to grant one demonic ally advantage to its first attack during a round, or impose
+disadvantage to the attacker targeting it.
+
+Furthermore, when you are under the effects of the avatar form warlock spell, you also gain
+resistance to all damage taken by fiends and weapons (magical or otherwise) wielded by creatures of
+evil alignment.
+
+#### Demon-Soul
+Starting at 18th level, whenever you summon a demonic creature by a spell or use
+your fiendish alliance ability to bind a fiend (as per the Conjure or Bind Fiend spell), you may
+summon or bind another fiend of the same or lower level (these are counted as if concentrating on
+the same spell). Thus, you may summon a succubus and a felguard, or an imp and a felhound, or
+two succubi or felguards and have them bound at the same time. Commanding both bound
+creatures is the same concentration action.
+
+When you are killed, your spirit is taken to an demiplane (see the spell) that is owned by you, where
+you return to life in the matter of 1d10 days, nurtured by any demonic allies you have employed,
+enslaved, or allied with.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/574e4b41-256b-42df-a196-ed2513bc8dea/de1wsny-2a2e2b10-f7c8-4383-a4f8-275fc07bcef6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU3NGU0YjQxLTI1NmItNDJkZi1hMTk2LWVkMjUxM2JjOGRlYVwvZGUxd3NueS0yYTJlMmIxMC1mN2M4LTQzODMtYTRmOC0yNzVmYzA3YmNlZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GDUe_l0lURpPkzX_PAIOt9VkuHx6PvUICr5_f8DDOoE' style='position:absolute; top:0px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Destruction
+You are a master of chaotic fel-fire, calling down the green flame to burn and demolish your foes.
+Destruction warlocks usually take the Fiendish Power focus, eschewing an actual alliance with
+demons over the awesome destructive power of fel magic.
+
+#### Chaos Magic
+Starting at 1st level, any fire or fel spell you use that deals damage also deals an
+additional 1d6 points of the other type (fire deals extra 1d6 fel, or vice versa). Spells that deal both
+fire and fel damage gain an additional 1d10 damage from either types (your choice). This triggers
+once per spell.
+
+#### Havoc
+Also at 1st level, you gain the Havoc ability, and can spend a soul shard to activate it.
+* *Havoc:* You may spend one soul shard to affect two creatures within 30 feet of one another
+with a single-target damaging or channeling (such inferno blast or drain mana), so long as the
+spell is from the warlock spell list. The spell cannot have a range of touch or self.
+___
+Maintaining the spell on one target maintains it on the other so long as the spell‘s duration
+is active.
+
+Furthermore, you also gain two soul shards instead of one if you reduce a creature to 0 hit points
+with a channeled warlock spell.
+
+#### Searing Magics
+Starting at 6th level, you may also target a creature with an action to make it more susceptible to your fire and fel spells. If the target is immune to fire or fel, it becomes resistant to the damage. If it is resistant, it loses the resistance. If it has no resistance, it becomes vulnerable. 
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+If it was previously vulnerable, it takes triple damage. Once used, this ability cannot be used again until after a short rest (unless you used this ability while under the effects of the avatar form warlock spell, in which case you can use the ability twice).
+
+#### Incinerate
+Starting at 14th level, whenever you deal fire damage to an enemy with a spell (through
+the spell or through your chaos magic ability), you may use a soul shard to manifest one of the
+following effects. This triggers once per round.
+* *Burning Blast.* If the target is reduced to 0 hit points, you can deal 6d6 damage (or the
+damage they took, whichever is lower) in a 30-foot burst centered on the target.
+* *Lingering Brimfire.* The target suffers the burning condition for until the end of their turn in
+the next round. While suffering this condition and taking at least 1 point of damage in the
+same round, the target has disadvantage to attack rolls and ability checks.
+* *Quickened Infestations.* Cast any sigil spell you have prepared without spending the normal
+casting time.
+
+#### Soul Burner
+Starting at 18th level, you double the range of your fire and fel spells. If the spell has
+an area of effect, you may double the area of effect instead. Your Incinerate ability also does not
+cost a soul shard.
