@@ -294,6 +294,8 @@ Damage types are detailed under Chapter 9.
   - #### [<span>Tinker</span>                                         <span>122</span>](#tinker)
   - #### [<span>Warlock</span>                                        <span>130</span>](#warlock)
   - #### [<span>Warrior</span>                                        <span>138</span>](#warrior)
+  - #### [<span>Special and Racial Specializiations</span>            <span>145</span>](#specials)
+    - ##### [<span>Demon Hunter</span>                                <span>146</span>](#demonhunter)
 
 </div>
 
@@ -8514,5 +8516,161 @@ you take for one round after use, and advantage against any saving throw made ag
 spell that affects you in the next minute.
 
 If you don‘t already have the Second Wind talent, you gain it as a talent instead of improving it.
+
+\pagebreakNum
+
+<a id="specials"></a>
+
+## Special and Racial Specializations
+These are archetypes, domains, and specializations that have a special or racial restriction. These are
+rare, but often are quite powerful.
+
+\pagebreakNum
+
+<a id="demonhunter"></a>
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/52ddfd8b-f2c4-415f-a54c-b68d66831801/ddsotnw-53607699-67fc-44bc-9168-534b29bbfce5.jpg/v1/fill/w_992,h_805,q_70,strp/hearthstone___feast_of_souls_by_funzee_ddsotnw-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTIwMCIsInBhdGgiOiJcL2ZcLzUyZGRmZDhiLWYyYzQtNDE1Zi1hNTRjLWI2OGQ2NjgzMTgwMVwvZGRzb3Rudy01MzYwNzY5OS02N2ZjLTQ0YmMtOTE2OC01MzRiMjliYmZjZTUuanBnIiwid2lkdGgiOiI8PTE0NzgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cbCwBREx-HyYfDh1Ml7m9bnlBTcJcbdxASujJoijGoo' style='position:absolute; top:-20px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:440px;"></div>
+
+### Demon Hunter (Rogue)
+Demon hunters are specialists in fighting demonic outsiders, and sacrifice both body and mind to
+gain alien and terrifying powers. Although most commonly found amongst the Night Elves (with
+the Night Elf Illidan Stormrage being the first known Demon Hunter) and the Illidari, the abilities
+can be learned by many who fight demons, such as secretive high elven organizations, human
+wizarding societies, or even draenei or orcish inquisitorial orders. Demon hunters typically utilize
+warglaives for combat (see equipment).
+
+Warlocks who turn against the Burning Legion may exchange their class to demon hunter on a 1:1
+ratio, such as death knights or warlocks do with their previous classes of paladin or mage and
+shaman (respectively). This still requires being blinded.
+
+Rogues wishing to become demon hunters usually take the leap, favored enemy (fiends), and dread
+ambusher talents.
+
+#### Prerequisites
+The demon hunter aspirant must be permanently blinded either by a spell, by a
+demon, or via use of a Mana Blade (see Equipment). The demon hunter must also have performed
+mana siphon against a demon.
+
+#### Corruption
+You may pledge your soul as well, turning yourself into a demonic creature (permanently gaining
+the below Demonic Nature ability, and counting as the demonic creature type).
+
+##### Demonic Nature
+You don‘t require air, food, drink, or sleep. You are also immune to mundane
+and nonmagical poisons and diseases, and have advantage to effects that cause the exhausted and
+poisoned conditions.
+
+You can also speak Eredun and cannot be corrupted by it, as if the warlock feature of the same
+name.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+Also, a draenei who takes on the mantle of demon hunter may alter their Gift of the Naaru ability,
+casting the mind blast spell instead, as the draenei takes on the psychic powers of the Eredar in
+exchange of the holy powers of the Naaru. This extremely uncommon sacrifice also takes its toll on
+the draenei‘s body, slowly morphing their appearance through extended exposure to fel magic to be
+more like the Eredar or a Broken Draenei.
+
+#### Demon Spellcasting
+Drawing on fel magics not unlike those practiced by warlocks, you can cast
+spells that are normally cast by warlocks. You cast all spells drawn from the warlock spell list.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus.
+
+##### Preparing and Casting Spells
+Each demon hunter level provides you with 0.5 a caster level in the Warlock class (1 at 3rd level).
+
+You follow the normal progression to unlock spell levels (see the table under the Mana section).
+
+You prepare the list of Warlock spells that are available for you to cast, choosing from the Warlock
+spell list.
+
+You can also change your list of prepared spells when you finish a long rest by consulting your
+spellbook. You otherwise follow the warlock‘s rules for spellbooks, conjuring, and binding,
+however, most demon hunters inscribe their spells to their skin as tattoos rather than in grimoires,
+using expensive inks and difficult techniques. Your spellcasting ability is Charisma.
+
+\pagebreakNum
+
+Also, after mana siphoning a fiend, your weapons are treated as magical for 8 hours, as the residual
+fel energies are being used by you against the demons' defenses. If you ever kill a demon of CR 10
+or above, any weapon you used for the deed can be treated as magical after 1 minute of focusing
+your power on it. This effect is permanent, but only manifests when the weapon is used by you.
+
+#### Suffused Sight
+Also starting at 3rd level, you may choose to either gain Darkvision 60 feet (or
+increase the range of existing darkvision by 60 feet), or gain the spectral sight ability. 
+
+#### Spectral Sight
+Your sight is both enhanced and hindered. Within 100 feet, you have blindsight.
+
+Beyond this range, your sight is hazy, colorless, and unclear, imposing disadvantage on Spirit
+(Perception) checks. You can perceive certain things clearly (as if normal sight) regardless of
+distance, such as the following: celestials, fiends, undead, and any creature with an active mana
+pool. If a creature is disguised, you may roll a Spirit (Perception) check upon sight, and a successful
+check yields to you that you sense strange powers nearby (though it does not readily point out who
+without another ability check).
+
+At will, you may concentrate your sight as an action, and cast the detect magic spell. The range of the
+spell increases up to your blindsight range.
+
+#### Dark Metamorphosis
+Starting at 9th level, your suffusion with demonic power almost overwhelms
+your original potential. You can attack twice, instead of once, whenever you take the Attack action
+on your turn. Whenever you use a Bonus Action to attack with your offhand, you can make two
+attacks as well instead of only one.
+
+Furthermore, you gain the avatar form warlock spell for no cost if you didn‘t already have it, and
+always have it prepared for no cost. Furthermore, you augment the spell in the following ways:
+* You gain the benefits of the demon skin spell (spell level equal to the highest-level spell you
+can cast) for no cost.
+* Your Strength and Charisma scores increases by 2 points (up to a maximum of 18 each).
+* You gain wings, horns, and claws.
+  * *Wings.* You can glide, and your jump distance is tripled (this can stack with the
+jump spell). For every 10 feet of distance you fall, you can glide 30 feet in any direction. You
+can also instead take no fall damage so long as you can exercise your wings.
+If you
+are restrained or otherwise encumbered, you cannot make use of your wings.
+  * *Horns and Claws.* You gain a horn and claw attack as an unarmed strike. These are
+light melee weapon attacks that deal 1d6 piercing and 1d4 slashing damage
+(respectively, plus your Strength or Agility as normal). These weapons are also
+magical (with +1 to attack and damage rolls).
+___
+While your avatar form shape, you are treated as a fiend for all spell purposes (such as charm and
+dominate spells). This is considered a shapeshifting effect. 
+
+You may choose one of the following features to remain in your normal form: wings, claws, or
+horns.
+
+The chosen feature remains indefinitely. You can retract claws (if you choose to keep them
+indefinitely), but you cannot hide your wings (besides wrapping them around you as a cloak) or
+horns. Upon 13th and 17th level, you can choose another feature to make permanent (in the end,
+having wings, claws, and horns).
+
+#### Sorcerous Thirst
+Starting at 13th level, whenever you perform mana siphon versus demons to
+drain their mana, you gain double the normal mana, and they suffer disadvantage to saving throws
+against the effect.
+
+You also gain the Essence Touch talent, but can only affect demons with it. For instance, if you
+siphon a Felhound‘s mana, you can utilize their mana burn innate ability, or a succubus‘s sleep or
+modify memory spell if you siphon it instead.
+
+If you kill a target or reduce it to 0 hit points while it is affected by a warlock‘s mark ability (see
+Soul Shards under the Warlock class), you also regain 1d6 hit points. You cannot gain this more
+than 1/round. The warlock does not gain the soul shard in this case.
+
+#### Dark Mastery
+Starting at 17th level, you can access the demonic doom, gate, and foresight warlock
+spells as if 6th level spells, and can cast them normally. If you can access higher-level spells, you can
+cast one of the aforementioned spells once every long rest for no cost instead.
+Also, you gain another Mystic Blast enhancement when in your avatar form. 
 
 \pagebreakNum
