@@ -293,6 +293,7 @@ Damage types are detailed under Chapter 9.
   - #### [<span>Shaman</span>                                         <span>112</span>](#shaman)
   - #### [<span>Tinker</span>                                         <span>122</span>](#tinker)
   - #### [<span>Warlock</span>                                        <span>130</span>](#warlock)
+  - #### [<span>Warrior</span>                                        <span>138</span>](#warrior)
 
 </div>
 
@@ -8132,3 +8133,386 @@ casting time.
 Starting at 18th level, you double the range of your fire and fel spells. If the spell has
 an area of effect, you may double the area of effect instead. Your Incinerate ability also does not
 cost a soul shard.
+
+\pagebreakNum
+
+<a id="warrior"></a>
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4fc69e66-426b-44b3-b137-4c1b5682ffc0/d9esxhf-9863031f-8199-4077-b1c5-07d4e186b0c6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRmYzY5ZTY2LTQyNmItNDRiMy1iMTM3LTRjMWI1NjgyZmZjMFwvZDllc3hoZi05ODYzMDMxZi04MTk5LTQwNzctYjFjNS0wN2Q0ZTE4NmIwYzYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MnSRYXYtGXpiHEnVcSodiV0dYej7l-Ya22_FMxtNZi0' style='position:absolute; top:-130px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+## Warrior (WAR)
+*The heavily-armored dwarf takes a deep breath, tightening his
+grip on a war-hammer in one hand and a battleaxe in the other,
+facing down the ogre warlord raiding his mountain home. The
+mountain king shouts a battle-cry, suddenly increasing in size to
+equal the ogre, and swings his axe to dig deeply into the ogre‘s
+shoulder, before bringing down the war-hammer, causing a
+bloody shower to erupt onto his face.*
+<br><br>
+*An orc armed with a great two-handed blade leaps towards two
+naga, cleaving through both with a single strike and shaking the
+ground where he fell. Not breaking a sweat, he charges ahead to
+the next foe.*
+<br><br>
+*A tauren calmly strides across the fel-suffused battlefield, seeking a worthy opponent. Eventually, he
+finds his match, a bloodthirsty felguard. Treading carefully, he parries every blow with his giant
+battle-totem. Noticing an opportunity, the tauren warrior slams his hooves into the ground,
+knocking the felguard down, and then bringing down his mighty totem down, caving the fiend‘s
+torso inward with a furious war-cry.*
+<br><br>
+Warriors are fighters highly trained in the art of weaponry. Combat is the warrior's strongest skill.
+They are strong and quick on the battlefield. Depending on their specialization, a warrior can often
+deal very high damage or be tough to kill.
+
+### Trained for Battle
+As long as war is waged on Azeroth, there will be men and women who fight those wars. Warriors
+are no mere sword-swingers; they are skilled combatants, combining strength of arm, knowledge of
+weaponry, and practiced maneuvers to slice or bludgeon their foes into little red bits. Warriors are
+the most versatile of the combat classes, and they supplement their fighting prowess with the ability
+to rally their allies and spur them to victory. They charge into the
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+heart of the battle and survive the
+most grievous of wounds. Elven and dwarven warriors reach into their blood for innate magic,
+creating spellbreakers and mountain kings, respectively, while tauren and orcs lean naturally
+towards using a single large weapon and the Arms path, creating chieftains and blademasters,
+respectively.
+
+Warriors are common in dwarf, forsaken, human, and orc societies, but many other species also fill
+their ranks with warriors. Masters of swords, spears, and weapons of all kinds, warriors share a
+common way of life on Azeroth. Using their abilities to deal pain and cause bloodshed, warriors are
+deadly adversaries and welcome friends in violent times (which seem to be all the time in recent
+decades). Anyone willing to take up arms to defend their people can be classed as a warrior. A
+knight is the warrior elite among humans.
+
+### Elite Fighters
+Not every member of the city watch, village militia, or the queen‘s army is a warrior. Most of these
+troops are relatively untrained soldiers with only the most basic combat knowledge or drilled for a
+certain function. Veteran soldiers, military officers, trained bodyguards, dedicated knights, and
+similar figures are true warriors—it is all about the spirit, in truth.
+
+Some warriors feel drawn to use their training as adventurers. The dungeon delving, monster
+slaying, and other dangerous work common among adventurers is second nature for a warrior, not
+all that different from the life he or she left behind. Other warriors live a more stable life, serving as
+elite members in an order or military force, answering assignments and missions that involve armed
+pacification of resistance or the escort of vulnerable charges.
+
+\pagebreakNum
+
+### Creating a Warrior
+For as long as war has raged, heroes from every race have aimed to master the art of battle.
+
+Warriors combine strength, leadership, and a vast knowledge of arms and armor to wreak havoc in
+glorious combat. Some protect from the front lines with shields, locking down enemies while allies
+support the warrior from behind with spell and bow. Others forgo the shield and unleash their rage
+at the closest threat with a variety of deadly weapons.
+
+As you build your warrior, think about your character‘s background: Where did you get your
+combat training, and what sets you apart from the mundane soldiers around you? You might have
+enjoyed formal training in a noble‘s army or in a local militia. Perhaps you trained in a war
+academy, learning strategy, tactics, and military history. Or you might be self—taught—unpolished
+but well tested.
+
+Were you particularly ruthless? Did you get extra help from a mentor, or did your spirit shine
+brightly enough to warrant the title due to exceptional dedication? What drove you to this training
+in the first place? Was it a threat to your homeland, a thirst for revenge, or a need to prove yourself?
+Did you take up the sword as a way to escape the limits of life on a farm, or are you following a
+proud family tradition? Where did you acquire your weapons and armor? They might have been
+military issue or family heirlooms, or perhaps you scrimped and saved for years to buy them. Your
+armaments are now among your most important possessions—the only things that stand between
+you and death's embrace.
+
+#### Quick Build
+You can make a warrior quickly by following these suggestions. First, make Strength or Agility your
+highest ability score, depending on whether you want to focus on melee weapons or on archery (or
+finesse weapons). Your next-highest score should be Stamina. Second, choose the soldier
+background.
+
+### Class Features
+As a warrior, you gain the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per warrior level
+- **Hit Points at 1st Level:** 10 + your Stamina modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Stamina modifier per warrior level after 1st
+
+#### Proficiencies
+___
+- **Armor:** All armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+
+___
+- **Saving Throws:** Strength, Stamina
+- **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight,
+Intimidation, Perception, and Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* chain mail or *(b)* leather, longbow, and 20 arrows
+- *(a)* a martial weapon and a shield or *(b)* two martial weapons
+- *(a)* a light crossbow and 20 bolts or *(b)* two handaxes
+- *(a)* a dungeoneer‘s pack or *(b)* an explorer‘s pack
+
+#### Special
+Upon gaining your starting class proficiencies, you may lose proficiency with heavy armor, and instead gain the Unarmored Defense ability. These are not gained as part of multi-classing.
+
+##### Unarmored Defense
+While you are not wearing any armor, your Armor Class equals 10 + your Agility modifier + your
+Stamina modifier. You can use a shield and still gain this benefit.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2cb741b2-bd84-43ce-8008-c5e03407221b/d3g52m7-764b1aff-cbd8-4ea0-959f-0f4328965e6b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzJjYjc0MWIyLWJkODQtNDNjZS04MDA4LWM1ZTAzNDA3MjIxYlwvZDNnNTJtNy03NjRiMWFmZi1jYmQ4LTRlYTAtOTU5Zi0wZjQzMjg5NjVlNmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.w_Wv9rs1KlgUBZ72kYmhp3HLh6QwPD0aQgcUK2szIU8' style='position:absolute; top:0px; right:-50px; width:110%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:350px; right:0px; width:890px;' />
+
+<div class='classTable wide' style="margin-top:500px;">
+
+| Level | Proficiency Bonus | Talents | Features |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | 1 | Fighting Style, Warrior Talent
+| 2nd | +2 | 2 | -
+| 3rd | +2 | 2 | Warrior Archetype
+| 4th | +2 | 2 | Ability Score Improvement
+| 5th | +3 | 3 | Extra Attack
+| 6th | +3 | 3 | Ability Score Improvement
+| 7th | +3 | 3 | Warrior Archetype feature
+| 8th | +3 | 3 | Ability Score Improvement
+| 9th | +4 | 4 | Warrior Talent
+| 10th | +4 | 4 | Warrior Archetype feature
+| 11th | +4 | 4 | Extra Attack (2)
+| 12th | +4 | 4 | Ability Score Improvement
+| 13th | +5 | 5 | -
+| 14th | +5 | 5 | Ability Score Improvement
+| 15th | +5 | 5 | Warrior Archetype feature
+| 16th | +5 | 5 | Ability Score Improvement
+| 17th | +6 | 6 | -
+| 18th | +6 | 6 | Warrior Archetype feature
+| 19th | +6 | 6 | Ability Score Improvement
+| 20th | +6 | 6 | Extra Attack (3)
+
+</div>
+
+\pagebreakNum
+
+#### Fighting Style
+You adopt a particular style of fighting as your specialty. Choose one of the following options. You
+can‘t take a Fighting Style option more than once, even if you later get to choose again.
+* **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
+* **Defense.** While you are wearing armor, you gain a +1 bonus to AC.
+* **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+* **Great Weapon Fighting.** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are
+wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a
+1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+* **Protection.** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use
+your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+* **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the
+second attack.
+
+#### Warrior Talent
+Starting at 1st level, you gain a class talent, representing your preferred tactics and adaptability on
+the field of battle. See Class Talents at the end of the Chapter 3 for options.
+
+Whenever you qualify for another talent (as detailed in the talent column), you can choose another
+talent or gain another use of an existing talent.
+
+#### Warrior Archetype
+At 3rd level, you choose an archetype that you strive to emulate in your combat styles and
+techniques. Choose between the Arms Warrior, a champion in using great-weapons, the Fury
+Warrior, who focuses on bleeding his enemies and debilitating them tactically, or the Protection
+Warrior who focuses on defense while reflecting physical damage. All are detailed at the end of the
+class description. The archetype you choose grants you features at 3rd level and again at 7th, 10th,
+15th, and 18th level.
+
+#### Ability Score Improvement
+When you reach 4th level, and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase
+one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As
+normal, you can‘t increase an ability score above 20 using this feature.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action
+on your turn. The number of attacks increases to three when you reach 11th level in this class and
+to four when you reach 20th level in this class.
+
+#### Warrior Archetypes
+The warrior can choose from one of the below archetypes.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6921237f-6e94-4440-8dcd-5d499684f4b4/delsor2-3d3b1bfe-a77f-49a8-b160-d2bc23a792f7.jpg/v1/fill/w_1600,h_1279,q_75,strp/lady_of_war_by_draken4o_delsor2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI3OSIsInBhdGgiOiJcL2ZcLzY5MjEyMzdmLTZlOTQtNDQ0MC04ZGNkLTVkNDk5Njg0ZjRiNFwvZGVsc29yMi0zZDNiMWJmZS1hNzdmLTQ5YTgtYjE2MC1kMmJjMjNhNzkyZjcuanBnIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.LwXfCxNF4XYzvytA57VWFJj-dwgz7sojtTQvMnkDsbo' style='position:absolute; top:-75px; left:-150px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Arms
+You focus on wielding great weapons, breaking enemy lines, inflicting the first wounds in battle,
+and dealing massive amounts of damage. As they cleave through several creatures at once to soften
+up their foes for their allies, arms warriors become an inspiring sight on the battlefield, and are
+masters of their chosen weapons.
+
+#### First Blood
+Starting upon gaining this archetype at 3rd level, you gain a +2 bonus to your melee attack and damage rolls so long as you are targeting a creature that does not have the Bloodied condition. 
+
+#### Cleaving Strike [Strike]
+Also at 3rd level, when you successfully attack and damage a creature with a melee attack, you spend a bonus action to attack another creature you choose that is within 5 feet away from the first target. If you already have the Great Weapon Master feat, and if its conditions trigger, resolve the Great Weapon Mastery extra attack, and then the Cleaving Strike. Both use the same bonus action. 
+
+#### Master of Arms
+Starting at 7th level, when you use a strike effect, you can apply it to all your melee attacks until the start of your turn in the next round with the same bonus action. Limited-use strike effects are still limited by their uses. 
+
+#### Mortal Strike [Strike]
+Starting at 10th level, you may severely wound a creature’s healing capabilities if you successfully apply a mortal strike. If a creature is affected by a Mortal Strike, you deal 2 extra points of damage to them, and they must succeed on a Stamina saving throw against a DC equal to 8 + your proficiency bonus + your Strength bonus or take 50% less healing from all sources for one minute.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+So long as a creature is affected this way, you may always apply your First Blood feature to the target (even if they do have the Bloodied condition). A creature cannot be affected by this ability more than once in 24 hours.
+
+Mortal Strike can only be used with melee weapons.
+
+#### Die by the Sword
+Starting at 15th level, you are inspired by battlefield glories, and are able to react
+quickly to attacks. Whenever a target within 5 feet of you makes a successful attack against you, you
+gain a d6 Counterattack dice. You may spend the dice to make an attack as a reaction at any point
+out of your turn so long as the target dealt damage to you in the last minute, and may add the
+counterattack dice result to the total damage. Unlike with normal reactions, you may apply one
+strike effect to this attack.
+
+You can hold up to 3 Counterattack dice. They all fade within one minute if not consumed.
+
+#### Overpower [Strike]
+Starting at 18th level, you may, after successfully damaging an enemy with a
+melee attack, regain hit points equal to double your Proficiency bonus. You may instead grant half
+the benefit to any ally within 30 feet. This is a strike effect that costs a bonus action. The enemy
+must be a qualifying threat to you for you to use this ability.
+
+If the target of this strike was also successfully affected by your Mortal Strike feature, you gain
+double the normal amount of hit points.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10bcfa0c-24e0-46b2-810d-ad75c14cdd6c/de3d7cq-5f115816-b1a6-4ba9-8dd1-39e630d18b07.jpg/v1/fill/w_1280,h_794,q_75,strp/___commission__orc_warrior____by_shadowpriest_de3d7cq-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzk0IiwicGF0aCI6IlwvZlwvMTBiY2ZhMGMtMjRlMC00NmIyLTgxMGQtYWQ3NWMxNGNkZDZjXC9kZTNkN2NxLTVmMTE1ODE2LWIxYTYtNGJhOS04ZGQxLTM5ZTYzMGQxOGIwNy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.s1kLIjIz5j-EofmxTw6yi2wH6WveHHQZrljBSqc5m9E' style='position:absolute; top:0px; left:-75px; width:110%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Fury
+You equip yourself with two weapons, and slice your enemies to ribbons while shouting vengeance.
+
+Fury warriors make good party members, as inspiring shouts aid their allies.
+
+#### Strike the Wound
+Starting at 3rd level, you gain momentary clarity towards causing further
+wounds after landing the first. If you make a successful melee attack roll against a target, your
+weapon attack can score a critical hit on a lower result of the dice (on a natural 19 or 20 instead of
+only 20). This effect stacks to a maximum roll of 17-20, and ends at the start of your turn in the
+next round.
+
+Also, you gain the Dual Wielder feat if you didn‘t already have it. If you already have it, you add +1
+to your weapon damage rolls with either weapon.
+
+#### Bloodthirst
+Starting at 7th level, you may attack again if you miss a melee attack. This does not require
+a separate action from the one used to make the attack. If you make use of this ability, the target is
+not counted as if they were hit for the purposes of the Strike the Wound ability unless you also
+successfully hit them. You may use this number of times equal to your Stamina modifier, which
+replenishes upon completing a short or long rest.
+
+Furthermore, if you miss an attack roll against an enemy, you are treated as if you successfully
+landed a hit for the purposes of the Strike the Wound ability.
+
+#### Battle Commands
+Starting at 10th level, you gain the Shout talent for free (if you don‘t already
+have it). Furthermore, whenever you attack with your off-hand weapon as a bonus action, you can
+maintain a shout or apply one strike effect.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+#### Hellscream
+Starting at 15th level, all hostile creatures within range of your shouts take Thunder
+damage equal to half your level whenever you shout or maintain one. They are entitled a Stamina
+saving throw to half damage contested by your own Stamina saving throw.
+
+Also, your critical range for your Strike the Wound ability becomes 15-20.
+
+#### Bloody Ribbons
+Starting at 18th level, whenever you spend a Bonus Action to make an attack
+with your off-hand weapon, you can instead make two attacks. Also, whenever you would gain an
+action (such as by the haste spell or Action Surge ability), you double the attacks you can normally
+make with your Bonus Action.
+
+Bloody Ribbons expends a use of your Bloodthirst ability.
+
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10bcfa0c-24e0-46b2-810d-ad75c14cdd6c/de6i9eu-144ea5e4-8613-4f5e-b8cf-62301afe928a.jpg/v1/fill/w_1280,h_905,q_75,strp/___commission__human_paladin____by_shadowpriest_de6i9eu-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA1IiwicGF0aCI6IlwvZlwvMTBiY2ZhMGMtMjRlMC00NmIyLTgxMGQtYWQ3NWMxNGNkZDZjXC9kZTZpOWV1LTE0NGVhNWU0LTg2MTMtNGY1ZS1iOGNmLTYyMzAxYWZlOTI4YS5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Yl4rPD4HhR2I9bcSLDlQRURRHsHStYqJ_5DRGU5Zxj4' style='position:absolute; top:-20px; left:-50px; width:120%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Protection
+You are the forward vanguard, decking yourself with heavy armors and a reliable shield. Protection
+warriors deflect and guarding their allies from attacks, and return damage with interest.
+
+#### Block and Tackle
+Starting at 3rd level, you may use a reaction to block a weapon attack that hits
+you, reducing the damage taken by 1d12 + your Stamina modifier. This requires a shield. If this
+reduces the damage to 0 points, you may use the same reaction to attack the target with an
+opportunity attack. You can use this feature a number of times equal to your Stamina bonus
+(minimum 2 uses). Once all uses are expended, they are restored after a short rest.
+
+You may expend two uses of this ability and benefit an ally within 5 feet of you with this ability
+instead of you, reducing the damage on them as described (and targeting whoever harmed them
+with an opportunity attack). If whoever struck your ally is not within your melee range for the
+opportunity attack, you may move up to 5 feet to deliver it.
+
+#### Sundering Strike [Strike]
+Starting at 7th level, you may sunder an enemy‘s armor, reducing their
+AC by 1 point per strike (up to -5, but never below that of their AC if unarmored). This effect
+remains until the armor is tended to with the appropriate artisans‘ tools and 1 hour of work.
+
+This can be applied to natural armor. In this case, the AC is restored upon completing a short rest.
+
+#### Vigilance
+Starting at 10th level, your block and tackle ability blocks an additional 1d12 (for a total
+of 2d12 + your Stamina modifier). Whenever you perform an opportunity attack derived from your
+Block and Tackle ability, you can add one of the following effects.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+* *Destructive Counter.* Your opportunity attack deals an additional 2d6 damage.
+* *Disarming Counter.* Your opportunity attack drops the enemy‘s weapon. If they reach for it
+while threatened by you, you can make another attack of opportunity.
+* *Pushing Counter.* Your opportunity attack pushes the enemy 5 feet away.
+* *Repositioning Counter.* Your opportunity attack allows you to exchange places with an ally
+within 5 feet of you.
+
+#### Vanguard
+Starting at 15th level, whenever you start your round in a turn with below half your
+maximum hit points, and have no temporary hit points, you gain a number of temporary hit points
+equal to 1d12 + your Stamina modifier.
+
+#### Restored Strength
+Starting at 18th level, you may use the Second Wind talent three times before
+requiring rest. Furthermore, whenever you use Second Wind, you gain resistance to any damage
+you take for one round after use, and advantage against any saving throw made against the first
+spell that affects you in the next minute.
+
+If you don‘t already have the Second Wind talent, you gain it as a talent instead of improving it.
+
+\pagebreakNum
