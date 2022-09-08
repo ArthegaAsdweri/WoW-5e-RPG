@@ -50,6 +50,13 @@
 .index span + span {
     text-align:right;
 }
+.index h4 + ul {
+    margin-top:5px;
+}
+.index h5 {
+    font-size:.458cm;
+    margin-top:0;
+}
 /* general styles */
 .btn {
     max-width:200px;
@@ -295,7 +302,10 @@ Damage types are detailed under Chapter 9.
   - #### [<span>Warlock</span>                                        <span>130</span>](#warlock)
   - #### [<span>Warrior</span>                                        <span>138</span>](#warrior)
   - #### [<span>Special and Racial Specializiations</span>            <span>145</span>](#specials)
-    - ##### [<span>Demon Hunter</span>                                <span>146</span>](#demonhunter)
+    - ##### [<span>Demon Hunter (Rogue)</span>                        <span>146</span>](#demonhunter)
+    - ##### [<span>Mountain King (Warrior)</span>                     <span>148</span>](#mountainking)
+    - ##### [<span>Runeweaver (Monk)</span>                           <span>150</span>](#runeweaver)
+    - ##### [<span>Runeweaver (Monk)</span>                           <span>152</span>](#runeweaver)
 
 </div>
 
@@ -8674,3 +8684,408 @@ cast one of the aforementioned spells once every long rest for no cost instead.
 Also, you gain another Mystic Blast enhancement when in your avatar form. 
 
 \pagebreakNum
+
+<a id="mountainking"></a>
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37fcc6d4-4b21-4ffd-afc0-b3a3a425e043/d8z698w-ba3524f1-9ee1-451f-8123-6bc446a9b564.jpg/v1/fill/w_1024,h_783,q_75,strp/hearthstone_king_magni_by_glenn_rane_by_glennraneart_d8z698w-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzgzIiwicGF0aCI6IlwvZlwvMzdmY2M2ZDQtNGIyMS00ZmZkLWFmYzAtYjNhM2E0MjVlMDQzXC9kOHo2OTh3LWJhMzUyNGYxLTllZTEtNDUxZi04MTIzLTZiYzQ0NmE5YjU2NC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.rvdifWgnK4qyWfomkyek2kA_FC2YNZksmHUdIgEPYX8' style='position:absolute; top:-50px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Mountain King (Warrior)
+The mountain kings, or thanes as they are known in Khaz Modan, are the mightiest dwarven
+warriors under the mountain. Wielding both enchanted warhammers and hand axes, these fierce
+fighters live to test themselves against worthy opponents. Unconcerned with their race's
+preoccupation with mechanical devices and mining precious minerals, Mountain Kings live only
+for battle. Dedicated to safeguarding the Alliance which saved their kingdom during the Second
+War, the mountain Kings can be counted upon to rally behind any banner that stands between
+freedom and the ever looming shadow of evil.
+
+Mountain kings boast prodigious combat abilities. They are ferocious in melee combat, wielding
+the traditional weapons of their race to decimate their foes. Their attacks leave opponents stunned
+and reeling.
+
+While they do not focus their efforts on discovering the secrets of the titans, they have long known
+of a powerful spark within every Ironforge dwarf - and mountain kings draw upon this spark and
+fan it into a raging flame. They conjure magic hammers and axes to hurl at their targets, stunning
+and slowing them so they can get close enough to use their real weapons. They transform
+themselves into silver-sheened creatures of living stone, shrugging off all attacks and hacking
+through flesh and bone with frightening ease.
+
+This archetype is restricted to dwarves and creatures who are of titanic descent.
+
+#### Titanic Spark
+Starting at 3rd level, you gain the ability to cast spells as a mage of
+an effective caster level equal to 0.5 your Mountain King level (minimum 0). You do require
+spellbooks, however, as the spells manifest in the form of inscriptions and engravings on your
+armor, weapons, or runes that you draw at the spell‘s range
+ (treat as tattoos), but otherwise use the
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+same rules as the mage (effectively treating runes as mage tattoos). You also do not need to
+concentrate on the stoneskin spell.
+
+You may cast spells from the abjuration, evocation, and transmutation schools, although you may
+only choose lightning or thunder-based spells when preparing evocation spells. Your spellcasting
+ability is Intelligence.
+
+You may treat the investiture of stone spell as a 5th level spell instead of a 6th level spell, and stoneskin
+as a 3rd level spell instead of a 4th level spell. You also add the hammer of wrath paladin spell to
+your spell list.
+
+#### Thunderlord
+Also starting at 3rd level, you gain the Thunder Clap talent (if you didn‘t already
+have it), and can use it a number of times equal to your proficiency bonus before requiring a rest,
+not once per rest, and exclude a number of targets from the spell‘s area of effect equal to your
+Strength modifier.
+
+Also, you gain the Dual Wielder feat if you didn‘t already have it. If you already have it, you add +1
+to your weapon damage rolls with either weapon.
+
+Stance of the Mountain. Starting at 7th level, you may enter a stance with a bonus action. So long
+as you are in this stance, you reduce the physical damage you take by 3 points, and gain 2 extra
+reactions. The stance ends if you choose to end it or if you move more than half your normal
+speed.
+
+When executing a melee attack of opportunity while under the effects of this stance, you push the
+target a number feet equal to your Strength score on a successful damage roll.
+
+#### Bleed and Bash
+Starting at 10th level, you gain the Mutilate Strike and Stunning Slam talents, and
+can use either strike abilities when making an off-hand attack as part of the same action. You can
+also apply other strike effects as part of an off-hand attack, but you suffer a -2 penalty to your
+damage rolls.
+
+\pagebreakNum
+
+Lastly, you can make an attack of opportunity against any creature that critically hits you or
+successfully strikes an ally within 5 feet.
+
+#### Titanic Avatar
+Starting at 15th level, whenever you cast the spell stoneskin through your Titanic
+Spark spellcasting feature, the cost of the material component (regardless of the target) is 25 gp
+instead of 100. You also gain the benefits of the enlarge spell without requiring concentration, and
+so long as you are wielding a weapon in both hands, you gain a +1 bonus to your AC.
+
+Furthermore, you may spend three days studying the defenses of a fortification, castle, or any type
+of defensive structure. At the end of the three days, you may use your Stance of the Mountain
+without spending a bonus action, and you may move your full speed without disrupting the stance,
+and ignore natural difficult terrain in the area with your movement, so long as it is part of the
+fortification (such as ignoring a natural barricade or debris).
+
+#### Lord of the Mountain
+Starting at 18th level, you can manifest your titanic heritage as a true
+avatar.
+
+You can use an action to cast the stoneskin spell (also benefitting from the enlarge spell as via Titanic
+Avatar) for no material cost. Also, your skin gains a silvery sheen, and you gain the following
+benefits while benefitting from the spell:
+* At the start of each of your turns, you regain 5 hit points (up until your Bloodied value).
+* You increase your weapons‘ reach by 5 feet.
+* You can make an attack of opportunity against any creature that successfully attacks an ally
+within 10 feet.
+
+\pagebreakNum
+
+<a id="runeweaver"></a>
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e5d46ed6-a8e2-4721-a95a-4e83986c01e3/d5fiydg-95352842-57b9-4049-ae55-8119632f4c00.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2U1ZDQ2ZWQ2LWE4ZTItNDcyMS1hOTVhLTRlODM5ODZjMDFlM1wvZDVmaXlkZy05NTM1Mjg0Mi01N2I5LTQwNDktYWU1NS04MTE5NjMyZjRjMDAuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QlGezZ6ej2Fl7Nx46WgKvVpg-_-Sg2KRbgraqWcqL1M' style='position:absolute; top:-150px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:130px; right:0px; width:890px;' />
+
+<div style="margin-top:430px;"></div>
+
+### Runeweaver (Monk)
+Most monks are Pandaren, but others still have less structured beliefs, and channel runic power
+through tattoos or runes drawn upon their flesh. These runeweavers are rarely found, but have
+dwarven and tauren practitioners.
+
+The runeweaver is a mystic who sees the power and importance of ley lines. Moreover, those who
+study runes understand that these are not simply symbols of power — they are power. The
+runeweaver seeks to become one with the land, but not in the fashion of druids or shamans.
+
+Rather, the runeweaver desires to become a microcosm of the land, seeking to overlay his body with
+runes in the same fashion that the land itself is overlaid with patterns of ley lines and the echoes of
+the might of the great Titans.
+
+The tradition itself dates back to the times of the ancient titans, mastered by the dwarves who
+learned such arts from their creators. As the centuries rolled past, most dwarves lost their heritage
+and their knowledge of this art. Tauren claim ancient traditions when passing down runic
+attunements, bringing closer dwarf, tauren, and pandaren by sheer curiosity to learn the truth.
+
+Most runeweavers are heavily tattooed with runic patterns — not simply the unique ones that form
+the basis for rune families, but the so-called ―simple runes‖ as well. Simple runes mimic patterns of
+ley energy that appear, again and again, in the environment. These patterns occur in nature and are
+responsible for things such as the strength of a given type of stone, the ferocity of a given
+windstorm and the coolness of a given stream; when a runeweaver uses these patterns, he learns to
+channel his natural power into them at all times, attaining similar traits.
+
+Ki is commonly known as Runic Pulse with runeweavers, but functions the same way.
+
+
+#### Runic Attunement
+When you choose this tradition at 3rd level, you learn magical disciplines that
+harness the power of the runic ley lines. An attunement requires you to spend ki points each 
+
+\columnbreak
+
+<div style="margin-top:450px;"></div>
+
+time you use it. You know the Simple Runes discipline and one other runic attunement of your choice,
+which are detailed in the "Runic Attunements‖ section below.
+
+You learn one additional runic attunement of your choice at 6th, 11th, and 17th level.
+
+Whenever you learn a new runic attunement, you can also replace one runic attunement that you
+already know with a different attunement. Some effects are strike effects, in which case they require
+a bonus action to manifest as well, and affect a target struck by you.
+
+##### Ley Attunement
+You may also replace an existing runic attunement by meditating near a center of
+ley power, such as a mana fountain, place of elemental strength (a great volcano, on a mountain, or
+near the Maelstrom), or similar effect the DM specifies (such as where ancient Elven Runestones
+stand, or near the mechanisms of the Titans). In all cases, this can be changed at the end of a long
+rest. Each area of ley attunement grants its own Runic Attunement.
+
+You can also burn some of your life force to manifest a runic attunement instead of spending Ki.
+
+You can spend hit dice (as if healing), but you do not gain hit points. Instead, each hit dice of
+healing you expend acts as if you spend 1 Ki point for a runic attunement effect. This usually
+manifests as smoke rising from runes you draw on your body.
+
+#### Spells and Ki Points
+
+<br>
+
+| Monk Levels  | Maximum Ki Points for a Spell |
+|:---:|:-----------:|
+| 5th - 8th | 3 | 
+| 9th - 12th | 4 | 
+| 13th - 16th | 5 | 
+| 17th - 20th | 6 | 
+
+\pagebreakNum
+
+#### Runic Attunements
+The runic attunements are presented in alphabetical order. If a discipline requires a level, you must
+be that level in this class to learn the attunement.
+
+##### Burning Spirit Rune
+You can spend 1 Ki
+point to cast the inner fire spell.
+
+##### Dispel Rune (6th level required)
+You can
+spend 3 Ki points to cast the dispel magic
+spell. You can spend 1 additional point to
+make this a strike effect that target a struck
+target. If you target a trap spell (such as glyph
+of warding or the symbol spell), you have
+advantage to your check. You also have
+advantage to checks to notice such runes. If
+you have the See Runes attunement, making
+the spell a strike effect costs no additional Ki.
+
+##### Energy Weaving Rune
+You can spend 1 Ki
+point to cast the absorb elements spell.
+
+##### Energy Dispersal Rune (6th level required)
+You can spend 3 Ki points to cast the
+protection from energy spell on yourself.
+
+##### Flowing Water Rune (6th level required)
+You can spend 3 Ki points to cast the haste
+spell.
+
+##### Glyph Rune, Greater (17th level required)
+You can spend 7 Ki points to cast the symbol
+spell. Once this rune is cast, you cannot cast
+it again until after a short rest, regardless if
+you have enough Ki.
+
+##### Glyph Rune, Lesser (6th level required)
+You can spend 3 Ki points to cast the glyph of
+warding spell. If you choose a spell glyph, you
+can add any other rune you know to manifest
+upon triggering the glyph.
+
+##### Runic Pattern (6th level required)
+You can
+cast the magic weapon spell, targeting yourself.
+
+You may also the spell on your unarmed
+attacks. The bonus increases to +2 with 4 Ki,
+and +3 with 6 Ki (limited to the maximum
+number of Ki points you can spend).
+
+##### Inner Beast Rune (6th level required)
+You
+can spend 2 Ki points to cast the enhance
+ability spell.
+
+##### Inscribed Rune
+Choose a rune that you can
+cast, that has a casting time of 1 action, and
+that can target you. You cast that spell, called
+the inscribed spell, as part of this action,
+expending the cost the rune, but the
+inscribed rune doesn't come into effect.
+
+Instead, it takes effect when a certain
+circumstance occurs. You describe that
+circumstance.
+
+For example, a contingency cast with the
+Mangroves Rune might stipulate that it
+comes into effect when you are subject to the
+paralyzed condition (or any or all of the
+conditions). You can have only one inscribed
+rune upon yourself. Also, the inscribed rune
+ends on you if its material component is ever
+not on your person. You can specify a
+command word (requires no action by
+yourself to activate).
+
+##### Ley Healing Rune
+You can spend 1 Ki point
+to cast the riptide spell.
+
+##### Ley Line Link (11th level required)
+You can
+spend 5 Ki points to cast the teleportation circle
+spell, and can also teleport back to any area
+you meditated for a ley attunement (treating
+it as a teleportation circle for the purposes of
+this ability).
+
+##### Leaping Sparks Rune
+You can spend 1 Ki
+point to cast the jump spell.
+Oaks Rune (6th level required). You can
+spend 2 Ki points to cast the barkskin spell.
+
+##### Mangroves Rune (6th level required)
+You
+can spend 2 Ki points to cast the lesser
+restoration spell. If you are 17th level, you can
+spend 6 Ki points to cast the restoration spell.
+
+##### Quiet Demise Rune
+You can spend 1 Ki
+point to gain the Sneak Attack feature as a
+1st level Rogue for 1 minute. This requires
+concentration.
+
+##### Raging Flames Rune
+You can spend 1 Ki
+point to cast the longstrider spell.
+
+##### Safefall Rune
+You can spend 1 Ki point to
+cast the Feather Fall spell on yourself.
+
+##### See Runes
+You can spend 1 Ki point to cast
+the detect magic spell.
+
+##### Shattering Blow
+You can spend 1 Ki point
+to cast shatter as a strike effect. You can also
+cast it normally
+
+##### Simple Runes
+Choose one of the following
+families of cantrips. You can cast these for no
+cost. You can change your suite of simple
+runes at the end of a short or long rest.
+* *Arcane.* Mage hand, true strike
+* *Earth.* Mending, mold earth
+* *Frost.* frostbolt (strike only), frostbite
+(strike only)
+* *Fire.* Fire bolt (strike only), create
+bonfire
+* *Light.* Light, dancing lights (maximum
+range 10 ft.)
+* *Ward.* Blade ward, resistance (self only)
+* *Wind.* Gust, shocking grasp (strike only)
+
+##### Twisted Arcana Rune (6th level required)
+You can spend 3 Ki points to cast counterspell.
+
+#### Other Runic Attunements
+You may petition the DM to add further runic attunements, referring to
+the below table. After using a runic attunement that manifests 7th-level, you cannot use it again
+until after a short rest, regardless whether you have the Ki to cast it or not.
+
+| Spell Level  | Ki | Level Required |
+|:---:|:---:|:---:|
+| 1 | 1 | 3 | 
+| 2 | 2 | 6 | 
+| 3 | 3 | 6 | 
+| 4 | 4 | 11 | 
+| 5 | 5 | 11 | 
+| 6 | 6 | 17 | 
+| 7 | 7 | 17 | 
+
+\pagebreakNum
+
+<a id="shadowhunter"></a>
+
+<img src='https://pm1.narvii.com/6281/b2bbef38f7feaa125cb6fe1e02d819274dd56285_hq.jpg' style='position:absolute; top:-50px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Shadow Hunter (Hunter)
+Troll shadow hunters are the highest authority of the jungle trolls. Their spirit powers both bless and curse, and they walk the line of dark and light in hope of saving the future of their people. Their dark gods, the Loa, channel themselves through the shadow hunters when they use their ceremonial Rush'kah masks. In some circles, Shadow Hunter is a title bestowed equally among hunters of this specialization and witch doctors. 
+
+Like other practitioners of voodoo, shadow hunters deal with the darker aspects of the spirit world. Unlike witch doctors (who excel in channeling voodoo magic and alchemy), Shadow Hunters claim a strong bond with the Loa, animal spirits thought to be divine in nature. 
+
+Able to channel the essence of some of these extremely potent beings - and often acting with their blessing, conduit, and mortal champions - shadow hunters gain special abilities only the Loa can grant. As they grow in experience, the shadow hunters' bond with the Loa strengthens and their connection to these powerful voodoo spirits eventually gives them the ability to curse and heal at a whim. The strongest shadow hunters can create a pit of shadow filled with terrible beings that can tear their enemies apart. 
+This archetype is restricted to worshipers of the Loa, which are overwhelmingly trolls. Shadow hunters typically utilize Warglaives for combat (see equipment). 
+
+#### Loa Spellcasting
+Starting upon gaining this archetype, you access the shaman’s spell list. You do not gain the increased spellcasting capabilities or access to higher spell levels, but you add all shaman spells of spell levels you can access to your hunter spell list (including totems, healing spells, and elemental spells). You may also add the darkness spell to your shared spell list. Your own sight is unaffected by your darkness spell.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+Your spellcasting otherwise follows the same rules as the shaman class, although your totems (or spellbooks) are your masks.
+
+#### Mask Magic
+Starting from 3rd level, you can wear various Rush'kah masks can provide blessings, channeling the power of chosen Loa. You can spend 6 hours creating a suite of these magic masks (up to all the ones you know), and they have nearly negligible weight. So long as you have such masks, you can wear them with a bonus action, applying a special benefit as described below. Once a mask is used, it cannot be used again until after a long rest. 
+
+* *Legba Mask.* You cast the haste spell.
+* *Lukou Mask.* You add your Spirit modifier to the final number of hit points healed by your hunter or shaman spells. This can be added to the final damage to undead cured by said spells. This mask grants the benefit for one hour. 
+* *Shango Mask.* You add your Spirit modifier to the final number of damage points dealt by your hunter or shaman lightning spells. This mask grants the benefit for one hour.
+___
+If a mask is destroyed, it takes 1 hour per mask to create a new one from simple materials.
+
+#### Voodoo Ritualist
+Starting from 7th level, you may triple the casting time of your hunter spells via a magical (and often noisy) mask-dance to heighten it by one spell level. This increase does not stack with itself, but can increase the spell level beyond your normal maximum (cannot exceed 9th level). You can use this ability to heighten the spell level of a spell cast through a mask (such as the Legba or Bwonsamdi masks). For instance, if the spell’s casting time is 1
+action, it costs 3
+
+\pagebreakNum
+
+actions instead. If its casting time is 1 hour, it costs 3 hours, etc. This is applied to ritual spells normally. 
+
+#### Advanced Mask Magic
+Starting at 11th level, you can add new masks to your repertoire.
+
+* *Bwonsamdi Mask.* You treat the exorcism spell as a bonus spell that you prepared (hunter spell list). You may cast the spell normally or apply it as a strike effect. This benefit remains for one hour. This affects all undead except undead shadows. 
+* *Ogoun and Dambala Masks.* You can cast the polymorph spell. If you are later able to prepare the spell, it instead costs 2 less mana points (minimum 1) while the mask is active (this cancels out the penalty from the Loa spellcasting feature above). This is usually used to turn yourself into a snake, or turn your enemy into a frog or likewise helpless critter.
+* *The Dark Mask.* You cast the big bad voodoo spell. This costs 16 mana. 
+
+#### Pit of Shadows
+Starting on 15th level, whenever you cast the darkness spell, you can reduce its duration to Concentration (Partial), up to 1 minute. While enhanced this way, however, all spells you cast that deal shadow damage or that conjure shadows cost 2 less mana points (minimum 0), so long the spell does not target an area or a creature outside the darkness. If the darkness spell was heightened by your Voodoo Ritualist ability (making it more resilient against being defeated by light spells), then spells that deal shadow damage or conjure shadows are similarly heightened (as described under the spells’ descriptions). 
+
+Once this feature is used, it cannot be used again until after a long rest. Alternatively, this ability can consume one of the uses of a mask you didn’t use yet. 
+
+\pagebreak
