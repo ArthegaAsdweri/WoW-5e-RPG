@@ -307,6 +307,7 @@ Damage types are detailed under Chapter 9.
     - ##### [<span>Runeweaver (Monk)</span>                           <span>150</span>](#runeweaver)
     - ##### [<span>Shadow Hunter (Hunter)</span>                      <span>152</span>](#shadowhunter)
     - ##### [<span>Spell Breaker (Warrior)</span>                     <span>154</span>](#spellbreaker) 
+    - ##### [<span>Witch Doctor (Shaman)</span>                       <span>156</span>](#witchdoctor) 
 
 </div>
 
@@ -9088,6 +9089,8 @@ Once this feature is used, it cannot be used again until after a long rest. Alte
 
 \pagebreakNum
 
+<a id="spellbreaker"></a>
+
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05fb0c63-6713-48a8-8c54-e4d92b8c6588/dd7igac-6a432b47-907f-468c-9a0e-0a14454c45f1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1ZmIwYzYzLTY3MTMtNDhhOC04YzU0LWU0ZDkyYjhjNjU4OFwvZGQ3aWdhYy02YTQzMmI0Ny05MDdmLTQ2OGMtOWEwZS0wYTE0NDU0YzQ1ZjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QQNEm9eCwKKdhYn13ybzwrDmCbI8QsCbSdT1AS-zErs' style='position:absolute; top:-150px; left:0px; width:100%;' />
 
 <img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
@@ -9165,3 +9168,121 @@ not count against the number of spells prepared. The spell also costs 1 less man
 Furthermore, your spell resistance ability is permanent.
 
 \pagebreakNum
+
+<a id="witchdoctor"></a>
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/29e17cf4-4459-4cf7-969f-b3019d639bc4/d6nbo0h-72bc8afb-838a-43a8-bdb7-87a2304af032.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI5ZTE3Y2Y0LTQ0NTktNGNmNy05NjlmLWIzMDE5ZDYzOWJjNFwvZDZuYm8waC03MmJjOGFmYi04MzhhLTQzYTgtYmRiNy04N2EyMzA0YWYwMzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZPVqkabyIf3BBvF0jpOiPysw2xRoNXk8y_EPF5KQ2qQ' style='position:absolute; top:-100px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:90px; right:0px; width:890px;' />
+
+<div style="margin-top:380px;"></div>
+
+### Witch Doctor (Shaman)
+A curious blend of alchemy and shamanistic spirit magic, witch doctors are most common among
+trolls, though few orcs take up the art, especially those who wish to broaden their skill set with the
+power of alchemy. Skilled at not only simply brewing potions and alchemical goods, but also at
+awakening the spirits of the ingredients that go into his goods, a witch doctor at work can be
+unsettling. Between crooning and chanting to the herbs and animal parts that go into their brew,
+shaking rattles to supposedly ‗wake up the spirits‘, to bursting into dance to appease them and
+make them favor him, a witch doctor inspires fear, respect, and confusion.
+
+The witch doctor's arcane magical art is formed from the ability to twist and turn nature through a
+crude yet effective science called juju.
+
+Witch doctors teach that worthy trolls receive dominion over various aspects of nature upon their
+death - whether plants, weather, beasts, or even disease. When witch doctors exhibit their
+supernatural powers to cure the sick, control nature, or assist in battle, it is said that ancestral
+spirits are riding them.
+
+Witch doctors usually name their totems ‗Wards‘, and use masks as their spellbooks, although their
+mask mojo is not as strong as shadow hunters, who are more martial in nature.
+<br><br>
+<div class='classTable'>
+
+#### Witch Doctor Art
+
+<div style="margin-top:10px;"></div>
+
+| Level | Spells |
+|:---:|:---:|
+| 1st | Death pact, dissonant whispers |
+| 3rd | Berserker frenzy, divine shield (or bad voodoo) |
+| 5th | Banshee‘s curse, fear |
+| 7th | Drain life, polymorph (or ghost wolf) |
+| 9th | Big bad voodoo, eyebite |
+
+</div>
+
+\columnbreak
+
+<div style="margin-top:400px;"></div>
+
+#### Weird Juju
+Starting at 1st level, you gain the Alchemy ability, and proficiency in both Alchemist‘s
+Supplies and the Poisoner‘s Kit. You can choose up to one alchemist spells to cast as a potion, and
+gain access to another alchemist spell whenever you level up. These spells can only be made into
+potions (as if you were an alchemist). You can scribe potion formulae into your totem, and do not
+require a formula book.
+
+#### Channel Elements: Voodoo Witchery
+At 2nd level, you can spend a Channel Elements use to reawaken fading magics. This can extend concentration spells for one more round, and reset the
+durations of a spell or potion whose duration ended or was dispelled, including sigils or totems, but
+not strikes or shots. If the duration ended normally, it regains half the duration it once had. This
+cannot affect instantaneous spells or spells with a duration more than 24 hours.
+
+This usually involves dancing and waving fetishes at the target.
+
+#### Dark Sacrifice
+At 6th level, you may end any conjure spell you have active with a bonus action, and
+ignite the residual magic. You may center an explosion with a radius of 10 feet at the point where
+your conjured creature was last present that deals 1d8 damage per spell level, halved on a successful
+Stamina saving throw. Half the damage is acid, and the other half is poison. You may use this
+ability on a target of a successful death pact spell.
+
+If you conjured multiple creatures, the explosion takes place at each of the spaces. The damage does
+not stack. If you used Voodoo Witchery on the same concentration spell, the saving throw is done
+with disadvantage.
+
+#### Personal Mojo
+Starting at 8th level, you gain proficiency in magically-infused potions beyond
+regular science. You gain the following abilities, which you can bestow upon any potion you make
+or handle for at least 1 minute.
+
+\pagebreakNum
+
+* *Personalized Mojo.* You can personalize a potion for a specific creature by mixing a part of them
+(hair, nail clippings, a tear, etc.) into it. This potion functions only for the target, and is treated
+as if heightened one spell level (this can exceed your normal maximum spell level). If the
+potion has no benefit when targeting a creature (such as an area of effect spell or a potion that
+conjures a creature), or when heightened, the potion can instead be reused with a successful
+DC 15 Intelligence check with Alchemist‘s Supplies, so far as you use an action when adjacent
+to the potion (or target) within 1 minute of it being used. This can be attempted once.
+* *Rage Mojo.* You imbue your potion a spirit of rage and battle. When the potion is consumed,
+the target is also enraged, as the berserker rage spell, for the full duration (or until you command
+it to end as a bonus action or reaction). The target does not suffer a level of exhaustion if it
+succeeds on a Stamina saving throw against your Spell DC at the end of the rage.
+* *Spirit Mojo.* You augment the potion with a spirit of balance, allowing you to mix two potions
+to retain the benefits of both (as the Proper Sync miscibility result), so long as both potions
+have the same quality. This can be done once per short rest.
+* *Shaka Mojo.* You augment the potion with a spirit of might. When you roll for damage or
+healing with the potion, it deals the maximum effect instead, so long as you use it. You may
+have only one shaka mojo potion active at any given time.
+* *Strange Mojo.* This potion houses a tiny, wild spirit. When this potion is consumed with other
+ones, roll twice for miscibility and choose your favored result. This stacks with other re-rolls of
+miscibility. You can only have one strange mojo potion active at any given time.
+
+#### Spiritual Intervention
+When you reach level 17, you can invoke the spirits of Loa to aid you. You
+may spend your action and bonus action in a ritualistic dance. At the start of your turn in the next
+round, you can change a prepared spell you have to any other spell on the shaman spell list of a
+level you can cast. Once this feature is used a number of times equal to your Spirit bonus, it cannot
+be used again until you complete a long rest.
+
+If you use of your elemental intervention ability, you can choose any other spell list instead of only
+the shaman spell list, but the spell you choose must be one spell level lower than the spell you
+altered. This costs the same mana cost as the original spell. This spell remains prepared for 8 hours
+or until cast, after which it fades and your original altered spell returns. This counts as a successful
+use of the elemental intervention ability, and does not require a roll to succeed. 
+
+\pagebreakNum
+
