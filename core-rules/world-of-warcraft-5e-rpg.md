@@ -305,7 +305,8 @@ Damage types are detailed under Chapter 9.
     - ##### [<span>Demon Hunter (Rogue)</span>                        <span>146</span>](#demonhunter)
     - ##### [<span>Mountain King (Warrior)</span>                     <span>148</span>](#mountainking)
     - ##### [<span>Runeweaver (Monk)</span>                           <span>150</span>](#runeweaver)
-    - ##### [<span>Runeweaver (Monk)</span>                           <span>152</span>](#runeweaver)
+    - ##### [<span>Shadow Hunter (Hunter)</span>                      <span>152</span>](#shadowhunter)
+    - ##### [<span>Spell Breaker (Warrior)</span>                     <span>154</span>](#spellbreaker) 
 
 </div>
 
@@ -7825,10 +7826,6 @@ At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus.
 ##### Conjuring and Binding
 A warlock can conjure and bind aberrations, elementals, fiends, oozes, and undead.
 
-##### Grimoire
-At 1st level, you have a grimoire (treat as a spellbook) containing six 1st-level warlock spells of your
-choice.
-
 ##### Preparing and Casting Spells
 Each warlock level provides you with 1 caster level in the warlock class. You follow the normal
 progression to unlock spell levels (see the table under the Mana section). You prepare the list of
@@ -7844,9 +7841,7 @@ summoning and tapping into extraplanar beings.
 You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your
 Charisma modifier when setting the saving throw DC for a warlock spell you cast and when making
 an attack roll with one.
-
-\columnbreak
-
+<br><br>
 **Spell save DC** = 8 + your proficiency bonus +
 
 your Charisma modifier
@@ -7854,6 +7849,8 @@ your Charisma modifier
 **Spell attack modifier** = your proficiency bonus +
 
 your Charisma modifier
+
+\columnbreak
 
 ##### Spellbook – Grimoire
 At 1st level, your grimoire contains six 1st-level warlock spells of your choice. When you level up,
@@ -7903,10 +7900,11 @@ and attack rolls to such targets (including sigil rolls). This functions up to 5
 and costs one soul shard per spell level. This bonus can be applied after knowing the result
 of the roll (whether failure or success).
 
-\pagebreakNum
-
 #### Warlock Focus
 At 3rd level, you may choose to focus on one of two warlock focuses.
+
+\pagebreakNum
+
 * *Fiendish Alliance:* The warlock gains a permanent bound companion that accompanies you
 on your adventures, advises you in the ways of demonology, and teaches you magical spells
 upon the completion of tasks (determined by the DM). You can also have the conjure fiend
@@ -9088,4 +9086,82 @@ Starting on 15th level, whenever you cast the darkness spell, you can reduce its
 
 Once this feature is used, it cannot be used again until after a long rest. Alternatively, this ability can consume one of the uses of a mask you didn’t use yet. 
 
-\pagebreak
+\pagebreakNum
+
+<img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/05fb0c63-6713-48a8-8c54-e4d92b8c6588/dd7igac-6a432b47-907f-468c-9a0e-0a14454c45f1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA1ZmIwYzYzLTY3MTMtNDhhOC04YzU0LWU0ZDkyYjhjNjU4OFwvZGQ3aWdhYy02YTQzMmI0Ny05MDdmLTQ2OGMtOWEwZS0wYTE0NDU0YzQ1ZjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QQNEm9eCwKKdhYn13ybzwrDmCbI8QsCbSdT1AS-zErs' style='position:absolute; top:-150px; left:0px; width:100%;' />
+
+<img src='https://www.gmbinder.com/images/Mgi0q18.png' style='position:absolute; top:150px; right:0px; width:890px;' />
+
+<div style="margin-top:450px;"></div>
+
+### Spell Breaker (Warrior)
+Elven warriors trained to disrupt and contort magical energies, the Spell Breakers are a valuable
+addition to the Alliance, and work well in concert with the High Elven magically-focused military.
+
+Spell Breakers can cast a small amount of spells, and mostly prefer abjurations such as shield and
+dispel magic, and evocations such as arcane missile, and mana burn.
+
+This warrior martial archetype is restricted to elves, commonly High Elves and Blood Elves.
+
+#### Spellcasting
+When you reach 3rd level, you augment your martial prowess with the ability to cast
+spells.
+
+##### Cantrips
+At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus.
+
+##### Preparing and Casting Spells
+Each spell breaker level provides you with 0.5 levels in the mage class (or level 1 at 3rd level). You
+follow the normal progression to unlock spell levels (see the table under the Mana section). You
+prepare spells from the mage spell list, but only spells from the Abjuration, Divination, Evocation,
+or Transmutation schools.
+
+When you reach 7th, 8th, 14, and 20 level in this class, you can alter one existing spell to be a spell
+from any other magic school.
+
+Your spellcasting otherwise follows the same rules as the mage class with regards to spellbooks,
+conjuring and binding, and other concerns. Your spellcasting ability is Intelligence.
+
+\columnbreak
+
+<div style="margin-top:470px;"></div>
+
+#### Spell Resistance
+When you choose this archetype at 3rd level, you can spend an action and 3
+mana points to become exceptionally resistant to spells and spell-like abilities, gaining advantage
+versus all spells that allow for spell resistance. This lasts for 1 hour.
+
+If you succeed in saving against a spell with both saving throws (the one granted by advantage as
+well as your normal one, even without using the spell resistance feature), you may use a reaction to
+absorb residual mana, gaining mana points equal to the spell‘s level. This is a normal manarestorative effect.
+
+#### Abjuring Knight
+Starting at 7th level, you may cast the dispel magic and counterspell spells with one less mana point, and always have them prepared. 
+
+You may also throw a two-bladed sword, treating it as a thrown weapon with a range of 10/30 feet. This may deliver melee strikes at range, and the two-bladed sword returns after the attack roll is resolved, but allowing for only one melee strike every round.
+
+#### Feedback
+At 10th level, whenever you dispel or counterspell a magical effect from a creature, you destroy 2 mana points per spell level you used. Each mana point burned deals 1d4 arcane damage to the target. 
+
+If you dispel an effect from an ally, you may manifest one of the following effects:
+* You can direct the mana-burning effect to any hostile creature within 30 feet of you. This is negated on a successful a Spirit saving throw against your Spell save DC.
+
+\pagebreakNum 
+
+* You can gain a bonus to melee and thrown weapon damage rolls equal to the highest-spell level you dispelled or counterspelled. The bonus decreases by 1 point at the end of your turn every round until it reaches 0. 
+
+#### Steal Magic
+At 15th level, you may transfer a dispelled or counterspelled magical effect to another
+eligible creature within 30 ft. This does not require an action. The new target is entitled a saving
+throw, or you must succeed on an attack roll to affect them (as if you cast the initial spell).
+
+Also, you can target spells cast by your allies with the dispel magic spell. If you would have
+successfully dispelled the spell, you can instead change its target or extend its duration.
+
+#### Greater Spell Steal
+Starting at 18th level, you always have the spell steal spell prepared, and does
+not count against the number of spells prepared. The spell also costs 1 less mana point for you.
+
+Furthermore, your spell resistance ability is permanent.
+
+\pagebreakNum
