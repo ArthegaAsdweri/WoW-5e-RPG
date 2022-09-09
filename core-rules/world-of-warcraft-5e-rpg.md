@@ -306,8 +306,10 @@ Damage types are detailed under Chapter 9.
     - ##### [<span>Mountain King (Warrior)</span>                     <span>148</span>](#mountainking)
     - ##### [<span>Runeweaver (Monk)</span>                           <span>150</span>](#runeweaver)
     - ##### [<span>Shadow Hunter (Hunter)</span>                      <span>152</span>](#shadowhunter)
-    - ##### [<span>Spell Breaker (Warrior)</span>                     <span>154</span>](#spellbreaker) 
+    - ##### [<span>Spell Breaker (Warrior)</span>                     <span>154</span>](#spellbreaker)
     - ##### [<span>Witch Doctor (Shaman)</span>                       <span>156</span>](#witchdoctor) 
+  - #### [<span>Bound Companions</span>                               <span>158</span>](#companions)
+  - #### [<span>Class Talents</span>                                  <span>159</span>](#classtalents)  
 
 </div>
 
@@ -9286,3 +9288,1575 @@ use of the elemental intervention ability, and does not require a roll to succee
 
 \pagebreakNum
 
+<a id="companions"></a>
+
+### Bound Companions
+Characters‘ class abilities sometimes provide companions. Companions are creatures that have
+lower challenge rating than the character, and join the character in their adventures free of charge.
+
+These creatures do not grant XP when killed, and do not consume XP when fighting, but are
+effectively bound to the character who has the ability, leveling up with them in some capacity
+(gaining hit dice, ability score increases, etc., as detailed in the class entry).
+
+The ability that provides the bound companion determines the creature type (usually beast), the
+CR, and whether the companion gains special abilities.
+
+Some abilities allow you to increase the strength of your bond with your companion. In this case,
+you may be allowed to add your Proficiency bonus to the companion‘s attack rolls or saving throws
+(or other rolls). This does not stack with the creature‘s own Proficiency Bonus.
+
+#### Controlling the Companion
+The companion obeys its master‘s commands as best as it can. It takes its turn on its master‘s
+initiative.
+
+On the master‘s turn, the companion can be verbally commanded where to move (no action
+required by you) or what to do. If the creature has a special bond, the master may or may not be
+able to command it telepathically, depending on the bond‘s description.
+
+Bound companions otherwise act on their own, unless given a clear command from their master, in
+which case they fulfill the command as best as they can. Giving a bound companion a direct order
+(so long as they are not telepathically connected) costs an attack action.
+
+The master is always aware of the bound companion‘s normal course of action. If the master is
+incapacitated or absent, the companion acts as it normally would, but also protects its master and
+itself.
+
+For example, a hunter with a panther companion is attacked in an ambush. The panther, if
+commanded to fight, would normally attack the weakest enemy from behind. If the hunter uses an
+attack to command the panther to fight in sync with him, the panther obeys and fights as its master
+wishes.
+
+\pagebreakNum
+
+<a id="classtalents"></a>
+
+### Class Talents
+
+Some classes allow you to take talents, which are customizable class features that can enrich and
+reinforce a certain character concept.
+
+All talent abilities have DCs of 8 + your proficiency bonus + your Strength or Agility modifier (your
+choice) if they allow a saving throw.
+
+#### Action Surge
+**Prerequisite.** 1 level in Warrior
+<br>
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action on top of your regular action and a possible bonus action. Once you use this feature, you must finish a short or long rest before you can use it again. This talent can be taken again at level 17 for another use.
+
+#### Aggressive
+You may use your bonus action to take the Dash action, but only to approach a hostile creature that you can see.
+
+#### Agile Leap
+**Prerequisite.** 5th level
+<br>
+You may use a bonus action to leap, moving at half your total speed. This movement does not provoke reactions. If you have the ability to glide, hover, or fly (via spell, gadget, or ability), you may choose to use this ability in mid-air (effectively changing your trajectory as a double-jump). This jump also counts as a Dash action for the purposes of other abilities. 
+
+You are treated as if you always benefit from the jump spell. 
+
+If you also have the Heroic Leap talent, a use of the ability increases your jump distance to your full speed for that use. 
+
+#### Berserker Rage
+**Prerequisite.** Must be taken at 1st level of Warrior.
+<br>
+You may cast the berserker frenzy spell on yourself as a bonus action. This rage continues until you end it with a bonus action, or until the rage ends early (as per the spell’s description), and you can use it as limited by the spell’s description. 
+
+This spell cannot be dispelled, but can be overwhelmed by a calm emotions spell or similar effect that would suppress this ability, and does not prevent use of spell-like abilities derived from talents. 
+
+You can take this talent again. If you do so, you do not gain a level of exhaustion at the end (regardless of how long you rage). 
+
+If you reach 9th level of Warrior, your rage only ends if you are knocked unconscious or if you end it willingly.
+
+#### Bladestorm
+**Prerequisite.** 1 level in Warrior
+<br>
+You may enter this stance with an action. While in this stance, you whirl with your weapon outstretched, automatically dealing your melee weapon damage to all creatures within the weapon’s reach of you. This damage is treated as an area effect. Affected targets are entitled an Agility saving throw to halve the damage. You can apply strike effects, but they affect only targets who failed their saving throw, and one strike affects one target.
+
+You cannot take any other actions in this stance other than maintaining it. You can enter this stance a number of times equal to your proficiency bonus before replenishing on a 
+
+\columnbreak
+
+short rest, and the effects of it remaining until the beginning of your turn in the next round unless you extend it using the same actions. 
+
+While in this stance, you have advantage against all movement-impairing effects or effects that result in loss of control for your character, and you do not provoke reactions from movement from a creature who has failed their saving throw to half damage. Your speed, however, is halved in this stance. If you are unable to use your action, or if you cannot move at least 5 feet every round, this stance ends. If you are in this stance more than 3 rounds, you gain the incapacitated condition for after you are finished. The condition remains for 1 round per round you were in the stance beyond the first three.
+
+#### Brutal Critical
+You can roll one additional weapon damage
+die when determining the extra damage for a
+critical hit with a melee weapon attack. This
+talent can be taken again up to two times
+(resulting in three additional dice).
+
+#### Burning Blades
+**Prerequisite.** 1 level in Hunter or Warrior
+<br>
+As a bonus action, you can ignite any
+number of weapons you are wielding with
+magical energies. The weapon acts as if it
+gained the Elemental Damage Infusion (deals
+1d6 extra elemental damage) for 1 minute
+and becomes magical. If you end your turn
+without attacking a target (without necessarily
+hitting them), the weapon loses the infusion
+and is extinguished. You have a number of
+uses of this ability (and can ignite a total
+number of weapons) equal to your Strength
+or Stamina modifier (minimum 1).
+
+Despite the talent‘s name, you can choose
+which damage type the weapon deals (not
+necessarily fire) upon gaining this talent. You
+regain all the uses of this ability at the end of
+a long rest. You can regain a single use if you
+kill or reduce a creature to 0 hit points, so
+long as that creature can deal the same type
+of elemental damage (such as by spell, attack,
+or aura).
+
+#### Camouflage
+**Prerequisite.** 9th level<br>
+You can use the Hide action as a bonus
+action on your turn. If you are also proficient
+with the Agility (Stealth) skill, you may cast
+the invisibility spell by spending an action and
+a bonus action. After being used, the spell
+cannot be used again until after a short rest.
+
+Also, you can‘t be tracked by nonmagical
+means, unless you choose to leave a trail,
+even outside your favored terrain (if you have
+one).
+
+#### Cloak of Shadows
+**Prerequisite.** The ability to cast spells or proficiency in Stealth
+<br>
+You cloak yourself with bits of the fading
+shadows of mana, hiding even from the
+effects of spells that affect you.
+
+As a Bonus Action, you can cloak yourself with
+magical shadows for until the end of your
+turn in the next round. Any spell of a spell
+level less than one-half your level (round
+down) cast upon you can't affect you or
+anything you hold. Such a spell can target you or something you hold, but the spell has
+no effect. Similarly, your area is excluded
+from the areas affected by such spells. You
+can activate your Cloak of Shadows ability for
+a total number of rounds equal to one-half
+your level, replenishing on a long rest, and
+can extend an active cloak of shadows with
+no action so long as you have remaining
+rounds.
+
+\pagebreakNum
+
+You may cloak yourself as a reaction instead,
+but each round consumed this way costs
+double the normal number of rounds of this
+ability. This effect otherwise acts as a globe of
+invulnerability spell of a spell level equal to
+one-half your level (round down).
+
+#### Cunning Action
+**Prerequisite.** 1 level in Rogue
+<br>
+Your quick thinking and agility allow you to
+move and act quickly. You can take a bonus
+action on each of your turns in combat to use
+the following action: Dash, Disengage, or
+Hide.
+
+#### Danger Sense
+You gain an uncanny sense of when things
+nearby aren‘t as they should be, giving you an
+edge when you dodge away from danger. You
+have advantage on Agility saving throws
+against effects that you can see, such as traps
+and spells. To gain this benefit, you can‘t be
+blinded, deafened, or incapacitated. You
+must be able to see the effect before it takes
+place (such as seeing a character cast a spell
+or the outer mechanism of the trap).
+
+#### Defensive Stance [Stance]
+**Prerequisite.** Proficiency and use of a shield
+<br>
+You may enter this stance with a bonus
+action. While in this stance, you have
+resistance against piercing damage.
+
+This stance is broken if you move more than
+half your full movement in a single round, or
+if you are no longer using a shield.
+
+#### Deflect Missiles
+**Prerequisite.** 1 level of Monk
+<br>
+You can use your reaction to deflect or catch
+a ranged weapon attack you are hit by. When
+you do so, the damage you take from the
+attack is reduced by 1d10 + your Strength or
+Agility modifier (your choice) + your level.
+
+If you reduce the damage to 0 and you have
+at least 2 Monk levels, you can catch the
+missile if it is small enough for you to hold in
+one hand and you have at least one hand
+free. If you catch a missile in this way, you
+can spend 1 ki point to make a ranged attack
+with the weapon or piece of ammunition you
+just caught, as part of the same reaction. You
+make this attack with proficiency, regardless
+of your weapon proficiencies, and the missile
+counts as a monk weapon for the attack. The
+range of this ability is 20/60 feet.
+
+#### Dark Ranger
+**Prerequisite.** 1 level in Hunter
+<br>
+You add the following spells to your hunter
+spell list: banshee‟s curse, death coil, death pact,
+drain life, death ward, and silence. You may also
+add undead to the list of creatures you can
+bind and conjure (allowing you to also charm
+and dominate undead).
+
+#### Dire Strike
+**Prerequisite.** 1 level in Rogue
+<br>
+You strike at a vulnerable place in the target's
+body when you may deal your sneak attack
+damage. Instead of dealing extra sneak attack
+damage, you may impose a condition on the
+target on a failed Stamina saving throw. The
+weapon damage type determines the
+condition, chosen from the below.
+* *Blinded (any).* The target is blinded
+for until the end of their turn in the
+next round.
+* *Kidney Shot (piercing or bludgeoning,
+requires level 5).* The target is stunned
+until the end of their turn in the
+next round.
+* *Rupture (slashing or piercing).* The
+target gains the bleeding condition
+for 1 minute, with the value of blood
+loss equal to your Agility modifier.
+Furthermore, unless they take
+precautions, they leave a trail of
+blood behind them.
+The creature can attempt another
+Stamina saving throw at the
+beginning of every round to end this
+effect. Creatures that do have blood
+(or do not require it to survive)
+cannot be harmed by bleeding.
+* *Sap (bludgeoning).* The creature is
+charmed for one minute and looks
+visibly dazed and flat-footed. While
+charmed by this effect, the creature is
+incapacitated and has a speed of 0.
+The effect ends for an affected
+creature if it takes any damage or if
+someone else uses an action to shake
+the creature out of its stupor. The
+creature can attempt another
+Stamina saving throw once every
+round to end this effect. Once a
+creature is affected by this ability, it
+is immune to it until it performs a
+short rest.
+___
+For each saving throw attempt the target
+makes against a dire strike ability, they gain a
+cumulative +1 to their saving throws against
+this ability. This applies to saving throws
+rolled every round as well as new applications
+of effects that were already chosen. The
+bonus to saving throws remains for up to 24
+hours. If the rupture strike, for example, has
+a DC of 14 the first round, the DC decreases
+to 13 the second round, and 12 the third
+round. If choosing kidney shot, the DC
+decreases the more the ability is applied.
+
+#### Dread Ambusher
+You master the art of the ambush. You gain a
+bonus your initiative rolls equal to your Spirit
+modifier. Also, the start of your first turn of
+each combat encounter, your speed increases
+by 10 feet, which lasts until the end of that
+turn. When you retreat from combat, you
+have advantage to any Agility (Stealth) check
+to escape being pursued.
+
+#### Elusive
+**Prerequisite.** 17th level and 1 level in Rogue
+<br>
+You are so evasive that attackers rarely gain
+the upper hand against you. No attack roll
+has advantage against you while you aren‘t
+incapacitated.
+
+#### Essence Touch
+**Prerequisite.** 1 level in Hunter or Monk of 5th
+level
+<br>
+Whenever you touch a creature with innate
+special abilities (such as innate spellcasting),
+you can gain one use of their innate special
+abilities, usable only once before the essence
+fades away. This costs no mana, but you
+cannot steal an ability that is also a spell
+unless you had the level to cast it normally.
+
+Monks referring to their ki spell ability for
+the purposes of this talent.
+
+#### Evasion
+**Prerequisite.** 5th level and 1 level in Hunter,
+Monk, or Rogue
+<br>
+You can nimbly dodge out of the way of
+certain area effects, such as a dragon‘s fiery
+breath or an ice storm spell. When you are
+subjected to an effect that allows you to make
+an Agility saving throw to take half damage,
+you instead take no damage if you succeed on
+the saving throw, and only half damage if you
+fail.
+
+\pagebreakNum
+
+Execute
+Prerequisite. 1 level in Warrior
+Your attack carries with it the weight of
+doom. If you successfully deal damage with
+this strike effect against a bloodied target, the
+attack deals 50% extra damage.
+After being used, this cannot be used again
+until after a short rest. If the target is killed
+or reduced to 0 hit points by this strike, you
+regain the use of it. If the target has any
+ability that would prevent it from being
+reduced to 0 hit points when it otherwise
+should have (such as the Relentless talent,
+the Undead Fortitude trait, or similar ability
+that would allow an escape) it must make a
+Stamina saving throw against your DC or else
+it fails and it is reduced to 0 hit points.
+This talent can be taken multiple times, each
+time adding another use before requiring a
+short rest. This is a strike effect.
+Fading Shadow
+Prerequisite. Subtlety specialization or the
+Cloak of Shadows talent
+You may cast the blink step spell. After being
+used, this cannot be used again until after a
+short rest. This talent can be taken multiple
+times, each time adding another two uses of
+this ability before a short rest. If your level is
+9, each use acts as the dimension door spell
+instead.
+Fan of Knives
+Whenever you use an action to attack with a
+light throwing weapon (such as daggers,
+darts, light hammers, handaxes, or javelins),
+you may throw another of the same type as
+part of the same attack action. You may still
+use two-weapon fighting to throw a third
+weapon as a bonus action. This stacks with
+the Extra Attack feature, if you possess it
+(adding one thrown attack with the first
+action for each extra attack).
+You may instead spend your action and
+bonus action to release the same number of
+weapons as a 20-foot sphere (all around you),
+a 15-foot cone (in a quarter-circle), or a line
+30 feet long, 5 feet wide in any direction you
+choose. This requires throwing up to three
+weapons, and deals damage as if they all hit,
+with an Agility saving throw to half damage.
+Special. If you have the Sneak Attack feature,
+you may add one additional point of damage
+per sneak attack dice to the total damage, but
+only if the target qualifies for a sneak attack.
+This is an area effect.
+Favored Enemy
+You may the Favored Enemy ability as a 1st
+level Hunter, or choose another favored
+enemy if you normally have it (such as by
+being a hunter). You cannot take this talent
+more than 3 times.
+Favored by Elune
+Prerequisite. At least 1 level in Hunter and the
+ability to cast spells
+You may add the find familiar spell to your
+spell list, but may only choose an owl as a
+familiar. Furthermore, your link to your owl
+familiar is 250 feet, instead of the normal
+100 feet. If you are standing in moonlight,
+the link becomes 500 feet instead. If you later
+choose the Beastmaster Hunter archetype,
+you may make your familiar your bonded
+creature, in which case the creature is treated
+as both a familiar and hunter‘s companion.
+Farsight
+You increase the range of all ranged weapons
+of one type (crossbows, bows, firearms, axes,
+etc.) by half.
+Feral Senses
+Prerequisite. 17th level and proficiency in
+Perception
+You gain preternatural senses that help you
+fight creatures you can‘t see. When you
+attack a creature you can‘t see, your inability
+to see it doesn‘t impose disadvantage on your
+attack rolls against it. You also permanently
+benefit from the see invisibility spell as if you
+cast it, but only so long as the enemy is
+within 60 feet.
+Flash Bomber
+Prerequisite. 5th level
+You may use a bonus action or reaction to
+activate or make use of the Use Object action
+for alchemical items or explosives. This may
+be used at a number of times equal to your
+Intelligence modifier before a short rest.
+Focused Attack
+Prerequisite. Requires the ability to attack
+multiple times in one round
+You may choose to deal focused attacks
+instead of risking missed attacks. Whenever
+you score a successful ranged attack and have
+any remaining attacks (such as from the Extra
+Attack feature or the haste spell), you may
+spend the extra attacks to add the minimum
+possible damage the weapon attack to your
+damage result. The damage is resolved as
+made by one weapon attack (and uses one
+point of ammunition as normal, or one
+malfunction check). For instance, if you
+successfully deal a longbow ranged attack for
+1d8 + 4, and have an additional attack from
+the haste spell, you may expend the attack to
+add 5 points of damage to the initial attack
+(for a total of 1d8 + 9) damage.
+Hamstring
+As a strike, you may cut a target‘s hamstring.
+The target‘s movement speed is reduced by
+10 feet for one minute. Also, whenever they
+move more than half their speed or whenever
+they use the Dash action, they fall prone. The
+target (or an ally) may use an action to roll a
+Stamina saving throw against this ability,
+which ends the condition. It ends
+automatically at the end of a short rest.
+This speed reduction can be applied multiple
+times, to a minimum speed of 0 (in which
+case the target is treated as if restrained). This
+is a strike effect. This strike can be used a
+number of times equal to your proficiency
+bonus, with the uses replenishing at the end
+of a short rest.
+Heroic Leap
+Prerequisite. 1 level in Monk or Warrior
+You may make a heroic leap, jumping up to
+twice your normal distance, and can spend
+an action at the end. If the action is a melee
+attack roll, it deals damage equal to your
+normal weapon damage in a 10-foot sphere,
+centered on the area you landed on, with an
+Agility saving throw to half damage. The
+ground is also turned into difficult terrain
+(such as rubble) if applicable. Once used, this
+talent cannot be used again until after a short
+rest. Only warriors and monks may take this
+talent.
+Heroic Throw
+You may throw a weapon further than it can
+normally go, or throw a melee weapon that
+does not have that property. You may
+increase the range of an existing thrown
+weapon by 60 feet, or give a melee weapon
+the thrown property (20/60 feet) for one
+round.
+On a hit, the weapon can either return to
+you after being thrown at a target, or knock
+the target prone (Agility save negates),
+dropping 5 feet from the target. This is a
+strike effect.
+Hunter's Sense
+Prerequisite. 9th level and Primeval Alertness
+or Favored Enemy
+You can cast the scrying spell, but can only
+affect a creature detected by primeval
+alertness or a favored enemy. The creature
+must be within 10 miles of you to be affected
+by this ability. You may use this ability once
+per long rest. This talent can be taken
+multiple times, each time increasing the
+times this ability can be used per long rest by
+two.
+Indomitable
+Prerequisite. 9th level
+You can reroll a saving throw that you fail. If
+you do so, you must use the new roll, even if
+it is lower than the initial roll. You may use
+this talent a number of times equal to onehalf your proficiency bonus.
+Indomitable Might
+Prerequisite. 5th level
+If you roll a Strength check and the results
+are less than your Strength score, treat the
+result as your Strength score instead.
+Iron Willed Hunter
+Prerequisite. 5th level and at least 1 level in
+Hunter
+You have honed your ability to resist mindaltering powers. You gain proficiency in
+Spirit saving throws. If you already have this
+proficiency, you instead gain proficiency in
+Intelligence or Charisma saving throws (your
+choice).
+Insightful Fighting
+Prerequisite. 1 level in Rogue
+You gain the ability to decipher an
+opponent's tactics and develop a counter to
+them. As a bonus action, you can make a
+Spirit (Insight) check against a creature you
+can see that isn‘t incapacitated, contested by
+the target‘s Charisma (Deception) check. If
+you succeed, you can use your Sneak Attack
+against that target even if you don‘t have
+advantage on the attack roll, but not if you
+have disadvantage, so long as you spend your
+bonus action to maintain this effect. This
+benefit lasts for 1 minute or until you
+successfully use this feature against a different
+target.
+Insightful Manipulator
+Prerequisite. 9th level
+If you spend at least 1 minute observing or
+interacting with another creature outside
+combat, you can learn certain information
+about its capabilities compared to your own.
+The DM tells you if the creature is your
+equal, superior, or inferior in regard to two
+of the following characteristics of your
+choice:
+ Intelligence, Spirit, or Charisma
+scores
+ Class levels (if any)
+At the DM‘s option, you might also realize
+you know a piece of the creature‘s history or
+one of its personality traits, if it has any.
+Land’s Stride
+Prerequisite. 5th level and at least 1 level in
+Hunter or Monk
+You may move through nonmagical difficult
+terrain without spending extra movement,
+and gain a +10 bonus to your speed. You can
+also pass through nonmagical plants without
+being slowed by them and without taking
+damage from them if they have thorns,
+spines, or a similar hazard. In addition, you
+have advantage on saving throws against
+plants that are magically created or
+manipulated to impede movement, such
+those created by the entangling roots spell.
+Magic-User’s Nemesis
+Prerequisite. 5th level
+You can thwart someone else‘s magic. When
+you see a creature casting a spell or
+teleporting within 30 feet of you, you can use
+your reaction to try to foil it, either by using
+your own magic (if you can access spells), or
+an attack roll (by using a ranged or thrown
+weapon). The creature must succeed on a
+Spirit saving throw against your spell save DC
+or you must succeed on an attack roll,
+otherwise its spell or teleport fails and is
+wasted.
+Master Manipulator
+You can use the Help action as a bonus
+action. Additionally, when you use the Help
+action to aid an ally in attacking a creature,
+the target of that attack can be within 30 feet
+of you, rather than within 5 feet of you, if the
+target can see or hear you. You also gain
+proficiency with the disguise and forgery kits,
+and one gaming set of your choice. You also
+learn two languages of your choice. Lastly,
+you can unerringly mimic the speech patterns
+and accent of a creature that you hear speak
+for at least 1 minute, enabling you to pass
+yourself off as a native speaker of a particular
+land, provided that you know the language.
+Misdirection
+Prerequisite. 13th level
+You can sometimes cause another creature to
+suffer an attack meant for you. When you are
+targeted by an attack while a creature within
+5 feet of you is granting you cover against
+that attack, you can use your reaction to have
+the attack target that creature instead of you.
+Mutilate Strike
+Whenever you can attack as a bonus action
+with an off-hand weapon, you may instead
+add the off-hand damage to your main attack
+action, while retaining your bonus action.
+Your bonus action cannot be used to attack
+the same round after using this strike. Once
+used, this talent cannot be used again for
+three rounds.
+Natural Explorer (Favored Terrain)
+You are particularly familiar with one type of
+natural environment and are adept at
+traveling and surviving in such regions.
+Choose one type of favored terrain: arctic,
+coast, desert, forest, grassland, mountain,
+swamp, or caves and underground. When
+you make an Intelligence or Spirit check
+related to your favored terrain, your
+proficiency bonus is doubled if you are using
+a skill that you‘re proficient in. This ability
+works on any plane so long as it has a terrain
+of comparable nature (desert covers both
+Tanaris in Azeroth and Outland‘s Hellfire
+Peninsula).
+While traveling for an hour or more in your
+favored terrain, you gain the following
+benefits:
+ Difficult terrain doesn‘t slow your
+group‘s travel
+ Your group can‘t become lost except
+by magical means
+ Even when you are engaged in
+another activity while traveling (such
+as foraging, navigating, or tracking),
+you remain alert to danger, and have
+advantage to checks to avoid being
+surprised in your favored terrain
+ You have advantage to saving throws
+against natural hazards in your
+favored terrain.
+ You can move stealthily at your
+normal pace without slowing down
+ When you forage or gather, you find
+twice as much food as you normally
+would
+ While tracking other creatures, you
+also learn their exact number, their
+sizes, and how long ago they passed
+through the area
+You may switch an existing favored terrain by
+performing all the following tasks, focused on
+one terrain:
+ Track a target or explore the area for
+at least one hour alone;
+ Spend 7 days in the terrain;
+ Hunt down and defeat one native
+creature (though you do not have to
+defeat it alone).
+This talent can be taken multiple times, each
+time adding one favored terrain mastered at a
+given time.
+Primeval Alertness
+Prerequisite. Proficiency in Stealth
+Whenever you are subjected to an effect that
+attempts to detect or identify you (such as a
+scrying spell), you gain advantage to all saving
+throws versus such effects. If you succeed on
+a contested Spirit saving throw, you can also
+reverse the spell (if possible, gaining a
+momentary glimpse of who is attempting to
+scry on you).
+Primeval Awareness
+Prerequisite. requires the ability to cast the
+detect magic spell by using mana
+You gain awareness of your environment on
+a local scale. You can use your action and
+expend mana equal to any spell to gain
+primeval awareness. For 1 minute per level of
+the spell you expended, you can sense
+whether the following types of creatures are
+present within 1 mile of you (or within up to
+6 miles if you are in your favored terrain, are
+on high ground compared to them, or if the
+target is a favored enemy): aberrations,
+celestials, dragons, elementals, fey, fiends,
+and undead.
+This feature doesn‘t reveal the creatures‘
+location or number, but does hint at their
+strength in rough terms (weaker, equal to
+you, or stronger than you, more numerous
+than you, wounded) and their general
+direction.
+Primeval Disruption
+Prerequisite. Primeval Awareness talent, and
+one of the two: 5th level or the ability to cast
+detect magic
+You can sense if a favored enemy is casting a
+divine or arcane spell (choose one upon
+gaining this talent) within 3 miles. You are
+also aware of their general direction. If the
+target is within 1 mile, you can spend a
+reaction to force them to roll a Spirit saving
+throw against being distracted. This ability
+can be used a number of times equal to your
+proficiency bonus before replenishing after a
+long rest. If there are multiple favored
+enemies within the radius, you get a general
+awareness of them, but cannot force a
+disruption, unless you are the closest creature
+to the target.
+Reckless Attack
+When you make your first attack on your
+turn, you can decide to attack recklessly.
+Doing so gives you advantage on melee attack
+rolls using Strength on this turn, but attack
+rolls against you have advantage until your
+next turn.
+Relentless
+Prerequisite. 5th level
+If you drop to 0 hit points and don't die
+outright, you can make a DC 10 Stamina
+saving throw. If you succeed, you drop to 1
+hit point instead. Each time this is used, you
+increase the DC by 5 points. The DC resets
+once you complete a short rest. This is
+known as cheat death by hunters and rogues.
+Reliable Talent
+Prerequisite. 5th level, 1 level in Rogue
+Whenever you make an ability check that lets
+you add your proficiency bonus, you can treat
+a d20 roll of 9 or lower as a 10.
+Retaliation
+Prerequisite. 9th level
+When you take damage from a creature that
+is within 5 feet of you, you can use your
+reaction to make a melee weapon attack
+against that creature. This ability can be used
+a number of times equal to your proficiency
+bonus, with the uses replenishing after a
+short rest. This is also sometimes known as
+counterattack or storm of blades by hunters
+and rogues, respectively.
+Second Wind
+Prerequisite. Must be taken at 1st level of
+Warrior
+You have a limited well of stamina you can
+draw upon to protect yourself from harm.
+On your turn, you can use a bonus action to
+regain hit points equal to 1d10 + your
+warrior level. Once you use this feature, you
+must finish a short or long rest before you
+can use it again.
+Shockwave
+Prerequisite. 1 level in Warrior
+You slam your weapon (manufactured or
+natural) into the ground, creating a ripple of
+force that shoots outward. This deals damage
+equal to your weapon damage, and affects a
+line 5-foot thick and 30 feet long. All
+creatures in the area in contact with the
+ground or within 5 feet of it that succeed on
+an Agility saving throw take half damage. The
+terrain damaged becomes difficult terrain
+(such as rubble) if applicable. If you have
+extra attacks, you may spend them to add the
+minimum possible damage to your total.
+Once this talent is used, it cannot be used
+again until after a short rest.
+Shock Resistant
+Prerequisite. 1 level in Monk or Warrior
+You are more resilient against effects that
+would otherwise shock or stun a normal
+creature. You have advantage to saving
+throws against any effect that would cause the
+stunned condition. If an effect causes the
+condition as a secondary effect, the advantage
+applies only against the condition.
+Shout
+Prerequisite. 1 level in Warrior
+You can channel your warrior spirit into
+powerful battlefield commands (called
+shouts), although it can be anything from a
+barking command, to a litany, a prayer, or
+even a song. You can give a number of shouts
+equal to your Stamina or Charisma modifier
+(choose one). Using a shout costs a bonus
+action, and you may maintain an active shout
+for until the end of your turn in the next
+round with another bonus action (up to 1
+minute). This bonus action still allows you to
+use strike effects (as if it does not cost an
+action), but does not allow other abilities.
+Shouts have a range of 30 feet of the range of
+the spell specified.
+Shouts can replicate certain auras or have an
+entirely unique effect.
+ Battle Shout. You cast the
+abandonment aura spell.
+ Defensive Shout. You cast the devotion
+aura spell.
+ Disruptive Shout (requires 7th level).
+You cast the distraction aura spell.
+ Halting. One target within range has
+their speed halved. You can use this
+shout as a reaction.
+ Invigorating. You may activate this
+shout by maintaining it for three
+rounds against a single target within
+range. At the start of your turn on
+the fourth round, the target increases
+their maximum hit points by onehalf your level for one hour (cannot
+exceed double their maximum hit
+points), or can spend a single healing
+dice to heal themselves.
+ Marching Orders (requires 5th level).
+You cast the crusader aura spell.
+ Rallying. One target within range is
+affected as if you cast the heroism
+spell (treat your Stamina modifier as
+the relevant spellcasting modifier).
+Maintaining the shout maintains the
+spell (up to the spell‘s normal limit).
+ Reordering. One target within range
+can move up to one-quarter their
+speed as their reaction. You can
+change the target of this shout by
+maintaining it.
+ Taunt. You cast the compelled duel
+spell. You can choose an additional
+target for the spell for every two
+levels above 5th.
+ Terrifying Howl. You cast the cause fear
+spell. You can choose an additional
+target for the spell for every two
+levels above 5th.
+ Startling Cry. One target within range
+suffers disadvantage to their attack
+rolls. You can activate this shout as a
+reaction if the attack takes place
+outside your turn, and you may
+maintain it on your turn and choose
+another target. A creature cannot be
+affected by this ability more than
+once until it completes a short rest.
+This is a fear effect.
+If the target of a shout leaves the range or is
+defeated, the effect ends for them. If a
+creature is affected by a shout used by you, or
+succeeds on their saving throw against it, they
+cannot be affected again by the same shout
+until after one minute. A shout is a thunder
+effect that does not function in areas of
+silence or if you cannot vocalize.
+Special. If you have proficiency in musical
+instruments, you can use them to apply a
+bonus to your shouts appropriate to the
+musical instrument type.
+ Brass (trumpet, cornet, tuba). Clarion.
+Any saving throw done against your
+active spells, or any attempts to
+dispel your spells channeled through
+a brass instrument suffer
+disadvantage (if the dispel would be
+automatic, it instead requires a check
+regardless of spell level).
+ Percussion (drums, triangle, bells).
+Resonance. The range of your spells
+channeled through your instrument
+increases by 50%.
+ Strings (violin, cello, harp, dulcimer).
+Lingering. If you cast a noninstantaneous spell and stop
+concentrating or channeling it, it
+lingers for 1d4 rounds after you stop
+concentrating or channeling. This
+cannot exceed the maximum
+duration of the spell, but can allow
+you to effectively maintain multiple
+auras or concentration spells.
+ Woodwinds (flutes, clarinet, ocarina).
+Synthesized. If you cast a spell that
+provides a bonus to a roll or
+advantage to it, the targets gain a
+further +1 bonus to the roll.
+Slayer’s Counter
+Prerequisite. 17th level and Slayer‘s Prey
+You gain the ability to counterattack when
+your prey tries to sabotage you. If the target
+of your Slayer‘s Prey forces you to make a
+saving throw, you can use your reaction to
+make one weapon attack against the quarry.
+You make this attack immediately before
+making the saving throw. If your attack hits,
+your save automatically succeeds, in addition
+to the attack‘s normal effects.
+Slayer’s Prey
+Prerequisite. 1 level in Hunter
+You can focus your ire on one foe, increasing
+the harm you inflict on it. As a bonus action,
+you designate one creature you can see within
+60 feet of you as the target of this feature.
+The first time each turn that you hit that
+target with a weapon attack, it takes an extra
+1d6 damage from the weapon. Once the
+creature is defeated, you can choose another
+target.
+Slippery Mind
+Prerequisite. 13th level, 1 level in Rogue or
+Monk
+You have acquired greater mental strength.
+You gain proficiency in Spirit saving throws.
+If you are a monk, you gain proficiency in all
+saving throws instead.
+Slow Fall
+You can use your reaction when you fall to
+reduce any falling damage you take by an
+amount equal to five times your level. If you
+would have landed on a target of an attack
+you would make, you may deal extra damage
+equal to half the amount of fall damage
+reduced by this talent, provided you succeed
+on the attack roll. In some circles, this ability
+is known as a drop kick. This extra damage is
+a strike effect.
+Stalker’s Flurry
+Prerequisite. 9th level, 1 level in Hunter
+You learn to attack with such unexpected
+speed that you can turn a miss into another
+attack. When you miss with a weapon attack,
+you can make another weapon attack as part
+of the same action. This can be done a
+number of times equal to your Strength or
+Agility modifier before requiring a short rest.
+Stunning Slam
+Upon scoring a critical hit with a melee
+weapon, you can stun your target for until
+the end of your turn in the next round. This
+can be negated with a successful Stamina
+saving throw. This is a strike effect.
+Suffused Arrows
+Prerequisite. 1 level in Hunter
+You master the art of spell-casting through
+arrows or infusing them. You may choose to
+gain proficiency in the Infusion Kit, but can
+only infuse ranged weapons or arrows, or
+gain the Spell Strike feat (but only for ranged
+weapons). If you choose to gain proficiency
+with the kit, you start with three infusion
+matrices of your choice that you can craft,
+and may store them in infusion manuals or
+similar books.
+Despite the talent‘s name, this can also cover
+other types of ranged weapons and
+ammunition, such as crossbow bolts and
+bullets, as well as larger samples (such as
+ballistae bolts or cannonballs).
+Swift Slash
+Whenever you use the Dash action, you may
+make one free melee attack with a finesse
+weapon, made at any point during
+movement. This attack is treated as a normal
+melee attack for all purposes, but is resolved
+with a -2 penalty to hit.
+If you reduce a creature to 0 hit points as part
+of this attack, you benefit from the blur spell
+until the beginning of your turn in the next
+round. You can use this talent only once per
+round, even if you had an ability that allowed
+multiple Dash actions in one round (such as
+Cunning Action or Haste).
+Tempered Hunter
+Prerequisite. Favored Enemy
+You have advantage versus divine or arcane
+spells (choose one upon gaining this talent)
+cast by your favored enemies and advantage
+to all checks to avoid being subject to the
+scrying spell, or being detected, or identified
+by similar magic. Magics of such type also cast
+by your favored enemies cannot be used to
+put you to sleep or to read your mind.
+Terrifying Tracker
+Prerequisite. 5th level
+Whenever you succeed on tracking a creature
+and have them within your line of sight, you
+gain advantage to any contested skill check
+against them. You may also intimidate the
+target without revealing yourself (usually to
+steer the target into one place or another).
+Thunder Clap
+You may use your action to cast the
+thunderstorm spell by slamming your weapon
+into the ground, releasing a wave of force.
+This acts as the spell with the following
+differences:
+ The spell deals normal damage, plus
+your weapon damage roll. If you have
+extra attacks, you can add +5 to the
+damage roll for each attack you
+would normally make beyond the
+first.
+ You can change its area to a 15-foot
+sphere centered on you, excluding
+yourself (and a number of targets
+equal to your Strength modifier)
+from the damage.
+ Targets who fail their saving throw
+are chilled for one minute. A
+creature may repeat its saving throw
+at the end of its turn every round to
+end the condition. You may choose
+to push the targets as the normal
+spell instead.
+This is a supernatural ability. Once this
+ability is used, it cannot be used again until
+after a short rest.
+Tremor
+Prerequisite. Strength of 15 or higher
+You may use a bonus action to cause a small
+localized tremor (usually by stomping your
+foot or slamming your fist down), dealing
+your unarmed strike damage in a 5-foot
+sphere centered on you, halved on an Agility
+save. Those who fail the saving throw are also
+knocked prone. If you have a natural
+weapon, you can use it to determine the
+damage you deal instead. If you use this
+ability at the end of a Heroic Leap, you may
+add +5 to the total damage.
+This talent can be used a number of times
+equal to your proficiency bonus before
+replenishing after a short rest.
+Tricks of the Trade
+You may cast the compelled duel spell, but
+instead of drawing the target to you, you can
+direct them to a secondary target within 30
+feet of both of you. The target of the spell has
+advantage to the saving throw unless the
+secondary creature is one of your allies or is
+neutral to both of you. After being used, this
+cannot be used again until after a short rest.
+This effect ends if you attack the target, if the
+third creature does not defend itself, or if you
+end your turn more than 30 feet away from
+the target. If the target defeats the secondary
+target, you regain use of this ability.
+This talent can be taken multiple times, each
+time adding another two uses of this ability
+before a short rest.
+Umbral Sight
+You gain darkvision out to a range of 60 feet.
+If you already have darkvision from your race,
+its range increases by 30 feet. While in
+darkness, you can hide in plain sight against
+any creature that relies on darkvision to see
+you in that darkness.
+Unarmored Movement
+Your speed increases by five feet per
+proficiency bonus you have while you are not
+wearing armor or wielding a shield. This
+talent can be chosen again at level 5 or
+higher, allowing you to move along vertical
+surfaces and across liquids on your turn
+without falling during the move so long as
+you benefit from the speed increase.
+Uncanny Dodge
+Prerequisite. 5th level, 1 level in Rogue or
+Monk
+When an attacker that you can see hits you
+with an attack, you can use your reaction to
+halve the attack‘s damage against you.
+Unerring Eye
+Prerequisite. 13th level
+Your senses are almost impossible to foil. As
+an action, you sense the presence of illusions,
+creatures not in their original form (such as
+shapechangers), and other magic designed to
+deceive the senses within 30 feet of you,
+provided you aren‘t blinded or deafened. You
+sense that an effect is attempting to trick you,
+but you gain no insight into what is hidden
+or into its true nature. This ability can be
+used a number of times equal to your Spirit
+modifier before replenishing after a long rest.
+Wind Walk
+Prerequisite. 1 level in Monk or Warrior
+You may use your action to wind-walk,
+rendering yourself invisible as per the
+invisibility spell, and increase your land speed
+by 10 feet. Unlike normal stances, you must
+continue moving (at least half your speed) or
+else this effect dissipates. Your first attack
+while performing Wind Walk is a critical hit,
+and ends the invisibility effect. This is a
+supernatural ability. Once this talent is used,
+it cannot be used again until after a short
+rest.
+
+\pagebreakNum
+
+# Chapter 4: Personality and Background
+
+## Character Details
+
+### Standard Languages
+
+| Language  | Typical Speakers | Script | Special |
+|:---:|:---:|:---:|:---:|
+| Common | Humans, worgen | Common | Dialects: Gutterspeech<sup>1</sup> | 
+| Dwarven | Dwarf | Runic | - | 
+| Draenei | Draenei, broken | Eredic |  Uncursed Eredun<sup>2</sup> | 
+| Draconic | Dragons | Runic | - | 
+| Elven<sup>3</sup> | Elves |  Elven |  Dialects: Darnassian, Thalassian, Nazja | 
+| Eredun | Fiends, warlocks | Eredic | Cursed | 
+| Gnomish | Gnomes | Dwarven | - | 
+| Goblin | Goblin | Common | - | 
+| Kalimag<sup>4</sup> | Elementals, shamans | Runic |  Aquan, Auran, Ignan, Terran | 
+| Low common<sup>5</sup> | - | Common | Requires ¼ the learn time for Common | 
+| Orcish<sup>6</sup> | Orcs | Common | - | 
+| Ogre | Ogres | Ogre | - | 
+| Pandaren | Pandaren | Pandaren | - | 
+| Shath'Yar | Void beings, faceless |  Corrupted runic | - | 
+| Taur-ahe | Tauren | Pictograms | - | 
+| Titan | Titans, earthen Runic | - | 
+| Troll<sup>7</sup> | Trolls | Zandali | - | 
+___
+
+1 Gutterspeech is often known as the language of the forsaken, and is a dialect of Common
+influenced by dwarven, low common, and a hint of Thieves‘ Cant. Any creature that knows one
+component language of Gutterspeech can learn it with half the normal time of learning a language.
+___
+2 Demons of the Burning Legion speak the tongue of their kind, Eredun, which is a perversion of
+Titan using their own script. Any creature that is not also a fiend that deliberately speaks Eredun
+without being also bound to demons, must make a Spirit save every year (DC 15) or lose 1 point of
+Spirit, and shift one step towards Lawful Evil. If the character is Evil, the spirit loss remains until
+the character pledges themselves to the Burning Legion or a representative of them, such as by
+Calling them or serving them in a substantial way, in which case the attribute is restored.
+This is a Curse effect, and the Remove Curse removes this penalty forever. Characters who gain
+access to Eredun through special abilities (such as the warlock or demon hunter) do not suffer from
+this curse, although ones gained by training or by background do.
+___
+3 The elven tongue remains remarkably unchanged throughout the centuries, but many dialects
+have been born. Darnassian is spoken by night elves. A dialect of Darnassian is spoken by the
+Nightborne (known as Shalassian). Thalassian is spoken by Highborne, high elves, void elves, and
+blood elves. Nazja is spoken by naga. A debased sub-dialect of Nazja is Nerglish, the speech of
+murlocs.
+___
+4 Kalimag has four distinct dialects for the prime elementals, such as Aquan for water elementals,
+Auran for air elementals, Ignan for fire elementals, and Terran for earth elementals.
+___
+5 Low Common is often spoken by furbolgs, gnolls, kobolds, ogres, and most humanoids or giants
+with low Intelligence. It is also an easier language to learn, requiring only one-quarter the normal
+learning time.
+___
+6 Orcish script is relatively new, and before adopting Common, they used pictograms (as Taur-ahe
+uses today).
+___
+7 The troll tongue is curiously close to Common. Knowing Common can learn Troll is one half the
+normal time of learning a language.
+
+### Inspiration
+Inspiration is a rule the player can use to
+grant them benefits for playing their
+character in a way that‘s true to his or her
+personality traits, ideal, bond, and flaw
+(collectively known as personality). By using
+inspiration, you can draw on a personality
+trait (compassion for the downtrodden) to
+give you an edge in negotiating with the
+Beggar Prince.
+
+#### Gaining Inspiration
+Gaining inspiration occurs when a character
+gives in to a flaw, reaffirms a bond, or
+otherwise suffers a narrative or mechanical
+penalty due to their personality (also known
+as a Setback).
+
+A rogue with the flaw „I'm always in debt. I
+spend my ill-gotten gains on decadent luxuries
+faster than I bring them in‟ can invoke it when
+attempting to negotiate a favor. In this case,
+the DM may rule that the opposing character
+recognizes the character's flaw, and does not
+trust the character enough to aid them,
+thereby depriving them of a helpful ally and
+forcing them to find another one or to make
+due without aid.
+
+Any mechanical penalties must be equivalent
+to the benefit of inspiration, such as granting
+an enemy inspiration or disadvantage on a
+necessary skill check or saving throw.
+
+A character may also gain inspiration after
+suffering a setback (such as losing a loved one
+who was their bond, or betraying their ideal
+out of necessity or bitterness). If this occurs, a
+character may choose to change one of their
+traits, ideals, or bonds. By doing so, a
+character develops, and the character has
+another point of Inspiration (up to a
+maximum of 2).
+
+#### Spending Inspiration
+When inspired, a character can gain a bonus
+to performing actions that fit their traits,
+support their ideals, or aid their bonds. A
+character with inspiration may spend it to
+gain one of the following effects.
+* Advantage to a single saving throw,
+ability check, or attack roll.
+
+\pagebreakNum
+
+* Roll a 1d6, and add the result to one d20
+roll or your AC against one attack. You
+may declare this after you know the
+result of the attack.
+* Impose disadvantage to a single saving
+throw, ability check, or attack roll of a
+creature attacking you.
+
+#### Special Inspiration
+Upon hearing of the murder of his brother
+Muradin, King Magni Bronzebeard was
+inspired to forge Ashbringer, a blade he
+would have otherwise been unable to create.
+
+It was Mannoroth‘s taunt to Garrosh
+Hellscream that provoked him into a terrible
+fury, allowing him to land a blow that slew
+the demon king of the pit lords.
+
+A DM may allow spending Inspiration for a
+special benefit, such as temporary access to a
+feat (such as Infusionist) for one task or
+encounter, crafting an artifact, regaining a
+use of an ability with no remaining uses
+(Berserker Rage), or another appropriate
+effect. 
+
+#### Personality
+It is always advisable to consult with the DM
+and other players on how your traits, ideals,
+bonds, and flaws synchronize with one
+another and your character concept, and to
+ensure that your character's personality is
+distinct enough to gain and spend inspiration
+reliably in situations where they are the
+narrative 'stars'. At the same time, it should
+be infrequent enough to not prove disruptive
+to normal gameplay (such as choosing to take
+a setback for inspiration).
+
+If you play a mage, for example, you may
+choose to adopt the background of a scholar
+and choose the following personality.
+___
+**Trait.** I'm used to helping out those who
+aren‘t as smart as I am, and I patiently
+explain anything and everything to
+others.
+<br>
+**Ideal.** Knowledge. The path to power
+and self-improvement is through
+knowledge.
+<br>
+**Bond.** I've been searching my whole life
+for the answer to a certain question.
+<br>
+**Flaw.** I can‘t keep a secret to save my life,
+or anyone else‘s.
+___
+The aspects of the mage's personality
+synchronize well. If you allow a critical secret
+to slip (flaw), risking an ally's career or life,
+you gain Inspiration, which can possibly be
+used to answer a question you spent your
+whole life studying (Bond).
+If your ally loses their career or possibly even
+their life, your character is traumatized
+enough to warrant character development,
+changing your ideal from knowledge to either
+power (Knowledge is the path to power and
+domination) or friendship (depending on
+how you wish to handle the character‘s
+personality progression).
+
+## Backgrounds
+The Warcraft universe has its own native twist on backgrounds. You may use any of the below
+backgrounds with the appropriate customization options.
+
+### Acolyte
+You are a religious devotee. Acolytes tend to
+live somewhat sheltered lives as priests and
+aides in major religions, until the call to
+adventure sounds. Acolytes serving in the
+Church of the Holy Light are most common,
+but there are also other faiths with
+established hierarchies, such as the Troll faith
+in the Loa.
+
+#### Variant Acolyte: Cultist
+You have dedicated your life (and very soul)
+to the service of a cult. This could be
+anything from a benign splinter organization
+away from the main church of the Holy Light
+to the dark Cult of the Damned, various
+demon cults (such as with many orcish clans),
+the Cult of Shadow, among others. With this
+variant, you are trained in hiding your faith
+and loyalties from others. You may also be
+part of the Shadow Council, venerating the
+Old Gods.
+
+Rather than training in Insight and Religion,
+you may exchange one of the proficiencies
+with Deception or Intimidation.
+
+#### Variant Acolyte: Sister of Elune
+You are part of the Sisterhood of Elune, a
+matriarchal religious/military organization
+that holds great sway in Night Elven society.
+
+The sisterhood is the gateway of a night elven
+sister joining the priesthood of Elune
+(becoming a Priestess of the Moon), or a
+member of the Watchers organization. Elite
+Watchers are elevated to being Wardens,
+legendary jailors of the enemies of Night
+Elven society.
+
+Rather than training in Insight and Religion,
+you may exchange one of the proficiencies
+with Stealth. Also, rather than having 5 sticks
+of incense, you instead have an insignia of
+rank in the priesthood, and a bow of your
+choice that was the tool of your training in
+the favored weapon of the moon goddess.
+
+### Charlatan
+You are a special sort of criminal who
+specializes in taking advantage of others.
+Charlatans tend to live in urbanized areas
+where they have many marks (targets) and
+areas where they can retreat if discovered.
+
+Anyone can become a charlatan, but they are
+common among human cities due to their
+urban nature.
+
+### Criminal
+You are a criminal—who breaks the law for
+fun and profit. Criminals come from every
+walk of life and every type of environment,
+and they range from petty thievery to outright
+murder and assassinations.
+
+#### Variant Criminal: Operative
+You are part of a state or organization‘s
+intelligence force. Operatives may belong to
+the Stormwind‘s SI:7, the Defias
+Brotherhood‘s operation cells, Ravenholdt,
+the Shadow Council‘s eyes and ears, or the
+Alterac Syndicate.
+
+Operatives act in the shadows or in brief
+flashes of activity to complete a critical
+mission, before retreating to safe houses and
+deliver their quarry, whether it be
+information or proof of a kill.
+
+#### Variant Criminal: Undead Deathstalker (Forsaken only)
+You are part of the Forsaken Order of
+Deathstalkers, an elite guard that also
+doubles as a guild of assassins that serve the
+Banshee Queen and her advisors.
+
+Deathstalkers are skilled assassins who utilize
+their undead nature in conducting
+infiltrations and assassinations.
+
+##### Deathstalker Test
+Becoming a Deathstalker is a deadly mission
+in of itself. The test given to prospective
+Deathstalkers usually tests their patience,
+cunning, or strength, and are tailored to
+reveal the limits applicant‘s strengths and
+how far they will go for the Banshee Queen
+and the Forsaken.
+
+\pagebreakNum
+
+| d6  | Test |
+|:---:|:----:|
+| 1 | Assassinate an enemy (scarlet crusader, alliance spy, or a scourge necromancer) | 
+| 2 | Track and apprehend infiltrators to Forsaken society or leadership | 
+| 3 | Deliver a critical message through hostile territory | 
+| 4 | Retrieve the head of a fallen Deathstalker agent | 
+| 5 | Infiltrate, sabotage, or conduct reconnaissance on an enemy of the Forsaken |
+| 6 | Guard an ally of the Forsaken against assassination without them realizing it | 
+
+___
+You may start with a dagger that doubles as a
+signet of rank (called the Shadowstalker), and
+one memento of your Deathstalker test. 
+
+##### Variant Feature: Undead Stalker
+When conducting a mission, you intuitively
+know how to utilize your undead nature for
+best effect, recognizing and easily applying
+unusual tactics such as waiting underwater
+for hours before leaping out for a kill, staking
+out a position for days or even weeks without
+sleep, or tracking in hostile terrains without
+tire or need to eat.
+
+Furthermore, hidden agents loyal to the
+Deathstalkers or the Forsaken recognize your
+authority and influence, and they defer to
+you if they are of a lower rank. You can
+invoke your rank to exert influence over
+other members and requisition simple
+equipment or horses for temporary use. You
+can also usually gain access to friendly
+military encampments and fortresses where
+your rank is recognized. Hidden shelters of
+the Deathstalkers are found all over the
+world in places where the Forsaken are
+active.
+
+#### Variant Criminal: Uncrowned
+The Uncrowned is a secret society who claim
+to be "the slayers of kings, the downfall of
+empires, and the unseen blades that write the
+true history of this world." Besides their role
+as a secret society, the Uncrowned also guard
+the world against the threats that seek to
+destroy it to preserve their interests.
+
+As part of the Uncrowned, you appear as a
+member of any other faction in Azeroth, such
+as a member of Ravenholdt, SI:7, or one of
+the many pirate organizations (such as
+Bloodsail Buccaneers).
+
+##### Variant Feature: Agent of Suspect Loyalty
+You are treated as a trusted member of two
+or more organizations at once, serving two
+intelligence organizations, one of which must
+be the Uncrowned. The other organization
+may know or be ignorant to the fact that you
+are a double spy. If they are aware, they may
+believe (due to your actions and decisions)
+that they are playing the other agency, while
+the Uncrowned believe the same. You have
+the training to relax suspicions towards
+actions that benefit one agency over another
+when facing common agents of either
+organizations.
+As a double agent, your life is risky but
+rewarding if you play your cards right—after
+all, who knows your true loyalties but
+yourself?
+
+### Entertainer
+You are an actor, singer, dancer or other who
+provides enjoyment through their
+performances to others. Every culture enjoys
+the entertainer‘s work.
+
+#### Variant Entertainer: Darkmoon Theater Troupe Member
+The Darkmoon Faire showcases the weird
+and extraordinary once a month. Gathering
+the exotic from around the world, Silas
+Darkmoon presents the Darkmoon Faire as a
+celebration of the wonders and mysteries
+found in Azeroth. The faire spends most of
+its time in parts unknown but is available
+from time to time by accessing portals in
+Elwynn Forest and Mulgore, which are
+teleportation circles conjured by forces
+(apparently) unknown to Darkmoon Isle.
+
+It often takes three days to set up the new
+attractions (from exotic vendors selling alien
+mounts and magic item shops, to being
+launched from the Darkmoon Cannon to
+win tokens), and remains active for one
+week—afterwards, the portals close, and the
+faire goes on the move once more.<br><br>
+
+> Ahead of You, Down the Path<br>
+> A Majestic, Magical Faire!<br>
+> Ignore the Darkened, Eerie Woods<br>
+> Ignore the Eyes That Blink and Stare<br>
+> <br>
+> Fun & Games & Wondrous Sights!<br>
+> Music & Fireworks to Light up the Night!<br>
+> Do Not Stop! You're Nearly There!<br>
+Behold, My Friend: THE DARKMOON FAIRE!<br>
+> <br>
+> -- Signs along the road to Darkmoon Faire
+ 
+### Folk Hero
+Before stepping onto the world stage, you
+first saved a lone village near to your heart. A
+Folk Hero may rise from anywhere he or she
+is needed; wherever a monster pillages or a
+child cries out, they‘ll be there.
+
+Folk heroes arise from exceptional
+circumstances. Many heroes of Azeroth
+started as folk heroes, questing to resolve
+family feuds in Elwynn to bringing closure to
+widowed orcs of the Barrens.
+
+### Guild Artisan
+You are a person of business. Artisans
+learned a trade and practice it well, usually
+accompanied by a union of like-minded
+individuals.
+Most artisans are found in large urban
+settlements, offering training or
+apprenticeship in the knowledge of how to
+create rare materials. Many guilds exist in
+Azeroth, such as the Alliance‘s MEGA
+(Mechanical Engineering Guild, Associated),
+and the Great Anvil Smiths of Ironforge, or
+the independent (Goblin Experimental
+Engineering Korporation).
+
+#### Variant Guild Artisan: Company Owner
+You may have chosen to start your own
+enterprise over joining the employ of a guild
+or company. This requires great initiative and
+persistence, as other companies may wish to
+force a merger to take advantage of your
+innovations or to get rid of a competitor. 
+
+##### Variant Feature: Chief Executive Officer
+Thanks to your initiative and ambition,
+people are inclined to think the best of you
+or take your word seriously. When entering a
+market you are known in, people assume you
+are there on serious business, from
+investment to searching for apprentices to
+even searching for a place to sell your wares.
+
+\pagebreakNum
+
+The common folk make every effort to
+accommodate you and avoid your
+displeasure, and merchants and other
+company owners treat you as an equal.
+You can secure an audience with a local
+merchant or company owner if you need to,
+and with a little work, you might secure an
+audience with a local noble as well, if you
+have something they might like to listen to
+(such as an offer to invest or useful products
+of your making).
