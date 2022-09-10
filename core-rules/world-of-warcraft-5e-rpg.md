@@ -310,6 +310,25 @@ Damage types are detailed under Chapter 9.
     - ##### [<span>Witch Doctor (Shaman)</span>                       <span>156</span>](#witchdoctor) 
   - #### [<span>Bound Companions</span>                               <span>158</span>](#companions)
   - #### [<span>Class Talents</span>                                  <span>159</span>](#classtalents)  
+- ### [<span>Chapter 4: Personality & Background</span>                                <span>???</span>](#personality)
+  - #### [<span>Character Details</span>                                  <span>???</span>](#characterdetails)  
+    - ##### [<span>Languages</span>                        <span>???</span>](#languages)
+    - ##### [<span>Inspiration</span>                        <span>???</span>](#inspiration)
+  - #### [<span>Backgrounds</span>                                  <span>???</span>](#backgrounds)  
+    - ##### [<span>Acolyte</span>                        <span>???</span>](#acolyte)
+    - ##### [<span>Charlatan</span>                        <span>???</span>](#charlatan)
+    - ##### [<span>Criminal</span>                        <span>???</span>](#criminal)
+    - ##### [<span>Entertainer</span>                        <span>???</span>](#entertainer)
+    - ##### [<span>Folk Hero</span>                        <span>???</span>](#folkhero)
+    - ##### [<span>Guild Artisan</span>                        <span>???</span>](#guildartisan)
+    - ##### [<span>Haunted One</span>                        <span>???</span>](#hauntedone)
+    - ##### [<span>Hermit</span>                        <span>???</span>](#hermit)
+    - ##### [<span>Noble</span>                        <span>???</span>](#noble)
+    - ##### [<span>Outlander</span>                        <span>???</span>](#outlander)
+    - ##### [<span>Sage</span>                        <span>???</span>](#sage)
+    - ##### [<span>Sailor</span>                        <span>???</span>](#sailor)
+    - ##### [<span>Soldier</span>                        <span>???</span>](#soldier)
+    - ##### [<span>Urchin</span>                        <span>???</span>](#urchin)
 
 </div>
 
@@ -10399,9 +10418,15 @@ rest.
 
 # Chapter 4: Personality and Background
 
+<a id="personality"></a>
+
 ## Character Details
 
+<a id="characterdetails"></a>
+
 ### Standard Languages
+
+<a id="languages"></a>
 
 | Language  | Typical Speakers | Script | Special |
 |:---:|:---:|:---:|:---:|
@@ -10458,6 +10483,9 @@ ___
 normal time of learning a language.
 
 ### Inspiration
+
+<a id="inspiration"></a>
+
 Inspiration is a rule the player can use to
 grant them benefits for playing their
 character in a way that‘s true to his or her
@@ -10587,10 +10615,16 @@ how you wish to handle the character‘s
 personality progression).
 
 ## Backgrounds
+
+<a id="backgrounds"></a>
+
 The Warcraft universe has its own native twist on backgrounds. You may use any of the below
 backgrounds with the appropriate customization options.
 
 ### Acolyte
+
+<a id="acolyte"></a>
+
 You are a religious devotee. Acolytes tend to
 live somewhat sheltered lives as priests and
 aides in major religions, until the call to
@@ -10639,6 +10673,9 @@ choice that was the tool of your training in
 the favored weapon of the moon goddess.
 
 ### Charlatan
+
+<a id="charlatan"></a>
+
 You are a special sort of criminal who
 specializes in taking advantage of others.
 Charlatans tend to live in urbanized areas
@@ -10650,6 +10687,9 @@ common among human cities due to their
 urban nature.
 
 ### Criminal
+
+<a id="criminal"></a>
+
 You are a criminal—who breaks the law for
 fun and profit. Criminals come from every
 walk of life and every type of environment,
@@ -10705,7 +10745,7 @@ You may start with a dagger that doubles as a
 signet of rank (called the Shadowstalker), and
 one memento of your Deathstalker test. 
 
-##### Variant Feature: Undead Stalker
+##### Variant Feature (Undead Deathstalker): Undead Stalker
 When conducting a mission, you intuitively
 know how to utilize your undead nature for
 best effect, recognizing and easily applying
@@ -10729,7 +10769,7 @@ the Deathstalkers are found all over the
 world in places where the Forsaken are
 active.
 
-#### Variant Criminal: Uncrowned
+#### Variant Criminal (Operative): Uncrowned
 The Uncrowned is a secret society who claim
 to be "the slayers of kings, the downfall of
 empires, and the unseen blades that write the
@@ -10744,7 +10784,7 @@ as a member of Ravenholdt, SI:7, or one of
 the many pirate organizations (such as
 Bloodsail Buccaneers).
 
-##### Variant Feature: Agent of Suspect Loyalty
+##### Variant Feature (Operative): Agent of Suspect Loyalty
 You are treated as a trusted member of two
 or more organizations at once, serving two
 intelligence organizations, one of which must
@@ -10764,6 +10804,9 @@ all, who knows your true loyalties but
 yourself?
 
 ### Entertainer
+
+<a id="entertainer"></a>
+
 You are an actor, singer, dancer or other who
 provides enjoyment through their
 performances to others. Every culture enjoys
@@ -10801,8 +10844,26 @@ faire goes on the move once more.<br><br>
 Behold, My Friend: THE DARKMOON FAIRE!<br>
 > <br>
 > -- Signs along the road to Darkmoon Faire
+
+Besides the normal Entertainer Routines, you may refer to the list below for Darkmoon Faire Routines.
+
+| d10  | Faire Routine |
+|:---:|:---:|
+| 1	| Fizzy Drink Vendor | 
+| 2	| Crunchy Frog Cook | 
+| 3	| Steam Tonk Scavenger | 
+| 4	| Carnie Bandager | 
+| 5	| Banner-maker | 
+| 6	| Darkmoon Prize-Wrapper | 
+| 7	| Race Manager | 
+| 8	| Shooting Game Vendor | 
+| 9	| Sweets Vendor | 
+| 10 | Pet Tamer | 
  
 ### Folk Hero
+
+<a id="folkhero"></a>
+
 Before stepping onto the world stage, you
 first saved a lone village near to your heart. A
 Folk Hero may rise from anywhere he or she
@@ -10815,7 +10876,12 @@ started as folk heroes, questing to resolve
 family feuds in Elwynn to bringing closure to
 widowed orcs of the Barrens.
 
+\pagebreakNum
+
 ### Guild Artisan
+
+<a id="guildartisan"></a>
+
 You are a person of business. Artisans
 learned a trade and practice it well, usually
 accompanied by a union of like-minded
@@ -10847,8 +10913,6 @@ are there on serious business, from
 investment to searching for apprentices to
 even searching for a place to sell your wares.
 
-\pagebreakNum
-
 The common folk make every effort to
 accommodate you and avoid your
 displeasure, and merchants and other
@@ -10860,3 +10924,977 @@ audience with a local noble as well, if you
 have something they might like to listen to
 (such as an offer to invest or useful products
 of your making).
+
+#### Variant Guild Artisan: Guild Crafter
+Gnome and forsaken alchemists and
+gnomish and dwarven tinkers often boast
+membership in a guild that could support
+their crafting endeavors, from providing
+training in rare material recipes to financial
+aid when a project becomes too expensive (in
+return for a percent on future income, of
+course!).
+
+Furthermore, your guild may possess
+engineering blueprints, alchemy formulae, or
+even infusion matrices they might share with
+you, in return for services rendered or for
+reduced cost in comparison to other sources.
+
+#### Variant Guild Artisan: Thorium Brother
+The Thorium Brotherhood (TB Ltd.) is a
+group of Dark Iron dwarves who are not
+members of the Dark Iron clan. On the cliffs
+overlooking the region called the Cauldron,
+in the far north of the Searing Gorge, the
+dwarves of the Thorium Brotherhood have
+established a base of operations, Thorium
+Point. From here, they keep a close eye on
+the Dark Iron dwarves' activities in the
+Searing Gorge and beyond.
+
+The Thorium Brotherhood comprises many
+exceptionally talented craftsmen, and the
+blacksmiths of the Brotherhood are rumored
+to be among the finest Azeroth has ever seen.
+
+They possess the knowledge required to make
+the arms and armaments of Ragnaros, the
+Fire Lord, but lack the manpower to obtain
+the materials required for the crafting. 
+
+A daunting task, no doubt, but gaining access
+to the Thorium Brotherhood's secrets should
+prove to be a reward well worth the effort.
+
+#### Variant Guild Merchant: Cartel Member
+A cartel refers to a large group of goblin
+traders. Goblin cartels often compete with
+other cartels, such as in the Trade Wars.
+
+These organizations are normally led by trade
+princes, but they don't have to be; for
+example, although the Venture Company is a
+cartel, its leader Mogul Razdunk is not a
+trade prince.
+
+After the goblins overthrew the Zandalari
+trolls, they celebrated their new found
+freedom by turning on each other, creating
+chaos as countless feuds were waged and
+alliances formed. Soon enough they were
+split into various different groups, with the
+most powerful of these known as the cartels.
+
+However, as the battles raged on and it
+became clear no one was actually winning,
+the cartels realized it was in their mutual
+interests to broker a truce. Despite this, the
+conflict would never really end, as the goblins
+now turned to trade, doing battle in the
+economic arena. For years to come the cartels
+were rivals, constantly outshining and
+outsmarting each other as they continued in
+their quest for wealth and power.
+
+As a cartel member, you do not create but
+trade, and earn a living by maximizing profit
+by selling to the neediest individuals or
+organizations. You may use honorable means,
+but there is no love lost between goblins and
+the other races of Azeroth—establishing
+monopolies, sabotaging the competition, and
+selling basic living expenses are cutthroat
+prices to starving buyers made trade princes
+trade princes, after all!
+
+Rather than proficiency with artisan‘s tools,
+you might be proficient with navigator‘s
+tools, a vehicle, or an additional language.
+
+And instead of artisan‘s tools, you can start
+with a mule and a cart, or a permanent free
+pass on goblin balloons for yourself and your
+adventuring companions. 
+
+### Haunted One
+
+<a id="hauntedone"></a>
+
+You have faced terrible darkness, and it has
+left its mark on you. Haunted ones are born
+from terrible circumstances, such as being
+subject to demonic possession or the
+influence of the Old Gods.
+
+#### Variant Haunted One: Illidari
+You are of the Illidari—the faction of Illidan
+Stormrage, and you represent his will as part
+of a force made of demon hunters and
+warlocks. The Illidari also include demonic
+forces that chose to serve him over the
+Legion.
+
+The most elite of Illidan's armies are his
+demon hunter servitors, night elves and
+blood elves trained to be the Betrayer's
+mightiest enforcers, the bane of demonkind.
+
+Zealously loyal to their master, the Illidari
+demon hunters have a strong identity and a
+close bond, although their heavy fel
+corruption and demonic techniques have
+inspired dread in their fellow elves.
+
+You may replace your language with Eredun
+(corrupted). You also start with a demon
+hunter‘s pack instead of a monster hunter‘s
+pack.
+
+The demon hunter's pack includes a chest, a
+crowbar, a hammer, a holy symbol (such of
+Elune or the Holy Light), a flask of holy
+water, a set of manacles, a silver mirror, a
+flask of oil, a tinderbox, and three torches.
+
+Purchasing the pack costs 33 gp, which is
+cheaper than buying its contents individually.
+
+Source: This background is adopted from the
+Haunted One background (from Curse of
+Strahd)
+
+\pagebreakNum
+
+### Hermit
+
+<a id="hermit"></a>
+
+You are a person who lives in isolation.
+Hermits prefer the peace and quiet of
+solitude to the bustle of towns and villages.
+For whatever reason they have reentered
+society once more.
+
+#### Variant Hermit: Slumbering Druid (Druid only)
+Druids of Azeroth are more attuned to the
+world‘s dream-realm, the Emerald Dream,
+than any other creature. The great Malfurion
+Stormrage was in this slumber ever since the
+War of the Ancients, nearly 10,000 years
+before Orcs emerged on Azeroth, as well as
+his fellow druids of many circles, such as the
+Druids of the Talon, Druids of the Claw, and
+Druids of the Antler.
+
+Today, the Cenarion Circle consists of many
+such hermit druids from many races, from
+Night Elves to Tauren to Worgen, even to
+the odd promising human or high elf
+apprentice. The Cenarion Circle often
+gathers at seasonal periods (such as solstices
+and seasonal holy days) to discuss the issues
+the world faces, from the spread of the
+mysterious Emerald Nightmare to portents
+and omens they notice during the Emerald
+Sleep.
+
+##### Variant Feature: Emerald Sleep
+You can dream the Emerald Dream, a plane
+of thought and fey, ruled by the great green
+dragon Ysera and overseen by the demigod
+Cenarius. It is a vast, ever-changing spirit
+world that exists outside the boundaries of
+the physical world.
+
+While most creatures often tap into the
+Emerald Dream while sleeping by accident,
+you may enter it willingly whenever they
+sleep, although you cannot shape anything
+within it beyond a few moments.
+
+Within the dream, you may call out the
+spirit-form of another slumbering druid and
+communicate with them, but only so long as
+both you and they have been slumbering for
+at least 6 hours. You can slumber even if you
+normally do not need to sleep. While
+sleeping, you can awaken in response to any
+stimuli they specify.
+
+Malfurion himself awoke only to answer the
+clarion call of the Horn of Cenarius, blown
+by his wife Tyrande Whisperwind in answer
+to the Burning Legion descending on the
+ancient forest of Ashenvale.
+___
+*Special.* If you are under the effects of the
+slumber druid spell, you can remain in the
+Emerald Dream so long as the spell is still
+active. 
+
+### Noble
+
+<a id="noble"></a>
+
+You are an aristocrat or important member
+of society. Nobles exist in all societies, even if
+they aren‘t legally defined as such. There is
+always a cultural, spiritual, or economic elite
+in every civilization, regardless of the title
+itself.
+
+You may be a noble of the Stormwind House
+of Nobles, dissatisfied with the role the
+Alliance has or your fellow nobles (egged on
+by nobles such as Lady Prestor), or a high
+tribesman in orcish society. While few night
+elven nobles have remaining grievances after
+they witnessed the folly of Queen Azshara
+during the War of the Ancients, some do
+long for the days where they ruled and the
+Sisterhood of Elune and the Druids were not
+calling the shots.
+
+Where the nobles of Alterac turned to serve
+or join the criminal Syndicate, high elven
+noble refugees have decided to fight back for
+their homelands.
+
+#### Variant Noble: Knight
+There are many knightly orders on Azeroth,
+from the noble Knights of Stormwind and
+the remnants of the Silver Hand, to the
+Argent Dawn or Scarlet Crusade orders.
+
+Orcish raiders also have a position of
+importance in the Horde and in their tribes,
+often serving as advisors and councilors as
+well as generals and commanders.
+
+##### Variant Feature: Mounted Warrior
+Instead of taking the Position of Privilege or
+Retainers feature, you may instead acquire a
+racial mount appropriate for your race (such
+as a horse for humans, a riding wolf for orcs,
+etc.).
+
+#### Variant Noble: Tribal Elite
+You are an elite member of your tribe. Many
+tribes of dozens of races spread among
+Azeroth, such as the various troll and orc
+clans.
+Instead of receiving a signet ring, you have a
+symbol or flag of your clan.
+
+##### Variant Feature: Rite of Glory
+You passed many trials, such as the rite of
+adulthood and rite of glory. Your clan (and
+others) acknowledge your authority and
+influence, and you may utilize this influence
+to secure simple equipment such as
+temporary mounts or equipment. You are
+also honored by your clan, and you and your
+adventuring companions can find it easy to
+acquire shelter and food as guests, so long as
+you observe the customs of hospitality.
+
+### Outlander
+
+<a id="outlander"></a>
+
+You are a survivor of the wilderness. An
+outlander, like the hermit, tends to live alone
+though not exclusively. They live in the wilds
+for years at a time away from greater
+civilization. They live off the land and survive
+using their wits.
+
+Every race has its members who chose to live
+apart from urban civilization. 
+
+#### Variant Outlander: Headhunter (Troll only)
+You are capable combatant and survivalist
+who serves himself or his tribe, walking the
+wilderness and putting down threats to your
+people while living far from them. This could
+be for noble or spiritual reasons.
+
+Instead of proficiency in a musical
+instrument, you may be proficient with one
+artisan tool of your choice or the herbalism
+kit. You can also replace your staff with an
+herbalism kit.
+
+#### Variant Outlander: Spirit Walker (Tauren and Orc only)
+You are a spirit walker, a mystical, whitefurred tauren. Believed to be the ill omen of
+a coming age, white tauren are held in near
+reverence by their people, often becoming
+reclusive priests who wander the land in
+search of kindred spirits. Spirit walkers
+maintain balance between the world of the
+living and the spirit realm. 
+
+As a spirit walker, your fur is pearly-white,
+and your eyes reflect the life of a thousand
+souls.
+
+Their bodies are vessels, conduits from the
+realm of the dead to the world of the living.
+
+As a spirit walker, you are often looked upon
+with awe and fear by their brethren. A spirit
+walker strong enough to bear the weight of so
+many souls achieves a mystical
+transcendence, embodying the collective will
+and experience of the generations that are
+reaching out to him.
+
+\pagebreakNum
+
+Alternatively, instead of being a tauren, you
+might be an orc from the Shattered Hand
+clan.
+
+#### Variant Feature: Conduit of Spirits
+You are capable of channeling ancestral
+spirits through your body. When you sleep or
+meditate, you often receive visions of the
+people who are now dead, usually echoes of
+the past. If there are restless spirits about, the
+DM may allow a limited degree of contact
+with them (as a Call), as if you shared a
+language with incorporeal undead. This
+communication takes five times as much time
+to deliver or understand a message.
+
+Uncontrolled undead that normally hostile
+by nature might approach with caution or
+ignore you, instead of attacking on sight.
+
+Because this feature is not magical, its power
+is inferior to the speak with dead spell or
+actually speaking a shared language. 
+
+### Sage
+
+<a id="sage"></a>
+
+You are a scholar of mystic or mundane
+knowledge. Sages are a class of learners who
+delve into the deepest mysteries and the
+murkiest of Apocrypha to bring truth to the
+people, or a sizeable grant to their
+institutions.
+
+#### Variant Sage: Kirin Tor Agent
+You are (or were) employed in Dalaran,
+whether an agent of the mage-court itself, a
+graduate, a mage-guard, or one of the factions
+that rule the city. The magical city of Dalaran
+is ruled by a council of mages, and is usually influenced by the interests of several factions.
+By the time of the Third War, there were
+many powerful wizards‘ guilds, who trained
+apprentices and served as a curious mix of
+faction, guild, and students‘ activities clubs.
+
+By the time of the War of the Lich King, the
+Sunreavers and Silver Covenant factions
+dominated the political scene.
+
+You may replace one skill proficiency from
+your background with Deception,
+Investigation, or Persuasion. Instead of
+common clothes, your clothes might be violet
+(representing the kingdom itself), or be of a
+color associated with one of the guilds. Also,
+you gain one of the following equipment
+depending on your role in Dalaran: a
+graduate‘s staff (if you were a graduate) or a
+signet ring of a faction (if you were a faction
+member).
+
+### Sailor
+
+<a id="sailor"></a>
+
+You are a sailor, one who makes their way in
+the world as traders, merchants, naval
+personnel, or even as smugglers or pirates
+when times get lean. Sailors can be found
+near any major body of water or in ports.
+
+#### Variant Sailor: Goblin Balloonist (usually Goblin only)
+The job of a balloonist is a risky but
+profitable venture in the world of Azeroth, as
+it is gradually becoming the medium of
+choice for transport across terrestrial lands.
+
+As a balloonist, you may have faced high
+winds, aerial foes, or delivered your charges
+(or cargo) across active battlefields to their
+destinations.
+
+Instead of proficiency in vehicles (water), you
+may be proficient in vehicles (air).
+
+##### Variant Feature: Goblin Balloon Pass
+When you need to, you can secure free
+passage on a goblin balloon for yourself and
+your adventuring companions. You might
+sail on the balloon you served on, or another
+balloon you have good relations with
+(perhaps one captained by a former
+crewmate). Because you‘re calling in a favor, you can‘t be certain o f a schedule or route
+that will meet your every need. Your
+Dungeon Master will determine how long it
+takes to get where you need to go. In return
+for your free passage, you and your
+companions are expected to assist the crew
+during the voyage, but you do not require a
+permanent pass.
+
+#### Variant Sailor: Mariner or Reaver
+Marines (or mariners) are, depending on
+their faction, either footmen or grunts
+specialized in the support of naval and army
+operations on land and at sea.
+
+As a mariner, may have served aboard the
+various airships and gunships of the Alliance
+or the Horde, and are often working
+alongside sailors. The human nation of
+Kul‘tiras is specialized in naval warfare and as
+such has a high number of marines among its
+forces. Mariners tend to operate under
+standard five-year contracts when signing on
+with a new crew as evidenced by the crew of
+the Wavestrider. While human marines are
+almost always found among the crews of
+Alliance gunships, it seems the orcish
+equivalent for them is "reaver", for reavers
+can be found among almost all orc gunships.
+
+Instead of a lucky charm, you may choose to
+receive an insignia of rank instead. 
+
+### Soldier
+
+<a id="soldier"></a>
+
+You are a combatant who participated in a
+war or trained as such. With war being the
+fact of life in Azeroth, there is no end in sight
+for work, whether it be for a militia,
+professional standing army, or as a
+mercenary.
+
+#### Variant Soldier: Militiaman
+You are trained in a town militia, practicing
+weaponry common to your race and ready at
+a moment‘s notice to answer the call to arms.
+
+##### Variant Feature: Call to Arms
+You answer to the call to arms—and give it as
+well. Villagers, militiamen, city-folk, and city
+guards usually trust your word regarding any danger you identify and properly
+communicate, and you can temporarily
+acquire equipment that can aid confront the
+threat from them, such as mounts or
+weapons. Your background and steadfastness
+also usually allows such strangers to be
+friendlier to you so long as you maintain your
+duties.
+
+#### Variant Soldier: Mage Guard
+You are trained to guard and protect mages
+or other spellcasters. You could have been
+trained in the Violet City of Dalaran, have
+been cloistered with the priests of Northshire
+Abbey, or have been a childhood friend or
+sibling to a mage.
+
+Rather than training in Athletics and
+Intimidation, you may exchange one of the
+proficiencies with Arcana or Investigation.
+
+##### Variant Feature: Special Investigator
+You are trained in taking down wizards and
+finding evidence of them. You could have
+been trained in Dalaran by the Kirin Tor‘s
+wardens, or be a superstitious villager who
+fears dark magic.
+
+Whenever you visit a settlement, commoners
+and law enforcement are more likely to trust
+you with reports of strange events, such as
+missing persons, reports of demonic activity,
+unknown magical paraphernalia such as
+magic circles burnt into grass, or reports of
+people speaking in tongues.
+
+While many such instances were pranks or
+the confused spellcasting or apprentice
+mages, some are omens of darker things. You
+can also usually tell the difference between
+the two when observing clues, such as a
+suspect‘s residence.
+
+You are usually recommended to keep the
+results of your investigation secret and report
+back to your superiors.
+
+#### Variant Soldier: Crusader
+A crusade was the only answer to humanity
+in the fallen domains of Lordaeron and
+Dalaran. The undead armies of the Scourge
+were a tide that could not be pushed back
+save by the sword and the prayer.
+
+\pagebreakNum
+
+You might have once been a member of the
+disbanded Order of the Silver Hand, a
+farmer who threw down his farming tools
+and took up a rusted militia sword, or a
+youth who chose to leave the safety of the
+southern lands to fight back against the
+encroaching darkness under the mantle of
+the Light. Not every crusader is from the
+Paladin class, as they also boast Hunters and
+Priests among their rank, as well as the
+necessary Rogue.
+
+You may replace one skill proficiency from
+your background with Insight or Religion.
+
+#### Variant Soldier: Farstrider (High Elf and Blood Elf usually)
+You are part of the High Elven Order of
+Farstriders, a paramilitary organization that is
+a similar reflection to the night elven
+Sentinels. After the destruction of
+Quel‘Thalas, the Farstriders began
+diminishing in importance, especially after
+the blood elves‘ newfound obsession with fel
+magic.
+
+Rangers form the scout and advanced
+skirmishing forces of Quel‘Thalas, while
+seekers are specialized assassins who infiltrate
+enemy lands and perform dangerous
+missions.
+
+You may replace one skill proficiency from
+your background with Nature, Insight, or
+Perception. Also, instead of proficiency with
+vehicles (land), you may gain proficiency with
+an herbalism or disguise kit.
+
+##### Variant Feature: Wanderer
+You may gain the wanderer background
+feature of the Outlander instead of the
+Military Rank feature of the soldier
+background.
+
+#### Variant Soldier: Sentinel
+You are part of the Night Elven Order of
+Sentinels, a religious/military organization
+that protects and preemptively destroys
+threats to the night elves and their lands.
+
+You may replace one skill proficiency from
+your background with Religion,
+Investigation, or Stealth.
+
+### Urchin
+
+<a id="urchin"></a>
+
+A child of the streets. Urchins can be found
+in the dirty streets begging for coin,
+pocketing what isn‘t theirs, and generally
+trying to grow up to be criminals or
+charlatans. 
+
+#### Variant Urchin: Refugee
+In many cases, an urchin could have been
+born in comfort or even opulence. You have
+been forced from your home to another land,
+either from war (such as the humans of
+Stormwind or the high elves of Silvermoon),
+disease (such as the humans of southern
+Lordaeron escaping the Undead Plague), civil
+conflict (such as the instability in Westfall),
+or the very destruction of your world (as the
+Mag‘har orcs).
+
+##### Variant Feature: Something Left Behind
+You have access to a unique and powerful
+secret. The exact nature of this secret
+depends on the nature of your exile or status
+as refugee. It may be a secret about the event
+that caused you to escape, knowledge of a
+treasure or valuable memento. It might be
+information that would be damaging to the
+organization that drove you away, and hence
+the reason for your choice to adventure.
+
+Work with your DM to determine the details
+of your secret and its impact on the
+campaign.
+
+\pagebreakNum
+
+<a id="equipment"></a>
+
+# Chapter 5: Equipment
+
+## Starting Equipment
+As described in the Player’s Handbook, you can start with a number of gold pieces based on your class and spend them on items from the lists in the equipment chapter. See the Starting Wealth by Class table to determine how much gold you have to spend.
+
+You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. 
+
+### Starting Wealth by Class
+
+| Class  | Funds |
+|:---:|:---:|
+| Alchemist	| 5d4 x 10 gp <br>(plus 250 gp worth in alchemical components) | 
+| Death Knight | 5d4 x 10 gp (plus Runeblade(s)) | 
+| Druid | 2d4 x 10 gp | 
+| Hunter | 5d4 x 10 gp | 
+| Mage | 4d4 x 10 gp | 
+| Monk | 5d4 gp | 
+| Paladin | 5d4 x 10 gp | 
+| Priest | 5d4 x 10 gp | 
+| Rogue | 4d4 x 10 gp | 
+| Shaman | 5d4 x 10 gp | 
+| Tinker | 4d4 x 10 gp <br>(plus 250 gp worth in engineering components) | 
+| Warlock | 4d4 x 10 gp | 
+| Warrior | 5d4 x 10 gp | 
+
+#### Wealth
+Material wealth in Azeroth was based on gold, silver, and copper coins. In many cases, however, barter takes place (such as in Booty Bay or other goblin strongholds), or is measured in other means (land, ownership of mines and other resource nodes, etc.) 
+
+Stormwind's coinage has traditionally been the copper penny, the silver groat, and the gold sovereign. For all purposes, however, coinage is nearly universal, with Stormwind-minted coin in equal circulation with coins minted in Ironforge, Orgrimmar, or Booty Bay. The Defias Brotherhood enjoys marring Stormwind minted coins creating "cross-eyed coins” which is a sign of treason to the throne. 
+
+Mined from the rich earth of Azeroth and Lordaeron, gold is commonly used as coins in exchange for goods and services. As a rare substance that is always in short supply, gold must be dug out from the rock and soil within established gold mines. Many of these mines were abandoned when the orc raids began (followed by the First and Second wars) and the workers fled for their very lives. 
+
+Since the beginning of the Second War, many gold-mining sites are frequently operated while under the protection of military forces.
+
+Goblins call their currency macaroons, and they refer to money as moolah.
+
+Some other coins that are not minted any longer are worth more to some people. Gold coins from the fall of the Night Elf empire (Azshara-mint) often worth at least ten times the actual value of the same coin at the time of the empire’s fall and drowning beneath the sea. 
+
+### Coinage
+The monetary system in the world of Warcraft operates on the scale described in the Player’s Handbook.  The only exception is that platinum pieces have yet to make an appearance in the world of Azeroth; though the value of platinum is recognized, it is rare enough that it is still used primarily as a decorative material rather than a type of coinage.
+
+### Instances
+| Class  | Funds |
+|:---:|:---:|
+| 50,000 gold | was offered by Patch to the first goblin making it to the deployment point in Nazmir. | 
+| 10,000 gold | was offered by Harlan Sweete to whoever brought him the head of Flynn Fairwind and an Alliance adventurer. | 
+| 2,000 gold | was wagered by Gazlowe on a single boat race. | 
+| 1,000 gold | is made by Gazlowe per salvage haul for pirates. | 
+| 1,000 gold | was offered by Varok Saurfang per dead Alliance spy, though this was notably a bluff and no one was expected to, nor did anyone cash out. | 
+| 1,000 gold | was suggested by Helka Grimtotem as the worth of a gladiator champion like Valeera Sanguinar. Rehgar Earthfury agreed to sell Valeera to Helka for 2,000. | 
+| 500 gold | was offered by Varok Saurfang per captured Alliance spy, though this was notably a bluff and no one was expected to, nor did anyone cash out. | 
+| 300 gold | is the price of an immensely fast speed boat. | 
+| 300 gold | is the amount it costs the Alliance to train a foreman. | 
+| 200 gold | is the amount it costs the Alliance to train an engineer. | 
+| 200 gold | was the price offered to Valeera Sanguinar to purchase a fel dagger from an old woman in Menethil Harbor. | 
+| 100 gold | was given by an unnamed Stormwind Assassin's Guild member to Magatha Grimtotem in return for showing him a vision of his target, Lo'Gosh. | 
+| 100 gold | was bet by Renzik "The Shiv" on Nathanos Blightcaller winning a brawl against Varok Saurfang. | 
+| 50 gold | is the approximate amount it costs the Alliance to train a miner. | 
+
+\pagebreakNum
+| | |
+|:---:|:---:|
+| 35 gold | This amount was lost by an unnamed Defias Brotherhood member in bets during a Crimson Ring tournament in Dire Maul. | 
+| 30 gold | was added onto an existing bet against Croc-Bait by an unknown audience member during the Crimson Ring tournament. |
+| 20 gold | is the average cost of a salvage operation. | 
+| 20 gold | can buy 19 pallets filled with jerky and codfish.
+| 10 gold | During the invasion of Durotar, an unknown hunter in Daelin Proudmoore's army wanted to bet that amount of gold that he could kill Vol'jin. | 
+| 10 gold | was bet by an unnamed troll on Giago during a Crimson Ring tournament. | 
+| 5 gold | was bet by an audience member on Two-Heads during a Crimson Ring tournament. | 
+| 3 gold | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the groin. | 
+| 2 gold | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the face. | 
+| 2 gold | was given by Horde adventurers to Boss Bazzelflange to allow her to get home to Brawl'gar Arena after being stranded in Area 52. After being given the gold, Bazzelflange could be seen running up to the flight master Krexcil, presumably to buy a ride using the money. | 
+| 1 gold 45 silver | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the chest. | 
+| 15 silver | is the price for Scarlet Crusaders who want to receive absolution for sins of "harsh words". | 
+| 15 silver | In Bilgewater Harbor, every vice one can imagine is available for "just a handful of silver". | 
+| 50 silver | was offered by Sparkeye in a bet against Rehgar Earthfury's gladiator team. | 
+| 40 silver | was offered by Sparkeye in a "small wager" on a fight between his and Rehgar's gladiator teams. Rehgar doubled the bet to 80 silver. | 
+| 40 silver | was bet by an audience member on Croc-Bait during the Crimson Ring tournament. | 
+| 30 silver | is enough to purchase the ogre Throgg. | 
+| 20 silver | was bet by Spiketooth on Croc-Bait winning a fight against a crocolisk. As the fight progressed and Rokul refused to pay up, Spiketooth offered to raise the bet to 40, followed by Rehgar doubling it to 80. | 
+| 10 silver | was offered by an unnamed orc in a bet that Croc-Bait wouldn't last another two minutes during the Crimson Ring tournament. | 
+| 6 copper | Yrel owes this amount to Maami. | 
+| 1 copper | purchases a few vegetables. | 
+| 1 copper | was asked of Lo'Gosh and his companions by an old woman in Menethil Harbor in exchange for telling them their fortune. | 
+
+### Selling Treasure
+Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
+
+#### Arms, Armor, and Other Equipment
+As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell. Those in pristine condition (newly made) can sell for their normal value. 
+
+#### Magic Items
+Selling magic items is usually problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Major cities and faction capitals often have one or more shops (or institutions) that hire and retain professional infusionists. Such infusionists are often tied to their trade, training institutions, or faction, and require a certain degree of respect or clout to trade with strangers. People who are friendly with such organizations (or the mother faction) can expect fair trade (in the instance of Stormwind, humans who are considered heroes are fairly traded with, while wandering Pandaren might not be trusted with valuable items). 
+
+#### Gems, Jewelry, and Art Objects
+These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the DM might require you to find a buyer in a large town or larger community first.
+
+#### Trade Goods
+On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
+
+In many instances, going to larger towns (or those with greater commercial and economic activity) increases the chance of both selling treasure at fair prices as well as finding rarer items. See the Codex Mandatum document for more details on settlement economic activity. 
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+### Adventuring Gear
+
+| Gear | Cost | Mass | Properties |
+|:---:|:---:|:---:|:---:|
+| Battery | 50 gp | 1 lb. | 5 fuel units for electrical engines, rechargeable | 
+| Battery, Greater | 450 gp | 10 lb. | 50 fuel units for electrical engines, rechargeable
+| Bullets (20) | 1 gp | 1 lb. | Ammunition deals piercing damage | 
+| Packaged Bullets (20) | 35 gp | 3 lb. |  Ammunition prepackaged with its fuel (gunpowder), water resistant (but not fire resistant). | 
+| Cauldron (cast iron) | 5 sp | 5 lb. | A cast iron cauldron can be used in creating potion batches (see Chapter 7) | 
+| Coal | 2 cp | 1 lb. | 1/4 a unit of fuel for steam engines | 
+| Coal, shovel | 8 cp | 4 lb. | 1 fuel unit for steam engines | 
+| Gas/Oil, Pint | 6.4 sp | 1 pint | 1 fuel unit for combustion engines, loud | 
+| Pellets (20) | 1 gp | 1 lb. | Ammunition deals bludgeoning damage | 
+| Packaged Pellets (20) | 35 gp | 3 lb. | Ammunition prepackaged with its fuel (gunpowder), water and fire-resistant | 
+| Powder, pinch | 2 gp | 0.1 lb. | Can fuel one firearm shot | 
+| Powder, horn | 24 gp | 2 lb. | Has powder enough for 12 shots, water and fire-resistant | 
+| Powder, keg | 220 gp | 20 lb. | Has powder enough for 120 shots | 
+
+</div>
+
+##### Bullets and Pellets
+These pieces of ammunition typically come in ammo bags or packs, and are used by firearms. Specially-shaped bullets can be used to seal slashing damage instead.
+Bullets and pellets are both blacksmithing and engineering product for crafting purposes. 
+
+##### Packaged Bullets/Pellets
+These pieces of ammunition are specially-prepared to include their own fuel. Such ammunition is resistant to water, but have a 10% chance to explode every round if exposed to direct flame. Bullets and pellets are both blacksmithing and engineering product for crafting purposes.
+
+##### Powder Horn
+Carrying two pounds of gunpowder, this fire and water-resistant horn is required almost always for a tinker on the go. Gunpowder is both an alchemical and engineering product for crafting purposes. 
+
+##### Powder Keg
+Containing twenty pounds of gunpowder, this keg is very flammable, but it is a sure sight for sore dwarven eyes. Gunpowder is both an alchemical and engineering product for crafting purposes.
+
+\pagebreakNum
+
+### Weapons and Armor
+
+The Warcraft universe has several special varieties for existing weapons, as described below. 
+
+Clothes can be infused as if armors (with armor-specific infusions). They do not count as armor for the purposes of class features that require you to be armored or unarmored (such as the Defense Fighting Style or Unarmored Defense feature) unless they alter your AC. 
+
+Some weapons are described as if based off another weapon (for example, the greathammer and the maul). If proficient with the original weapon (the maul), one week of training confers proficiency to the second (greathammer). Firearms require one week of training to be counted as martial weapons, and proficiency with Engineer’s Tools automatically confers proficiency. 
+<br><br>
+<div class="classTable wide">
+
+| Name | Cost | Damage | Mass | Properties | Proficiency |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Attack Claws | 2 gp | 1d4 slashing | 2 lb. | Finesse, light | As dagger | 
+| Bayonet | | | | | As original weapon | 
+| Garrote Wire | 1 sp | 1d4 slashing | - | Finesse, light, two-handed | Simple proficiency | 
+| Greathammer | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed | As maul | 
+| Moonglaive | 10 gp | 1d6 slashing | 3 lb. | Finesse | As shortsword | 
+| Spiked Chain | 15 gp | 1d6 slashing | 10 lb. | Finesse, reach, two-handed | Martial proficiency |
+| Sword, Two-Bladed | 15 gp | 1d8 slashing | 10 lb. | Finesse | As longsword | 
+| Syringe | 5 gp | 1 piercing | 1/2 lb. | Light | As dagger | 
+| Totem, Tauren | 10 gp | 2d6 bludgeoning | 10 lb. | Heavy, two-handed | As greatclub | 
+| Warglaive | 15 gp | 1d6 slashing | 2 lb. | Finesse, light | As scimitar | 
+
+</div>
+
+##### Attack Claws
+These claws may be attached to a hand, and allow for a user to perform somatic components without occupying the hand (as if a spellcasting focus). They are usually favored by orcish shamans who enter melee after conjuring elementals or placing totems. This is based on the dagger.  
+
+##### Bayonet
+This dagger-like blade can be attached to a firearm or crossbow, allowing it to make melee weapon attacks. Longer bayonets can act as shortswords or longswords instead (attached to medium and heavy firearms respectively). This requires the proficiency of the weapon described. Some firearms are modified with different weapons. The weapon cannot be heavier than the firearm itself. Weapons attached to firearms or crossbows can be enchanted (as normal weapons). 
+
+##### Garrote Wire
+This weapon can be used to start a grapple with an attack roll instead of making a Strength (Athletics) check, but suffers disadvantage to the roll if the target is aware of the attacker. This is a simple weapon. 
+
+##### Greathammer
+This iconic paladin weapon is favored by the Order of the Holy Light. This is based on the maul.
+
+##### Moonglaive
+This circular blade has three dagger-like blades jutting from its sides. Uncommonly seen but easy to train with, Moonglaives are favored by the night elves of Kalimdor. This is based on the shortsword. 
+
+##### Spiked Chain
+A 10-foot chain marked with a large hook, this spiked chain is a dangerous and rare weapon to see in the battlefield. A hooked spiked chain can tether on a successful hit (see Chapter 9). This is a martial weapon. 
+
+##### Sword, Two-Bladed
+Typically used only by elven swordsmen of great agility, the two-bladed sword is almost iconic of the high elven military. This sword can be used to attack with both ends as if using two weapons, despite being a single melee weapon that can is used in one hand. This otherwise acts as two-weapon fighting with all other respects. The weapon is also infused as if one weapon. This is based on the longsword.
+
+##### Syringe
+This needle is a specifically-designed weapon to inject injury poisons, plagues, and offensive potions into targets who are stabbed with it. After a successful attack roll, you may use a bonus action to inject the target with the contents of the syringe. This is based on the dagger.
+
+##### Totem, Tauren
+Large, unwieldy, but very intricately-made, tauren totems are iconic of the tauren peoples. A tauren totem can be treated as a shaman’s totem for the purposes of scribing spells. This is based on the Greatclub. 
+
+##### Warglaive
+This night elf weapon is a crescent-shaped blade about 4 feet long with a hilt in the center of the back edge. Demon hunters favor these weapons. This is based on the scimitar. 
+
+\pagebreakNum
+
+### Tools
+The Warcraft universe has its share of special tools, kits, and items. 
+<br><br>
+<div class="classTable">
+
+#### Artisan's Tools
+<div style="margin-top:5px;"></div>
+
+| Name | Cost | Mass | Properties |
+|:---:|:---:|:---:|:---:|
+| Engineer’s Tools | 50 gp | 10 lb. | Used for crafting technological devices such as explosives, gadgets, firearms, and constructs |
+| Infusion Kit | 100 gp | 5 lb. | Used for infusing items with innate magic |
+
+</div>
+
+##### Engineer's Tools
+This toolset includes various tools such as a collection of fuses, wrenches, nails, wires, and assorted common spare parts. Proficiency with these tools confers proficiency in firearms and explosives. 
+
+##### Infusion Kit
+These toolsets include an inscription plate, various brushes that can draw with magical ink, scales to measure infusion dusts, magnifying glasses of different sizes, and strips of vellum to help design and inscribe infusion matrices.
+<br><br>
+<div class="classTable">
+
+#### Gaming Sets
+<div style="margin-top:5px;"></div>
+
+| Name | Cost | Mass | Properties |
+|:---:|:---:|:---:|:---:|
+| **Hearthstone Sets** | | | |
+| Portable Board | 3 gp | 5 lb. | Portable board that manifests cantrips to facilitate gameplay | 
+| Full-size Board | 10 gp | 20 lb. | Near-table sized board that immerses players in the card game | 
+| Basic Card Set | 1 gp | - | A set of cards usually themed to class | 
+| Card Pack | 5 sp | ½ lb. | A pack of 5 random cards | 
+| **Jihui Set**| | | A mild-mannered Pandaren board game |
+
+</div>
+
+#### Hearthstone Set
+Hearthstone is a magical card game popular in inns and taverns across Azeroth. Its mascot is Harth Stonebrew, a dwarven innkeeper who, within the game's fiction, runs a special inn that always appears to travelers in need, no matter where they are. Hearthstone cards and boards are minor magic items, woven with spells meant to automatically adjudicate the rules and free the players from having to manually keep track of the numbers. Cards are keyed to the buyer by touching them, and will attempt to fly to the buyer after being played or discarded if the buyer
+
+\columnbreak
+
+is nearby (as if with the mage hand cantrip), unless physically prevented from doing so.
+
+Both the cards and the boards can be disenchanted, but will yield no components that would be of use in crafting equipment useful to adventurers. Decks have rarity as magic items, however, with Common rarity at +0 bonus, Uncommon at +1, Rare at +2, and Epic at +3. 
+
+##### Portable board
+The decks replicate the prestidigitation and minor illusion cantrips, but only to serve the game’s function. 
+
+##### Full-size board
+Fuller sets are physically larger, and can serve the players with more detail than the portable board, adding illusory fountains, lights, minor movement, terrain re-textures of the board, and minor self-repair as if also containing the Light, Dancing Lights, and Mending cantrips. 
+
+##### Basic Set
+These are enough cards to play Hearthstone with. This set has no deck bonus, but can be of a specific build. Each set is flavored to act as a specific class. This does not pre-determine the deck structure (see below), but usually suggests one (warlocks lean to spell or minion builds, paladins lean towards hero or endurance builds, etc.)
+
+##### Card Pack
+The card pack has 5 random cards. Roll 1d10 for each pack opened. On a roll of a 10, you get cards good enough to add you a +1 bonus to your ability check to play. 
+
+Every twenty packs opened automatically give you a +1 bonus (appropriately increasing rarity as previously described). 
+
+The detect magic spell reveals auras of the illusion and transmutation schools around both the decks and the cards.
+
+An Intelligence (Arcana) check reveals the following:
+* **DC 10.** The cards and the deck have complementary enchantments. Like a lock and a key, they are useless and effectively inert without each other.
+* **DC 15.** The magical patterns encode the rules of the game. For example, a board will flash red instead of the usual blue and refuse to activate if an illegal deck is inserted (such as one with fewer or more than 30 cards or cards incompatible with the class theme).
+* **DC 20.** The magical patterns of the board are basically series of instructions detailing what action to perform for everything the players might attempt, encoded in a whole complicated system built atop the primal language of the arcane. The pattern of each card is more like a description of its statistics and effect that can be "read" by a suitable magic device (which is the board).
+
+#### Jihui Set
+The board game known as jihui is one of the most prominent games found throughout Pandaria, mostly among the pandaren. It is gaining in popularity outside the continent, however.
+
+\pagebreakNum
+
+### Hearthstone Rules
+A collectible card game in which players obtain cards by purchasing packs, Hearthstone uses game decks of 30 cards with each player.
+
+During a match, each of the two players controls a character called a hero (usually appearing as they do) and can play cards drawn from their deck each turn, which are divided into minions (creatures that fight on the battlefield), spells (which affect the battlefield), weapons (which are equipped by heroes, allowing them to attack), and hero cards (which replace the hero with another one with different abilities). The goal of the game is to destroy the enemy hero by dealing enough damage to bring it down to zero health.
+
+Periodically, expansions to the game are released, creating new opportunities for deck-building. This changes the game, making some current decks obsolete due to ‘power creep’ and requiring players to build new ones to stay competitive.
+
+#### Prerequisites
+At a minimum, each player needs a basic set (1 gp, as above). One board is also needed to play the game. Basic sets and packs can generally be bought in taverns and general stores in any moderate-to-large settlement. A portable board is compact enough to be carried around and allow the game to be played in the field; full-size, stationary boards are typically installed in taverns and gambling dens, and have greater magical effects (see Magic below).
+
+#### Resolving a Hearthstone match
+Proficiency with Hearthstone as a game set allows you to add your proficiency bonus to any ability check you make using that tool. For a normal game, you may use Intelligence (if playing tactically), Spirit (if anticipating and preparing for enemy counters), or Charisma (if relying on psychological tactics and reading the enemy). 
+
+The contested roll is as follows.
+<br><br>
+**Hearthstone Roll Modifier** = your proficiency bonus 
+
+(if proficient in the gaming set) +
+
+your chosen mental ability score modifier +
+
+your deck bonus (from +0 to +3)
+___
+
+The higher dice result wins. In case of a tie, both checks are rerolled (which can represent anything from a rematch to a forced change in tactics). 
+
+You have advantage on this check if you somehow learn about the contents of your opponent's deck, the order in which your cards will be drawn, or some other method of cheating. 
+
+You have disadvantage to this check if you have a build weakness (such as using an Endurance build against a Spell build). 
+
+#### Deck-Building and Deck Bonus
+The deck bonus reflects the current competitive value of a deck. It ranges from 0 to +3. On average, it takes about twelve packs to collect enough card synergy to raise the deck bonus by 1. Some decks are pre-designed, having an established beck bonus, but usually can be improved by opening card packs.
+
+#### Deck Structure
+A deck can be built to serve one tactic at the expense of another. Starter decks have no special strengths or weaknesses, but you may choose one tactic over the course of collecting cards. 
+
+| Deck Structure | Strong versus |
+|:---:|:---:|
+| Minion | Hero | 
+| Hero | Spell | 
+| Spell | Endurance | 
+| Endurance	| Minion | 
+
+##### Minion Deck
+This deck relies on multiple weak cards to overwhelm individual strong ones, such as by using summoning cards and cards that spawn more minions every round. This tactic is also sometimes known as ‘zerging’ in some circles. It is weak against the Endurance build, since the defensive style the build employs outlasts and exhausts Minion builds’ cards. 
+
+##### Hero Deck
+This tactic relies on one powerful card (or few powerful ones) and supportive cards that increase the power of the hero (or central card) and weaken the enemy. Hero builds can destroy Spell builds before they gather power, but are vulnerable to Minion builds which can overwhelm the build’s ability to withstand multiple enemies.
+
+##### Spell Deck
+This tactic relies on using special spell cards to destroy several cards at once, but takes time to build up. Spell builds can out-damage the slower and more defensive Endurance builds, but need more time to gather power, which makes it vulnerable against the quick and decisive action of Hero builds. 
+
+##### Endurance Deck
+This tactic relies on a defensive mindset to outlast and exhaust the opponent's cards while whittling down the opponent. Endurance builds can reduce Minion builds to nothing while taking very little damage in return over a longer game period, but it is vulnerable to Spell cards, which can crush Endurance builds the longer the game goes. 
+
+##### Chosing your deck
+When playing against a deck to which you have a build disadvantage, you roll your d20 with disadvantage. 
+
+Every character has a build they prefer that appeals to their personality. Choose a build or roll on the table below for existing characters.
+
+| d6 | Build Type |
+|:---:|:---:|
+| 1-2 | Standard (no weakness or strength) | 
+| 3	| Minion build | 
+| 4 | Hero build | 
+| 5 | Spell build | 
+| 6 | Endurance build | 
+
+\pagebreakNum
+
+#### Game Expansions
+Expansions to Hearthstone are released thrice per year: every early spring, midsummer, and late autumn. Every expansion release lowers the deck bonus of every existing deck, everywhere in the world, by 1, to a minimum of 0. 
+
+This reflects the need to buy newly released cards to stay competitive with each expansion release.
+
+### Jihui Rules
+A strategic game played on a flat checkered black-and-white board, jihui players navigate their pieces to defeat their opponents’ pieces (as Chess, popular with Stormwind and Dalaran’s elite). Unlike with chess, however, jihui pieces also include ships. 
+
+Jihui encapsulates much of pandaren philosophy. It simultaneously encourages thoughtfulness and incorporates impulsiveness. It balances deliberation with chance, but chance can also be punished. For a player to lose to a foe who has more pieces on the board is not a great loss. To yield to a superior position, regardless of the pieces in play, is not considered an honorless loss. While the game's aim is to eliminate all the opposition's pieces, playing to that point is considered ill-mannered and even barbaric. Usually, one player finds themselves out-maneuvered and surrenders, though some rely on chance to turn their fortune around and achieve victory. Playing to a standstill, having both players' forces balanced, is considered the greatest victory of them all and shows not only skill, but restraint and discipline. 
+
+
