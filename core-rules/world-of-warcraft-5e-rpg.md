@@ -336,6 +336,9 @@ Damage types are detailed under Chapter 9.
   - #### [<span>Weapons and Armor</span>                              <span>???</span>](#weaponsarmor)
   - #### [<span>Tools</span>                                          <span>???</span>](#tools)
   - #### [<span>Treasures</span>                                      <span>???</span>](#treasures)
+    - ##### [<span>Infused Items</span>                               <span>???</span>](#infuseditems)
+    - ##### [<span>Artifacts</span>                                   <span>???</span>](#artifacts)
+    - ##### [<span>Armor Sets</span>                                  <span>???</span>](#amorsets)
 
 </div>
 
@@ -12617,4 +12620,252 @@ The wearer of this amulet may transform into a wisp for up to 1 minute. This is 
 
 \pagebreakNum
 
-<a id="treasures"></a>
+<a id="artifacts"></a>
+
+### Artifacts
+#### Anathema and Benediction
+**Weapon (staff), artifact (requires attunement)**
+<br>
+This staff can be wielded as a magical quarterstaff that grants a +3 to attack and damage rolls made with it. 
+
+The staff has 50 charges. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the ancient wood that keeps the Anathema and Benediction heads away from one another crumble, and the two gravitate towards one another, before clashing, and disappearing. On a 20, the staff regains 1d6 charges. After one year of disappearing, the staff re-forms elsewhere in Azeroth with full charges. 
+
+##### Strike of the Cursed and Blessed
+When you hit with a melee attack using the staff and use 1 charge, you can expend 1 charge to cause one of the two opposing heads to strike. If choosing Anathema, the staff deals an extra 2d8 shadow damage to any target it hits. If choosing Benediction, the staff instead deals 2d8 holy damage to any target it hits. This is a strike effect and requires a bonus action to activate as normal. 
+
+##### Channel Divinity
+You can use 3 charges to regain a use of your channel divinity ability (if you have it). This can be used once until the next dawn.
+
+##### Spells
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC:
+* Death ward (4 charges)
+* finger of death (7 charges)
+* holy aura (8 charges)
+* holy nova (heightened to 4th level; 4 charges)
+* holy light (heightened to 4th level; 4 charges)
+* death coil (heightened to 4th level; 4 charges)
+* conjure undead (heightened to 4th level; 4 charges)
+* dispel magic (3 charges)
+* protection from evil and good (1 charge)
+* hallow/unhallow.
+
+#### Ashbringer 
+**Weapon (greatsword), artifact (requires attunement)**
+<br>
+This sword can be wielded as a magic greatsword that grants a +3 to attack and damage rolls made with it. Any undead destroyed by this sword is burnt to ash, utterly destroying the corpse. The weapon’s additional damage is treated as fire or holy damage (whichever is most beneficial). 
+
+##### Ashen Strike
+If this blade slays an undead spellcaster who has bonded (or animated) undead, the spells are instantaneously dispelled, dispelling the bonds (setting them loose) or dispelling the animation spell (if the creature is not bound). If this blade slays any creature, the corpse (if any) cannot be used to animate undead. 
+
+##### Light-Blessed Sight
+While attuned to this blade, you have the benefits of true seeing against undead, but only to the range of 30 feet. 
+___
+Forged by King Magni Bronzebeard in grief over his brother’s death in during the Second War out of a Light-infused crystal, Ashbringer has a storied history. Its last wielder was the paladin Highlord Mograine. 
+
+Although it succeeded in containing the Scourge's efforts to spread south throughout the Eastern Kingdoms, its true strength can possibly rival that of Frostmourne. 
+
+#### Atiesh, Greatstaff of the Guardian 
+**Weapon (staff), artifact (requires attunement)**
+<br>
+This staff can be wielded as a magical quarterstaff that grants a +3 to attack and damage rolls made with it. If attuned to Atiesh, you may use an action to summon it to your possession, regardless of where it currently is (this acts as a plane shift spell).
+
+The staff has 50 charges. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff temporarily loses its powers for until the next dawn and becomes a +1 magical quarterstaff. 
+
+##### Guardian Magic
+While attuned to the artifact, any spell you cast is treated as heightened by one level for no cost (up to 9th level), and you gain advantage to all dealings with outsiders, fey, undead, and elementals. 
+
+##### Spells
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: fear (3 charges), gate (9 charges; opens to anywhere, or Karazhan if unspecified), glyph of warding (can heighten to any level; 1 charge per level), phantom steed (3 charges), plane shift (7 charges), polymorph (4 charges), private sanctum (heightened to 6th level; 6 charges)
+
+##### Watchers
+While attuned to this artifact, ravens are drawn to you and often remain close, observing and warning you of any dangers they can notice. 
+
+##### Destroying the Staff
+The only way to destroy the staff is either to have it cloven in two by a Titan’s weapon, affected by the elemental attacks of the four Elemental Lords of Azeroth for one entire day, being consumed by an Old God for one hour, or being targeted with an archdemon’s wish spell. The destruction of the staff breaks it into forty-two pieces (the head, tail, and forty shards), and curses it to be bound with a powerful demon (Atiesh, the Hand of Sargeras; an Eredar Warlock). If the staff’s pieces are ever brought together again, the demon arises to kill the collector and retrieve the staff to his demon master. 
+___
+Atiesh, Greatstaff of the Guardian is a powerful staff passed down through the line of the Guardians of Tirisfal up until and including Medivh, the last Guardian. It is currently wielded by Medivh's former apprentice, Khadgar. The staff was born from the "seed of hate" and grants its wielder "power unending". It was passed down by each Guardian of Tirisfal to its successor. This ancient wooden staff has a red sash tied to the head, on which a raven was sculpted. 
+
+\pagebreakNum
+
+#### Frostmourne
+**Weapon (greatsword), artifact (requires attunement)**
+<br>
+This greatsword can be wielded as a magical greatsword that grants a +3 to attack and damage rolls made with it. It scores a critical hit on a roll of 19 or 20, and deals an extra 2d10 slashing damage to undead.
+
+If the sword isn't bathed in blood within 1 minute of being drawn from its scabbard or 1 hour after awakening from a rest of any kind (if attuned), its wielder must make a DC 15 Charisma saving throw. On a successful save, the wielder takes 3d6 psychic damage. On a failed save, the wielder is dominated by the Lich King (either via the spirit of Ner’Zhul or by the blade’s own consciousness which serves it), as if by the dominate spell. The spell effect ends when the sword's demand is met, and the spell’s demand is usually either to spill innocent blood or move the wielder a step closer to being aligned with the Lich King’s will. 
+
+Soul Stealer. The sword traps the souls of the dead. You gain the Blood Death Knight’s Blood Strike ability. If this strike reduces the target to 0 hit points, it also steals the soul of the target, and retains it in the blade (as the essence seal spell heightened to level 10, or CR 20). The sword can contain up to 200 total CR in the blade. You have advantage to any roll to keep the souls imprisoned in the sword. 
+
+While attuned to the artifact, any necromancy or abjuration spell you cast is treated as heightened by one level (up to 9th level), and you gain advantage to all Charisma rolls to deal with undead. 
+
+##### Spells
+While the sword is on your person, you can use an action to cast one of the following spells (saving throw 18) from it: dominate undead (level 5), death coil (level 5), or finger of death. Once you use the sword to cast a spell, you can't cast that spell again from it until the next midnight. You can also cast speak with dead at will on any corpse or use the spell to speak to any soul trapped in the blade. 
+
+##### Telepathic Speech
+While the sword is on your person, you have a telepathic bond with the Lich King, and he is able to target you for any enchantment or necromancy spells (such as dominate person, possession, or conjure undead). If you are the Lich King, your telepathic bond extends to anyone who willingly serves you (including enslaved and animated undead). 
+
+##### Sentience
+Frostmourne is a sentient lawful evil weapon with an Intelligence of 15, a Spirit of 13, and a Charisma of 16. It has hearing and darkvision out to a range of 120 feet.
+
+##### Personality
+The sword's purpose is to serve the Lich King wholly and fully. Killing the enemies of the scourge (members of the Alliance or Horde, followers of the Holy Light, and the Burning Legion if the Lich King wills it), serving the Cult of the Damned, and slaying servants of good all help fulfill this goal. 
+##### Destroying the Sword
+The sword is destroyed should the Lich King himself be destroyed by fel or holy magic, and if it is targeted with a wish spell and a Charisma check contested with the Charisma of the sword. 
+
+The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the spell is wasted. If the sword loses the contest, it is destroyed.
+___
+Frostmourne is a powerful blade crafted by demons on the orders of Archimonde, bound with Ner’Zhul’s spirit into a shard of ice, and then hurled as a comet onto the highest peak of Icecrown, Azeroth’s Roof of the World. Its greatest (and only) wielder was Prince Arthas, now known as the Lich King after his mental union with Ner’Zhul. Frostmourne, as much as the Lich King, is the ruler of Northrend.
+
+This blue-gray runeblade has a steel skull fixed into the guard, and a tough leather grip, and the runes across the width of the sword give hints of the thousands of tortured souls imprisoned in the wicked soul-stealing blade. The relic of the master of the dead, it holds great power over them. 
+#### Frostmourne Reforged: Shadowmourne
+**Daughter Blade of Frostmourne**
+<br>
+The shards of a destroyed Frostmourne can be used to forge Shadowmourne. 
+
+Shadowmourne can take the form of a greatsword, longsword, greathammer, or greataxe. Its rarity decreases to Legendary (and thus can be destroyed without special conditions), its personality changes to follow the crafter’s, and loses the following features: Telepathic Speech and Soul Stealer, but retains all other features (bonus to attack and damage, spells, sentience, and magical weapon status).
+
+#### Thoridal, the Stars’ Fury 
+**Weapon (longbow), artifact (requires attunement)**
+<br>
+This bow can be wielded as a magic longbow that grants a +3 to attack and damage rolls made with it. 
+
+Thoridal can generate its own spectral arrows when used to attack, or can use normal arrows. 
+
+##### Arcane Arrows
+When you expend an arrow to attack with Thoridal, it deals an additional 1d8 arcane damage on a hit, even when the arrow has its own special effect (such as an Arrow of Slaying). 
+
+##### Spectral Arrows
+If you do not use a projectile, the bow creates its own spectral ammunition. The attack deals extra damage equal to your Charisma modifier on a hit, and half the damage dealt is arcane damage. Spectral arrows are white and translucent, and whoever sees it in flight at first believes it is a shooting star. 
+
+##### Arrowsmith
+Whoever is attuned to Thoridal can craft magical arrows as if they were infusionists (using their own proficiency bonus for Infusion), though the arrows are designed to be used exclusively by the bow.
+___
+The legendary bow resonates with the power of the Sunwell. The origins and history of the weapon remain a mystery.
+
+#### Thunderfury, Blessed Blade of the Windseeker
+**Weapon (longsword), artifact (requires attunement)**
+<br>
+You have +3 to attack and damage rolls with this magic weapon.
+
+\pagebreakNum
+
+While attuned to this sword, you can cast the absorb elements spell at will, but only against lightning and thunder damage as a 7th level spell. The sword has 8 charges. You can spend charges to manifest one of the following effects:
+* **Discharge (2 charges).** You cast the lightning bolt spell, heightened to 7th level.
+* **Lightning Rod (1 charge).** You can choose a point within 10 feet of you. Any effect that deals lightning damage and includes the point you chosen allows you to absorb elements and reduce the damage dealt by the effect by the amount you absorbed, even to other targets. 
+___
+The sword replenishes 1d4+2 charges every dawn.
+___
+Thunderfury, Blessed Blade of the Windseeker is the legendary sword once wielded by Thunderaan, Prince of Air. The prince, son of Al'Akir the Windlord, was attacked by Ragnaros the Firelord, in an attempt to heighten the already impressive power that the fire elemental held. 
+
+Ragnaros succeeded; however, Thunderaan's power could not be completely taken into his form. What remained of Thunderaan was placed in a talisman of elemental binding, which was broken into two pieces. The pieces were then given to the Firelord's two lieutenants, Baron Geddon and Garr, respectively the left and right halves. These two halves are known as the Bindings of the Windseeker.
+
+\pagebreakNum
+
+<a id="armorsets"></a>
+
+### Armor Sets
+Armor sets are found as treasure, although they can be crafted. In case of crafting, the character must be able to craft a full set (at the highest rarity) to make an armor set. 
+
+For example, a druid who wishes to craft the Cenarion Raiment must possess the materials and ability to craft Epic armor (the rarity of the entire set). 
+
+A single armor set counts as one item for the purposes of attunement. 
+
+#### Avatar Raiment Armor
+**Armor (cloth), variant (requires attunement), pieces (Vestment and cowl, gloves, mantle, arm wraps)**
+<br>
+* *Uncommon.* If possessing one set piece, you may add your spellcasting ability modifier again to any amount of hit points restored by flash of light or flash of shadow spells. This also applies to the amount of damage the spell would deal if targeting an undead or fiend. 
+* *Rare.* If possessing two to three set pieces, you may use a bonus action to Dash, but only to approach a wounded or unconscious ally.
+* *Epic.* If possessing all set pieces, whenever you heal or damage a target with a healing spell who has less than quarter their maximum hit points, your healing spells heal or deal 25% extra in hit points. This applies once per spell. This can stack with similar abilities.
+___
+This white and gold armor set is suffused with great divine power, abjuring the wearer’s face from view into a benevolent (or malevolent) shadow. 
+
+#### Blackened Defias Armor
+**Armor (leather), variant (requires attunement), pieces (Armor, gloves, boot, belt)**
+* *Uncommon.* If possessing one set piece, dim light doesn’t impose disadvantage on your Spirit (Perception) checks relying on sight. 
+* *Rare.* If possessing two to three set pieces, climbing doesn’t halve your speed, and you can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
+* *Epic.* If possessing all set pieces, you may cast the fade spell at will, or the invisibility spell three times before the spell-weaving power of the armor is expended, replenishing after the next sundown. 
+___
+Commonly worn by commanders of the Defias Brotherhood, this suit of dark armor is ideal camouflage for skulking rogues. The Defias set is a suit of black leather armor that completely covers the wearer’s body, save for her fingers and face – the latter is usually hidden behind one of the brotherhood’s trademark red scarves.
+
+#### Cenarion Raiment
+**Armor (studded leather), variant (requires attunement), pieces (Vestments, helm, bracers, belt)**
+* *Uncommon.* If possessing one set piece, other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you. 
+* *Rare.* If possessing two to three set pieces, you may use the druid’s wild shape ability as a 2nd level druid. If you already have the wild shape ability, you may use wild shape one more time per rest while wearing the armor, or gain one Blessed Beast feral wild shape option to benefit from one wild shape attempt (chosen once attuned to the armor). 
+* *Epic.* If possessing all set pieces, the horns of the raiment remain in wild shape, granting you a natural attack that deals 2d6 damage at medium size. Before going into a wild shape, you can designate three spells to be cast upon your horns, which can then either be discharged as per the Spell Strike feat on the target of your natural attack or be cast by touching the target with your horns. 
+___
+Created in Moonglade by the druids of the Cenarion Circle, the Cenarion raiment is worn by some of its most powerful champions as they strive to protect and preserve nature against the unnatural forces that threaten it. The Cenarion raiment features a thick brown leather robe covered in leaves and other symbols of nature – most prominently the sticks and leaves protruding from the wearer’s shoulders and the antlers resting upon his head.
+
+#### Destroyer Armor
+**Armor (plate), variant (requires attunement), pieces (breastplate, great helm, girdle, gauntlets)**
+* *Uncommon.* If possessing one set piece, whenever you deal or suffer a critical hit, you are hasted (as the spell of the same name) for until the end of your turn in the next round. 
+* *Rare.* If possessing two to three set pieces, whenever you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
+* *Epic.* If possessing all set pieces, whenever you suffer a critical hit, it turns into a normal hit. You still gain the haste effect (as the bonus at Uncommon quality). You also gain the Aggressive talent if you don't already have it. If you do, you can gain one talent of your choice so long you wear the armor.
+___
+Worn by great mercenary captains, this plate of gold, rust-red, and pale blue armor casts an ominous shadow. 
+
+#### Dragonstalker Armor
+**Armor (studded leather), variant (requires attunement), pieces (beastplate, helm, legguards, bracers)**
+* *Uncommon.* If you score a critical hit on a ranged attack, you are hasted (as the spell) for until the beginning of your turn in the next round. If you have a bonded companion, it is similarly hasted. 
+* *Rare.* If possessing two to three set pieces, you gain an accuracy die when you successfully score a hit with a hunter [strike] spell (even if only using infused ammunition). An accuracy dice can be spent to increase your attack roll result by 1d4, reduce the mana cost of a hunter [strike] by the same amount, or be added to a roll to use a firearm or crossbow to avoid a malfunction. You cannot have more than 3 accuracy dice at a given time. Unused accuracy dice are lost after 1 hour. 
+
+\pagebreakNum
+
+* *Epic.* If possessing all set pieces, you can’t be surprised while you are conscious, and you gain the favored enemy (dragons) talent. If you already have that talent, you instead gain a +5 bonus to your initiative.
+___
+Woven from the scales and leather of wyrms and dragons, this armor set is usually golden or red, but can be any color (depending on the dragonflight origin). Most sets were made during the Second War, and from the Red Dragonflight.
+___
+*Special.* Other armor sets exist in the world of Azeroth, keyed to other creature types. Such sets act similarly, but change the target of the favored enemy talent to another creature type. Such as rarer than normal sets, however. 
+
+#### Magister Regalia 
+**Armor (cloth), variant (requires attunement), pieces (Robe, crown, mantle, bindings)**
+* *Uncommon.* If possessing one set piece, your spell save DC and spell attack bonus each increase by 2.
+* *Rare.* If possessing two to three set pieces, your base Armor Class is 15 + your Agility modifier. Although altering your AC, using the set does not count as if you are armored. 
+* *Epic.* If possessing all set pieces, you have advantage on saving throws against spells and other magical effects.
+These enchanted vestments were originally fashioned by the master craftsmen of the Kirin Tor, the reigning magical council of Dalaran before the Third War. Only Dalaran's most elite archmagi are deemed worthy to don this astonishing attire.
+___
+The Regalia itself is crafted of fine crimson silk, purple velvet, and gold cord. Its belt has emeralds within, and the robes are set with a single emerald above the heart. Within the flared sleeves lies space for small pouches of spell components. To retrieve and manipulate these spell components, the gloves are open-fingered. 
+
+#### Judgment Armor
+**Armor (plate), variant (requires attunement), pieces (Plate, crown, bindings, belt)**
+* *Uncommon.* If possessing one set piece, you have a +5 bonus to your passive Spirit (Perception) and passive Intelligence (Investigation) scores.
+* *Rare.* If possessing two to three set pieces, you may cast the bless or aid spells up to three times (total of both spells) before the power of the armor is expended, replenishing on the next dawn. If you already have the spell readied, you may instead cast the spell for half normal cost so long as you wear the armor. 
+* *Epic.* If possessing all set pieces, you may cast the arcane armor spell up to three times before the power of the armor is expended, replenishing after the next sundown. The spell is heightened to 6th level and remains for one hour. You also have the constant benefits of the bless and aid (3rd-level; or +10 to your maximum hit points) spells active. The benefit of the aid spell replenishes itself upon a short rest. 
+___
+Though the Silver Hand is a noble establishment, there comes a time when pleasantries must end and justice must be done. The commanding, faceless aspect of justice and judgement is represented by this armor, which is worn by paladins acting as inquisitors and executioners as they deliver sentence upon the enemy. 
+
+Clad in black, red, and gold, paladins in this full-body armor cut an imposing figure. The armor is a combination of both cloth and leather for easier movement as well as metal plates to protect vital areas. Each piece is ornately detailed with icons and imagery that represent justice.
+
+#### Plagueheart Raiment
+**Armor (cloth), variant (requires attunement), pieces (Robe, circlet and mask, gloves, sandals)**
+* *Uncommon.* If possessing one set piece, your spells that requires you to make an attack roll (including sigil spells) have their ranges doubled.
+* *Rare.* If possessing two to three set pieces, and can add the necrotic aura spell to your spell list, so long as you wear the armor. 
+* *Epic.* If possessing all set pieces, you have the constant effects of darkvision and demon skin (3rd-level; or 9 temporary hit points) spells. You also no longer need to breathe. The temporary hit points from demon skin replenish upon a short rest. 
+___
+Originally designed by Burning Legion mad scientists, this colorful set is known to be worn by agents of the Legion who deal with biological and chemical warfare, as well as living members of the Cult of the Damned that need protection from the Scourge’s plague. While designed as protective gear, as a result of its origins, the gear collects and stores plagues within itself, offering these plagues as an added level of defense. 
+
+This unusual, chaotic-looking armor features patterns of black, orange, yellow, and bright green. Curved spines protrude from the shoulders, and the wearer’s face is obscured by a strange, bug-eyed mask. 
+
+#### Robes of the Violet Citadel
+**Armor (cloth), variant (requires attunement), pieces (Robe, skullcap or hood, gloves, boots)**
+* *Uncommon.* You have advantage on Stamina saving throws that you make to maintain your concentration on a spell when you take damage.
+* *Rare.* If possessing two to three set pieces, you have the constant benefits of mage armor, and you gain 10 temporary hit points at the beginning of every day. 
+* *Epic.* If possessing all set pieces, you always have the following spells prepared: blizzard (at 3rd level), blink step (at 2nd level) and conjure elemental (choose one elemental, spell is 3rd level). Furthermore, you may cast such spells for no cost. You may cast these spells a total of three times before the spell-weaving capabilities of the robes is exhausted until the next dawn. 
+___
+The robes of the magi of the Magical Kingdom of Dalaran are scholars, rulers, and forces that fight evils such as the Burning Legion, the Scourge, and even renegade mages within their own ranks. The Robes of the Violet Citadel are suffused with magical powers that support and protect the magi that earned the right to wear them. 
+
+These violet robes are threaded with gold and blue that have high collars, and a black skullcap lined with silver thread (or a wide hood for female magi). 
+
+#### Silver Hand Blessed Plate
+**Armor (plate), variant (requires attunement), pieces (Plate, gauntlets, greaves, belt)**
+
+\pagebreakNum
+
+* *Uncommon.* If possessing one set piece, you gain 15 temporary hit points at the beginning of every day. These temporary hit points may only be used to reduce damage to your maximum hit points (such as by the draining attacks of undead), and do not apply against normal damage. 
+* *Rare.* If possessing two or three set pieces, you add the sunbeam spell to your spell list. It is always prepared so long as you wear the armor. If you cannot cast spells, or cannot cast the sunbeam spell yet, you can instead cast it once before a short rest. 
+* *Epic.* If possessing all set pieces, when you heal a creature with a holy light spell or with your Lay on Hands feature, a radiant burst of light protects them. Hostile creatures within 5 feet of a creature healed by this spell must make an Agility saving throw or be blinded for 1 round. If the hostile creatures are fiends or undead, they may instead take holy damage equal to double the spell’s level or one-quarter of the number of hit points your target regained (your choice for either). 
+___
+This set of armor is worn by the Knights of the Silver Hand in battle, this armor is blessed by the Holy Light to aid the righteous men and women of the Order against evil influences. 
+
+Made of steel and silver and gold, and mantled with a blue cloak on one shoulder, the knights of the order fight with the full righteous cause of the Holy Light. 
+
+\pagebreakNum
