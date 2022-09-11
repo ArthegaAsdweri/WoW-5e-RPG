@@ -310,25 +310,32 @@ Damage types are detailed under Chapter 9.
     - ##### [<span>Witch Doctor (Shaman)</span>                       <span>156</span>](#witchdoctor) 
   - #### [<span>Bound Companions</span>                               <span>158</span>](#companions)
   - #### [<span>Class Talents</span>                                  <span>159</span>](#classtalents)  
-- ### [<span>Chapter 4: Personality & Background</span>                                <span>???</span>](#personality)
-  - #### [<span>Character Details</span>                                  <span>???</span>](#characterdetails)  
-    - ##### [<span>Languages</span>                        <span>???</span>](#languages)
-    - ##### [<span>Inspiration</span>                        <span>???</span>](#inspiration)
-  - #### [<span>Backgrounds</span>                                  <span>???</span>](#backgrounds)  
-    - ##### [<span>Acolyte</span>                        <span>???</span>](#acolyte)
-    - ##### [<span>Charlatan</span>                        <span>???</span>](#charlatan)
-    - ##### [<span>Criminal</span>                        <span>???</span>](#criminal)
-    - ##### [<span>Entertainer</span>                        <span>???</span>](#entertainer)
-    - ##### [<span>Folk Hero</span>                        <span>???</span>](#folkhero)
-    - ##### [<span>Guild Artisan</span>                        <span>???</span>](#guildartisan)
-    - ##### [<span>Haunted One</span>                        <span>???</span>](#hauntedone)
-    - ##### [<span>Hermit</span>                        <span>???</span>](#hermit)
-    - ##### [<span>Noble</span>                        <span>???</span>](#noble)
-    - ##### [<span>Outlander</span>                        <span>???</span>](#outlander)
-    - ##### [<span>Sage</span>                        <span>???</span>](#sage)
-    - ##### [<span>Sailor</span>                        <span>???</span>](#sailor)
-    - ##### [<span>Soldier</span>                        <span>???</span>](#soldier)
-    - ##### [<span>Urchin</span>                        <span>???</span>](#urchin)
+- ### [<span>Chapter 4: Personality & Background</span>               <span>???</span>](#personality)
+  - #### [<span>Character Details</span>                             <span>???</span>](#characterdetails)  
+    - ##### [<span>Languages</span>                                   <span>???</span>](#languages)
+    - ##### [<span>Inspiration</span>                                 <span>???</span>](#inspiration)
+  - #### [<span>Backgrounds</span>                                    <span>???</span>](#backgrounds)  
+    - ##### [<span>Acolyte</span>                                     <span>???</span>](#acolyte)
+    - ##### [<span>Charlatan</span>                                   <span>???</span>](#charlatan)
+    - ##### [<span>Criminal</span>                                    <span>???</span>](#criminal)
+    - ##### [<span>Entertainer</span>                                 <span>???</span>](#entertainer)
+    - ##### [<span>Folk Hero</span>                                   <span>???</span>](#folkhero)
+    - ##### [<span>Guild Artisan</span>                               <span>???</span>](#guildartisan)
+    - ##### [<span>Haunted One</span>                                 <span>???</span>](#hauntedone)
+    - ##### [<span>Hermit</span>                                      <span>???</span>](#hermit)
+    - ##### [<span>Noble</span>                                       <span>???</span>](#noble)
+    - ##### [<span>Outlander</span>                                   <span>???</span>](#outlander)
+    - ##### [<span>Sage</span>                                        <span>???</span>](#sage)
+    - ##### [<span>Sailor</span>                                      <span>???</span>](#sailor)
+    - ##### [<span>Soldier</span>                                     <span>???</span>](#soldier)
+    - ##### [<span>Urchin</span>                                      <span>???</span>](#urchin)
+- ### [<span>Chapter 5: Equipment</span>                              <span>???</span>](#equipment)
+  - #### [<span>Starting Equipment</span>                             <span>???</span>](#startingequipment)
+  - #### [<span>Wealth</span>                                         <span>???</span>](#wealth)
+  - #### [<span>Adventuring Gear</span>                                         <span>???</span>](#adventuringgear)
+  - #### [<span>Weapons and Armor</span>                              <span>???</span>](#weaponsarmor)
+  - #### [<span>Tools</span>                                          <span>???</span>](#tools)
+  - #### [<span>Treasures</span>                                      <span>???</span>](#treasures)
 
 </div>
 
@@ -11549,10 +11556,27 @@ campaign.
 
 # Chapter 5: Equipment
 
+<a id="startingequipment"></a>
+
 ## Starting Equipment
 As described in the Player’s Handbook, you can start with a number of gold pieces based on your class and spend them on items from the lists in the equipment chapter. See the Starting Wealth by Class table to determine how much gold you have to spend.
 
 You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. 
+
+<a id="wealth"></a>
+
+## Wealth
+Material wealth in Azeroth was based on gold, silver, and copper coins. In many cases, however, barter takes place (such as in Booty Bay or other goblin strongholds), or is measured in other means (land, ownership of mines and other resource nodes, etc.) 
+
+Stormwind's coinage has traditionally been the copper penny, the silver groat, and the gold sovereign. For all purposes, however, coinage is nearly universal, with Stormwind-minted coin in equal circulation with coins minted in Ironforge, Orgrimmar, or Booty Bay. The Defias Brotherhood enjoys marring Stormwind minted coins creating "cross-eyed coins” which is a sign of treason to the throne. 
+
+Mined from the rich earth of Azeroth and Lordaeron, gold is commonly used as coins in exchange for goods and services. As a rare substance that is always in short supply, gold must be dug out from the rock and soil within established gold mines. Many of these mines were abandoned when the orc raids began (followed by the First and Second wars) and the workers fled for their very lives. 
+
+Since the beginning of the Second War, many gold-mining sites are frequently operated while under the protection of military forces.
+
+Goblins call their currency macaroons, and they refer to money as moolah.
+
+Some other coins that are not minted any longer are worth more to some people. Gold coins from the fall of the Night Elf empire (Azshara-mint) often worth at least ten times the actual value of the same coin at the time of the empire’s fall and drowning beneath the sea. 
 
 ### Starting Wealth by Class
 
@@ -11567,23 +11591,13 @@ You decide how your character came by this starting equipment. It might have bee
 | Paladin | 5d4 x 10 gp | 
 | Priest | 5d4 x 10 gp | 
 | Rogue | 4d4 x 10 gp | 
+
+| | |
+|:---:|:---:|
 | Shaman | 5d4 x 10 gp | 
 | Tinker | 4d4 x 10 gp <br>(plus 250 gp worth in engineering components) | 
 | Warlock | 4d4 x 10 gp | 
 | Warrior | 5d4 x 10 gp | 
-
-#### Wealth
-Material wealth in Azeroth was based on gold, silver, and copper coins. In many cases, however, barter takes place (such as in Booty Bay or other goblin strongholds), or is measured in other means (land, ownership of mines and other resource nodes, etc.) 
-
-Stormwind's coinage has traditionally been the copper penny, the silver groat, and the gold sovereign. For all purposes, however, coinage is nearly universal, with Stormwind-minted coin in equal circulation with coins minted in Ironforge, Orgrimmar, or Booty Bay. The Defias Brotherhood enjoys marring Stormwind minted coins creating "cross-eyed coins” which is a sign of treason to the throne. 
-
-Mined from the rich earth of Azeroth and Lordaeron, gold is commonly used as coins in exchange for goods and services. As a rare substance that is always in short supply, gold must be dug out from the rock and soil within established gold mines. Many of these mines were abandoned when the orc raids began (followed by the First and Second wars) and the workers fled for their very lives. 
-
-Since the beginning of the Second War, many gold-mining sites are frequently operated while under the protection of military forces.
-
-Goblins call their currency macaroons, and they refer to money as moolah.
-
-Some other coins that are not minted any longer are worth more to some people. Gold coins from the fall of the Night Elf empire (Azshara-mint) often worth at least ten times the actual value of the same coin at the time of the empire’s fall and drowning beneath the sea. 
 
 ### Coinage
 The monetary system in the world of Warcraft operates on the scale described in the Player’s Handbook.  The only exception is that platinum pieces have yet to make an appearance in the world of Azeroth; though the value of platinum is recognized, it is rare enough that it is still used primarily as a decorative material rather than a type of coinage.
@@ -11651,9 +11665,11 @@ In many instances, going to larger towns (or those with greater commercial and e
 
 \pagebreakNum
 
+<a id="adventuringgear"></a>
+
 <div class="classTable wide">
 
-### Adventuring Gear
+## Adventuring Gear
 
 | Gear | Cost | Mass | Properties |
 |:---:|:---:|:---:|:---:|
@@ -11688,7 +11704,9 @@ Containing twenty pounds of gunpowder, this keg is very flammable, but it is a s
 
 \pagebreakNum
 
-### Weapons and Armor
+<a id="weaponsarmor"></a>
+
+## Weapons and Armor
 
 The Warcraft universe has several special varieties for existing weapons, as described below. 
 
@@ -11745,7 +11763,9 @@ This night elf weapon is a crescent-shaped blade about 4 feet long with a hilt i
 
 \pagebreakNum
 
-### Tools
+<a id="tools"></a>
+
+## Tools
 The Warcraft universe has its share of special tools, kits, and items. 
 <br><br>
 <div class="classTable">
@@ -11897,4 +11917,704 @@ A strategic game played on a flat checkered black-and-white board, jihui players
 
 Jihui encapsulates much of pandaren philosophy. It simultaneously encourages thoughtfulness and incorporates impulsiveness. It balances deliberation with chance, but chance can also be punished. For a player to lose to a foe who has more pieces on the board is not a great loss. To yield to a superior position, regardless of the pieces in play, is not considered an honorless loss. While the game's aim is to eliminate all the opposition's pieces, playing to that point is considered ill-mannered and even barbaric. Usually, one player finds themselves out-maneuvered and surrenders, though some rely on chance to turn their fortune around and achieve victory. Playing to a standstill, having both players' forces balanced, is considered the greatest victory of them all and shows not only skill, but restraint and discipline. 
 
+\pagebreakNum
 
+<a id="treasures"></a>
+
+## Treasures
+The Warcraft universe has many treasures, ranging from items infused with magic (such as named weapons and the Hearthstone), to armor sets that grant features when used together, to enhancements and epic boons. The creation of infused items is elaborated in Chapter 7 under Infusion Kits. 
+
+### Infused Items
+
+<br>
+
+#### Annihilator
+**Weapon (battleaxe), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+
+Whenever this wicked-looking, dark purple battleaxe deals damage to a creature benefitting from an armor bonus to AC, it reduces their bonus to AC by 1 point. The penalty to armor remains for until the target creature completes a short rest. This reduction can stack (until the armor grants no bonus).
+
+#### Arcanite Reaper
+**Weapon (greataxe), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+
+This axe is made out of arcanite, one of the hardest substances in existence (AC 23, immune to nonmagical weapon damage, and has 30 hit points), and deals double damage to objects.
+
+#### Black Grasp of the Destroyer
+**Wondrous item, uncommon**
+<br>
+This heavy steel gauntlet has runes carved into the knuckles and the back of the hand. With a touch, this allows the user to cast dispel magic (at a 3rd level spell). This property can't be used again until the next dawn.
+
+#### Bladefist
+**Weapon (attack claws), epic**
+<br>
+You gain +1 to attack and damage rolls made with this magic weapon.
+
+This weapon has 3 charges. When attuned to it, you can expend 1 charge to cast the haste spell on yourself. The weapon regains 1d3 charges every dawn.
+
+The Bladefist is a well-known example of orcish attack claws. It is well known as the weapon of Kargath Bladefist, Chieftain of the Shattered Hand Clan and self-proclaimed Warchief of the Fel Horde. This weapon can also be used as a prosthetic.
+
+#### Blight
+**Weapon (glaive), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
+
+Upon a successful attack against a creature, you may declare that the weapons’ blight ability activates as a bonus action. If blight takes place, the target must succeed against a Stamina saving throw of 15 or be subject to a random disease (as the contagion spell). This property can't be used again until the next dawn.
+
+#### Book of the Dead
+**Wondrous item, rare (attunement optional)**
+<br>
+This ancient, musty tome is decorated with inlaid bones from various creatures. The cover and spine are made from dried skin stretched and treated to remain flexible.
+
+The ink used to write the magical words and runes inside is blood drawn from the veins of living creatures killed as sacrifices when the book was completed. Activating this book requires tearing out some of its pages.
+
+When a page is torn, it turns to dust, and animates a skeleton or zombie. These undead can be animated with a longsword and shield or with a bow and twenty arrows (undead warriors and archers, respectively). You may tear out multiple pages as an action, but only have up to ten undead creatures under your control at any given time. After 24 hours of being animated, the undead disintegrate.
+
+So long as you possess the book, you may command the animated undead mentally with a bonus action as long as they are within 60 feet of you. The book has 100 pages, and the spells animating the undead otherwise acts as a 5th level conjure undead spell.
+
+You may attune yourself to the book and keep as a spellbook, in which case all necromancy spells written it cost 2 less mana points when cast by you. You may still spend pages of it to conjure undead.
+
+#### Brainsplinter
+**Weapon (dagger), epic (requires attunement)**
+<br>
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. 
+
+When striking a spellcaster, the dagger’s damage lingers and disrupts concentration (DC 10 or half damage as normal) for 1d4 rounds after being hit. If hit again, the counter resets. Activating this quality costs a bonus action, and is a strike effect.
+
+#### Cauldron of Dimensional Parallelism
+**Wondrous item, epic**
+<br>
+You gain +5 to alchemy crafting rolls made with this cauldron for making batches of potions.
+
+Also, this cauldron can hold the materials to craft up to 20 potions. By turning a dial, the cauldron creates a compartment that can host different potions. 
+
+The cauldron can have a total of four chambers (5 potions each), and you can craft all such potions in parallel. If some potions are of higher rarity than others, any potions that mature during your crafting time can be removed (or replaced) without affecting your crafting process. 
+
+Also, if your crafting roll exceeds the DC by 5 or more, you get 20% extra potions. 
+
+#### Cauldron of Light
+**Wondrous item, common**
+<br>
+You gain +1 to alchemy crafting rolls made with this cauldron for making batches of potions.
+
+Also, while this cauldron is at full capacity (5 potions), and you succeed on crafting the potions, your potions also shed light equal to a candle. When consumed or used, they also shed light equal to the light cantrip.
+
+#### Cauldron of the Mad Alchemist
+**Wondrous item, uncommon**
+<br>
+You gain +3 to alchemy crafting rolls made with this cauldron for making batches of potions. 
+
+Also, while this cauldron is at full capacity (5 potions), you get 1 normal potion whenever you attempt cauldron experimentation. 
+
+If your potion would explode as a result of miscibility from cauldron experimentation, the cauldron absorbs the explosion, and temporarily becomes a normal cauldron for 1d10 days. 
+
+\pagebreakNum
+
+Also, if your crafting roll exceeds the DC by 5 or more, you get 20% extra potions. 
+
+#### Cauldron Ladle of Wacky Experimentation
+**Wondrous item, rare**
+When this ladle is used during crafting experimentation, you can roll for miscibility an additional time if the previous two miscibility results are dissatisfactory. If the roll that stems from this ladle is Explosion!, the ladle temporarily becomes a normal ladle for 1d4 days and absorbs the explosion. 
+
+If the ladle is used to apply a matured potion (such as pouring it on the ladle and applying it to yourself or another) while under the effects of another potion, you can choose one of the following results:
+* **Un-Wackily Be Stable.** Consume the potion and ignore miscibility
+* **Wackily Experiment.** Roll twice for miscibility and choose the better result.
+
+#### Chains of the Undying Mage
+**Weapon (spiked chain), rare (requires attunement)**
+<br>
+You gain +1 to attack and damage rolls made with this magic weapon.
+
+While wielding this spiked chain, you may use your Intelligence for attack and damage rolls with the spiked chains instead of Strength. Also, if you are a spellcaster with the mage spell list, you gain the following benefits:
+* **Death Magic.** You may add the following spells to your mage spell list: death coil, death pact, desecration, drain life, death ward, and elemental tongue (cold only). 
+* **Cold Focus.** You can perform somatic components of spells while you use this weapon in both hands. This weapon counts as a spellcasting focus for your mage spells.
+* **Intuitive Use.** You gain proficiency with spiked chains. 
+___
+Mages and wizards sworn to the Lich King that manage to achieve lichdom are wrapped with these seemingly mundane chains. However, once a lich awakens the first time after achieving lichdom, the chains hover around its arms, becoming a powerful weapon.
+
+#### Crystal Ball
+**Wondrous item, uncommon**
+<br>
+This sphere of green glass is inlaid with a golden base, and may be pointed at a direction to see distant events up to a mile away as clear as if one is adjacent to it. When activated, the crystal ball may scry up to any point of sight within a mile that you can see, or allows you to see an obvious location that is unfamiliar to you and is obstructed by an object (such as behind a corner, behind a door, below a trapdoor). This orb functions as long as you can expend a bonus action, up to a maximum of ten minutes. The orb creates an invisible magical sensor on the location it observes, which can be seen if observers can see invisibility or have truesight, and cannot be attacked or interacted with (though it can be dispelled as a 3rd level spell). Once used, this cannot be used again until the next dawn.
+
+#### Dawn's Edge
+**Weapon (battleaxe), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+
+The battleaxe has 3 charges. While using it, you can use an action and expend 1 charge to cast the daylight spell (centered on the battleaxe), or a bonus action to ignore the damage resistance of an undead or fiendish creature for 1 minute per charge expended. You may also cast the detect evil and good spell as a bonus action by expending 1 charge (the range increases to 60 feet). 
+
+The battleaxe regains all charges by the next dawn. 
+
+#### Demonic Figurine
+**Wondrous item, legendary**
+<br>
+This onyx figurine is told of in legends as powerful artifacts send by the Burning Legion to pave the world for its inevitable return. Featuring a baleful demon with claws outstretched and a single hoof raised, the figurine can be pointed to a creature, unleashing a ray of doom. This is treated as the demonic doom spell, and the figurine maintains the sigil until the entire duration has ended without fail. The figurine possesses malevolent cunning, and uses the spell to wreak the most devastation it could before it is ended. Destroying a figurine unleashes the Doomguard, which is fully present (as if by an uncontrolled bind spell).
+
+#### Doomhammer
+**Weapon (warhammer), uncommon (greater attunement)**
+<br>
+Beyond the bonuses of the weapon upon attunement (see Greater Attunement), this weapon is treated as a thrown weapon (20/60 feet). Also, the elemental tongue spell costs instead 2 less point of manas. 
+
+If you cannot cast the spell, it can be cast two times (spell level 1) before uses are replenished at dawn. 
+
+The Doomhammer is a powerful enormous hammer that was crafted long ago in a pool of elemental lava on the orc homeworld of Draenor. It is a namesake relic passed down from father to son, and was given to Thrall as a testament of faith and honor during the salvation of the orcs. Although the hilt of the hammer has been replaced, the actual hammerhead itself, crafted of elementally-treated black granite, has endured as a testament of the crafter's skill.
+
+#### Embrace of the Twisting Nether
+**Armor (chainmail), rare (requires attunement)**
+<br>
+You gain a +1 bonus to AC while you wear this magic armor. 
+
+By speaking the command word, you become ethereal (as if subject to the banishment spell). The banishment spell remains for full duration (one minute) unless the command word is spoken to cancel it. If the command word is not spoken and the duration of one minute passes, you are banished to the Twisting Nether, the realm of demons and chaotic energy. This property of the armor can't be used again until the next dawn.
+
+#### Fearbreaker
+**Weapon (mace or tauren totem), epic (requires attunement)**
+<br>
+You gain +2 to attack and damage rolls made with this magic weapon. 
+
+When attuned to and wielding this weapon, you may cast the fear ward spell, treating the mace as the totem. Once used, this cannot be used again until the next dawn. 
+
+#### Felo'melorn
+**Weapon (longsword), legendary (requires attunement)**
+You gain a +3 bonus to attack and damage rolls made with this magic weapon.
+
+This sword has 3 charges. While attuned to it, you can expend 1 charge and cast any one of the following spells as an action.
+
+\pagebreakNum
+
+#### Flame Strike
+**Elemental Tongue (Fire only), spell level 4**
+<br>
+*Special.* Felo'melorn can always be remade when destroyed, and gains an additional charge if destroyed by a foe and reforged by who was attuned to it. It can have a maximum number of charges equal to 6.
+
+If the blade itself is used to kill who it is attuned to, it loses all extra charges and returns to its original number of charges. 
+
+Flamestrike in common, Felo’melorn is an ancient Highborne runeblade once wielded by Dath'Remar Sunstrider, even before the War of the Ancients. It is rumored to have once been his favored weapon, and over many generations was passed down through the Sunstrider dynasty. During the Third War, Anasterian Sunstrider wielded the sword in battle against Arthas Menethil, but Frostmourne severed the blade and he was defeated. Later, Kael'thas Sunstrider, last of the Sunstrider line, recovered it and had it reforged, with ‘magic, hatred and a burning need of revenge.’ 
+
+#### Gorehowl
+**Weapon (greataxe), legendary (requires attunement)**
+<br>
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. 
+
+You may swing the axe as an action to cast the Fear spell. Furthermore, once attuned to this axe, you may choose to gain one of the following talents: 
+* Brutal Critical 
+* Weapon Mastery
+___
+Gorehowl, the axe of Hellscream, has a heavy blade that is notched and stained, with sharp, wicked curves. Small holes dot the blade near the handle; when the wielder swings the axe, air whistles through these holes. The sound keens over the battlefield, magically strengthened and imbued with otherworldly power. Gorehowl is one of Azeroth's most feared and notorious weapons. 
+#### Great Fel Blade
+**Weapon (two-bladed sword), rare (requires attunement)**
+<br>
+You have +1 to attack and damage rolls with this magic weapon.
+
+While attuned to it, you may use this blade to cleave in a quarter-circle (90-degree sphere) within your reach. Creatures in the area take damage as if hit with the sword, with an Agility check to half damage. The DC is 8 + your proficiency bonus + your Strength modifier. If you have multiple attacks, you can spend up to two attacks to make the area a half-circle.
+
+Furthermore, if you are a fiend or wield fel magic, you deal extra 7 (2d6) damage. Half this damage is fire, and the other half is fel damage.
+
+#### Hammer of the Titans
+**Weapon (greathammer), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+
+The greathammer may be swung hard at the ground as an action. All creatures within 10 feet suffer the damage of a normal attack and must pass a Strength saving throw of 15 or fall prone. 
+
+#### Hearthstone
+**Wondrous item, rare**
+<br>
+A user may have only one hearthstone at any given time, and it is attuned as a Teleport Circle. Requiring 3 actions (object 
+
+interaction) to activate, the hearthstone teleports the user to where they last called home. When used, it takes a day to recharge. An adventurer may alter his hearthstone’s location to any indoor building he has spent more than 24 hours in, which replaces the teleport circle’s location.
+
+This stone is given to every adventurer who leaves his city. 
+
+#### Horn of Stormwind
+**Wondrous item, rare**
+<br>
+This lion-emblazed horn can be blown as a bonus action to cast the devotion aura spell (as a 3rd level spell, or reducing damage taken by allies by 4 points). The horn performs the required concentration. Once used two times, it cannot be used again until the next dawn.
+
+#### Jaina's Locket
+**Wondrous item, rare (requires attunement)**
+<br>
+You may use this locket to cast the teleport spell, but only to a destination inside the borders of Dalaran. The locket treats Dalaran as a place with 'permanent circle' familiarity for the purposes of the teleport spell, and if no specific location is specified in Dalaran, it teleports the user directly to the Central Square, under the statue of Archmage Antonidas. 
+Other magical lockets like Jaina's Locket exist, usually providing one-way teleportation to a specific city or region.
+
+#### Light's Vengeance
+**Weapon (greathammer), uncommon (greater attunement)**
+<br>
+Beyond the bonuses of the weapon upon attunement (see Greater Attunement), whenever you use this weapon for a Crusader's Strike, you may choose to grant yourself resistance to any one damage type for until the end of your turn in the next round. 
+
+This greathammer with a marble-white head and mahogany shaft is infused with holy magic and consecrated to be carried by paladins of the Order of the Silver Hand. It has the potential to grow stronger with the wielder. 
+
+#### Mana Blade
+**Weapon (any sword), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon may cast the mana burn spell. Once used, this property cannot be used again until the next dawn. 
+
+This blade can also mana burn as a bonus action as a strike effect. 
+
+Mana blades can also take the form of a warglaive (if taking the form of a scimitar).
+
+#### Mana Stone
+**Wondrous item, rare**
+<br>
+This cerulean-blue semi-solid stone is nearly translucent, and shines with an internal blue light. While the mana stone is in the possession of a character with a mana pool, their passive regeneration increases by 50% (round down). 
+
+A character who benefitted from the stone for at least four hours can crush it, and absorbing the latent energies. This restores mana as if the user rested for four hours. 
+
+These stones are said to be shards of enchanted runestones that are dipped in mana fountains, but such rumors are unsubstantiated, as the secret of creation is in the elusive hands of the most talented infusionists. This item is not treated as a consumable for the purposes of crafting. 
+
+Like mana potions, consuming the mana stone does not count against the normal limit of mana restorative abilities of once per hour.
+
+\pagebreakNum
+
+#### Mystic Wand
+**Wondrous item, common (requires attunement by a spellcaster)**
+<br>
+A wand of minor power allows you to gain the benefits of the Mystic Blast feat without gaining the feat itself. Each wand is attuned to a specific energy type. This also does not require mana in reserve, and can provide one augmentation when having the feat.
+
+The common version of the wand deals one dice of damage (1d6 fire, cold, lightning, or acid, or 1d4 holy, unholy, fel, or arcane). For each step of rarity, it deals an additional dice (up to 5 dice at Legendary, as below). Treat the relevant spell level as described in the chart.
+
+| Rarity | Dice| Spell Level |
+|:---:|:---:|:---:|
+| Common | 1 dice | 1 | 
+| Uncommon | 3 dice | 3 | 
+| Rare | 5 dice | 5 | 
+| Epic | 7 dice | 7 | 
+| Legendary	| 9 dice | 9 | 
+
+#### Orkenblade
+**Weapon (longsword), rare (requires attunement)**
+<br>
+You gain +1 to attack and damage rolls made with this magic weapon. 
+
+When attuned to and wielding this weapon, you gain the Favored Enemy talent, as a hunter of your level, but must choose orcs as your favored foe. 
+
+#### Phantom Blade
+**Weapon (longsword), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+
+Upon a successful attack against a creature, you may declare that the weapons’ phantom touch ability activates as a bonus action. If phantom touch takes place, the targeted creature is subject to a faerie fire spell (centered on the creature only) for one minute. If affected once, the creature is immune against further uses for 24 hours. 
+
+#### Philosopher's Stone
+**Wondrous item, rare (requires attunement)**
+<br>
+While attuned to this stone, two different ability scores of your choice increases by 1 (maximum 18). If you are an Alchemist with the Inurement ability, all your potions cost 2 less Crafting Points. 
+
+A philosopher's stone is required for the transmute material spell. Creating this stone requires proficiency in Alchemist’s Supplies. 
+
+#### Prismatic Blade
+**Weapon (longsword), rare (requires attunement)**
+<br>
+You gain +1 to attack and damage rolls while using this magic weapon. While wielding this longsword, you can add your Agility modifier to attack and damage rolls instead of your Strength modifier. 
+
+If you are wielding this sword and not benefiting from a shield, add a +2 bonus to your AC.
+
+This magic weapon has 4 charges, regaining 1d4 charges daily at dawn. It may have one of the following abilities. 
+* **Augment.** With an action, you may cast the enhance ability spell. This can affect anything touching the blade (including yourself or any ally you touch). This costs 1 charge. 
+* **Guard.** With an action, you can cast the power word: shield spell. This can affect anything touching the blade (including yourself or an ally you touch). This costs 1 charge.
+* **Weave.** With an action, you may cast the prismatic spray spell. This costs 4 charges. 
+* **Unweave.** You may cast the dispel magic spell as part of drawing the blade (free action), or with an action if it is already drawn. This spell is limited to touch range, however, and can affect anything touching the blade (including yourself, an ally you touch, or any spell targeting you). This costs 2 charges. The spell’s level is equal to 4 if the rarity is Rare, 6 if Epic, and 8 if Legendary. 
+___
+There are many Prismatic Blades. Three of the best known are Quel'Serrar, Quel’Zaram, and Quel'delar. All such blades are ancient, forged by dragons long ago and gifted to the kaldorei to aid them in the War of the Ancients. 
+
+Currently, most remain dull and forgotten, though it can be re-forged by heating in dragon-fire, and being quenched in dragon blood (which gives it the reputation of being a dragon-slaying blade).
+
+A dulled Prismatic Blade has 0 charges, but otherwise acts otherwise same way.
+
+The greater the rarity of the prismatic blade, the more abilities it may have. 
+
+Epic blades (such as Quel’Zaram) has three abilities, and has a +2 bonus to attack and damage. 
+
+##### Secrets of the Prismatic Blades
+**Awakening and Reforging**
+<br>
+"What I offer to you now is one such blade, unfired, unheated, untreated - the most raw and basic form. Now you merely need to find a dragon that will willing enchant the blade…"
+
+A dulled Prismatic Blade must be re-ignited to act in its full capacity. 
+
+When subject to a true dragon's breath weapon by itself (such as by being in the area of the breath weapon and not being wielded, tricking a dragon to breathe upon it, or leaving it in the mouth of a dying dragon), there is a chance the blade is re-enchanted. This depends on the age of the dragon. On a failed enchantment, the dragon cannot try again until it advances to the next age category. 
+
+| Age | Chance of Enchantment |
+|:---:|:-----------:|
+| Wyrmling | 1% | 
+| Young | 25% | 
+| Adult | 50% | 
+| Ancient | 100% | 
+___
+**Merging**
+<br>
+Prismatic blades can be merged together in very rare instances, such as the blades Shalla'tor and Ellemayne merging into Shalamayne. 
+
+If a character manages to merge two prismatic blades, the blade turns into a greatsword (such as Quel’Zaram), and occupies only one attunement slot. The rarity of the merged blade is one step higher than the average of the two, and gains a +1 additional bonus to attack and damage.
+
+Shalla’tor and Ellemayne are act as normal Prismatic Blades, but are Epic in quality and have a +2 bonus to attack and damage. They have the Augment, Guard, and Unweave abilities. 
+
+\pagebreakNum
+
+By merging together, Shalamayne becomes legendary rarity, has a +3 bonus to attack and damage rolls, and its Unweave ability functions as spell level 8. 
+
+#### Puzzle Box of Yogg-Saron
+**Wondrous item, epic (requires attunement)**
+<br>
+This cube of metallic-like material is actually a puzzle box. Its sides can be manipulated by pushing and twisting, though it is unknown of anyone managed to solve it. 
+The user may attempt a DC 25 Intelligence check to begin cracking the puzzle box. Upon each success, the bearer of the box gains an additional ability as they make significant advancement to opening the puzzle-box. The user should record successes and failures simultaneously. 
+
+##### Successes Ability
+
+| | |
+|:---:|:-----------:|
+| 1 | Can cast confusion 1/day | 
+| 2 | Advantage to saving throws versus mind-affecting effects | 
+| 3 | Gain +1 to your Intelligence score | 
+| 4	| Can cast mind blank 1/long rest | 
+| 5 | Gain +1 to your Intelligence score | 
+| 6	| Gain immunity to Confusion effects, and has a permanent tongues effect | 
+___
+##### Failures Ability
+You gain a madness level, with a Spirit DC of 25 to negate. 
+
+Also, instead of having to choose a coping mechanism and being bound to it, you can instead take a -1 penalty to your Spirit score and gain a +2 bonus to future rolls to use the puzzle box. This stacks to a maximum of -5 penalty to your Spirit score and +10 to your Intelligence rolls at level 5 of madness. 
+
+If you gained more than three levels of madness from the puzzle box, you also have disadvantage to all saving throws versus illusions and effects that deal psychic damage.
+
+Whenever attempting to solve the puzzle-box, the user hears one of the below quotes in their mind (as telepathy, choose randomly). 
+
+| | |
+|:---:|:-----------:| 
+| 1 | At the bottom of the ocean even light must die. | 
+| 2 | The silent, sleeping, staring houses in the backwoods always dream. It would be merciful to tear them down. | 
+| 3 | There is no sharp distinction between the real and the unreal. | 
+| 4	| Even death may die. | 
+| 5 | There is a little lamb lost in dark woods. | 
+| 6 | All places, all things have souls. All souls can be devoured. | 
+| 7 | What can change the nature of a man? | | 8	| Do you dream while you sleep or is it an escape from the horrors of reality? | 
+| 9 | Look around. They will all betray you. Flee screaming into the black forest. | 
+| 10 | In the land of Ny'alotha there is only sleep. | 
+| 11 | Y'knath k'th'rygg k'yi mrr'ungha gr'mula. | 
+| 12 | The void sucks at your soul. It is content to feast slowly. | 
+| 13 | The drowned god's heart is black ice. | 
+
+| | |
+|:---:|:-----------:| 
+| 14 | It is standing right behind you. Do not move. Do not breathe. | 
+| 15 | Have you had the dream again? A black goat with seven eyes that watches from the outside. In the sunken city, he lays dreaming. | 
+| 16 | Open me! Open me! Open me! Then only will you know peace. | 
+| 17 | You resist. You cling to your life as if it actually matters. You will learn. | 
+| 18 | The tortured spirits of your ancestors cling to you, screaming in silence. Apparently they are quite numerous. | 
+| 19 | Beneath the shadow of the darkened spire, there is no light, no mercy, only void, and the chaos within. | 
+| 20 | You will all be alone in the end. | 
+
+#### Quilen Statuette 
+**Wondrous item, rare**
+<br>
+You can use an action to hold the statuette aloft and speak the command word. Doing so conjures a Quilen, as if you had cast the conjure construct spell (spell level 5). The statuette can't be used this way again until the next dawn.
+
+This statuette, carved during the brief reign of Mogu emperor Kang of Pandaria, was part of an experiment to bind Quilen servants in small stones. This experiment was abandoned as the Quilen thus bound were greatly diminished in power and thus deemed unworthy. 
+
+#### Relic of Power
+**Wondrous item, uncommon (requires attunement)**
+<br>
+Relics are items that hold minor abilities that strengthen specific spells the relic is attuned to. Relics can always double spellbooks or similar manuals (such as totems, idols, etc.). Relics must be carried to convey their bonus. 
+* **Bones Relic.** The earth shield spell remains for double the normal duration. 
+* **Corpses Relic.** The corpse explosion spell costs 2 less mana points, and does not affect you or your allies.
+* **Cosmic Relic.** The moonfire and sunfire spells cost 2 less mana points.
+* **Despair Relic.** The rune array spell costs 2 less mana points.
+* **Divinity Relic.** The flash of light spell costs 2 less mana points.
+* **Claw Relic.** You may add your Spirit modifier to damage rolls with strike spells on the druid spell list
+* **Crying Wind Relic.** The carrion swarm spell costs 2 less mana points. 
+* **Eternal Rest Relic.** The consecration spell costs 2 less mana points, and restrains fiends and undead who fail a Stamina saving throw for until the beginning of your turn in the next round. 
+* **Guarded Evil Relic.** The death coil spell grants temporary hit points equal to your spellcasting ability modifier to whoever it heals for one hour. 
+* **Grace Relic.** The dispel magic spell has advantage to dispel necromancy and conjuration spells. Whenever it succeeds, you gain temporary hit points equal to your spellcasting ability modifier. 
+* **Health Relic.** The rejuvenation spell costs 2 less mana points.
+* **Hope Relic.** The seal array spell costs 2 less mana points.
+
+\pagebreakNum 
+
+* **Impact Relic.** The elemental shock spell costs 2 less mana points.
+* **Inner Passion Relic.** The holy fire spell costs 2 less mana points.
+* **Lifebringer Relic.** The holy light spell costs 2 less mana points.
+* **Righteous Relic.** The holy fire spells remains for double the normal duration.
+* **Solar Relic.** The sunfire and sunbeam spells cost 2 less mana points.
+* **Steamcaller Relic.** The healing stream spell costs 2 less mana points.
+* **Storm Relic.** The lightning bolt and lightning storm spells cost 2 less mana points
+* **Surging Seas Relic.** The riptide spell costs 2 less mana point.
+* **Vengeful Heart Relic.** The death coil spell costs 2 less mana points.
+* **Walking Dead Relic.** The conjure undead spell retains telepathic communication up to ten times the normal distance.
+* **Wracking Relic.** The holy nova and exorcism spells cost 2 less mana point.
+
+#### Royal Sword of Stormwind 
+**Weapon (greatsword), epic (requires attunement)**
+<br>
+You gain +3 to attack and damage rolls made with this magic weapon. 
+
+Once attuned to this greatsword, you may gain the Inspiring Leader feat (regardless of your actual Charisma score). A creature can benefit from the temporary hit points granted by this feat twice before a short rest. 
+
+This blade had only one bearer—the general of Stormwind, who was the Lion of Azeroth, Sir Anduin Lothar. The blade was broken during his climactic battle against Orgrim Doomahammer, and the pieces of the blade were then carried by his second-in-command, the paladin Turalyon, who still retains the pieces. 
+
+#### Runespear
+Weapon (halberd), epic (requires attunement)
+You gain +2 to attack and damage rolls made with this magic weapon. 
+
+While attuned to this weapon, you may increase your Stamina score by 2 (maximum 22). 
+
+This halberd was wielded by the chief of Bloodhoof Tauren, and remains as a symbol of their tenacity and will. 
+
+#### Sageblade
+**Weapon (any sword), rare (requires attunement)**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+
+While wielding this sword, you may use your Intelligence or Charisma for attack and damage rolls with the sageblade instead of Strength or Agility. You may also gain the benefit of the Spell Strike feat for up to three times. Once used three times, the spell strike property can’t be used again until the next dawn. 
+
+#### Saronite Mindcrusher
+**Weapon (mace), rare**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+
+As a bonus action, you can declare a mind-crushing strike. On a successful hit, you deal 1 point of mana burn for every 4 points of damage you deal. For every 4 points of mana burn you deal, the target takes 1 point of arcane damage. 
+
+This otherwise acts as the mana burn spell. This is a strike effect. 
+
+This otherwise acts as the mana burn spell. 
+
+After you make this strike up to three times, you cannot use it again until the next sundown. 
+
+#### Scimitar of the Sirocco
+**Weapon (scimitar), epic (requires attunement)**
+<br>
+You gain a +2 bonus to attack and damage rolls made with this magic weapon. 
+
+It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn. 
+* **Flame.** While wielding this weapon, you may brandish it at any area within 100 feet, causing a column of fire to rise up, as per the flame strike spell. 
+* **Scorch Strike.** When you hit with a melee attack using the scimitar, you can cause the target to take an extra 2d6 fire damage. This is a strike effect that costs a bonus action. 
+* **Searing Blitz.** Before you attack with the scimitar, you may declare a searing blitz. Until you end your turn, you gain +2 to AC versus attacks of opportunity, and leave a trail of lingering flame behind you whenever you move. This trail can have a maximum length of half your speed, acts as normal fire, and deals 1d6 fire damage to creatures moving through it. It remains for one minute, and is 5-feet wide and rises 5-feet high. 
+
+#### Spell Shield Amulet
+**Wondrous item, uncommon**
+<br>
+You can cast the counterspell spell, but the spell you choose must include you as a target. Once used, it cannot be used again until the next dawn. 
+
+#### Spiritual Essence
+**Wondrous item, rarity varies**
+<br>
+A translucent substance that is yielding to the touch, spiritual essence stores the soul-power of a creature. The essence is so pure, that any other soul can absorb it. 
+
+Spiritual essence can be consumed to add experience points equal to 1/2 the target's total experience points value (if possessing class levels), or their XP appropriate to their challenge (if a monster).
+
+*Note.* Spiritual essence is not naturally-occuring, but can be created by casting an essence seal spell that is equal in spell level to half the target's HD or Challenge, succeeding in capturing the essence (as per the spell) and then casting the wish spell, or using divine intervention or similar abilities to draw out spiritual essence. A creature turned into Spirit Essence does not give experience to whoever defeated it.  A creature whose essence is consumed must be released by the wish spell or divine intervention. If consumed, a creature cannot be resurrected, as their soul is obliterated and consumed.
+
+A single given creature can only benefit once from consuming spiritual essence, as consuming it also bestows a shard of the consumed creature's mind to the one who consumed it, usually warping their thoughts and inflicting a minor type of insanity, or causing them to hear hallucinations (usually as if the consumed creature is speaking to them). A creature whose essence is consumed cannot be resurrected, as their soul is obliterated and consumed.
+
+\pagebreakNum
+
+Demons of great power usually make spiritual essence of particularly tenacious victims to torment them, as the creature is always aware of what is around it, but cannot communicate (is treated as if beyond death, so Speak with Dead cannot function either). This represents artifacts such as the Skull of Gul’dan.
+
+For this purpose, if Gul'dan is a 20th level warlock, then his Spirit Essence will yield 177,500 XP (1/2 of 355,000).
+
+#### Staff of Sorcerer-Thane Thaurissan
+**Weapon (staff), epic (requires attunement by a druid, mage, shaman, or warlock)**
+<br>
+You have resistance to fire damage while you hold this magic staff. If you already have resistance, you are immune to fire damage. 
+
+The staff has 10 Charges. While holding it, you can use an action to expend 1 or more of its Charges to cast one of the following Spells from it, using your spell save DC: burning hands (1 charge), fireball (3 charges), or wall of fire (4 charges).
+
+The staff regains 1d6 + 4 expended Charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
+
+Sorcerer-Thane Thaurissan was the leader of the Dark Iron dwarves during the War of the Three Hammers. When he lost Ironforge to the Bronzebeard clan, Thaurissan retreated to the Redridge Mountains and founded a city in his name. In a desperate attempt to defeat his enemies, Thaurissan accidentally summoned the demigod Ragnaros, which resulted in the sorcerer-thane's immediate death and the formation of the volcanic peak of Blackrock Mountain.
+
+#### Sulfuras, Hand of Ragnaros 
+**Weapon (maul), legendary (requires attunement)**
+<br>
+You gain a +3 bonus to attack and damage rolls made with this magic weapon. 
+
+It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
+* **Pyroblast.** You may cast the pyroblast spell (while concentrating, the hammer increases in brightness). 
+* **Immolation Aura.** You may cast the immolation aura spell (spell level 5). This does not require concentration, and continues until its full duration ends.
+* **Elemental Tongue.** You may cast the elemental tongue (Fire) at spell level 3. 
+___
+This can be created by obtaining the Eye of Sulfuras, a Sulfuron ingot, and the smithing plans that show the hammer’s internal construction with the Sulfuron Hammer, and passing a DC 20 Intelligence check with smith’s tools. 
+
+#### Sulfuron Hammer
+Weapon (maul), epic (requires attunement)
+You gain a +3 bonus to attack and damage rolls made with this magic weapon.
+
+This weapon can be perfected into Sulfuras, Hand of Ragnaros, a legendary weapon (see above).
+	
+#### Sunstrider Longbow 
+**Weapon (longbow), legendary (requires attunement)**
+<br>
+You gain +3 to attack and damage rolls made with this magic weapon. 
+
+This longbow has 6 charges. While attuned to it, you can expend 1 charge and cast any one of the following spells as a shot spell:
+* Black arrow (2 charges)
+* Searing shot (1 charge)
+* Tranquilizing shot (1 charge)
+* Viper shot (1 charge)
+___
+The longbow regains 1d4 expended charges daily at dawn.
+
+Dath'Remar Sunstrider, the ancestor of Kael'thas Sunstrider, owned this bow in ages past. It was passed down through the generations until finally given to Sylvanas Windrunner, Ranger-General of Quel'Thalas, with whom it still remains.
+
+#### The Planar Edge
+**Weapon (battleaxe), epic (requires attunement)**
+<br>
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+
+While wielding it, you can use it to cast the gate spell as an action, and it remains open for 2d4 rounds. This property of the battleaxe can't be used again until the next dawn.
+
+#### Tiriosh, Nightmare of Ages
+**Weapon (dagger), epic (requires attunement)**
+<br>
+You gain +2 to attack and damage rolls made with this magic weapon. 
+
+With a bonus action, the dagger can split into two identical ones with the same statistics, so long as they are held by you. 
+Once attuned to this dagger, you gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Agility modifier. You also reduce any fall damage you take by 25 points of damage (minimum 0). 
+
+This dagger looks like a monstrous fang. When twisted in a specific way, it breaks into two identical thinner blades. If one dagger is more than 30 feet away from another, the one furthest to you disappears, and re-appears bonded to the first dagger.
+
+#### Trol'kalar 
+**Weapon (longsword), rare (requires attunement)**
+<br>
+You gain +1 attack and damage rolls made with this magic weapon. 
+
+Once attuned to this longsword, it may be used to apply the Mortal Strike warrior ability. If you already have this ability, the longsword deals one additional dice of damage against any creature that has regeneration or the rapid regeneration feature (such as trolls). 
+
+The dread sword known as the Trol'kalar (troll slayer, in the ancient tongue), was first known to be wielded by Strom's most capable warlord, Lord Ignaeus Trollbane, during the Troll Wars. 
+
+After the war and with the departure of Thoradin's ruling descendants the Trollbane family ascended to the throne. The Trol'kalar image changed by also becoming a true emblem of power in that region, being rightly wielded only by the direct descendants of Lord Ignaeus as a symbol of rulership over the glorious Kingdom of Stromgarde.
+
+#### Truesilver Champion 
+**Weapon (greatsword), rare (requires attunement)**
+<br>
+You gain a +2 bonus to attack and damage rolls with this magic weapon. While holding this weapon, you may utter the inscription upon the blade, granting you 15 temporary hit points. Once this feature is used, it cannot be used again until the next dawn. 
+
+Truesilver acts as if a silvered weapon.
+
+\pagebreakNum
+
+#### Twin Blades of Azzinoth
+**Weapon (warglaive), rarity varies (greater attunement)**
+<br>
+Beyond the bonuses of the weapon upon attunement (see Greater Attunement), whenever you cast the mage armor spell, you gain 1 additional point of AC. 
+
+Furthermore, upon a successful attack against a creature, you may declare that the weapons’ mana burn ability activates as a bonus action as a strike effect. Once used, this property cannot be used again until the next dawn. The spell level of the mana burn spell depends on the current rarity of the weapon.
+
+| Rarity | Spell Level (Mana Burned) |
+|:---:|:-----------:|
+| Uncommon | 2 (1d4 + 1) | 
+| Rare | 6 (2d4 + 1) | 
+| Epic | 8 (3d4 + 1) | 
+| Legendary | 11 (4d4 + 1) | 
+___
+The most well-known twin-blade is that that once belonged to the doom guard Azzinoth, whose blades were claimed by Illidan Stormrage. Twin-blades are warglaives employed by demonic felguards, and are specifically created to increase in power with the demon. As demon hunters often count as demons, twin-blades can increase in power in the hands of demon hunters as well. 
+
+#### Val’Anyr, Hammer of Ancient Kings
+**Weapon (mace), epic**
+<br>
+You gain +2 to attack and damage rolls made with this magic weapon. 
+
+You may the power word: shield spell as a bonus action, but only at a range of touch, or to a target of a healing spell you cast. Once this feature is used three times, it cannot be used again until the next dawn. 
+
+#### Verdant Sphere 
+**Wondrous item, rarity varies (requires attunement)**
+<br>
+Verdant spheres are mana stones attuned to ley lines to the point of drawing power from them. Many types of verdant spheres exist, each with different powers drawn upon the ley line's attunements. Legend has it the orb siphons a portion of the essence of every evil outsider slain by its owner. The orb draws on the essence of these demons for its own powers, the spirits writhing in torment within it for all eternity. The truth of the matter, however, is that there are simply powerful arcane tools, sometimes known as mooncrystals in Quel’Thalas. The Blood Mage Prince Kael'thas Sunstrider is known to have the largest collection on Verdant Spheres, possessing the Attunement, Fire, and Demonic Drain spheres. 
+
+When inactive, they appear to be fist-sized orbs of opaque glass. When activated by a caster's command, they burst into flame of a color attuned to the user and hover above their heads. Some casters prefer to disguise them behind an illusion, however, or keep them inactive until needed. When you use an action to toss one of these spheres into the air, the sphere orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Agility (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
+
+\columnbreak
+
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head and shoulders, and is thus only subject to being damaged when it is specifically targeted. 
+
+##### Absorption (Epic)
+You can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.
+
+Once the stone has canceled 20 levels of spells, it burns out and loses its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.
+
+##### Agility (Epic)
+Your Agility score increases by 2, to a maximum of 20.
+
+##### Attunement (Epic)
+You can attune yourself to two other infused items. This sphere itself does not require attunement. 
+
+##### Awareness (Rare)
+You can't be surprised.
+
+##### Demonic Drain (Rare)
+Draining mana from demons grants double the normal mana amount possible. 
+
+##### Fortitude (Epic)
+Your Stamina score increases by 2, to a maximum of 20.
+
+##### Fire (Epic)
+The area of your fire spells is doubled.
+
+##### Frost (Epic)
+The area of your cold spells is doubled.
+
+##### Greater Absorption (Legendary)
+You can use your reaction to cancel a spell of 8th level or lower cast by a creature you can see and targeting only you. Once the stone has canceled 50 levels of spells, it burns out and loses its magic. If you are targeted by a spell whose level is higher than the number of spell levels the stone has left, the stone can't cancel it.
+
+##### Insight (Epic)
+Your Spirit score increases by 2, to a maximum of 20.
+
+##### Intellect (Epic)
+Your Intelligence score increases by 2, to a maximum of 20.
+
+##### Leadership (Epic)
+Your Charisma score increases by 2, to a maximum of 20.
+
+##### Mastery (Legendary)
+Your proficiency bonus increases by 1.
+
+##### Protection (Rare)
+You gain a +1 bonus to AC.
+
+##### Regeneration (Legendary)
+You regain 15 hit points at the end of each hour, provided that you have at least 1 hit point.
+
+\pagebreakNum
+
+##### Reserve (Rare)
+This sphere spells cast into it, holding them until you use them. It can store up to 3 levels worth of spells at a time. When found, it contains 1d4 - 1 levels of stored spells chosen by the DM.
+
+Any creature can cast a spell of 1st through 3rd level into the sphere by touching it as the spell is cast. The spell has no effect, other than to be stored in the sphere. If the sphere can't hold the spell, the spell is expended without effect. The level of the spell determines how much space it uses. 
+
+This uses the spell’s level, save DC, attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the sphere is no longer stored in it, freeing up space.
+
+##### Strength (Epic)
+Your Strength score increases by 2, to a maximum of 20.
+
+##### Sustenance (Rare)
+You don't need to eat or drink.
+
+#### Voodoo Doll
+**Wondrous item, rare (requires attunement by any spellcaster who can cast Speak with Dead)**
+<br>
+A voodoo doll seems innocent, but it is actually a house of a Hexer spirit. Hexer spirits bound to a voodoo doll are servitors to whoever is attuned to the doll, serving them in return for favors. 
+
+A voodoo doll may be attuned with a target with one hour of contact with a remaining body part or piece (such as a finger, hair, or fingernail). So long as the target does not take the measures to end the bond (such as by replacing the finger or removing a hand, cutting all their hair, or clipping all their fingernails, as determined by the DM), the Hexer spirit is always aware of where the target is, as if under the effects of a locate creature spell. 
+
+The Hexer spirit can be allowed to leave the voodoo doll to use its Carry Voodoo power, which allows the owner of the doll to cast a spell for the Hexer to carry, or harm the doll and order the hexer spirit to use its Withering Touch ability on the target (usually until they die, or the victim is at the point where the witch doctor wants them). 
+
+The DM has the Hexer Spirit’s statistics (Monster Guide).
+
+#### Warden’s Cloak
+Wondrous item, rare (requires attunement)
+Specially constructed for the night elves' wardens, these green velvet cloaks bear a fringe of deadly, razor-sharp blades along the hem, resembling the wings of an owl. While wearing it, you gain the following benefits: 
+* You gain a +1 bonus to AC.
+* You ignore damage by falling, as if under the effects of the feather fall spell. 
+* You may conjure two daggers from the cloak’s folds. This does not cost an action, but the daggers remain until the end of your turn, afterwards they disappear.
+___
+Wardens who don this cloak are usually talented with knife-throwing (taking the fan of knives talent). 
+
+#### Wisp Amulet
+**Wondrous item, rare**
+<br>
+The wearer of this amulet may transform into a wisp for up to 1 minute. This is a polymorph effect. This property of the amulet can’t be used again until the next sundown. The DM has the wisp’s statistics.
+
+\pagebreakNum
+
+<a id="treasures"></a>
