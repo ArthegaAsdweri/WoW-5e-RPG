@@ -268,10 +268,10 @@ Damage types are detailed under Chapter 9.
 
 <div class='index'>
 
-- ### [<span>Chapter 1: Step-by-Step-Characters</span>                <span>5</span>](#p5)
-  - #### [<span>Ability Score Summary</span>                          <span>5</span>](#p5)
-  - #### [<span>Determining Ability Scores</span>                     <span>5</span>](#p5)
-  - #### [<span>Beyond 1st Level</span>                               <span>6</span>](#p6)
+- ### [<span>Chapter 1: Step-by-Step-Characters</span>                <span>5</span>](#chapter1)
+  - #### [<span>Ability Score Summary</span>                          <span>5</span>](#ascoresum)
+  - #### [<span>Determining Ability Scores</span>                     <span>5</span>](#determinescores)
+  - #### [<span>Beyond 1st Level</span>                               <span>6</span>](beyondfirst)
 - ### [<span>Chapter 2: Races</span>                                  <span>7</span>](#races)
   - #### [<span>Racial Mount</span>                                   <span>7</span>](#races)
   - #### [<span>Draenei</span>                                        <span>8</span>](#draenei)
@@ -338,17 +338,25 @@ Damage types are detailed under Chapter 9.
   - #### [<span>Treasures</span>                                      <span>???</span>](#treasures)
     - ##### [<span>Infused Items</span>                               <span>???</span>](#infuseditems)
     - ##### [<span>Artifacts</span>                                   <span>???</span>](#artifacts)
-    - ##### [<span>Armor Sets</span>                                  <span>???</span>](#amorsets)
+    - ##### [<span>Armor Sets</span>                                  <span>???</span>](#armorsets)
+    - ##### [<span>Epic Boons</span>                                  <span>???</span>](#epicboons)
+  - #### [<span>Skill or Tool Products</span>                         <span>???</span>](#)
+    - ##### [<span>Alchemy: Potions</span>                            <span>???</span>](#alchemypotions)
+    - ##### [<span>Engineering: Devices</span>                          <span>???</span>](#engineeringdevices)
 
 </div>
 
 \pagebreakNum
+
+<a id="chapter1"></a>
 
 # Chapter 1: Step-by-Step Characters
 
 When determining your ability scores (also known as attributes), there are two new methods to
 create them; the focused method, and the heroic method. Both yield higher attributes on average,
 suitable for the many challenges in the Warcraft universe.
+
+<a id="ascoresum"></a>
 
 ## Ability Score Summary
 
@@ -398,6 +406,8 @@ ___
 
 \columnbreak
 
+<a id="determinescores"></a>
+
 ## Determining Ability Scores
 
 #### Focus and Foible. 
@@ -419,6 +429,8 @@ This method leads to generally stronger characters than by normal rolling.
 For each ability score, roll 2d6 + 6.
 
 \pagebreakNum
+
+<a id="beyondfirst"></a>
 
 ## Beyond 1st Level
 
@@ -12867,5 +12879,500 @@ ___
 This set of armor is worn by the Knights of the Silver Hand in battle, this armor is blessed by the Holy Light to aid the righteous men and women of the Order against evil influences. 
 
 Made of steel and silver and gold, and mantled with a blue cloak on one shoulder, the knights of the order fight with the full righteous cause of the Holy Light. 
+
+<a id="epicboons"></a>
+<br>
+### Epic Boons
+The Warcraft universe has its own share of epic boons.
+
+#### Boon of Alien Technology
+Your effective proficiency bonus for Engineer’s Tools increases by 1. This does not stack with other proficiency-increasing effects. This can allow you to access a rarity grade 1 point higher than normal, or apply 1 EP worth for no cost. 
+
+#### Boon of Grand Sorcery
+Your caster level increases by 1. 
+
+#### Boon of True Celerity
+Your mana pool increases by 5 points, provided you have an active mana pool.
+
+\pagebreakNum
+
+## Skill or Tool Products
+The products below are created by skill or tool use, except infusion (which is detailed under treasures above). 
+
+For all rules regarding the construction of engineering and alchemy equipment, see Chapter 7 below. 
+
+<a id="alchemypotions"></a>
+
+### Alchemy: Potions 
+All potions (regardless of form) weigh 1 pound (unless the container is heavier), and can be used by imbibing or pouring on a creature or object (whichever applies better). Potions are described in more detail in Chapter 7 under Alchemist’s Supplies. 
+<br><br>
+<div class="classTable">
+
+#### Spell Potions
+Most potions are based off spells, which cast the spell upon being consumed or used.
+
+| Name | Rarity | Spell (Spell Level) |
+|:-|:-|:-|
+| Alarm Stick | Uncommon | Alarm (1st level) | 
+| Alchemist’s Acid | Common | Acid splash (Cantrip) | 
+| Alchemist’s Fire | Common | Fire bolt (Cantrip) | 
+| Alchemist’s Frost | Common | Frost bolt (Cantrip) | 
+| Antimagic Potion | Rare | Globe of invulnerability (4th level) | 
+| Elemental Armor Icon | Uncommon | Elemental armor (1st level) | 
+| False Life Spray | Uncommon | False life (1st level) |
+| Healing Potion | Uncommon | Holy light (1st level) | 
+| Healing Potion, Major | Uncommon | Holy light (2nd level) | 
+| Healing Potion, Greater | Rare | Holy light (3rd level) | 
+| Heroism Pill | Uncommon | Heroism (1st level) | 
+| Life Potion | Rare | Revivify (3rd level) | 
+| Light Stick | Common | Light (Cantrip) | 
+| Mind Scream Spray | Common | Vicious mockery (Cantrip) | 
+| Mutant Slash Potion | Uncommon | Conjure Strike (1st level) | 
+| Mutation Potion | Uncommon | Mutate (1st level) | 
+| Noxious Fumes | Common | Poison Spray (Cantrip) | 
+| Rejuvenation Pill | Uncommon | Rejuvenation (1st level) | 
+| Skill Extract | Uncommon | Shift Skill (1st level) | 
+| Sparing Potion | Common | Spare the dying (cantrip) | 
+| Smoke Bomb | Uncommon | Fog cloud (1st level) | 
+
+</div>
+
+\columnbreak
+
+##### Alarm Stick
+By using this potion, you become mentally aware of any creature of a size of Tiny or larger entering a 20-foot cube. Your awareness reaches up to 1 mile. The imbiber can designate creatures that do not trigger the alarm.
+
+##### Alchemist’s Acid
+By using this potion, up to two creatures or objects within 5 feet of one another take 1d6 acid damage. 
+
+##### Alchemist’s Fire
+By using this potion, the creature or object takes 1d10 fire damage. If an object is unattended and flammable, it catches on fire. 
+
+##### Alchemist’s Frost
+By using this potion, the creature or object takes 1d8 points of cold damage and suffers the chilled condition for one round.
+
+##### Antimagic Potion
+By using this potion, a barrier arises on the creature and up to 10 feet from it, blocking spells with a spell level of 3 or less. This remains for one minute. 
+
+##### Elemental Armor Icon
+By using this potion, a protective sheet of the elements surrounds the target, acting as the elemental armor spell for up to 1 hour or until the spell’s benefit is consumed (whichever comes first). 
+
+##### False Life Spray
+By using this potion, the character gains 1d4 + 4 temporary hit points that remain for one hour. 
+
+##### Healing Potion
+By using this potion, character regains 1d8 + 4 hit points (if living), or takes 1d8 + 4 holy damage (if undead or fiend). 
+
+##### Heroism Pill
+TODO
+
+##### Life Potion
+By using this potion, the creature is revived to life and restored to 1 hit point. This must be used within a minute of death, and does not work against creatures that died of old age, and cannot restore body parts. 
+
+##### Light Stick
+By using this potion, a bright glow emits, shining brightly for 20 feet, and dimly for 20 feet beyond that. This remains for 1 hour.
+
+##### Mind Scream Spray
+By using this potion, the creature takes 1d4 psychic damage, and suffers disadvantage to their next attack. 
+
+##### Mutant Slash Potion
+By using this potion, you manifest a monster’s slash or attack from a creature of CR 1 or lower. The attack can be any attack it can make, but so long as it costs an action to make. The creature must be one of the creature types on the alchemist’s conjure and bind list (such as an ooze’s pseudopod or an elemental’s slam attack).
+
+\pagebreakNum
+
+##### Mutation Potion
+By using this potion, the character gains one mutation from the mutate spell. This remains for ten minutes. 
+
+##### Noxious Fumes
+By using this potion, the target takes 1d12 poison damage if they fail a Stamina saving throw. 
+
+##### Rejuvenation Pill
+By using this potion, the creature regains 1d4 hit points. This acts exactly as the rejuvenation sigil spell. If they fail their check, the pill’s effects end prematurely. 
+
+##### Skill Extract
+By using this potion, the creature’s skill becomes greater, gaining a bonus to a single skill check.
+* **Minor.** Common, +2 
+* **Moderate.** Uncommon, +3
+* **Greater.** Rare, +4
+* **Supreme.** Epic, +5
+* **Legendary.** Legendary, +6
+
+##### Sparing Potion
+By splashing this potion on a dying creature, they become stable. This has no effect on undead or constructs. 
+
+##### Smoke Bomb
+By using this potion, a 20-foot-radius sphere of fog arises from the point of use. The sphere spreads around corners, and its area is heavily obscured. It lasts for 1d6 x 10 minutes (30 minutes) or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. The rarity can be treated as if the spell’s level is ½ by reducing the sphere’s radius to 5 feet. 
+<br><br>
+<div class="classTable">
+
+#### Special Potions
+Most potions are based on spells as described in Chapter 7. Some potions diverge from this rule, however, and cover areas that are beyond the strength of spells, such as providing rest. Often times, such potions have their own prices instead of conforming to the Item Creation Complexity and Cost Table on Chapter 7. 
+
+The DCs described under each potion are the default, but any creature with the Alchemy ability can increase the DC to be equal to their potion DCs. 
+
+| Name | Rarity | Effect |
+|:-|:-|:-|
+| Acid Neutralizer | Common | Reduce acid damage by 1d6 + 3 once/round | 
+| Antiodor | Common | Suppresses odor and scent | 
+| Antitoxin (or antiplague) | Common | Advantage vs. poisons (or plagues) | 
+| Crackle Powder | Common | When stepped on, creates loud crack | 
+| Crystallized Air | Uncommon | Provides 1 hour of breathable air | 
+| Dark Light Powder | Common | Seen only with darkvision | 
+
+| | | |
+|:-|:-|:-|
+| Defoliant | Common | Destroys plant life and weakens plant-type creatures |
+| Flash Powder | Common | Causes blindness, can repeat saving throw 1/round | 
+| Gunpowder | Uncommon (12 gp) | Fuel for explosives, can burn for 1d6/pound | 
+| Holy Water | Common | Deals 2d6 points of holy damage to fiends and undead | 
+| Mana Potion | Varies | Restores mana points as if you rested | 
+| Phlogiston | Uncommon (10 gp) | Fuel for combustion engines, provides more charges | 
+| Rest, Potion of | Rare | Provides an hour’s worth of rest and relaxation | 
+| Rest, Potion of Greater | Legendary | Provides a full long rest worth of rest and relaxation | 
+| Youth, Potion | Varies | Can reduce (or increase) current age | 
+
+</div>
+
+##### Acid Neutralizer
+This lotion can treat an object or a creature. When subject to acid damage, the creature reduces the damage by a number equal to 1d6 + 3 points. This applies once per round. The acid neutralizer remains until 1 hour passes per dose applied. 
+
+##### Antiodor 
+This lotion can treat an object or a creature. When treated, the target’s odor is muffled and neutralized. The creature does not have a normal scent until the lotion fades after 1 hour, or after the creature gains (or excretes) a scent (such as if sweating after running or touching a perfumed object). 
+
+This lotion is often employed by rogues who anticipate opposition against creatures with strong olfactory senses, such as bloodhounds or wolves. 
+
+##### Antitoxin (or Antiplague)
+This vial of antitoxin gives the imbiber advantage to any saving throw against poison for 1 hour. It confers no benefit to undead or constructs. 
+
+Some antitoxins only function against plagues. These are known as antiplagues instead, but provide the same benefit.
+
+##### Crackle Powder
+This alchemical powder creates a loud crackling noise, like a snapping branch, whenever it is jostled or struck. A dose of the powder covers a 10-foot-radius area with an action, and imposes disadvantage on Agility (Stealth) checks. 
+
+The powder remains active for 4 hours.
+
+##### Crystallized Air
+This alchemical item crystallizes breathable air. When consumed, the potion grants 1 hours’ worth of breath in one dosage. Crystallized air is waterproof if unused, but spoils when the creature otherwise opens their mouth or allows new air entry into the body (such as by breathing normally or talking). 
+
+\pagebreakNum
+
+##### Dark Light Powder
+The gray powder has no special quality when seen in normal light, but glows brightly when viewed in darkvision, despite the surrounding light level. 
+
+Each dose contains enough powder for a reasonably lengthy sentence or a moderately-large drawing.
+
+##### Defoliant
+This vile liquid has a muddy brown hue and smells of rotten plant life. Contained in one potion flask is enough defoliant to remove plant life from one 5-foot square. 
+
+Light vegetation (anything but trees) dies within 1 hour of exposure, leaving behind scarred and sterile soil (as if blighted). 
+
+Medium vegetation (anything but massive trees) dies in 2 hours and can be cleared at a rate of 1 hour per 5-foot square.
+
+Large vegetation (including trees) can usually survive a single dose of defoliant, but the dose scars a 5-foot portion of the tree. If it can scar one-half the tree, the tree rots from within and dies.
+
+If targeting a plant creature, this potion harms them, reducing the plant creature’s maximum hit points by 1d4 + 1, halved on a successful Stamina saving throw. This can stack for each application. 
+
+An area affected by defoliant can be cleared by a creature proficient in Alchemist’s Supplies or an Herbalist’s Kit. It takes 10 minutes to clear a 5-foot square of defoliant. 
+
+##### Flash Powder
+This pinch of powder is a mixture of proto-gunpowder and alchemical flares. It can be thrown at a range of 30/60 ft. Creatures 5 feet away from the point of impact are blinded on a failed Agility saving throw against a DC of 10. If thrown further than 30 feet, creatures have advantage to the saving throw. A creature can repeat the saving throw at the end of its turn every round. 
+
+Alchemists, rogues, and hunters often use this cheap product as a distraction to hide or for a quick combat advantage if they have the Flash Bomber talent.
+
+Unlike most potions, flash powder also counts as an explosive, and can be crafted by those proficient with Engineer’s Tools, and can’t be consumed by an alchemical engine.
+
+##### Gunpowder (12 gp)
+This potent combustible powder is the fuel for most firearms and explosives, and some combustion engines. Unlike most uncommon alchemical products, gunpowder costs 12 gp per pound in most stores, and costs 6 gp to craft if not a specialist. 
+
+When set aflame gunpowder combusts and deals 1d6 fire damage to each creature in 10 feet per 1 pound of mass (up to 10d6 points of fire damage). Setting an ounce of gunpowder causes it to burn brightly, shedding bright light in 30 feet for 1 round, and dim light in the same radius for another round, before extinguishing. A creature in the area of effect can attempt a DC 10 Agility saving throw to half the damage taken. 
+
+If set aflame in a container, gunpowder instead deals the damage in concussive damage, and its radius increases by 10 feet for every pound of mass. 
+
+Unlike most potions, gunpowder also counts as an explosive, and can be crafted by those proficient with Engineer’s Tools, and can’t be consumed by an alchemical engine.
+
+##### Holy Water
+As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon or as a potion (if you are proficient in alchemy). If the target is a fiend or undead, it takes 2d6 points of holy damage, or takes disadvantage to their next saving throw within 1 hour (your choice). 
+
+Holy water can also free corpses from the Scourge’s taint or the Undead Plague if a flask is spent on a creature, preventing it from being reanimated, a discovery made by priestesses of Elune. 
+
+A priest, paladin, or shaman may create holy water (or elemental water if a shaman) without using alchemy by performing a special ritual. 
+
+The ritual takes costs the same in time and materials as a potion (in powdered silver or herbs) and requires the caster to spend mana equal to a 1st level spell. 
+
+##### Mana Potion
+By imbibing this blue potion, a spellcaster’s mental fog is cleared as their mind is flooded with a torrent of raw power. By drinking a mana potion, the character regains mana points. 
+* **Minor (Uncommon).** You regain mana as if you rested for 1 hour. 
+* **Moderate (Rare).** You regain mana as if you rested for 2 hours. 
+* **Greater (Legendary).** You regain mana as if you rested for 3 hours.
+___
+Mana potions are specifically exempt from the mana restoration limit of 1 per hour, but still run the risk of miscibility if used in succession. 
+
+Side effects may include dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis. Magic is not for everyone. Consult your doctor before.
+
+##### Phlogiston (10 gp)
+This unusually potent combustible is perfect fuel for most combustion engines. 
+
+Unlike most uncommon alchemical products, phlogiston costs 10 gp in fire-based and oily materials in most stores, and costs 5 gp to craft.
+
+The recipe for phlogiston is known to most alchemists and scholars who live alongside tinkers (usually selling for about 10-5 gold pieces).
+
+Unlike most potions, phlogiston also counts as an explosive, and can be crafted by those proficient with Engineer’s Tools, and can’t be consumed by an alchemical engine.
+
+##### Potion of Rest
+Provides the benefit of a short rest. Can be used once per 24 hours.
+
+##### Potion of Rest, Greater
+Provides the benefit of a long rest. Can be used once per 24 hours.
+
+\pagebreakNum
+
+##### Potion of Youth
+When you drink this potion, your physical age is reduced by 2d10% in years. You can reach a lower age threshold via this potion (such as from being venerable to middle age, or adulthood to childhood). Your mental scores and abilities are unchanged, but the DM may rule that your physical body changed enough to warrant change in physical ability scores (such as increasing Agility but reducing Strength).
+
+When created, the potion of youth can be instead a potion of aging, in which case it increases your physical age instead of decreasing it. If the physical age is increased beyond your maximum age, you die of old age. Whenever this potion is used, there is a cumulative 10% chance that the potion inverts the intended result.
+
+For instance, an aging wizard that used 3 potions of youth (for 30% chance to invert) could consume another potion of youth but increase their age by 2d10% years. 
+
+The potion’s strength is affected by its rarity
+
+| Rarity  | Age |
+|:-:|:-:|
+| Rare | 1d10% | 
+| Epic | 2d10% | 
+| Legendary	| 3d10% | 
+| Artifact*	| 100% (at any point desired) | 
+
+If an artifact, an inversion causes instant death of old age. 
+
+\pagebreakNum
+
+<a id="engineeringdevices"></a>
+
+### Engineering: Devices
+Engineering devices are described in full detail in Chapter 7 under Engineer’s Tools.
+
+<div class="classTable wide">
+
+#### Creatures
+With engineering, one can create battle-suits, mechanical guardians, and other creatures for attack or defense. 
+
+For more details on creatures and their rules, refer to Chapter 7 under Engineer’s Tools.
+
+| Creature | Rarity | Challenge | Properties |
+|:-|:-|:-:|:-|
+| Battle Chicken | Rare | 4 | Engine (mechanical) | 
+| Blade Barrel | Common | 1/4 | Engine (combustion) | 
+| Clockwork Goblin | Common | 1/2 | Engine (mechanical) | 
+| Clockwork Pest | Common | 1/4 | Engine (mechanical) | 
+| Combat Armor, Gnomish | Uncommon | 1 | Engine (steam) | 
+| Combat Armor, Gnomish Mk 2 | Rare | 4 | Engine (steam) | 
+| Crowd Pummeler 9-60 | Rare | 4 | Engine (mana) | 
+| Crowd Disruptor 5000 | Legendary | 7 | Engine (mana) | 
+| Explosive Sheep | Common | 1/4 | Engine (combustion) | 
+| Gyrocopter, Dwarven | Uncommon | 1 | Engine (combustion) | 
+| Gyrocopter, Grand Alliance | Rare | 4 | Engine (combustion) | 
+| Harvest Golem Watcher | Uncommon | 2 | Engine (mechanical), golem (optional) | 
+| Harvest Golem Reaper | Epic | 5 | Engine (mechanical), golem (optional) | 
+| Meat Wagon | Uncommon | 2 | Engine (soul) | 
+| Mechanostrider | Common | 1/4 | Engine (steam) | 
+| Nightborne Construct | Legendary | 8 | Engine (mana) | 
+| Night Elf Glaive Thrower | Uncommon | 3 | Engine (mechanical) | 
+| Orc Demolisher | Uncommon | 3 | Engine (mechanical) | 
+| Shredder | Uncommon | 2 | Engine (steam) | 
+| Siege Engine, Dwarven | Rare | 4 | Engine (combustion) | 
+| Siege Engine, Grand Alliance | Legendary | 8 | Engine (combustion) | 
+| Submarine, Dwarven | Uncommon | 1 | Engine (combustion) | 
+| Submarine, Grand Alliance | Rare | 4 | Engine (combustion) | 
+| Super-Shredder | Epic | 6 | Engine (steam) | 
+| Rip Tire | Common | 1/4 | Engine (combustion) | 
+| Turbo-Trike | Common | 1/2 | Engine (combustion) | 
+| Turret, Gnomish | Common | 1/4 | Engine (combustion) | 
+| Turret, Automated Flame | Uncommon | 2 | Engine (combustion) | 
+| Warframe Battlesuit | Rare | 3 | Engine (mana) | 
+| Warframe Titan | Epic | 6 | Engine (mana) |
+
+</div>
+
+You find information about the creatures in the Monster Manual.
+
+\pagebreakNum
+
+<div class="wide">
+
+#### Explosives
+Stores sell bombs, mines, and rockets as if the designer’s Intelligence modifier is +2, making the DC equal to 10 + EP invested. A character proficient with Engineer’s Tools can increase the DC of any explosive to be equal to their own. For more details on the use of explosives and their rules, refer to Chapter 7 under Engineer’s Tools.
+
+</div>
+
+<div class="classTable wide">
+
+#### Bombs
+
+| Name | Rarity | Damage | Properties |
+|:-|:-|:-:|:-|
+| Bomb, ArcaneM | Legendary | 5d6 | 5 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (mana burn), weakened (4) | 
+| Bomb, Big One | Artifact | 11d6 | 6 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) | 
+| Bomb, Big Daddy | Legendary | 7d6 | 5 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) | 
+| Bomb, Big Iron | Uncommon | 5d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere | 
+| Bomb, Cobalt | Rare | 7d6 | 3 lb., bomb, thrown (range 30/60), 10’ sphere | 
+| Bomb, Fire | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fire bolt spell), weakened | 
+| Bomb, Flash | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (vicious mockery spell), weakened | 
+| Bomb, F.R.I.E.D | Artifact | 7d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fireball spell), weakened (6) | 
+| Bomb, Iron | Common | 3d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere | 
+| Bomb, Shock | Rare | 6d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (shocking grasp spell), weakened | 
+| Bomb, Smoke | Uncommon | 5d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fog cloud spell), weakened | 
+| Bomb, Stun | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (thunderwave spell), weakened | 
+| Grenade, Adamantine | Epic | 8d6 | 4 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened | 
+| Grenade, Hand | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened | 
+| Grenade, Heavy | Uncommon | 4d6 | 2 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened | 
+| Grenade, Plague Spreader | Rare | 4d6 | 3 lb., bomb, 10’ sphere, special effect (poison spray spell, level 5; 2d12 poison damage), weakened (3) | 
+| Mortar Shell | Common | 3d8 | 4 lb., enlarged bomb, thrown (range 30/60), 20’ sphere, widened (large) | 
+
+#### Mines
+
+| Name | Rarity | Damage | Properties |
+|:-|:-|:-:|:-|
+| Mine, ArcaneM | Rare | 6d6 | 3 lb., mine, 10’ sphere, special effect (arcane damage), weakened | 
+| Mine, Blasting | Uncommon | 3d6 | 2 lb., mine, 10’ sphere, special effect (thunderwave spell), weakened (2) | 
+| Mine, Breach Charge | Common | 3d6 | 2 lb., mine, 5’ sphere, focused, reliable device (MR 0) | 
+| Mine, Dazing | Uncommon | 4d6 | 2 lb., mine, 10’ sphere, firework, weakened | 
+| Mine, Fel Iron | Epic | 8d6 | 4 lb., mine, 10’ sphere, reliable device (MR 1-2), weakened | 
+| Mine, Goblin Land | Rare | 7d6 | 3 lb., mine, 20’ sphere, unreliable device (MR 1-5), widened |  
+| Mine, Iron | Common | 3d6 | 2 lb., mine, 10’ sphere | 
+| Mine, Sapper | Rare | 5d6 | 3 lb., mine, 10’ sphere, sapper, reliable device (MR 1), weakened | 
+| Mine, Sapper Charge 2,000 | Legendary | 10d6 | 5 lb., mine, 10’ sphere, sapper, reliable device (MR 1-2), weakened | 
+| Mine, Sea | Rare | 7d6 | 3 lb., mine, 10’ sphere, sapper, water (only) | 
+
+</div>
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+#### Rockets
+
+| Name | Rarity | Damage | Properties |
+|:-|:-|:-:|:-|
+| Land Shark | Rare | 7d6 | 4 lb., rocket (range 60/120), 10’ sphere, earth (only) | 
+| Rocket, Iron | Common | 3d6 | 2 lb., rocket (range 60/120), 10’ sphere | 
+| Rocket, Dark Iron | Uncommon | 5d6 | 2 lb., rocket (range 60/120), 10’ sphere | 
+| Rocket, Mecha-Blast | Epic | 9d6 | 4 lb., rocket (range 60/120), 10’ sphere | 
+| Rocket, Fel Iron | Rare | 7d6 | 3 lb., rocket (range 60/120), 10’ sphere | 
+| Rocket, Fire | Common | 4d6 | 2 lb., rocket, 10’ sphere, firework, weakened | 
+| Rocket, Grand | Legendary | 10d6 | 5 lb., rocket (range 60/120), 10’ sphere, reliable device (MR 1-3), weakened | 
+| Rocket, Siege | Epic | 9d8 | 10 lb., enlarged rocket, 20’ sphere, sapper, widened (large) | 
+| Rocket, Torpedo | Rare | 7d6 | 4 lb., rocket (range 60/120), 10’ sphere, water (only) | 
+
+M These explosives use mana engines. 
+
+</div>
+
+##### Bomb, ArcaneM
+TODO
+
+##### Bomb, Big One
+TODO
+
+##### Bomb, Big Daddy
+TODO
+
+##### Bomb, Big Iron
+TODO
+
+##### Bomb, Cobalt
+TODO
+
+##### Bomb, Fire
+TODO
+
+##### Bomb, Flash
+TODO
+
+##### Bomb, F.R.I.E.D
+TODO
+
+##### Bomb, Iron
+TODO
+
+##### Bomb, Shock
+TODO
+
+##### Bomb, Smoke
+TODO
+
+##### Bomb, Stun
+TODO
+
+##### Grenade, Adamantine
+TODO
+
+##### Grenade, Hand	Common
+TODO
+
+##### Grenade, Heavy
+TODO
+
+##### Grenade, Plague Spreader
+TODO
+
+##### Mortar Shell
+TODO
+
+##### Mine, ArcaneM
+TODO
+
+##### Mine, Blasting
+TODO
+
+##### Mine, Breach Charge
+TODO
+
+##### Mine, Dazing
+TODO
+
+##### Mine, Fel Iron
+TODO
+
+##### Mine, Goblin Land
+TODO
+
+##### Mine, Iron
+TODO
+
+##### Mine, Sapper
+TODO
+
+##### Mine, Sapper
+TODO
+
+##### Mine, Sea
+TODO
+
+##### Land Shark
+TODO
+
+##### Rocket, Iron
+TODO
+
+##### Rocket, Dark Iron
+TODO
+
+##### Rocket, Mecha-Blast
+TODO
+
+##### Rocket, Fel Iron
+TODO
+
+##### Rocket, Fire
+TODO
+
+##### Rocket, Grand
+TODO
+
+##### Rocket, Siege
+TODO
+
+##### Rocket, Torpedo
+TODO
 
 \pagebreakNum
