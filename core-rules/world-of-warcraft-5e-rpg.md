@@ -348,7 +348,9 @@ Damage types are detailed under Chapter 9.
       - ##### [<span>Firearms & Crossbows</span>                          <span>???</span>](#engineeringfirearms)
       - ##### [<span>Ammunition</span>                          <span>???</span>](#engineeringammunition)
       - ##### [<span>Gadgets</span>                          <span>???</span>](#engineeringgadgets)
-  - #### [<span>Infusion Kit</span>                          <span>???</span>](#infusionkit) 
+  - #### [<span>Infusion Kit</span>                          <span>???</span>](#infusionkit)
+  - #### [<span>Jewelcrafting Kit</span>                          <span>???</span>](#jewelcraftingkit) 
+  - #### [<span>Poisoners Kit</span>                          <span>???</span>](#poisonerskit) 
 
 </div>
 
@@ -14055,6 +14057,8 @@ This trap clamps down on the triggering creature or vehicle for one minute, deal
 
 \pagebreakNum
 
+<a id="infusionkit"></a>
+
 ### Infusion Kit
 With the Infusion Kit, you can create magical items (as listed under Treasures above) or custom inscribed items (as described in Chapter 7 below). 
 
@@ -14099,11 +14103,16 @@ ___
 *Creation.* Material lightforged iron (uncommon); deep infusion +1 (rare); greater fel resistance (legendary)
 
 #### Jewelcrafting Kit
+
+<a id="jewelcraftingkit"></a>
+
 Artisan tools that focus on jewelcrafting can create gems and crystalline objects such as soul gems, which are used in various spells (such as the essence seal spell).
 
 A character may use these tools to identify gemlike magical objects, or pass a DC 20 Intelligence check with a jewelcrafting kit to increase worked gem value by 20% by cutting it (if raw) or perfecting the cut (if already cut). A failed check reduces cost by 10%.
 
 \pagebreakNum
+
+<a id="poisonerskit"></a>
 
 <div class="classTable wide">
 
@@ -14190,3 +14199,225 @@ This is a magical manufactured disease, created by an unknown fungus and suffuse
 
 \pagebreakNum
 
+# Chapter 6: Customization Options
+
+## Multiclassing
+Multiclassing in Warcraft works as in core 5e. 
+
+There are many instances in lore where a character has training in two distinct classes (such as the legendary paladin Uther Lightbringer, who, having trained as a knight, adding the experience of a priest before being called a paladin). Multiclassing is a viable tool to replicate special classes, concepts, or characters who seem to have abilities from several classes.
+
+For instance, the night elven Wardens and high elven Farstriders seem to be both rogues and hunters. 
+
+Tauren chieftains also seem to be both warriors with minor affinity to shamanism. 
+
+Demon hunters may also augment their tracking abilities by taking a level in hunter, just as enhancement shamans may augment their martial power by taking a level in warrior and choosing specific talents. 
+
+## Changing Classes
+Several classes intersect in theme with others. A character may change their class to another one near them after accomplishing a quest and undergoing character development. 
+
+| Old Class  | New Class |
+|:---:|:-----------:|
+| Alchemist | Tinker | 
+| Paladin | Death Knight | 
+| Shaman and Mage | Warlock | 
+
+### Attribute Change
+Changing from a casting class to another with a different spellcasting ability score also affects the creature’s mental abilities. 
+
+If you have different spellcasting ability scores, you may move up to 4 ability score points from the old class’s spellcasting ability score to the new class’s spellcasting ability score. The old attribute cannot end up lower than 8, or higher than 18 (before applying increases from race, class, feats, etc.). The ability score total that can be changed is 4 (or one-half the character’s total level from the old class, whichever is higher)
+
+For example, turning from a shaman to a warlock, for instance, drains Spirit and bolsters Charisma as fel magic suffuses the shaman’s being. If the shaman (16 Spirit, 12 Charisma) chooses to start turning her back on the elements and kneeling to the Burning Legion, her journey to becoming a Warlock begins, moving up to 4 points from Spirit to Charisma (for a total of 12 Spirit, 16 Charisma). If the shaman was level 20, she can move up to 10 points instead (10 Spirit, 18 Charisma, as Charisma cannot be higher than 18 before modifications are applied). 
+
+Changing from a class to another in downtime is also viable, as is changing a talent chosen or a general decision (such as feat taken, fighting style, archetype, etc.). 
+
+This is resolved as normal downtime training to learn a new language or training with a set of tools (takes 250 days, and costs 1 gp per day), although the DM may reduce the time to train dramatically with a quest or event (subject to shared adjudication). 
+
+### Feats
+___
+**Strike feats**
+<br>
+These are effects that modify a successful attack roll and cost a bonus action. If a strike effect calls for a saving throw, the DC is equal to 8 + proficiency bonus + Strength (or Agility if using a finesse or light weapon). 
+
+##### Alchemical Aptitude
+**Prerequisites: Intelligence 13 or higher.**
+<br>
+You gain proficiency in Alchemist’s Supplies, and the Alchemy ability (with an effective caster level of 1). 
+
+You gain three potion recipes from the Alchemist spell lists, and can store them in an alchemist’s formula book, and scribe them in any language you know. 
+
+Hunters and Rogues often choose from the following: Alchemists acid, alchemist’s fire, alchemist’s frost, false life potion, healing potion, poison spray potion, rejuvenation potion (sometimes known as a crimson vial) or smoke bomb.
+
+Warriors often choose from the following: Alchemists acid, alchemist’s fire, alchemist’s frost, false life potion, healing potion, heroism potion, or rejuvenation potion (sometimes known as a crimson vial)
+
+Undead characters often take potions of death coil as healing potions instead.
+
+##### Attuned Spell 
+**Prerequisite: Access to 1st level spells**
+<br>
+You attune your spellcasting capabilities to a small number of specific spells, and are much more capable in casting them, at the cost of your flexibility in choosing which spells you can cast. You can choose up to three spells, and each of them are cast for 2 less mana points (minimum 1). You can change these spells by retraining (treating your spellcaster level as the relevant level). 
+
+You cannot attune to any spell that is a minor spell for you (see Chapter 10), a spell that has ‘mana’ in its name or affects mana points (such as mana burn, drain mana or mana shield), one whose mana cost is lesser than those of comparable level (such as strike and stance spells, or shadow bolt), or a spell that relies on, casts, or replicates another spell (such as conjure strike, glyph of warding, or wish). 
+
+This feat is sometimes known as spell mastery or favored spell, and is historically one of the reasons human spellcasters were able to compete with non-human spellcasters with few iconic spells. 
+
+Despite the name of this ability, this does not consume attunement slots and do not count as attuned items. 
+
+##### Brew Mastery
+**Prerequisites: Ki**
+<br>
+You gain proficiency in brewer supplies. 
+
+Also, if you have the Ki feature, you may imbue a pint of drink (alcohol, tea, or any other brew) with a measure of your Ki, reducing your current and maximum Ki pool by the amount of points you use. 
+
+The drink is suffused with your power, and confers a benefit to whoever drinks it. Drinking a brew is a bonus action, and grants one of the below benefits for eight hours, until they take a long rest, or until they make use of three uses of the effect (whichever comes first). After the drink is consumed, your Ki maximum is restored to normal (and can
+
+\pagebreakNum
+
+rest to regain the lost Ki). A creature cannot benefit from more than one brew at any given time, and cannot benefit if they do not require drink or food to stay alive, or if they cannot reasonably process drinks. The brew can also be force-consumed with a melee unarmed attack or as part of a grapple check. 
+
+You gain two brew recipe upon gaining this feat, and may learn more by finding recipes throughout the world or by training. 
+* Fortifying Brew (1 Ki point). All creatures who drink this brew increase their maximum hit points by 1 per monk level (max is equal to double the imbiber’s original hit points). If the character later suffers from a reduction to maximum hit points, it is reduced from the benefit of Fortifying Brew first. This benefit ends if the creature is reduced to 0 hit points. This does not stack with aid spell.
+* Elusive Brew (1 Ki point). All creatures who drink this brew can use a reaction to perform the Dodge action. Each reaction is a single use. 
+* Dizzying Haze (1 Ki point). All creatures who drink this brew suffer from light obstruction to perception, and lose 10 feet of speed for one minute. The creature can make a Stamina saving throw to negate the obstruction to vision and negate the reduction to speed. If targeted with a fire spell or effect, the creature suffers from the burning condition, but takes 1d4 points of fire damage instead of 1d6. The target can attempt an Agility saving throw against your ki DC to avoid suffering the burning condition. Unlike most brews, the benefit of this brew can be used once.
+* Mana Tea (2 Ki). All creatures who drink this brew can regain 2 Ki, or 2 points of mana. As normal mana regeneration effects, this effect has a cooldown of an hour (even if used for Ki). Unlike most brews, the benefits of this brew can be used once. 
+* Thunder Focus Tea (2 Ki). All creatures who drink this brew reduce the mana or Ki cost for area-of-effect and multi-target spells by 1 point (minimum 1 mana, minimum 0 Ki). Each reduction is one use. 
+* Tigereye Brew (1 Ki). All creatures who drink this brew can add their Spirit bonus to melee weapon damage rolls. Each application is one use. 
+* Ki Guard Brew (2 Ki). All creatures who drink this brew take 2 less points of damage from weapon attack rolls. This is an aura bonus. Each reduction is one use. 
+___
+You may brew and imbue as much drinks as your Ki allows, though the ki dissipates naturally over the course of three days. This is considered a ki feature, and has the same DC to resist.
+
+##### Fel Suffusion 
+**Prerequisites: Access to 1st level spells and either the ability to cast spells that deal fel damage or having mana siphoned a fiend**
+<br>
+As a bonus action, you can suffuse the invasive corruption of fel magic into your spells. When a spell you cast is enhanced this way, you can ignore the spell resistance feature, or treat your spell’s level as if two spell levels higher for the purposes of spell immunities, dispel, and other variables. You can use this feat a number of times equal to your Spellcasting ability modifier. All uses are replenished after a long rest. You can regain one use if you perform mana siphon (mana vampirism) upon a fiend. You cannot suffuse spells that do (or can) deal holy damage.
+
+\columnbreak
+
+##### Fiendish Fury
+**Prerequisite: The ability to cast the berserker frenzy spell or benefitting from it at least once.**
+<br>
+When under the effects of the berserker frenzy spell, your anger manifests in an aura of fel flame, dealing 1d4 fel damage to creatures that start their turn adjacent to you. 
+
+As a strike effect, you may also add this damage to your melee weapon attacks once per turn. If you are reduced to 0 hit points while raging in this case, you may instead be reduced to 1 hit point and gain one level of exhaustion. The level of exhaustion is added 1 minute after you end your rage. If you would be killed, you instead gain three levels of exhaustion. 
+
+You can continue to stack levels of exhaustion this way, in which case they all apply once your rage ends (unless otherwise mitigated by some other means). 
+
+##### Infusionist
+**Prerequisite: Four or more caster levels, Intelligence 15 or higher**
+<br>
+You gain proficiency with the infusion skill and can make infused items.
+
+##### Magical Suffusion
+**Prerequisite: Ability to cast arcane or divine spells, access to cantrips**
+<br>
+You gain increased proficiency with cantrips. Your cantrips count as if you are 4 levels higher to determine the damage dealt with them. 
+
+You prepare one additional cantrip (total is your proficiency bonus + 1). Furthermore, cantrips never cost mana for you. 
+
+##### Multiclass Synergy
+**Prerequisites: At least two levels in two different classes**
+<br>
+You can unerringly mix disciplines you are proficient with. Choose two classes you have at least two levels in. Each two levels from one class counts as one effective level to the other for the purposes of improving existing abilities that scale on class level (such as Second Wind, Sneak Attack, and Martial Arts). This includes the Spellcasting feature, where you can add caster levels from different classes (therefore, 1 full caster level from the mage class, and ½ a caster level from the hunter class). If you are a spellcaster who multiclasses with a non-spellcasting class, count one-half the other class’s level as an increase to your caster level (treating it as if it provided 0.5 caster levels). 
+
+This does not grant access to new abilities, nor stack with existing improvements from multiclassing. You may choose improved progression, however, when counting your effective caster level. 
+
+For this purpose, Talents, Archetype features, ability score improvements, and improvements to Extra Attack are treated as new features, and cannot be gained by synergy.
+
+For instance, the Warrior's Second Wind heals 1d10 + your warrior level when used. If you have 5 levels in warrior and 4 in hunter, and have taken this feat, Second Wind restores 1d10 + 7 hit points (5 warrior levels, plus 2 effective warrior levels from 4 hunter levels). Your effective caster level for hunter spells becomes 4 (2 from hunter, 2 from warrior).
+
+\pagebreakNum
+
+##### Mystic Blast
+**Prerequisite: Ability to cast arcane or divine spells**
+<br>
+You gain the ability to unleash latent magic as a ranged or touch attack. As an Action, you can unleash a Mystic Blast, which can be at a range of Touch or up to 20 feet (plus 10 feet per maximum spell level accessible, up to 110 feet at 9th level). 
+
+Upon a successful attack roll, the blast deals 1d6 points of damage, chosen from the following: acid, cold, lightning, or fire. For every spell level you access, this deals an extra 1d6 (up to 9d6 at 9th level)
+
+You may alternatively choose one of the following magic damage types (arcane, fel, holy, psychic, thunder, or shadow) for your Mystic Blast, but you must have a spell with such descriptors prepared, and it deals 1d4 damage instead (up to 9d4 at 9th level).
+
+This does not cost mana, and can be done at will as a supernatural ability, so long as you have at least 1 mana point in reserve for each dice of damage. 
+
+If you are exhausted from low mana, you cannot make use of this ability unless you are no longer exhausted.
+
+This counts as a spell for the purposes of the Spell Strike feat. 
+
+This feat can be taken multiple times. 
+___
+**Mystic Blast Augmentations**
+<br>
+Whenever the feat is possessed more than once (such as by taking the feat more than once, having an ability that would give you Mystic Blast, etc.), you gain a Mystic Blast augmentation chosen from the list below. You can have multiple augmentations. 
+* *Attuned.* Your Mystic Blast can be used as an Attack action, but only once per turn. If taken again, this allows one extra attack action to be turned into a Mystic Blast.
+Empowered. Your Mystic Blast deals 50% extra damage. This can stack. 
+Innate. Your Mystic Blast requires no mana in reserve (but still cannot be used when exhausted from low mana). 
+* *Maneuvering.* A single target of your Mystic Blast is subject to a Shove attempt (using your Spell Attack roll as the contested roll). If taken twice, this both pushes and knocks prone on a successful roll. The distance pushed is equal to 5 feet per three spell levels accessed (minimum 5 feet, maximum 15 feet).
+* *Reacting.* When targeted by a Mystic Blast or ability that deals the same damage type as of your Mystic Blast, you can use Mystic Blast as a reaction against the source that targeted you. If you desire, the damage from your Mystic Blast can reduce the damage you would have taken from the ability. If this reduces the damage to 0, you retain use of your reaction and have not spent it. 
+* *Splitting.* Your Mystic Blast can spread its damage across multiple targets. You can freely split the damage (in any amount you wish) between up to one target per spell level accessed, so long as the targets are within 30 feet of one another. If taken again, this doubles the splitting range. 
+
+##### Improved Regeneration
+**Prerequisite: Troll, Stamina of 13 or higher**
+<br>
+You increase your Stamina score by 1, to a maximum of 20. 
+
+You regain 1 hit point at the end of each hour, provided you have at least 1 hit point remaining. 
+
+You regenerate lost limbs in three days instead of one week, unless they were taken willingly (such as to escape bonds), or if they are cauterized.
+
+##### Shroud of the Ancients
+**Prerequisites: Night Elf race**
+<br>
+Your link to the ancients increases in strength. The ancients grant their blessing upon you, granting you the following abilities.
+
+You may Dash as a bonus action when you are not in bright light.
+
+Your Shadowmeld ability instead grants you concealment. This requires you to remain in the same circumstances that allow Shadowmeld, and cannot be used twice in the same minute. 
+
+You may invoke the blessings of the ancients to cast the disguise self spell once per short rest. This can be invoked only in a place where your Shadowmeld could be used, but can be maintained when leaving such areas. 
+
+##### Spell Strike [Strike]
+When you make a melee or ranged weapon attack, you may use a bonus action to apply the effects of a direct-target spell to the struck creature. The spell targets the creature struck, and cannot target anyone else, such as you, an area, or an adjacent creature. The creature is still entitled a saving throw if the spell allows it, but if the spell targets AC, the effect does not call for another roll. 
+
+This is declared before the strike is made, and a spell that is designated to discharge is lost harmlessly if the attack fails. The range of the spell increases to become the range of the attack (a shocking grasp spell cast through a spell strike via an arrow will deal damage normally if the hit lands). 
+
+The extra spell damage is not increased if the attack is a critical hit.
+
+This feat cannot be applied to a strike spell. 
+
+##### Spell Stance [Stance]
+As a bonus action, you may enter a spell stance. As part of entering this stance, you may cast a spell on yourself, so long as the spell’s original casting time is equal to one action or is shorter. 
+
+So long as you remain in the spell stance, the spell remains active, up to its normal duration or ending parameters. 
+
+The spell requires the normal mana cost or resources, and must be a spell that can target you or a touched creature. If the spell is an instantaneous spell, you may cast it on yourself again as a bonus action in the next round so long as you remain in the stance. 
+
+Only you benefit from the spell woven into the stance, even if the spell was originally an area spell or a spell that affects multiple targets (in which case you are the only available target). If you enter a different stance, all the benefits of the spell stance end prematurely (as if the duration ended or as if you lost concentration, whichever appropriate). 
+
+Examples for such uses are the holy light spell to heal yourself, the blade ward spell to ward off weapon strikes, or the general ‘buff spells’ such as see invisibility, haste, tongues, or shield of faith. 
+
+##### Titan-Born
+**Prerequisites: Dwarf race**
+<br>
+Your link to the ancient earthen and your titanic progenitors increases in strength. Your skin is no longer strictly flesh, but acts as if malleable and flexible metal or stone. You gain the following abilities.
+
+You may use your Stoneform ability up to three times before a rest. 
+
+\pagebreakNum
+
+You are immune to the petrified condition, and can hold your breath up to 15 minutes.
+
+You know the mold earth cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast thunderwave as a 1st level spell. When you reach 5th level, you can also cast the earthen grasp spell as a 2nd level spell. 
+
+Charisma is your spellcasting ability for these spells, and you use your mana pool for these abilities (even if you are not normally a spellcaster). While you use such abilities (and after using them for one hour), your skin glows a pale blue. If you can already cast such spells (and have a sufficiently high caster level), they are always prepared for free.
+___
+*Special.* If you are a Dark Iron Dwarf, you can choose to forgo the thunderwave and earthen grasp spells to the hellish rebuke and flaming sphere spells, respectively. 
+
+##### Wolf-Born
+**Prerequisites: Worgen race**
+<br>
+Your inner wolf manifests in a more pronounced way, and are able to take control of the curse.
+
+You gain a +1 bonus to your Strength and +1 bonus to your Agility scores. 
+
+You increase your walking speed by 5 feet. 
+
+Your Worgen Form racial ability has both the benefits of Embrace the Beast and Reject the Beast. 
