@@ -341,8 +341,14 @@ Damage types are detailed under Chapter 9.
     - ##### [<span>Armor Sets</span>                                  <span>???</span>](#armorsets)
     - ##### [<span>Epic Boons</span>                                  <span>???</span>](#epicboons)
   - #### [<span>Skill or Tool Products</span>                         <span>???</span>](#)
-    - ##### [<span>Alchemy: Potions</span>                            <span>???</span>](#alchemypotions)
-    - ##### [<span>Engineering: Devices</span>                          <span>???</span>](#engineeringdevices)
+  - #### [<span>Alchemy: Potions</span>                            <span>???</span>](#alchemypotions)
+  - #### [<span>Engineering: Devices</span>                          <span>???</span>](#engineeringdevices)
+      - ##### [<span>Creatures</span>                          <span>???</span>](#engineeringcreatures)
+      - ##### [<span>Explosives</span>                          <span>???</span>](#engineeringexplosives)
+      - ##### [<span>Firearms & Crossbows</span>                          <span>???</span>](#engineeringfirearms)
+      - ##### [<span>Ammunition</span>                          <span>???</span>](#engineeringammunition)
+      - ##### [<span>Gadgets</span>                          <span>???</span>](#engineeringgadgets)
+  - #### [<span>Infusion Kit</span>                          <span>???</span>](#infusionkit) 
 
 </div>
 
@@ -11447,6 +11453,8 @@ been trained in Dalaran by the Kirin Tor‘s
 wardens, or be a superstitious villager who
 fears dark magic.
 
+\pagebreakNum
+
 Whenever you visit a settlement, commoners
 and law enforcement are more likely to trust
 you with reports of strange events, such as
@@ -11472,8 +11480,6 @@ in the fallen domains of Lordaeron and
 Dalaran. The undead armies of the Scourge
 were a tide that could not be pushed back
 save by the sword and the prayer.
-
-\pagebreakNum
 
 You might have once been a member of the
 disbanded Order of the Silver Hand, a
@@ -13153,6 +13159,8 @@ Engineering devices are described in full detail in Chapter 7 under Engineer’s
 
 <div class="classTable wide">
 
+<a id="engineeringcreatures"></a>
+
 #### Creatures
 With engineering, one can create battle-suits, mechanical guardians, and other creatures for attack or defense. 
 
@@ -13197,6 +13205,8 @@ You find information about the creatures in the Monster Manual.
 
 \pagebreakNum
 
+<a id="engineeringexplosives"></a>
+
 <div class="wide">
 
 #### Explosives
@@ -13210,7 +13220,7 @@ Stores sell bombs, mines, and rockets as if the designer’s Intelligence modifi
 
 | Name | Rarity | Damage | Properties |
 |:-|:-|:-:|:-|
-| Bomb, ArcaneM | Legendary | 5d6 | 5 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (mana burn), weakened (4) | 
+| Bomb, Arcane<sup>M</sup> | Legendary | 5d6 | 5 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (mana burn), weakened (4) | 
 | Bomb, Big One | Artifact | 11d6 | 6 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) | 
 | Bomb, Big Daddy | Legendary | 7d6 | 5 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) | 
 | Bomb, Big Iron | Uncommon | 5d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere | 
@@ -13232,7 +13242,7 @@ Stores sell bombs, mines, and rockets as if the designer’s Intelligence modifi
 
 | Name | Rarity | Damage | Properties |
 |:-|:-|:-:|:-|
-| Mine, ArcaneM | Rare | 6d6 | 3 lb., mine, 10’ sphere, special effect (arcane damage), weakened | 
+| Mine, Arcane<sup>M</sup> | Rare | 6d6 | 3 lb., mine, 10’ sphere, special effect (arcane damage), weakened | 
 | Mine, Blasting | Uncommon | 3d6 | 2 lb., mine, 10’ sphere, special effect (thunderwave spell), weakened (2) | 
 | Mine, Breach Charge | Common | 3d6 | 2 lb., mine, 5’ sphere, focused, reliable device (MR 0) | 
 | Mine, Dazing | Uncommon | 4d6 | 2 lb., mine, 10’ sphere, firework, weakened | 
@@ -13262,12 +13272,12 @@ Stores sell bombs, mines, and rockets as if the designer’s Intelligence modifi
 | Rocket, Grand | Legendary | 10d6 | 5 lb., rocket (range 60/120), 10’ sphere, reliable device (MR 1-3), weakened | 
 | Rocket, Siege | Epic | 9d8 | 10 lb., enlarged rocket, 20’ sphere, sapper, widened (large) | 
 | Rocket, Torpedo | Rare | 7d6 | 4 lb., rocket (range 60/120), 10’ sphere, water (only) | 
-
+___
 M These explosives use mana engines. 
 
 </div>
 
-##### Bomb, ArcaneM
+##### Bomb, Arcane<sup>M</sup>
 TODO
 
 ##### Bomb, Big One
@@ -13376,3 +13386,807 @@ TODO
 TODO
 
 \pagebreakNum
+
+<a id="engineeringfirearms"></a>
+
+<div class="wide">
+
+#### Firearms and Crossbows
+All firearms use combustion engines, while all crossbows use mechanical engines. Due to the properties of both weapons, adding fuel (or reloading) follows simpler mechanisms; firearms need 2 ounces of gunpowder regardless of rarity for every shot, and crossbows require 1 action to reload.
+
+Special modifications and size increases alter actions reloaded. 
+
+Firearms and crossbows with special fuel sources are marked with asterisk (*). 
+For more details on firearms and modified crossbows, and their rules, refer to Chapter 7 under Engineer’s Tools. 
+
+</div>
+
+<div class="classTable wide">
+
+| Name | Rarity | Damage/Capacity | Properties |
+|:-|:-|:-:|:-|
+| Blunderbuss, Long Muzzle | Uncommon | 3d8/2 | 15 lb., heavy, two-handed (range 200/800) | 
+| Blunderbuss, Scattershot | Uncommon | 2d8/2 | 15 lb., heavy, two-handed (range 200/800), scattershot 20 ft., weakened | 
+| Boomstick | Common | 2d6/2 | 10 lb., medium (range 150/600) | 
+| Cannon, Hand | Epic | 4d6/4 | 10 lb., medium (range 75/300), blaster, sniper, weakened | 
+| Cannon, Field | Legendary | 11d6/1 | 225 lb., heavy++ (range 800/3,200), reload (5 actions), sniper, weakened | 
+| Cannon, Siege | Rare | 8d6/1 | 225 lb., heavy++ (range 400/1,600), sapper, reload (5 actions) | 
+| Captain’s Diplomacy | Rare | 4d8/3 | 15 lb., heavy, two-handed (range 50/200), blaster | 
+| Crossbow, Auto | Uncommon | 1d10/4 | 18 lb., heavy, two-handed (range 100/400), capacity increase, weakened | 
+| Crossbow, Air | Common | 1d8/1 | 5 lb., medium, two-handed (range 40/160), shortened, silencer | 
+| Crossbow, Great Ballista | Rare | 6d6/2 | 90 lb., heavy+ (150/600), reload (2 actions) | 
+| Crossbow, Bloodseeker | Epic | 4d8/3 | 7 lb., medium, two-handed (range 80/320), bayonet (shortsword) | 
+| Crossbow, Exorcist’s | Uncommon | 1d6/4 | 3 lb., light (range 30/120), capacity increase, weakened |
+| Crossbow, Fal’inrush | Epic | 3d6/3 | 4 lb., light (range 60/240), bayonet (dagger), sniper, weakened | 
+| Crossbow, Hand of Argus | Uncommon | 1d10/1 | 5 lb., heavy, two-handed (range 25/100), blaster | 
+| Crossbow, Legionkiller | Legendary | 5d10/4 | 18 lb., heavy, two-handed (range 100/400) | 
+| Crossbow, Stone Shatterer | Rare | 3d6/2 | 3 lb., light (range 60/240), extended reload (2 actions), sniper | 
+| Crossbow, Throat Needler | Rare | 3d8/5 | 5 lb., medium, two-handed (range 80/320), capacity increase, extended reload (2 actions) | 
+| Giant’s Bane | Legendary | 6d8/5 | 15 lb., heavy, two-handed (range 200/800) |
+| Grapeshotter | Legendary | 6d8/5 | 17 lb., heavy, two-handed (range 200/800), bayonet (warhammer) | 
+| Minigun | Epic | 4d10/6 | 90 lb., heavy+ (range 200/800), automatic 100 ft., capacity increase, reload (3 actions), shortened, weakened | 
+| Musket, Anvilmar | Common | 2d6/5 | 10 lb., medium (range 75/300), capacity increase, shortened | 
+| Musket, Farwatch | Uncommon | 3d6/5 | 10 lb., medium (range 75/300), capacity increase, shortened | 
+| Musket, Fel Iron | Epic | 4d6/7 | 10 lb., medium (range 75/300), capacity increase, shortened | 
+| Nesingwary Double Barrel | Legendary | 6d8/2 | 15 lb., heavy, two-handed (range 50/200), blaster, capacity reduce, silencer | 
+| Rifle, Assault | Rare | 3d8/6 | 15 lb., heavy, two-handed (range 200/800), capacity increase, weakened | 
+| Rifle, Dark Iron | Uncommon | 2d8/5 | 15 lb., heavy, two-handed (range 200/800), capacity increase, weakened | 
+
+</div>
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+| Name | Rarity | Damage/Capacity | Properties |
+|:-|:-|:-:|:-|
+| Rifle, Deadshot | Legendary | 5d8/5 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-3), weakened | 
+| Rifle, Crystalshot | Epic | 4d8/4 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-2), weakened | 
+| Rifle, Hunting | Common | 1d8/2 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 0), weakened | 
+| Rifle, Long | Epic | 5d8/1 | 15 lb., heavy, two-handed (range 400/1,600), capacity reduce, sniper | 
+| Rifle, Sniper | Legendary | 6d8/2 | 15 lb., heavy, two-handed (range 400/1,600), capacity reduce, extended reload (2 actions), sniper, silenced | 
+| Pistol, Arcanite1 | Epic | 5d4/4 | 5 lb., light (range 100/400) | 
+| Pistol, Flintlock | Common | 2d4/2 | 5 lb., light (range 100/400) | 
+| Pistol, Iron | Common | 2d4/2 | 5 lb., light (range 50/200), reliable device (MR 0), shortened | 
+| Pistol, Pirate’s | Uncommon | 3d4/2 | 5 lb., light (range 100/400) | 
+| Pistol, Snub Revolver | Rare | 3d4/6 | 5 lb., light (range 50/200), capacity increase, reliable device (MR 1), shortened, weakened | 
+| Ship, Naaru Cannon<sup>M</sup> | Rare | 8d6/1 | 225 lb., heavy++ (range 400/1,600), reload (5 actions) | 
+| Ship, Swivel Cannon | Uncommon | 6d6/2 | 90 lb., heavy+ (range 300/1,200), reload (2 actions) | 
+| Shotgun, Combat | Epic | 5d6/4 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ | 
+| Shotgun, Warden’s | Rare | 4d6/3 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ | 
+| Shotgun, Zombie | Uncommon | 3d6/2 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ | 
+| Titanstrike | Artifact | 6d8/6 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-4), weakened | 
+___
+M These firearms use mana engines. 
+___
+Some weapons have a special bayonet type. This costs the same cost as the extra weapon, and adds to the total cost and weight. 
+
+</div>
+
+##### Blunderbuss, Long Muzzle
+A heavy and powerful firearm favored by richer dwarves, the long muzzle blunderbuss is a heavy hitter with great history on the battlefield and a revered position in a dwarven household. 
+
+##### Blunderbuss, Scattershot
+An easier-to-use blunderbuss, the scattershot blunderbuss can be altered to shoot a cone of bullets in a 15-foot cone, dealing 2d8 damage, with an Agility save to half. As scattershot blunderbusses do not require attack rolls, they do not require proficiency to use, and can be used while adjacent to an enemy without penalty. 
+
+##### Boomstick
+Known as a favored dwarven weapon, boomsticks are intricately designed with special markings to denote the company, issue date, and a small piece of war advice in dwarven. 
+
+\columnbreak
+
+##### Cannon, Hand
+TODO
+
+##### Cannon, Field
+TODO
+
+##### Cannon, Siege
+This huge-sized piece of artillery can blast through walls like paper (dealing double damage to objects). This acts as a large-sized rifle, and increases in dice from 1d6 to 2d6. Due to its size, it must be mounted on a solid surface (and weighs 225 lbs.), and cannot be carried.
+
+##### Captain's Diplomacy
+TODO
+
+##### Crossbow, Auto
+This crossbow acts as a heavy crossbow that deals 1d10 piercing damage. This does not have the loading quality. 
+
+##### Crossbow, Air
+This crossbow acts as a light crossbow that deals 1d8 piercing damage. It is silent when shot. 
+
+\pagebreakNum
+
+Gun, Machine This gun deals 3d8 piercing damage to any number of creatures standing in a 5-foot wide line 30 feet away. This requires an Agility save to half damage. Machine guns do not require training to use. 
+
+##### Crossbow, Great Ballista
+TODO
+
+##### Crossbow, Bloodseeker
+TODO
+
+##### Crossbow, Exorcist's
+TODO
+
+##### Crossbow, Fal'inrush
+TODO
+
+##### Crossbowm Hand of Argus
+TODO
+
+##### Crossbow, Legionkiller
+TODO
+
+##### Crossbow, Stone Shatterer
+TODO
+
+##### Crossbow, Throat Needler
+TODO
+
+##### Giant's Bane
+TODO
+
+##### Grapeshotter
+TODO
+
+##### Minigun
+TODO
+
+##### Musket, Anvilmar
+TODO
+
+##### Musket, Farwatch
+TODO
+
+##### Musket, Fel Iron
+TODO
+
+##### Nesingwary Double Barrel
+TODO
+
+##### Rifle, Assault
+TODO
+
+##### Rifle, Dark Iron
+TODO
+
+##### Rifle Deadshot
+TODO
+
+##### Rifle, Crystalshot
+TODO
+
+##### Rifle, Hunting
+TODO
+
+##### Rifle, Long
+Favored of the iconic dwarven sniper, longrifles have great range, great damage, and great practical use. They are however expensive, and difficult to deploy ideally. 
+
+##### Rifle, Sniper
+A powerful and long-range precision silenced weapon, the sniper rifle is not touched by those without experience. 
+
+##### Pistol, Arcanite<sup>1</sup>
+TODO
+
+##### Pistol, Flintlock
+Known as a good backup weapon, the flintlock pistol does not deal a lot of damage compared to its heavier counterparts, but both can be used easily (as they are light weapons). 
+
+##### Pistol, Iron
+TODO
+
+##### Pistol, Pirate's
+TODO
+
+##### Pistol, Snub Revolver
+A great backup weapon, the revolver balances good damage with a great ammunition reserve. Very reliable. 
+
+##### Ship, Naaru Cannon<sup>M</sup>
+TODO
+
+##### Ship, Swivel Cannon
+TODO
+
+##### Shotgun, Combat
+TODO
+
+##### Shotgun, Warden's
+TODO
+
+##### Titanstrike
+TODO
+
+\pagebreakNum
+
+<a id="engineeringammunition"></a>
+
+#### Ammunition
+Engineered ammunition is similar to infused ammunition (see Treasures), but follows some differences in rules (See Chapter 7). Below are a number of special engineered ammunition. Ammunition costs as a consumable of the listed rarity. 
+
+<div class="classTable wide">
+
+| Ammunition | Rarity | Effect | Properties |
+|:-|:-|:-:|:-|
+| Atomizing Shot | Epic  | Disintegrate (6th) | Ammunition deals extra 10d6 + 40 arcane damage, disintegrating the target if reduced to 0 hit points, as per the disintegrate spell | 
+| Buckshot | Common | Scattershot (+1 EP) | Ammunition is modified with a single-use scattershot modification | 
+| Blasting Shot | Common | Reliable, Siege (+1 EP) | Ammunition deals double damage to objects, half to creatures, and the malfunction rate is reduced by 2 (minimum 0) | 
+| Cursed Bullet | Rare | Bestow Curse (3rd) | Ammunition curses as per the hold spell |  
+| Frost Shot | Common | Frostbolt (cantrip) | Ammunition deals 1d8 extra cold damage, and the target is chilled for 1 round | 
+| Holy Bullet | Uncommon | Guiding Bolt (1st) | Ammunition deals 4d6 extra holy damage, and the next attack against the target has advantage (as per guiding bolt) | 
+| Incendiary Shot | Common | Firebolt (cantrip) | Ammunition deals 1d10 extra fire damage. Objects are set on fire | 
+| Paralyzing Shot | Uncommon | Hold (Person) (2nd) | Ammunition paralyzes as per the hold spell |  
+| Razor Shot | Common | Automatic Fire (+1 EP) | Ammunition is modified with a single-use automatic fire modification | 
+| Shock Shell | Common | Shocking Grasp (cantrip) | Ammunition deals 1d8 extra lightning damage. You have advantage to the attack if the target is wearing metal armor | 
+| Water Shot | Common | Water (+1 EP) | Ammunition can be used underwater | 
+
+</div>
+
+##### Atomizing Shot
+TODO
+
+##### Buckshot
+TODO
+
+##### Blasting Shot
+TODO
+
+##### Cursed Bullet
+TODO
+
+##### Frost Shot
+TODO
+
+##### Holy Bullet
+TODO
+
+##### Incendiary Shot
+TODO
+
+##### Paralyzing Shot
+TODO
+
+##### Razor Shot
+TODO
+
+##### Shock Shell
+TODO
+
+##### Water Shot
+TODO
+
+\pagebreakNum
+
+<a id="engineeringgadgets"></a>
+
+#### Gadgets
+With gadget technology, a user can replicate the use of several spells. This requires special fuel sources, and follows the rules described in Chapter 7. 
+
+For more details on gadgets and their rules, refer to Chapter 7 under Engineer’s Tools.
+
+<div class="classTable wide">
+
+| Name | Rarity | Spell (Spell Level) | Properties |
+|:-|:-|:-:|:-|
+| Acid Gun | Common | Acid Splash (cantrip) | 10 lb., one-handed, medium, engine (alchemical) | 
+| Air Recycler | Uncommon | Water Breathing (4th) | 10 lb., one-handed, medium, engine (alchemical, mana: any, or mechanical) | 
+| Antimagic Ray Gun | Uncommon | Mana Burn (2nd) | 10 lb., one-handed, medium, engine (mana: any, or soul: any spellcaster or mana elementals) | 
+| Antimagic Ray Gun, Improved | Epic | Mana Burn (6th) | 10 lb., one-handed, medium, engine (mana: any, or soul: any spellcaster) | 
+| Army Knife | Common | Prestidigation (cantrip) | 5 lb., one-handed, light, engine (mechanical or steam), size reduced (MF 1, long cooldown) | 
+| Atmospheric Override Box | Legendary | Control Weather (8th) | 15 lb., two-handed, heavy, engine (mana: any or soul: elemental), size increased (focused device) | 
+| Atomizer | Epic | Disintegrate (6th) | 10 lb., one-handed, medium, engine (mana: any) | 
+| Auto-Factory | Rare | Conjure Construct: Clockwork Goblin (4th) | 75 lb., two-handed, heavy+, engine (combustion or steam), size increased II (quick use, reliable device, MR 1) | 
+| Buzz Box | Rare | Sending (3rd) | 15 lb., two-handed, heavy, engine (mana: arcane or mechanical), size increased (reliable device, MR 1) | 
+| Castle-in-a-Box | Legendary | Mighty Fortress (8th) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane), size increased (reliable device; MR 1-3) |
+| Cloaking Device | Uncommon | Invisibility (2nd) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane), size increased (focused device) | 
+| Cloaking Device, Greater | Rare | Greater Invisibility (4th) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane), size increased (focused device) |
+| Companion Constructor | Rare | Find Steed, Greater (4th) | 10 lb., one-handed, medium, engine (mana: any) | 
+| Death Ray<sup>1</sup> | Legendary | Finger of Death (7th) | 10 lb., one-handed, medium, engine (electrical, mana: arcane, or soul: any) | 
+| Detector | Uncommon | Alarm (1st) | 5 lb., one-handed, light, engine (mechanical) | 
+| Dropout Simulator | Legendary | Feeblemind (8th) | 5 lb., one-handed, light, engine (electrical, mana: arcane, or soul: any) | 
+| Cosmically-attuned 8-Ball | Artifact | Foresight (9th) | 10 lb., one-handed, light, engine (mana: arcane, or soul: elemental) | 
+| Extraplanar Shifter | Legendary | Plane Shift (7th) | 10 lb., one-handed, medium, engine (mana: arcane) | 
+| Factory-Me-Up | Rare | Fabricate (4th) | 10 lb., one-handed, medium, engine (electrical, mechanical, or steam) | 
+| Flamethrower, or Dragon Gun | Uncommon | Burning Hands (1st) | 15 lb., two-handed, heavy, engine (alchemical, combustion, soul: elemental, or steam), size increased (quick-use) | 
+| Flashlight | Common | Light (cantrip) | 5 lb., one-handed, light, engine (alchemical, electrical, or soul: elemental), size reduced (MF 1, low charge; 3 charges) | 
+| Fog Machine | Uncommon | Fog Cloud (1st) | 10 lb., one-handed, medium, engine (alchemical, electrical, soul: elemental, or steam) | 
+| Force Reflective Disk | Rare | Counterspell (3rd) | 5 lb., one-handed, light, engine (electrical or mana: any), size reduced (MF 1, low charge; 3 charges) | 
+| Force Generator | Uncommon | Barrier Ward (1st) | 5 lb., one-handed, light, engine (electrical or mana: any) | 
+| Frost-Me-Up | Rare | Ice Block (4th) | 10 lb., one-handed, medium, engine (electrical, mana: any, or soul: elemental) |
+
+</div>
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+| Name | Rarity | Spell (Spell Level) | Properties |
+|:-|:-|:-:|:-|
+| Frost Gun | Uncommon | Freezing Sphere (2nd) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane, or soul: elemental) | 
+| Glitterbox Surprise | Uncommon | Faerie Fire (1st) | 10 lb., one-handed, medium, engine (alchemical, mechanical or mana: arcane) | 
+| Goblin Glider Kit | Uncommon | Conjure Construct: Goblin Glider (1st) | 10 lb., one-handed, medium, engine (mechanical) | 
+| Gravity Well | Legendary | Reverse Gravity (7th) | 10 lb., one-handed, medium, engine (electrical, mana: arcane, or soul: any) | 
+| Hologram Generator | Uncommon | Silent Image | 5 lb., one-handed, light, engine (electrical) | 
+| Hologram Generator, Greater | Rare | Major Image (3rd) | 5 lb., one-handed, light, engine (electrical) | 
+| Ice Cannon | Uncommon | Ice Knife (2nd) | 10 lb., one-handed, medium, engine (electrical, or soul: elemental) | 
+| Jumper Cables | Rare | Revivify (3rd) | 10 lb., one-handed, medium, engine (electrical or soul: living creature) | 
+| Launcher, Caltrops | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion, mechanical, or steam) | 
+| Launcher, Cluster Rockets | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) | 
+| Launcher, Rocket | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) | 
+| Launcher, Trap | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) | 
+| Lifeforce Transposer | Rare | Life Transference (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (reliable device; MR 1) | 
+| Light Absorber | Rare | Darkness (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (focused device) | 
+| Light Generator | Rare | Daylight (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (focused device) | 
+| Locator | Uncommon | Locate Object (2nd) | 5 lb., one-handed, light, engine (mechanical or mana: any) |
+| Localized Tornado Generator | Legendary | Whirlwind (7th) | 10 lb., one-handed, heavy, engine (mana: druid or soul: elemental), size increased (focused device) | 
+| Meteors-R-Us | Artifact | Meteor Swarm (9th) | 10 lb., one-handed, medium, engine (combustion or soul: elemental) | 
+| Mind Scattering Cap | Rare | Confusion (4th) | 5 lb., one-handed, light, engine (mechanical, or soul: any) | 
+| Mini Volcano | Legendary | Incendiary Cloud (8th) | 15 lb., two-handed, heavy, engine (alchemical or soul: elemental), size increased (focused device) | 
+| Mirage Generator | Legendary | Mirage Arcane (7th) | 10 lb., one-handed, medium, engine (alchemical or mana: any), size increased (focused device) | 
+| Mortar | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion, mechanical, or steam) | 
+| Noise Canceller Box | Uncommon | Silence (2nd) | 5 lb., one-handed, light, engine (electrical) | 
+| Neuralyzer | Epic | Modify Memory (4th) | 5 lb., one-handed, light, engine (electrical) | 
+| OOBE Simulator | Artifact | Astral Projection (9th) | 10 lb., one-handed, medium, engine (electrical, mana: any, or soul: any) | 
+| Personal Gravity Suppressor | Uncommon | Feather Fall (1st) | 10 lb., one-handed, medium, engine (electrical or mechanical) | 
+| Pulley Gun | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (mechanical, or steam) | | Plague-Spreading Box | Rare | Stinking Cloud (3rd) | 15 lb., two-handed, heavy, engine (alchemical or soul: any), size increased (reliable device, MR 1) | 
+| Re-combobulator | Rare | Dispel Magic (3rd) | 5 lb., one-handed, light, engine (mana: any) | 
+
+</div>
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+| Name | Rarity | Spell (Spell Level) | Properties |
+|:-|:-|:-:|:-|
+| Reflective Pole | Uncommon  | Absorb Elements (1st) | 10 lb., one-handed, medium, engine (electrical), size increased (quick use) | 
+| Reflective Pole, Supreme | Epic | Absorb Elements (5th) | 10 lb., one-handed, medium, engine (electrical), size increased (quick use) | 
+| Remote, Mind | Uncommon | Charm Person (1st) | 5 lb., one-handed, light, engine (mechanical, mana: any, soul: any) | 
+| Remote | Uncommon | Command (Constructs only) (1st) | 5 lb., one-handed, light, engine (electrical) | 
+| Rocket Boots | Rare | Fly (3rd) | 10 lb., one-handed, medium, engine (combustion or steam) | 
+| Shieldtronic Shield | Uncommon | Shield (1st) | 5 lb., one-handed, light, engine (mana, soul: any) | | Snowmaster 9,000 | Rare | Blizzard (3rd) | 10 lb., one-handed, medium, engine (alchemical, mana: any, or soul: elemental) | 
+| Spring Boots | Uncommon | Jump (1st) | 5 lb., one-handed, light, engine (mechanical), size reduced (low charge; 3 charges) | 
+| Sonic Gun | Uncommon | Thunderwave (1st) | 10 lb., one-handed, medium, engine (mechanical) | 
+| Star-in-a-Box | Legendary | Sunburst (8th) | 10 lb., one-handed, medium, engine (mana: any or soul: any) | 
+| Stopwatch | Artifact | Time Stop (9th) | 5 lb., one-handed, light, engine (soul: celestial or fiend), size reduced (low charge; 3 charges) | 
+| Sun Gun | Rare | Sunbeam (3rd) | 10 lb., one-handed, medium, engine (alchemical, mana: any, mechanical, or soul: living creature or elemental) | 
+| Target Dummy | Uncommon | Compelled Duel (1st) | 10 lb., one-handed, medium, engine (mechanical or steam) | 
+| Tectonic Destabilizer | Legendary | Earthquake (8th) | 75 lb., two-handed, heavy+, engine (mechanical or soul: elemental), size increased II (quick use, focused device) | 
+| Teleportation Pad | Epic | Teleportation Circle (5th) | 75 lb., two-handed, heavy+, engine (mechanical), size increased II (quick use, reliable device, MR 1) | 
+| Titan Terra-former | Epic | Move Earth (6th) | 15 lb., two-handed, heavy, engine (mana: arcane or soul: elemental), size increased (focused device) | 
+| Universal Translator | Rare | Tongues (3rd) | 5 lb., one-handed, light, engine (mana: any or soul: elemental) | 
+| Water Gun | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (mechanical or soul: elemental) | 
+| World Enlarger | Uncommon | Reduce Person (1st) | 10 lb., one-handed, medium, engine (electrical) | 
+| Wormhole Generator | Legendary | Teleport (7th) | 10 lb., one-handed, medium, engine (electrical or mana: any) | 
+
+</div>
+
+##### Acid Gun
+TODO
+
+##### Air Recycler
+This cylinder provides air, as the water breathing spell. 
+
+##### Antimagic Ray Gun
+When used, this wand-like gun shoots a purple anti-magic ray, as the mana burn spell. Elementals required for the anti-magic ray device are pure mana elementals (such as mana wyrms and arcane elementals), and souls must be of spellcasters. The improved gadget replicates a higher-level mana burn spell. 
+
+##### Antimagic Ray Gun, Improved
+TODO
+
+\columnbreak
+
+##### Army Knife
+When used, this device summons all tools an adventurer needs, such as a hammer, a pair of scissors, etc., just short of Alchemy, Engineering, Infusion, and Poisoning tools, and includes 60 feet of spider-silk rope. It may also deal damage as a normal dagger. 
+
+##### Atmospheric Override Box
+TODO
+
+##### Atomizer
+TODO
+
+\pagebreakNum
+
+##### Auto-Factory
+Usually employed by goblin tinkers in war, this large object unfolds to resemble a horse-sized factory. The whirrs and whistles inside are indicative of some process within. The factory churns out clockwork goblins, which function for the duration of the factory’s activation (and disintegrate when the factory enters cooldown). The factory has a capacity of 6 clockwork goblins, which can be churned out at once or over time. The constructs conjured by the auto-factory are controlled by the user of the device.
+
+##### Buzz Box
+This gnomish device can send and answer messages by employing arcane mana or chaos energy.
+
+##### Castle-in-a-Box
+TODO
+
+##### Cloaking Device
+TODO
+
+##### Cloaking Device, Greater
+TODO
+
+##### Companion Constructor
+TODO
+
+##### Death Ray
+If using the electrical engine, does not zombify the target, but instead blows them up (as per the corpse explosion spell). 
+
+##### Detector
+This eye-like gadget can sense creatures that approach within 20 feet of its position whenever a creature of the size Tiny or larger enters. The detector, once activated, remains active for 2d4 hours, and has a chance to malfunction at the end of each hour. The detector may either let out an audible alarm that can be heard clearly within 60 feet, or send a single mental ping to the one who set it up. 
+
+##### Dropout Simulator
+TODO
+
+##### Extraplanar Shifter
+TODO
+
+##### Factory-Me-Up
+
+##### Flamethrower (Dragon Gun)
+When used, this gadget casts the burning hands spell. When made by goblins, flamethrowers are instead known as dragon guns, with the modifications changed from quick-use to unreliable (MR 1-4) and becoming smaller (light) and 5 lbs. in mass. 
+
+##### Flashlight
+The flashlight can be aimed and activated with an action. If no malfunction occurs, it emits a 20-foor radius glow of bright light, and emits 20 feet of dim light after that. If directed, it turns instead into a cone with a range of 60 feet of bright light, and 60 feet of dim light afterwards. 
+
+\columnbreak
+
+##### Fog Machine
+When used, this box creates a billowing sphere-shaped cloud of fog that spreads on a 20-foot radius. The area is heavily obscured, and it remains for a up to 2d4% x 10 minutes or until a moderate or stronger wind disperses it (10 mph+). The cloud of fog is centered on the fog machine, or can be shot out as a large cloud to appear in another area 120 feet away. 
+
+##### Force Reflective Disk
+This device, based off the re-combobulator, can redirect scattered magical energies back to its source, cancelling the spell. 
+
+##### Frost-Me-Up
+This harness creates a powerful shield of ice to protect you, as per the ice block spell. 
+
+##### Frost Gun
+The frost gun can be used with an action, creating a brilliant blue freezing ray up to 30 feet away that creates a 10-foot radius explosion of frozen air to emit from the location of the ray's impact. All creatures hit by the ray or in the explosion's radius must succeed on a Stamina saving throw or else take 4d8 points of cold damage, or half of that on a successful saving throw. If the ray or the radius strikes or includes a body of water or a liquid with similar freezing points, the ray freezes the liquid within its active radius to a depth of 6 inches for 1 minute. Creatures that were swimming or that were in the water at the moment must succeed on an additional Strength saving throw as an action against the DC of the device or be restrained. After 1 minute of being conjured, the ice shatters.
+
+##### Glitterbox Surprise
+Employed by enterprising goblins to counter porch-thieves, a glitterbox surprise casts the faerie fire spell. 
+
+##### Goblin Glider Kit
+When deployed, the goblin glider kit creates a goblin glider, as the creature of the same name. Unlike most gadgets, the goblin glider kit can also be used as a reaction. 
+
+##### Hologram Generator
+This device, based on Naaru technology, can create holograms and light-manipulated images as per the silent image spell. 
+
+##### Hologram Generator, Greater
+Based on the Hologram Generator, this improved version can create speaking holograms. 
+
+##### Ice Cannon
+TODO
+
+##### Jumper Cables
+This pack may be hooked up with any creature that died within one minute. If activated without an issue, the creature is revived, and returned to life with 1 hit point and no mana. This cannot return a creature that died of old age. This gadget requires 300 gold pieces’ worth of focus crystals per use of activation. 
+
+\pagebreakNum
+
+##### Launcher, Caltrops
+When used, this box releases four bags of caltrops into the air to fall over an area within 30 feet, filling a 10-foot square area. Any creature that enters the area must succeed on a DC 15 Agility saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw. Once used, this can be refilled with replacement caltrops. There is a 75% chance that a used bag of caltrops can be used again.
+
+##### Launcher, Cluster Rockets
+This heavy machine is typically set on the floor before the user. When loaded with up to four explosives, it launches them all within their normal range with a single action. This applies to all explosives. A cluster launcher adds 1d6 concussive damage to each explosive used. This otherwise follows rules for the rocket launcher gadget. 
+
+##### Launcher, Rocket
+This heavy machine is typically set on the user’s shoulder. When loaded with an explosive in bomb or rocket form, it launches it further than its normal range, increasing its original range by 90 feet. This applies to the maximum range it can launch. On impact, any explosive deals an additional 2d6 concussive damage atop the normal damage. If the explosive is in mine form, it can be planted at that range instead of exploding. 
+
+##### Launcher, Trap
+This heavy machine can lob a trap to up to 90 feet, priming the trap on the point of impact. 
+
+##### Lifeforce Transposer
+TODO
+
+##### Light Absorber
+TODO
+
+##### Light Generator
+TODO
+
+##### Locator
+TODO
+
+##### Localized Tornado Generator
+TODO
+
+##### Meteors-R-Us
+TODO
+
+##### Mind Scattering Cap
+TODO
+
+##### Mini Volcano
+TODO
+
+##### Mirage Generator
+TODO
+
+##### Mortar
+This heavy machine is typically set on the floor. When loaded with an explosive in bomb form, it launches it further than a normal creature could, for an arc up to 90 extra feet away, and 30 feet high. On the 5-foot square area of impact, the bomb lands with a stronger explosion, adding 2d6 extra concussive damage. A mortar may be loaded with up to eight pints of oil, and may be used again after 1d4 rounds. The explosive no longer allows advantage on the saving throw for long range use. 
+
+##### Noise Canceller Box
+This device instantly counters any noise with active noise control, creating counter-waves to remove any semblance of sound and replicating the silence spell. 
+
+##### Neuralyzer
+This small device, when targeting a creature, can cause neural manipulation as per the modify memory spell. 
+
+##### OOBE Simulator
+This device puts you and the allies you choose into an Out of Body Experience, as per the astral projection spell. 
+
+##### Personal Gravity Suppressor
+TODO
+
+##### Pulley Gun 
+This hand-cannon can shoot one to two ropes at opposite ends. Each rope has a hook at its end, and each extends to up to 90 feet per action of use. If the hooks target an object, they attach to it, and can carry up to 140 pounds of weight. If the hook targets a creature, they take 3d8 piercing damage, and the hooks are destroyed. A pulley gun has a wheel for transport along the ropes, and allows for movement at a rate of 60 feet per round either up or down the ropes’ ends. A pulley gun that shoots one rope but can be used twice is known as a mechanical grappling hook. 
+
+##### Re-combobulator
+This device can scatter magical energies, replicating the dispel magic spell. 
+
+##### Reflective Pole
+The reflective pole is a 2-foot long, 8-inch thick cylinder that is usually strapped to the back of the user, and is attached to a winding mechanism near the user's hand. The cylinder can be deployed as a reaction when the user takes elemental damage, unfurling and countering the elemental damage with a sheet of specially-treated and reinforced glass. The user gains resistance to the elemental damage, and the next time the user hits with a melee attack on the next turn, the reflective pole reflects 1d6 points of the absorbed damage to the target of the user's attack. The character must be able to use their hands or similar limbs to deploy the pole.
+
+##### Reflective Pole, Supreme
+TODO
+
+##### Remote, Mind
+This strange-looking hat has a hypnotic pattern attached to it. When the gadget is active, the mind remote can focus on any person within 30 feet, casting the charm person spell. 
+
+\pagebreakNum
+
+##### Remote
+This small machine can activate any mine, gadget, or construct that is keyed to it. Keying a technological device to a remote takes one minute and a DC 10 Intelligence check with Engineer’s Tools. If the check resulted in a 20, the keying is instead 1 action. Using a remote is a bonus action on the creature’s round, or a reaction outside their round. A remote can activate any device it is bonded to as long as both of them are within 150 feet of each other. This effect can penetrate barriers, but 2 feet of rock, 2 inches of common metal, or a thin sheet of lead blocks it. It tied to an explosive that normally explodes on impact, it can hold the explosive until the remote is used (effectively, the bomb is waiting for the signal). 
+
+##### Rocket Boots
+These heavy boots strapped with a small backpack may be activated with an action. For each use, it gives the user a flying speed of 60 feet, usable for one minute. At the end of the duration, the user falls unless they are on solid ground. 
+
+##### Shieldtronic Shield
+This harnessed device can spring out with a powerful repelling barrier, increasing your AC as per the shield spell. 
+
+##### Spring Boots
+Once activated, this pair of springy boots triples your jumping distance for 1 minute. 
+
+##### Sonic Gun
+TODO
+
+##### Star-in-a-Box
+Once activated, this box releases a miniature sphere of energy that bursts forth with the power of a star, casting the sunburst spell.
+
+##### Stopwatch
+Theorized to be either based on ancient titan technology or by chaos energies manipulating the timestream, this rather large stopwatch can literally freeze time, as per the time stop spell. 
+
+##### Sun Gun
+The sun-gun can be focused and used with an action, casting the sunbeam spell. 
+
+##### Target Dummy
+This target dummy is fueled with sufficient chaos energy (or perhaps simply looks frustrating) that it can distract hostile creatures, casting the compelled duel spell on them. 
+
+##### Tectonic Destabilizer
+Expanded upon the Titan Terra-Former, the tectonic destabilizer causes earthquakes and fissures to emerge from the ground when activated, casting the earthquake spell. 
+
+##### Teleportation Pad
+Used by enterprising goblins, the teleportation pad can teleport its user to any other teleportation pad or teleportation circle, so long as the sequence is known. Most teleportation pads have a ‘public’ and ‘private’ pad sequence lists, with some destinations reserved for more trusted travelers. 
+
+##### Titan Terraformer
+Developed from prototypes of ancient titan technology, this device can manipulate earth, sand, or clay as the move earth spell so long as it is active.
+
+##### Universal Translator
+This remote-like device can instantly decipher spoken speech to whoever is holding it. Moreover, when you speak, any creature that knows at least one language and can hear you understands what you say. The device operates for 1 hour. 
+
+##### Water Gun 
+The water pump is a 2-foot long, 8-inch thick cylinder that can hold up to 3 gallons of any liquid (or 16 quarts). The water pump can be used with an action to release one quart of liquid in a line up to 90 feet away, stopping at impact with the first object. The target must succeed on an Agility saving throw or else take 1d8 bludgeoning damage on a failed save and a secondary effect depending on the liquid. A successful save halves the initial damage and negates the secondary effect.
+* *Oil.* If the liquid is oil or another flammable liquid, the user may use a bonus action to set the liquid on fire as it is released (necessitating another malfunction check), setting the liquid is set aflame (regardless of malfunction). Targets who failed their save take 1d6 fire damage and are ignited until they extinguish the flame with an action and a successful Agility save (taking an additional 1d6 points of damage per round until they pass a DC equal to the gadget's DC).
+* *Water.* If the liquid is water, attack also extinguishes flames. Fire-based creatures or those vulnerable to water take double damage from this and do not employ any resistances towards this damage.
+* *Water, Contaminated.* If the liquid is a contaminated water or liquid (such as sewage water), the target must also save versus any contact, injury, or ingested poison or disease that is carried by the water. If using sewage water, the target is most likely to be contaminated by Crypt Fever, Filth Fever, Slimy Doom, and Blinding Sickness (see Contagion for details, duration 7 days), although other diseases or poisons may be built into the waters.
+
+##### World Enlarger
+This phenomenally powerful gadget enlarges the whole world for a single target. When used, it casts the reduce person. 
+
+##### Wormhole Generator
+Tearing a space in dimensions is a breeze with the Wormhole Generator, allowing you and any creatures touching the generator to teleport as the teleport spell. 
+
+\pagebreakNum
+
+<a id="engineeringstrikes"></a>
+
+<div class="classTable wide">
+
+#### Strike Gadgets
+Strike gadgets are usually attached to melee weapons, allowing the user to manifest a strike effect on a hit. 
+
+| Name (Weapon) | Rarity | Spell (Spell Level) | Properties | 
+|:-|:-|:-|:-|
+| Buzz Saw (Shortsword) | Common | Swipe and Shred (cantrip) | +2 lb., strike, engine (combustion, electrical, mechanical, or steam) | 
+| Dimensional Core (Any) | Epic | Banishing Smite (5th) | +2 lb., strike, engine (electrical, mana: any, or soul: any) | 
+| Flashing Core (Any) | Rare | Blinding Smite (3rd) | +2 lb., strike, engine (combustion or electrical) | 
+| Resonating Spark (Battleaxe) | Uncommon | Branding Smite (2nd) | +2 lb., strike, engine (combustion, electrical, or mechanical) | 
+| Steam Hammer (Warhammer) | Uncommon | Thunderous Smite (2nd) | +2 lb., strike, engine (combustion, mechanical, or steam) | 
+| White-Hot Core (Any) | Uncommon | Searing Smite (1st) | +2 lb., strike, engine (combustion, electrical, or steam) | 
+
+</div>
+
+##### Buzz Saw
+This shortsword has a thick cross-hatch with slowly grinding gears and a toothed blade. If using a charge, the buzz saw blade deals extra slashing damage equal to 1d6, and the target has disadvantage to attack rolls for one round. This otherwise replicates the Druid’s swipe and shred spell. 
+
+##### Dimensional Core
+This core gadget can replicate the banishing smite spell, dimensionally exiling the target hit. 
+
+##### Flashing Core
+TODO
+
+##### Resonating Spark
+TODO
+
+##### Steam Hammer
+Usually used by dwarven tinkers, this warhammer replicates the thunderous smite spell, dealing extra damage and has a chance of pushing away the target and knocking them prone. 
+
+##### White-Hot Core
+This core gadget replicates the searing smite spell, becoming white-hot or radiating a shimmer of heat that transfers to the target of the attack. 
+
+<div class="classTable wide">
+
+#### Trap Gadgets
+Traps are often-hostile gadgets that perform a single use (and are thus priced as consumables). They can be deployed and primed with an action, and they become active after being primed by one round. Whenever a creature moves to 10 feet or closer to a trap, it triggers and discharges its effect. The DCs are equal to that of a device.
+
+Once used, fixing a trap costs half the time and gold to make them. 
+
+| Name (Weapon) | Rarity | Spell (Spell Level) | Properties | 
+|:-|:-|:-|:-|
+| Freezing Trap | Common | Special (see below) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or soul: elemental) | 
+| Crippling Trap | Epic | Cripple (3rd) | 5 lb., one-handed, medium, engine (mana: any, mechanical, or soul: any) | 
+| Immolation Trap | Uncommon | Immolate (1st) | 5 lb., one-handed, medium, engine (alchemical, combustion or soul: elemental) | 
+| Oil Slick Trap | Common | Special (see below) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or steam) | 
+| Toxic Gas Trap | Epic | Cloudkill (5th) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or soul: undead) | 
+| Wagon Clamp | Common | Special (see below) | 5 lb., one-handed, medium, engine (mechanical or steam) | 
+
+</div>
+
+\pagebreakNum
+
+##### Crippling Trap
+This trap unleashes a powerful debilitating effect on the triggering creature for 1 minute. The target suffers a -2 penalty to AC and to Agility saving throws, can’t use its reactions, and may make either an action or a bonus action every turn (not both). Regardless of the creature’s abilities, it may only make one melee or ranged attack on its turn, and they deal only half damage with weapon attacks that use Strength or Agility.
+
+If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. At the end of each of the target’s turns, it can make a Stamina saving throw against the effect. On a success, the cripple effect ends.
+
+##### Freezing Trap
+This trap unleashes a super-compressed blast of cold that freezes the triggering creature for 1 minute, and deals 1d8 cold damage. A successful Stamina save halves the damage dealt, and reduces the condition for one round. A creature may use its action to break the ice. 
+
+##### Oil Slick Trap
+This trap spews slippery oil in a 10-foot radius, rendering it into difficult terrain for 1 minute. Each creature that either enters the area, is within the radius when the trap is triggered, or ends their turn in the area must make an Agility save or fall prone. 
+
+##### Immolation Trap
+This trap burns the triggering creature, replicating the immolate sigil spell, with the sigil roll being replaced with the attack bonus (Intelligence plus proficiency in Engineer’s Tools). 
+
+##### Toxic Gas Trap
+This trap releases a cloud of toxic fumes, replicating the cloudkill spell. 
+
+##### Wagon Clamp
+This trap clamps down on the triggering creature or vehicle for one minute, dealing 1d8 piercing damage to the wheel (possibly breaking it). While captured, the target is restrained. A successful Stamina saving throw by the vehicle or creature halves the damage dealt and reduces the restraint for one round. A creature may use its action to open the clamp. Most wooden wheels have 5 (2d4) hit points. This is usually used to destroy vehicle wheels, but can be employed as bear traps.
+
+\pagebreakNum
+
+### Infusion Kit
+With the Infusion Kit, you can create magical items (as listed under Treasures above) or custom inscribed items (as described in Chapter 7 below). 
+
+#### Infused Items
+
+##### Adamantine Breastplate
+**Armor (breastplate), legendary (requires attunement)**
+<br>
+You gain a +1 bonus to AC while you wear this magic armor. 
+
+While wearing this armor, you have resistance to nonmagical damage. You can use an action to make yourself immune to nonmagical damage for 3 minutes. Furthermore, any critical hit you suffer while wearing it turns into a normal hit.
+
+Objects made of adamantite or arcanite have an AC of 23, are immune to nonmagical weapon damage and are resistant to arcane damage, and have 30 hit points. 
+___
+*Creation.* Material adamantine (uncommon); greater weapon resistance (legendary)
+
+##### Adamantine +1 Sword of the Monkey
+**Weapon (longsword), epic (requires attunement)**
+<br>
+You have +2 to attack and damage with this magical weapon. This sword deals double damage to objects, has an AC of 23, is immune to nonmagical weapon damage, and has 30 hit points. Furthermore, while attuned to, it increases your Agility and Stamina scores by 1 each (maximum 20). 
+___
+*Creation.* Material adamantine (uncommon); ability enhancement (rare); deep +1 (1 step for free, 1 step to epic)
+
+##### Elementium Warhammer
+**Weapon (Warhammer), epic**
+<br>
+You have +2 to attack and damage rolls when using this weapon, and the weapon deals 1d6 extra points of fire damage on a hit. 
+
+This weapon has an AC of 23, is immune to nonmagical weapon damage and elemental damage (acid, cold, fire, and lightning), is resistant to arcane damage, and have 30 hit points. 
+___
+*Special.* Unlike most epic weapons, the cost of crafting this warhammer is reduced by 75% due to the resonance between the Elementium metal and the Elemental Damage infusion (due to alignment between the two powers). 
+___
+*Creation.* Material elementium (rare); deep infusion (1 step for free, 1 step to epic)
+
+##### Lightforged +1 Breastplate of Greater Fel Resistance
+**Armor (Breastplate), Legendary (requires attunement)**
+<br>
+You have a +1 bonus to AC while wearing this armor. While attuned to this armor, you also have resistance to fel damage. This armor sheds regular light in a radius of 10 feet, is immune to fel damage, resistant to nonmagical weapon damage, and has 20 hit points. If used or worn, this armor suppresses fel addiction. 
+___
+*Special.* Unlike most Legendary armors, the cost of crafting this breastplate is reduced by 75% due to the resonance between the Lightforged metal and the fel resistance infusion (due to diametrical opposition between the two powers). 
+___
+*Creation.* Material lightforged iron (uncommon); deep infusion +1 (rare); greater fel resistance (legendary)
+
+#### Jewelcrafting Kit
+Artisan tools that focus on jewelcrafting can create gems and crystalline objects such as soul gems, which are used in various spells (such as the essence seal spell).
+
+A character may use these tools to identify gemlike magical objects, or pass a DC 20 Intelligence check with a jewelcrafting kit to increase worked gem value by 20% by cutting it (if raw) or perfecting the cut (if already cut). A failed check reduces cost by 10%.
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+#### Poisoners Kit - Poisons and Plagues
+Poisons can be weaponized and employed in battle, usually by holding them in containers and releasing them to form clouds (if inhaled), coating them with weapons (if injury), or any other method as detailed under the poisoner’s kit (see below).
+
+| Name | Rarity | Vector | Properties | 
+|:-|:-|:-|:-|
+| Crippling Poison | Uncommon | Injury | Inflicts the Poisoned condition and slows as per the slow spell. | 
+| Crypt Fever Disease | Common | Contact | Inflicts -2 penalty vs disease and poisons, and the target suffers 2 additional points of damage from diseases and poisons. | 
+| Exhumed Corpse Fumes | Common | Inhaled | Deals 2d6 poison damage and inflicts the Poisoned condition. | 
+| Mind-Numbing Poison | Uncommon | Injury | Deals 2d4 psychic damage and inflicts the Distracted condition. | 
+| Paralytic Poison | Uncommon | Injury | Inflicts the Poisoned condition and paralyzes as per the hold spell. | 
+| Serpent Venom | Uncommon | Injury | Deals 3d6 poison damage. |  
+| Shadow Wound Poison | Rare | Injury | Inflicts the Poisoned condition and halves all healing. |  
+| Truth Serum | Uncommon | Ingested | Affects the target as per the zone of truth spell. | 
+| Undead Plague | Rare | Ingested | Reduces the target’s maximum hit points and raises them an undead upon death. | 
+
+</div>
+
+##### Crippling Poison
+A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 minute. The Poisoned creature is slowed as the spell of the same name. On a successful saving throw (made only once per turn), the poison ends. 
+
+This is a magical manufactured poison, created by mixing deathweed (a natural herb) and essence of pain (a magical component derived from blood of weak demons). 
+
+##### Crypt Fever Disease
+Any creature that is affected by this disease suffers a weakened immune system, and must succeed on a DC 13 Stamina saving throw against disease or become poisoned until this disease is cured. 
+
+So long as the creature is poisoned, they a -2 penalty to all saving throws against disease and poison effects, and suffers two additional points of poison damage if inflicted by any disease or poison. 
+
+Symptoms manifest 2d4 hours after infection and include fever and coughing, and while in the grips of this disease, victims’ skins pale.
+
+Any creature comes into touch contact with an infected creature once they begin showing their symptoms must make a DC 8 Stamina saving throw or also become infected with this disease. Once a creature succeeds on this save, it is immune to being infected from that particular infected creature for 24 hours. 
+
+At the end of each long rest, an infected creature can make a DC 13 Stamina saving throw. On a successful save, the penalty to saving throws and additional poison damage taken is reduced by 1 point. When the effect drops to 0, the creature recovers from the disease. 
+
+\columnbreak
+
+##### Exhumed Corpse Fumes
+A creature subjected to this poison must succeed on a Stamina saving throw or take 7 (2d6) poison damage. At the beginning of their turn every round the poison remains active, the character takes 7 (2d6) poison damage again, and is treated as if poisoned until the beginning of their turn the next round. On a successful saving throw, the poison ends.
+
+This is a magical manufactured poison, created by mixing deathweed (a natural herb) and essence of death (a magical component derived from the corpses of burnt undead). 
+
+##### Mind-Numbing Poison
+A creature subjected to this poison must succeed on a Stamina saving throw or take 5 (2d4) psychic damage. At the beginning of every round the poison remains active, the character takes 5 (2d4) psychic damage again, and is distracted. The DC of the distraction is 10 + ½ the damage dealt by this poison. On a successful saving throw, the poison ends.
+
+##### Paralytic Poison
+A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 minute. The Poisoned creature is paralyzed as the hold spell. On a successful saving throw (made only once per turn), the poison ends. 
+
+This is a magical manufactured poison, created by mixing deathweed (a natural herb) and dust of decay (a magical component derived from cremated undead). 
+
+##### Serpent Venom
+A creature subjected to this poison must succeed on a Stamina saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. 
+
+This is a mundane natural poison, created from drawing poison from a snake’s venom sacs. The rarity affects the venom’s power. 
+
+\pagebreakNum
+
+| Rarity | Damage | 
+|:-:|:-:|
+| Uncommon | 3d6 | 
+| Rare | 5d6 | 
+| Epic | 7d6 | 
+| Legendary | 9d6 | 
+
+##### Shadow Wound Poison
+A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 hour. The Poisoned creature recovers only one-half the normal amount of healing from spells and effects that restore hit points. This includes regeneration and similar effects, doubling the duration between healing (alternatively, halving the healing gained). 
+
+##### Truth Serum
+A creature subjected to this poison must succeed on a DC 11 Stamina saving throw or become poisoned for 1 hour. The Poisoned creature can't knowingly speak a lie, as if under the effect of a Zone of Truth spell.
+
+This is a magical manufactured poison, created by mixing peacebloom (a natural herb) and essence of mana (a magical component derived from blood of spellcasters). 
+
+##### Undead Plague 
+Any creature that is affected by this disease must succeed on a DC 15 Stamina saving throw against disease or become poisoned until the disease is cured. 
+
+Every 24 hours that elapse while poisoned, the target must repeat the saving throw, reducing its hit point maximum by 5 (2d4) on a failure. This is considered a poison effect, and resistance against poison halves the reduction. The disease cannot reduce the target’s maximum hit points below 1, but if the creature dies and the disease remains uncured, it rises as an undead creature bound to the service of the Lich King as if the bind spell was cast on within 1 hour, so long as it is not revived or resurrected. If targeted with an conjure undead spell, the duration becomes instantaneous. If the corpse is targeted with a flask of holy water, the creature does not raise as an undead after death. 
+
+If succeeding on three saving throws, the disease becomes latent, but does not fade away. So long as the disease remains, the reduction to maximum hit points cannot be removed, and it can be awakened again by another dose of the plague. This disease, despite being ingested, corrupts the air and earth it affects, affecting any exposed food with the plague. When particles of the plague fall on the earth, strange fungus grows, giving a hint to the disease’s origin. This land is considered blighted (as per the hallow/unhallow spell, although the land is not also unhallowed). 
+
+The plague can be suppressed with the lesser restoration spell or a restoration spell, and the reduction to maximum hit points can also be removed with the greater restoration spell, but the plague cannot be cured save by a wish spell or the divine intervention ability (if it opposes that of the semi-divine Lich King). 
+
+This is a magical manufactured disease, created by an unknown fungus and suffused with necromantic magic. So far, only the Cult of the Damned (or those who infiltrated its alchemist and necromancer ranks) know how to make it. 
+
+\pagebreakNum
+
