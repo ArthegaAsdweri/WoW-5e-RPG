@@ -351,6 +351,9 @@ Damage types are detailed under Chapter 9.
   - #### [<span>Infusion Kit</span>                          <span>???</span>](#infusionkit)
   - #### [<span>Jewelcrafting Kit</span>                          <span>???</span>](#jewelcraftingkit) 
   - #### [<span>Poisoners Kit</span>                          <span>???</span>](#poisonerskit) 
+- ### [<span>Chapter 6 - Customization</span>                          <span>???</span>](#customization) 
+  - #### [<span>Multiclassing</span>                          <span>???</span>](#multiclassing) 
+  - #### [<span>Feats</span>                          <span>???</span>](#feats) 
 
 </div>
 
@@ -14201,6 +14204,8 @@ This is a magical manufactured disease, created by an unknown fungus and suffuse
 
 # Chapter 6: Customization Options
 
+<a id="customization"></a>
+
 ## Multiclassing
 Multiclassing in Warcraft works as in core 5e. 
 
@@ -14232,7 +14237,10 @@ Changing from a class to another in downtime is also viable, as is changing a ta
 
 This is resolved as normal downtime training to learn a new language or training with a set of tools (takes 250 days, and costs 1 gp per day), although the DM may reduce the time to train dramatically with a quest or event (subject to shared adjudication). 
 
-### Feats
+## Feats
+
+<a id="feats"></a>
+
 ___
 **Strike feats**
 <br>
@@ -14421,3 +14429,5 @@ You gain a +1 bonus to your Strength and +1 bonus to your Agility scores.
 You increase your walking speed by 5 feet. 
 
 Your Worgen Form racial ability has both the benefits of Embrace the Beast and Reject the Beast. 
+
+\pagebreakNum
