@@ -14431,3 +14431,316 @@ You increase your walking speed by 5 feet.
 Your Worgen Form racial ability has both the benefits of Embrace the Beast and Reject the Beast. 
 
 \pagebreakNum
+
+# Chapter 7: Using Ability Scores, Skills, and Tools
+To better facilitate and replicate the ability to craft, mine, and refine materials into weapons, there are a few changes to the skill system, by including Gathering and Refining skills. 
+___
+**Ability Proficiency and Expertise**
+<br>
+In this system, Expertise as a term compasses all instances where a character adds double their Proficiency Bonus to a check. 
+
+## Crafting
+Most crafting tools are also artisan tools, and require proficiency in the tools used, but some are given to or restricted by race, class, or feature only (the Engineer’s Tools and Infusion Kit). 
+
+| Artisan Tool | Task Performed |
+|:---:|:-----------:|
+| Alchemist’s Supplies | Creates potions, elixirs, and concoctions |  
+| Engineer’s Tools<sup>R</sup> | Creates constructs, gadgets, firearms, and bombs | 
+| Herbalism Kit | Creates minor potions from herbalism. |  
+| Infusion Kit<sup>R</sup> | Creates infusion matrixes that are applied on weapons, etc. | 
+| Jewelcrafting Kit | Creates jewelry | 
+| Leatherwork Kit | Creates leather-based items and armors | 
+| Poisoner’s Kit | Creates poisons and plagues | 
+| Smithing Tools | Creates weapons, armor, and metallic trinkets | 
+| Tailoring Kit | Creates cloth-based items (such as clothes, boots, and hats) | 
+___
+**I.** Proficiency in Alchemist’s Supplies can be improved with the Alchemy ability (see below). 
+<br>
+**R.** Proficiency in Engineer’s Tools and the Infusion Kit are restricted to abilities granting proficiency. 
+
+
+### Crafting Rules
+Crafting takes four components: 
+* Time roughly equivalent to the complexity of the end product. 
+* Raw materials equal to one-half that of the end product (round fractions down). 
+* Proficiency with the tools (or skill) relevant. 
+* Success on the Crafting check (if required by the DM). 
+___
+At the end of the allotted crafting time, and if the check is successful, the user crafts the item in question. 
+
+| Complexity Class | Example | Crafting Time | DC | 
+|:-:|:-:|:-:|:-:|
+| Very Simple | Stick, Ball of Yarn | 10 minutes | 7 | 
+| Simple | Simple weapon | 1 hour | 10 | 
+| Moderate | Martial weapon, Light armor | 1 day | 13 | 
+| Complex | Medium armor, Lock | 1 week | 16 | 
+| Highly complex | Heavy armor, Construct | 2 weeks | 19 | 
+___
+Per stage above highly complex (or Highly Complex II, etc.), the time doubles per increment (1 month, 2 months, 3 months, etc.), although the DC does not increase. 
+
+Crafting takes the specified time, cut down to the nearest ten minutes. Succeeding against the crafting DC by 10 points or more reduces the crafting time by half. 
+
+For example, a rogue (if proficient with smith’s tools), can begin to forge a dagger (simple weapon) if she has access to all the tools she needs. As a simple complexity item, it would take her one hour if she has all the required materials and succeeds on a DC 10 Crafting check. If she rolls a natural 20 or gets a result equal to or higher than 20, it takes only 30 minutes.
+
+### Discovery
+Making new spells, alchemical formulae, and blueprints for engineering are all highly complicated tasks. It takes downtime and money to research appropriate to formula itself. 
+___
+**Downtime.** It takes 2 weeks per spell level, or 1 week per rarity step of the device.
+<br>
+**Money.** It takes 50 gp per spell level (if a spell, alchemical formula, or gadget), or 75 gp per rarity step of any device that is not a gadget (which uses the spell calculation instead). 
+___
+An infusion matrix may require the crafting cost of an item of the matrix’s quality in research reagents, or may require the destruction of such a matrix to extract knowledge of how to create it. The DM may impose additional requirements, such as requiring an elemental crystal for a flamethrower (elemental engine) or a blueprint of a normal vehicle to make a similar design.
+
+Instead of researching a new spell, a character can research a creature’s name to conjure it. This takes the same amount of time, and the character can only research a name of a creature they are of sufficient power to conjure (CR equal to highest-level spell). Other stronger names require subjecting yourself to the risks of a Call or by learning the information another way. 
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+### Item Creation Complexity and Cost Table
+Items have cost to create in materials and gold, scaling with its quality or rarity. The below table includes the cost for material per quality, but is modified further per type of material (or crafting class, such as consumable, use-item, infused item, or creature). 
+
+For instance, a Common rarity consumable costs 20 gp to buy (unmodified base price), but a Common creature costs 500 gp (x25 due to being a creature). 
+
+Item quality usually also scales with complexity, but only when specified in the description of the tool or product. 
+
+| Item Quality | Proficiency | Spell Level: max CR<sup>2</sup> | Dice<sup>3</sup> |
+|:-:|:-:|:-:|:-:|
+| Common | +2/Apprentice | Cantrip: CR ¼ - ½ | 2/3 | 
+| Uncommon | +2/Apprentice | 1-2 | 3/5 | 
+| Rare | +3/Journeyman | 3-4 | 4/7 | 
+| Epic | +4/Expert | 5-6 | 5/9 | 
+| Legendary<sup>4</sup> | +5/Artisan | 7-8 | 6/11 | 
+| Artifact | +6/Master | 9+ | 7/13 | 
+
+| Class (gp) | Common | Uncommon | Rare | Epic | Legendary | Artifact | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Consumables | 20 | 80 | 320 | 1,280 | 5,120 | 20,480 | 
+| Use-Items | 200 | 800 | 3,200 | 12,800 | 51,200 | 204,800 | 
+| Infused Items	| 500 | 2,000 | 8,000 | 32,000 | 128,000 | 512,000 | 
+| Creatures | 500 | 2,000 | 8,000 | 32,000 | 128,000 | 512,000 | 
+___
+**1** This is the base cost of purchase with most vendors for an item (such as consumables) in gold pieces. An item’s cost can always be paid with raw or refined materials that are appropriate to the type of creation (such as the heart of a fire elemental for a flamethrower gadget). 
+<br>
+**2** This determines the spell levels and maximum CR of a creature-class item by item quality. The values of Maximum CR range between two numbers values; the lower one is 50% cheaper than the higher one. For instance, a Common ¼ creature is worth 125 gp in materials to craft, while ½ is 250. 
+<br>
+**3** Dice represents the number of base number of dice the item would deal in damage if made into a firearm (first number) and explosive (second). For instance, Uncommon firearms deal 3 dice of base damage, while Uncommon explosives deal 5 dice of base damage. Modified crossbows act as firearms, but deal 1 less dice in damage to offset their advantages. 
+<br>
+**4** Legendary and higher rarity items usually also require a quest to attune it to some magical source, such as the High Elven Sunwell, the Scourge's Frozen Throne, an elemental plane's core, or the Night Elves' World Tree. In the case of devices, this might rely on massive joined efforts by organizations (such as the Tinker’s Union of the Kezan goblins or one of the many tinkers guilds) or the employment of schematics derived from Titan technology. This is subject to the DM's discretion. Artifacts also usually require a lengthy quest that might alter the setting as a whole, and are usually infused by creatures of great power. The cost of larger objects increases the cost by 50% per size category. 
+
+</div>
+
+### Crafting Classes
+There are four crafting classes, which modify the base price in the Item Creation Complexity Table.
+Consumables. This class includes any item that has one use and is unusable afterwards (such as potions, poisons, an engineered explosive, or an innovated item). The price of consumables is not modified and is equal to the value under Cost in the above table. Infused items that are consumables (such as infused ammunition and spell scrolls) have the cost of a consumable. 
+
+* *Use-Items.* This class includes any gadget or device or weapon-like object created by alchemy or engineering, such as engineered firearms and modified crossbows. The price of use-items is x10 times the cost of a consumable of the same rarity.
+* *Infused Items.* This includes all wondrous items and infused weapons and armor, as well as other items created by Infusion Kits that do not fall under another class (such as consumables). The price of infused items is x25 times the cost of a consumable of the same rarity.
+* *Creatures.* This includes all creatures created by alchemy or engineering (such as golems, turrets, homunculi, etc.). The price of a creature is x25 times the cost of a consumable of the same rarity.
+
+For instance, purchasing a Common quality Alarm Stick costs 20 gp, while crafting it costs 10 gp in alchemical components and materials. If the character is a specialized crafter (such as a 2nd level Alchemist), crafting it costs 5 gp instead. 
+
+The Alchemist and Tinker class are specialized crafters. Upon gaining the Efficient Alchemy and Efficient Engineering features, respectively, they further reduce crafting costs to one-quarter rather than one-half buying price. 
+
+\pagebreakNum
+
+For instance, purchasing a Common quality Alarm Stick costs 20 gp, while crafting it costs 10 gp in alchemical components and materials. If the character is a specialized crafter (such as a 2nd level Alchemist), crafting it costs 5 gp instead. 
+___
+*Note.* If being proficient with Herbalism Kit, a character can still craft Potions of Healing (of all types), but the price is multiplied by 2 (for 40 gp purchase from an herbalist, 20 gp craft). 
+This does not require the recipe for the Potion of Healing, but it is required if using Alchemist’s Supplies (even if also proficient with an Herbalism Kit).
+
+### Tools: Gathering
+Due to the costs of crafting, few characters pay directly in raw materials and gp, especially those who are short on liquid wealth. For them, proficiency in gathering tools, harvesting nodes from monsters and locations (such as rare beasts and groves of natural materials), and scavenging materials from potions or devices they don’t need (or ones that are looted) is a cost-effective alternative. 
+
+For instance, a party of adventurers who defeat a harvest golem in Westfall might choose to deconstruct it if they have a tinker, so that the tinker can use its parts for devices that aid their quests. Coming across a cache of potions of dragons’ breath, an alchemist may decide to repurpose the potions and turn them into rejuvenation potions instead of paying the cost of potion creation.
+
+Any tool that allows for the collection or preservation of raw materials may be used to gather raw materials. These raw materials have a value that can be spent for crafting, such as alchemy (Alchemy Points), engineering (Engineering Points), Infusion (Infusion Points), or other crafting tools.
+
+| Artisan Tools | Task Performed | 
+|:-:|:-:|
+| Mining tools | Collects metals, identifies metals and minerals, and general mining |  
+| Skinning tools | Collects hides, skins, and identifies quality of leather. |  
+
+#### Harvesting Nodes
+A DM is recommended to place minor and major nodes on the game map or reference it to important areas. As nodes, they usually attract attention of other characters and creatures, such as golems and spellcasters in places where infusion points are, and fey and druids where alchemical materials are. Most nodes take a day to harvest materials from. Multiple characters can harvest from the same node.
+
+Engineering materials (or appropriate base materials) can be drawn from mines or mining nodes, where kobolds, miners, and dwarves live, or are generated workshops. Nodes can be rewards for quests, and can be referenced in-character. 
+
+##### Node Size
+**Minor Node.** 250 gp of materials/day (two uses, rarely replenish)
+
+Minor nodes are minor harvesting deposits. These are usually expended and replenish slowly over time or with DM discretion, but also include minor pools of mana, minor ley lines (for infusion), a small to medium busy engineering workshop or junkyard (for engineering), or a copse or forest grove filled with alchemical plants (for alchemy). There is usually at least one minor node present within 12 miles from one another.
+
+\columnbreak
+
+**Moderate Node.** 500 gp of materials/day (four uses, replenish every month)
+
+Moderate nodes include centers of power such as mana fountains, moon wells, or a ley line intersection (for infusion), a large engineering workshop or junkyard (for engineering), and an alchemical ingredient farm or a grove (for alchemy). There is usually a moderate node present within 100 miles of one another.
+___
+**Major Node.** 1,000 gp of materials/day (eight uses, replenish every month)
+
+Major nodes are usually sparse, rarely appearing more than five known instances. This includes the literal center of ley lines on a planet, a major mine system that accesses extremely rare metals, or the center of an ancient, magical forest blessed by the fey and gods. There is usually one major node per region. Major nodes are usually also seats of powers for major organizations, or are a battlefield for major powers to contest over.
+
+Examples are Tower of Karazhan, the Sunwell, the Tree of Eternity, Blackrock Spire, and the Maelstrom for Infusion Points. A DM may reward a crafting class with access to a node, such as a mage tower built atop a mana fountain. 
+
+For instance, a 1st level warrior proficient in mining tools, for example, can spend a day in a minor node (an iron mine), harvesting 250 gp worth of materials after working, which can be invested in making any iron-based weapon. 
+
+##### Monster Nodes
+Some monsters act as nodes. A monster that is harvested for a particular body part has the rest of its body parts damaged in the attempts to extract value. The time it takes to harvest is decided jointly between the DM and the player. 
+
+If harvesting a Consumable the monster naturally creates (such as a poison), one dose can be created per Hit Dice with no cost with a given success (if medium sized). A monster that can be harvested usually shows signs of it, and are described as such. A single monster of the below proficiency can provide materials for a number of items of the below listed quality. For each size category of difference, the dosage is a fraction smaller or doubled in quantity (a small venomous spider gives one-half a dose per Hit Dice, while a wyvern gives two doses per hit dice).
+
+#### Gathering Raw Materials on the Field
+This use allows the user to gather materials over time. This is markedly less efficient than extracting from a node. The user can spend one day of downtime in gathering. This does not include paying lifestyle expenses or upkeep (which must be paid normally). 
+
+| Proficiency | Materials/day | Materials/week | 
+|:-:|:-:|:-:|
+| +2 | 1 gp | 7 gp | 
+| +3 | 7 gp | 50 gp |
+| +4 | 25 gp | 175 gp | 
+| +5 | 100 gp | 700 gp | 
+| +6 | 375 gp | 2,625 gp | 
+
+The nature of the materials gathered are judged jointly by the DM and the harvester, who decide upon the materials (engineering, infusion, alchemy, etc.) you acquired, judging by the environment, resources, and skill used. 
+
+\pagebreakNum
+
+For instance, a 5th level druid proficient in an herbalism kit, for example, can spend a week on harvesting minerals from assorted herb locations or from small gardens, gaining 50 gp worth of alchemical materials (sufficient for crafting an uncommon potion; or 40 gp worth). 
+
+If in an enchanted grove, this acts as a node instead (see Harvesting Nodes), and has much better yield. 
+
+#### Harvester Proficiency
+If the harvester’s proficiency is less than the target monster’s proficiency, this requires a DC 20 ability check with the harvesting tool. On a failed check, half of all the potential materials are lost, and the character can make another attempt (each time halving, until it can provide only 1 gp worth of materials). 
+
+The materials drawn from a creature is equal to one-half the XP value of the creature in gold pieces. 
+
+For instance, a CR 15 Dragon yields 13,000 XP when defeated, which translates to 6,500 gp worth of draconic materials. That may cover the cost of one Legendary consumable (such as a 7th level Firestorm Potion called ‘Dragonwrath’) or 1/5th a Epic infused item. 
+
+Alchemists and Tinkers also have a feature that would enhance the value of materials they would otherwise gain from harvesting (which would multiply the value by 3, or 150% of the XP value of the creature). 
+
+#### Willing Harvest
+A creature may choose to donate their blood or replaceable body parts for the purposes of harvesting crafting materials, but can only donate up to 1/24th their normal material every month (or their full material value once every two years). Doing this on extended durations usually causes exhaustion or death (even if the creature is normally immune to exhaustion), subject to DM’s discretion.
+
+Should a CR 15 dragon decide to donate some of their blood every month, it would be equal to 270 gp worth of materials (1/48th their XP value), or 405 gp worth if administered by a specialist harvester. 
+Materials derived from dragons, for instance, can be usually used to create armor (from leather or bone), weapons (for bone weapons), alchemy mixtures (enchanted dragon blood), and fire-based infusions, while constructs’ materials can be used to create armor (from metallic plating), weapons, engineering devices (any), and infusion matrixes (if the construct had magical ability or a magical engine). 
+
+#### Scavenging or Dismantling 
+A crafter can also harvest the materials from an item they destroy. The crafter gains 1/2 the crafting value of a dismantled item (or 1/4th the purchase value). The material is usually called diffusion dust (Infusion), dismantled scrap (Engineering), or deconstructed reagents (Alchemy).
+
+This process is a simple complexity task (1 hour). At the end of the duration, the item is destroyed, and the crafter gains half the value in materials invested to create it (usually related to similar items). 
+___
+**Infusion Drain.** Upon the destruction of a legendary item or artifact, it has a 50% chance of dropping infusion dust relevant, even if not intentionally diffused. Attuned items cannot be diffused unless their attuned character is slain, or when the attunement is willingly surrendered (does not require an action), unless the infusionist can succeed on 3 contested Spirit saving throws against the owner. This check can be done once per year against a single character. 
+
+Disenchanting legendary or artifact items also usually requires a quest or a journey to where the item was created, subject to DM discretion, or the listed process of destruction (if available). 
+
+### Tools: Production 
+Any tool that can create a product out of materials is classified as a production skill. The time it takes to make a product and the raw materials it takes depends on the cost of the item and its complexity. 
+
+This chapter details how to use production tools. The products themselves are found in Chapter 5: Equipment.
+
+#### Alchemist’s Supplies
+Having proficiency in Alchemist's Supplies allows you to craft magical potions that hold the power of a spell within them. 
+
+Any character who has access to a spell and the Alchemy ability can craft potions of spells they have the formula of (such as spells scribed in spellbooks). The Alchemist class does not need to spend mana to prepare spells into potions, and have their own spell list for potions. 
+
+If you have neither a caster level nor the Alchemy feature, but have proficiency in Alchemist’s Supplies, you treat your caster level as 1, and access to one spell list you have or the Alchemist spell list (if you don’t have a spell list). 
+
+You cannot make potions of level higher than 1st level.
+
+##### Brewing Potions
+Brewing a potion costs the same resources as casting the spell normally in material components (or mana, if required), and costs crafting materials (which can be either in herbs, harvested materials from monsters, or gold pieces in a settlement that can reasonably have the required materials). 
+___
+**Prerequisites.** Alchemy requires at least 1 level in a spellcasting class (or 1 level in the Alchemist class) and proficiency in the tools. 
+___
+**Activation.** A potion can be used with a Use Object action, such as drinking a bottle's contents, coating a spray on the user, or spreading an oil on an object or weapon. Normally, this requires a touch or the range of 5 ft. 
+___
+**Throwing a Potion** Potions can also be thrown to release their effect on impact, in which case they are a thrown improvised weapon at a range of 20/60 ft. If the spell originally affects an area, the potion affects the area as well. This either requires an attack roll (or spell attack roll) or a DC.
+___
+**Spell Attack.** The character can add their proficiency bonus to attack if they are proficient in Alchemist's Supplies. For instance, the alchemist's fire potion stores the fire bolt cantrip, dealing 1d10 fire damage to the target it hits. This can be an attack roll (or spell attack, if possessing the Alchemy ability).
+___
+**Spell save DC.** The potion’s DC is specified on creation. If the creator is a spellcaster or has the Alchemy ability, the DC is equal to the Spell save DC. 
+
+If thrown beyond its optimal range, the attack suffers disadvantage as normal (if a ranged attack), or the target has advantage on their saving throw (if a saving throw is required). 
+
+\pagebreakNum
+
+**Spell Casting Time.** If the spell stored in the potion has a casting time more than 1 action, the spell begins manifesting after being used, and fully manifests after its original casting time would have been completed. 
+
+For instance, an imbibed resurrection potion activates after 1 hour (if the target still qualifies, due to a 1 hour casting time), while a conjure undead spell activates over 1 minute (regarding most conjured creatures). Potion miscibility applies normally if drinking a potion while another is in the process of manifestation. 
+___
+**Concentration Spells.** Spells that normally require concentration by the caster instead require them by the imbiber, up to maximum duration.
+
+Concentration (partial) spells and channeled spells cannot be made into potions, but sigil spells can be, in which case they are rolled normally (as sigil rolls). 
+
+##### Potion Forms
+Potions take different forms, such as bombs, medicine pills, lotions, spray bottles, sticks, or amulet-like icons that crumble to release their essence. 
+
+In all such circumstances, they act the same as potions so long as they weigh similarly, can be applied by the same action, and used at touch or thrown range as described above. Note that some abilities allow for quicker use of alchemical items. 
+___
+**Creation.** See the Item Creation Complexity and Cost table under Skills. Potions are always Consumables. A potion’s complexity scales with its rarity, as below. 
+
+| Potion Rarity  | Complexity |
+|:-:|:-:|
+| Common | Very Simple | 
+| Uncommon | Simple | 
+| Rare | Moderate | 
+| Epic | Complex | 
+| Legendary | Highly Complex | 
+| Artifact | Highly Complex | 
+___
+**Concentration Spells.** Spells that normally require concentration by the caster instead require them by the imbiber, up to maximum duration. 
+___
+**Mixing Potions.** Potions used in conjunction with one another have unpredictable effects. In the Warcraft universe, the potion miscibility rule is applied. When mixing potions, drinking several in succession, or having multiple potions layered in one vial, consumption or delivery (such as attacking with a potion vial, syringe, or bubble) counts as one potion. Roll for miscibility in this case. 
+
+The strange ingredients used in creating potions can result in unpredictable interactions. If more than two are combined, roll again for each subsequent potion, combining the results, counting the old mixture as the first potion, and the newer one as the second potion. The effects are not immediately obvious, subject to DM discretion (such as getting the result of a 1 with normally volatile potions, causing an explosion).
+___
+**Special.** Alchemy with Herbalism Kit
+
+An Herbalism Kit counts as if Alchemist’s Supplies, but you may choose up to two alchemical formulae to learn. These still must be written down (and usually stored in a book or notes). You are not counted as if proficient when
+
+it comes to other alchemical formulae and using potions for the purposes of potion DCs. You may not create potions higher than uncommon quality with an Herbalism Kit.  
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+##### Potion Miscibility Chart
+A potion undergoes miscibility when it mixes with another potion. This can occur when a creature drinks more than one potion in the span of 1 hour, mixes two potions in one vial (so they can be consumed by one action), or when they are a creature benefitting from one potion also benefits from a new one. You are not instantly aware of the results of the miscibility until it fully manifests.
+
+| <span>&nbsp;&nbsp;&nbsp;</span>d100<span>&nbsp;&nbsp;&nbsp;</span> | Result |
+|:-:|:-|
+| 1-5 | **Explosion.** The mixed potions cause an instantaneous alchemical explosion which deals 5d10 arcane damage to the target or imbiber, and 1d10 arcane damage 5 ft. away from the target or imbiber. The newer potion does not have an effect | 
+| 6-10 | **Toxicity.** The mixed potion becomes a poison of DM's choice, and no longer provides benefit. | 
+| 11-15 | **Minor Toxicity.** One potion works, the other becomes a poison of the DM's choice (target  has advantage to saves). | 
+| 16-25 | **Cancellation.** Both potions in the mixture lose effect. |  
+| 26-35 | **Minor Sync.** Both potions in the mixture work, but their benefit and durations are halved; if can't be halved, has no effect. | 
+| 36-40 | **Minor Cancellation.** Only one potion works normally. |  
+| 41-70 | **Proper Sync.** Both potions in the mixture work normally. | 
+| 71-80 | **Birth from Chaos.** Both potions work normally, and the mixture also conjures a single random aberration, elemental, ooze, or homunculi (DM’s choice) rising from the potion (or puddle). The creature has a CR equal to the average spell level of both potions (or of the appropriate quality relative to rarity). It is allied to the imbiber, and disintegrates when reduced to 0 hit points. If one of the two potions was of a cantrip, it conjures a creature of CR ¼. This creature can be bound by the imbiber. | 
+| 81-90 | **Greater Sync.** Both potions in the mixture work, and have their numerical benefit and  maximum duration doubled; if they can't be doubled, the potion can be reused if salvaged with a successful DC 15 Intelligence check with Alchemist’s Supplies as an action. | 
+| 95-99 | **Superior Sync.** Both potions work, and the target can benefit from a third random potion of DM's choice. | 
+| 100 | **Augment.** One potion works and its duration becomes permanent. If the effect was instantaneous, such as a healing potion, this may cause an increase in maximum hit points, with the reverse happening if it dealt damage. At the DM’s discretion, this effect may be dispelled as an active spell effect or be suppressed with a potion which deals an opposite effect. A cantrip cannot gain this miscibility result, and instead reverts to Greater Sync. | 
+
+</div>
+
+##### Special Crafting: Cauldrons 
+When choosing to brew or craft a potion, you may choose to instead brew them in larger batches than individual potion doses. This does not risk miscibility, as the potions are not in full form when being brewed.
+
+By doing so, you need a container of reasonable size and appropriate material to brew the potions in. This is not included in Alchemists’ Supplies. 
+
+A cauldron (see Adventuring Gear in Chapter 5) can hold up to 20 gallons, or enough materials for 5 potions (including the base liquid). 
+
+When creating a batch, you pay the resources for the number of potions you desire to craft. The crafting time is one-half the aggregate crafting time potions would normally require (considering their numbers). 
+
+For example, a priest proficient in Alchemy attempts to bless a basin filled with water to become holy water (common rarity), which is enough for 5 doses. He spends materials equal to 5 times the cost of crafting a single vial of holy water (or 50 gp in powdered silver and herbs), and it takes him 20 minutes (instead of 50 minutes) of prayer and inflection. If succeeding on the check by 14 points, the priest crafts it within 10 minutes (as described under normal
+
+crafting).
+___
+**Experimentation.** You can experiment with potions in your batch. If you choose to do so, you gain half the yield (round down) of the potions you crafted. In return, you may roll an additional time for miscibility for each potion, and choose the better result. 
+
+Special cauldrons and mixing ladles (see Infusion) provide a benefit for crafting in batches. 
+
+##### Special Crafting: Transmuting Materials
+Alchemist’s Supplies (in conjunction with the power of spells or the Alchemy feature) can be used to transmute materials from one type to another, which requires the transmute material spell. 
+
+Transmuting a mineral requires the original mineral and changes the original material into the target material, effectively going around usual material requirements (but altering size as appropriate). For instance, one can transmute alchemy materials from being fire-based to being water-based (allowing crafting different potions), or change 500 gp worth of iron into 500 gp worth of silver (turning a mound of iron into a silver rock). 
