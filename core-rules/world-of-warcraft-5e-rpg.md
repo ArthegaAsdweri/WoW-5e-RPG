@@ -15681,3 +15681,314 @@ your Intelligence Modifier
 ___
 Crafting poisons requires proficiency in a poisoner’s kit and materials. Poisons can be crafted using alchemical crafting materials of the same components, or ingredients of the same cost (such as coming across 100 gp worth of a lesser demon’s blood, or 200 gp worth of deathweed). Their cost is that of a consumable under the appropriate rarity (see the Item Creation Complexity and Cost Table).
 
+\pagebreakNum
+
+# Chapter 8: Adventuring
+
+The following rules for adventuring apply in the Warcraft universe. 
+
+## Alternate Madness
+**Optional rule**
+___
+When your players exposed to the whispers of the Old Gods, their minds are touched. This can occur when a Call they make is answered by such eldritch beings (even if the answer isn't at the moment they expect), or when they rest in a place of eldritch power (such as on a ship sailing above a drowned temple or in Tirisfal Glades). Creatures with higher Spirit scores are more sensitive to these whispers (and also more resistant to them). The key with insanity is that the players' psyches are unreliable, with their mind either reeling and trying to cope, breaking down and trying to delay the gibbering madness, or hobbling on with anxieties and depressing thoughts.
+
+If exposed this way, you can decide if a certain event is a test of a character's sanity. There are 5 levels of sanity (as exhaustion). When exposed to a test of sanity, a Spirit or Charisma saving throw is required to avoid suffer a level of madness. 
+
+Roll secretly for a creature’s mania or insanity. 
+
+| Level | Effect |
+|:-:|:-:|
+| 1 | Disadvantage on Ability Checks | 
+| 2 | Confused for a total of 1 minute per 24 hours (stressful situation or declared by DM) | 
+| 3 | Disadvantage to attack rolls and saving throws (including against future stress) | 
+| 4 | Hit Point Maximum halved. If having an active mana pool, Hit Point and Mana Point - Maximums are reduced by one-quarter | 
+| 5 | Confused for a total of 1 hour per 24 hours (stressful situation or declared by DM) | 
+| 6 | Irrecoverably insane | 
+___
+Depending on the character's background, personality traits, and history, some tests of sanity might be passes automatically. For instance, a warrior whose family was murdered in a raid might treat a moderate test as a minor test. 
+
+| Severity | DC | Example |
+|:-:|:-:|:-:| 
+| Minor | 10 | Stress from failed expectations | 
+| Moderate | 15 | Loved one murdered or betrayed | 
+| Major | 20 | Loved one murdered or betrayed the character | 
+___
+Non-sentient beings are immune to insanity. Sentient beings that are constructs or undead (such as the Forsaken) are immune to insanity if they are bound (such as by the bind spell) to a creature.
+___
+**Coping and Recovery.** Taking certain actions can stem off insanity from worsening or enable healing. When having at least one level of madness, a character can adopt a coping mechanism. Roll randomly to choose a coping mechanism for a character. So long as the character is staying true to the restrictions of the coping mechanism, they ignore the penalties of one level of madness, and can recover from a level of insanity after a long rest. A character can choose to ignore or abandon their coping mechanism (such as sleeping for normal duration or refraining from violence), which returns the penalties and prevents the character from recovering. 
+
+A character abandoning their coping mechanism for too long may cause it to be changed (at the DM's discretion). A character can petition the DM to change their coping mechanism by spending inspiration (such as fulfilling a bond). One insanity is lifted, the character has no need to cope and can drop the mechanism. 
+
+All coping mechanisms are treated as character Flaws. Therefore, whenever a coping mechanism causes a character to suffer a narrative drawback (such as angering an important NPC with an insulting instance of paranoia, hiding from a critical confrontation, etc.), the character gains inspiration. 
+
+You may later spend inspiration to ignore one instance of coping (such as refusing an addictive substance to help a friend). If you succeed on the task and stay true to one of your personality traits, bonds, or ideals, the inspiration is not spent and can be used again. 
+
+You may roll randomly for a character (1d12 and choose one of the below) or choose one that is relevant to the character’s previous action or backstory.
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+| Dice | Result |
+|:-:|:-:|
+| 1 | **Addictive Dysfunction (Greed, Gluttony, or Lust).** The character frequently indulges in their addiction (substance or behavior) to cope. The DM sets the frequency of the addiction. The more time the character spends without indulging their addiction, the greater the rebound if unable to change the coping mechanism. If choosing food or drink, the character often eats three times the amount of a normal person (or pays lifestyle expenses one step higher to feed their needs). |
+| 2 | **Amnesia/forgetfulness.** The character locks away memories of bad things (or neutral things) they associate with the insanity. Communicate with the player the things their character might forget. | 
+| 3 | **Attachment.** The character becomes unhealthily attached to an object, person, or concept. Not having it (or if a person or concept, not living up to them or it) counts as if abandoning the mechanism. |
+| 4 | **Compulsion.** The character gains a compulsion, and must perform it to cope with the madness. This could be a compulsive action or repetition. |
+| 5 | **Delusions.** The character has a complete conviction of a certain thing.<br>Paranoia. The character sees evidence in people conspiring against them. This is usually false.<br>Pride. The character has inflated self-worth and too much confidence in their abilities, usually underestimating opposition.<br>Reference. The character falsely perceives messages and sees omens everywhere, identifying signs where there are none.<br>Selective Perception. The character sometimes suffers disadvantage to Perception checks (no more than 1/hour) if what they perceive would be something they don't want. |
+| 6 | **Hallucinations.** The character interacts with hallucinations as if they are real (as provided by the DM or conjured alone). | 
+| 7 | **Elusiveness.** The character prefers to hide or evade problems, confrontation, or frightful situations unless there is no other solution. |
+| 8 | **Envy.** The character is jealous towards other people’s accomplishments, and may seek to subvert them or claim them for themselves |
+| 9 | **Narcissism.** The character prefers to perform acts that can benefit itself directly. |
+| 10 | **Sociopathy.** The character acts with antisocial behavior (manipulation, lying, lacking empathy, sincerity, or trustworthiness). This can be masked with a charming exterior or left blatant. |
+| 11 | **Sloth.** The character's short rests take 30 extra minutes, and the character's long rests take two extra hours (10 hours). |
+| 12 | **Wroth.** The character handles their problems with disproportionate violence. They prefer to seek out violent situations or to resolve issues (even with allies) by bullying or browbeating them over compromise. |
+
+</div>
+
+How insanity works isn't merely taking away agency, it's empowering the character to adapt with madness. Insanity in the Warcraft universe is not mundane mental disorders--it almost always has a subtle influence of the Old Gods, due to the curse of flesh warping nearly every sentient race to being, or a fantastical exaggeration of the broken psyche. To that superior psyche, every race has a backdoor. 
+
+**Recovery.** Characters can recover from madness levels the same way they recover from exhaustion (once per long rest) so long as they stayed true to their coping mechanism when awake. A character must stay true to a coping mechanism for at least 24 full hours of staying awake.
+
+## Cabal Casting and Cooperative Crafting
+**Optional Rule**
+___
+Warlocks of the Burning Legion and necromancers of the Scourge are known to organize cabals and circles of power to channel their strength into beyond their normal limits. Similarly, goblin and gnomish tinkers have pooled their knowledge and expertise to cooperatively craft devices beyond the skill of any individual craftsperson. 
+
+Both concepts have an underlying basis: the whole is more than the sum of its parts. 
+
+Mages and wizards of the Kirin Tor have long looked down on cabal casting, but have confronted the utility of them when orc warlocks who are less trained in magical arts bested their mage counterparts. They, too, however, recognize the strength in unity, as evidenced by those learned enough to know about the Guardians of Tirisfal, or of the great fire ritual used by the wizards of Arathor against the Troll empire ages past.
+
+\pagebreakNum
+
+### Cabal Spellcasting
+Any casters of the same casting class (or derivatives, such as warlock and demon hunter, or mage and spell breaker) can pool their powers by willingly entering into a cabal circle. The circle need not be physical, but communication must be instantaneous (such as by using telepathy), and the members must be focused entirely on the task (treated as if they are channeling). 
+
+#### Entering a Cabal
+Entering into a cabal consumes your movement for that round as you focus your attention, and you are treated as if you are channeling for the duration of the cabal chain. If you lose concentration, you exit the cabal until you establish yourself as a member in the chain once more. 
+
+When entering into a cabal chain, you must either defer to the existing head of the cabal, or propose yourself as cabal leader. Only the cabal leader may decide on the focus of the cabal’s attention.
+
+When the cabal leader casts a spell, all the other cabal members must focus their attention on the spell. If at least one member choses to refrain, the cabal leader is roughly aware of the missing focus, and may choose to cancel casting the spell. If all members focus their attention, the spell level is heightened according to the number of members in the cabal, see below. 
+
+| Members | Caster Level | Spell Levels Heightened | 
+|:-:|:-:|:-:|
+| 3 | +2 | +1 | 
+| 7 | +4 | +2 | 
+| 13 | +6 | +3 | 
+| 42 | +8 | +4 | 
+| 101 | +10 | +5 | 
+___
+When participating in cabal casting, each spellcaster in the cabal (as well as the cabal leader) must spend the resources to cast the specific spell (or their highest-level spell if they cannot access it) to empower the leader’s chosen spell. This applies to all resources required by the spell, except consumable material components; which are paid for once for each spell level heightened (once at 3 members, twice at 7 members, etc.). 
+
+Furthermore, the spell focused on must be a spell level all the members can cast, or at least of a spell level within two spell levels of the lowest-skilled member. Hence, a 20th level warlock (spell level 9), can join forces with a 20th level demon hunter (spell level 5) to cabal cast up to 7th level spells, but not 8th nor 9th level spells. 
+
+Instead of casting a spell, a cabal leader may instead have their effective caster level increased for the purposes of accessing spell scrolls of higher level without penalty. 
+
+When the spell’s casting time is complete, the cabal leader must roll an Intelligence (Arcana) skill check against a DC of 10. If the participants include a character of a different casting class but who shares the spell list (or has the spell on their spell list), the DC is 15 as the leader consolidates different magical traditions. If there is a skill that is more appropriate than Intelligence (Arcana), such as when priests use cabal casting, or if there is another ability score more appropriate (such as Charisma (Arcana) for warlocks), then that skill or ability score is required instead.
+
+#### Successful Cabal Casting
+On a success, the cabal’s efforts succeeded, and the spell is cast as if cast from a higher level (increasing the spell’s effects as normally described), and each member has to make a successful Constitution saving throw against a DC of 10 or suffer one level of exhaustion. 
+
+The spell acts as if the cabal leader had cast it for all purposes (such as who must concentrate, who a conjured creature obeys, etc.). 
+
+Depending on the number of allies with you, the potential number of spell levels the spell you cast increases (up to a maximum spell level of 9). 
+
+When a spell is heightened, the cabal leader may choose to apply one of the following Metamagic effects instead of heightening the spell (such as if when the spell has no effect when heightened): 
+___
+**Accurate Spell.** When you cast a spell that requires a saving throw or spell attack roll, your spell save DC or spell attack roll bonus is increased by 1. This costs 1 spell levels, or 2 if you increase the bonus by 2 instead.
+___
+**Careful Metamagic.** When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. You may choose a number of creatures up to your spellcasting modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell. This costs 1 spell level. 
+___
+**Distant Metamagic.** When you cast a spell that has a range of 5 feet or greater, you can double the range of the spell. When you cast a spell that has a range of touch, you can make the range of the spell 30 feet. This costs 1 spell level.
+___
+**Empowered Metamagic.** When you roll damage for a spell, you can reroll a number of the damage dice up to your spellcasting modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell. This costs 1 spell level. 
+___
+**Extended Metamagic.** When you cast a spell that has a duration of 1 minute or longer, you can double its duration, to a maximum duration of 24 hours. This costs 1 spell level.
+___
+**Intensified Metamagic.** When you cast a spell that forces a creature to make a saving throw to resist its effects, you can give one target of the spell disadvantage on its first saving throw made against the spell. This costs 3 spell levels. 
+___
+**Quickened Metamagic.** When you cast a spell that has a casting time of 1 action, you can change the casting time to 1 bonus action for this casting. This costs 2 spell levels. You can hold a quickened spell as a cabal leader for up to 1 hour, although you bear signs of holding such trapped power.
+___
+**Reabsorb Metamagic.** When you cast a spell modified with this Metamagic, you regain half the resources spent on casting it (minimum 0 mana or 0 gp in material components) if the target succeeds on their first saving throw against the spell, or if you fail your first attack roll to affect the target. This costs 1 spell level.
+___
+**Subtle Metamagic.** When you cast a spell, you can cast it without any somatic or verbal components. This costs 1 spell level.
+___
+**Twinned Spell.** When you cast a spell that targets only one creature and doesn’t have a range of self, you can target a second creature in range with the same spell. To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are. This costs 1 spell level for each level of the spell that is used. 
+
+\pagebreakNum
+
+In another example, a 9th level mage casting the geas spell with 7 allies (minimum level to contribute is level 5 wizards for two spell levels’ difference) heightens the spell by 2 spell levels, allowing the spell to act as if a 7th level spell. The duration of the spell becomes 1 year instead of 30 days (a feat which normally requires a 13th level wizard and a higher spell level). Instead of heightening the spell to 7th level, the cabal leader can instead use the 2 spell levels to apply the Distant and Subtle Metamagic effects, both increasing the range to 120 feet and removing all signs of spellcasting. 
+
+#### Failed Cabal Casting
+On a failure by the cabal leader, 10% of the participants in the cabal (randomly chosen) are subject to system shock (as described in the Dungeon Master’s Guide, page 273) or a Wild Magic Surge (as described in the Player’s Handbook, page 98), DM’s choice. If the cabal leader is chosen by random, the cabal leader may attempt another skill check (against a DC of 20 instead of 10) to avoid being targeted, shifting the effect to another random participant instead. 
+
+For example, 3 apprentice mages (of caster levels 3) can pool their power together, increasing their chosen leader’s caster level to 5, allowing their leader to heighten their burning hands spell to 3rd level. If the cabal leader has a fireball scroll ready, he can cast it without risking a mishap. If the leader failed their Intelligence (Arcana) check, one of them is subject to either system shock or a Wild Magic surge.
+
+#### Sub-Cabals
+If the difference in accessed spell levels is too great, cabal members can form sub-cabals, each counting as their own sub-cabal leader, but acting as cabal members for the purpose of the main cabal. 
+For example, 101 1st level priests led by a particularly gifted student (the highest in Intelligence (Religion) or the relevant skill) will act as if they access 5th level spells, and count as a single eligible member for a cabal formed by a priest of 13th level to cast a 7th level spell. 
+
+There is no limit for the number of sub-cabals (or sub-sub cabals), but a failure of the cabal leader cascades to all sub-cabals below them, exposing them to disruptions, system shock failures, exhaustion for participants, or Wild Magic Surges. A failure by a cabal leader who is a member of the main cabal causes them to temporarily exit the cabal.
+
+### Cooperative Crafting 
+Any crafters of the same crafting profession (alchemists, infusionists, tinkers, etc.) can pool their knowledge and resources by willingly entering into a cooperative crafting project. Their presence need not be physical, but communication must be instantaneous (such as by using telepathy), and the members must be focused entirely on the task (treated as if they are all focusing on crafting). 
+
+#### Entering a Cooperative Project
+When entering into a cooperative project, you must either defer to the existing head of the project, or propose yourself as project leader. Only the project leader may decide on the focus of the team’s attention.
+
+When the project leader chooses to craft an item, all the other team members must focus their attention on the same item. If all members focus their attention, the project leader’s effective level is heightened according to the number of members in the team, see below. This directly affects the project leader’s proficiency bonus, which in turn affects the rarity of items they can craft. The project leader must have access to the formula, schematic, matrix, or discovery to craft the item.
+
+When participating in cooperative crafting, the cost of crafting is equal to the cost of crafting times each step of the team size (base cost at 3 members, triple the cost at 13 members, etc.).
+
+| Members | Character Level | Cost of Crafting |
+|:-:|:-:|:-:|
+| 3 | +2 | x2 | 
+| 7 | +4 | x3 | 
+| 13 | +6 | x4 | 
+| 42 | +8 | x5 | 
+| 101 | +10 | x6 | 
+
+Furthermore, the team’s members must be within four character levels of the team leader. Hence, a 16th level tinker, can join forces with a 12th level tinker, but not a 10th nor 7th level tinker. 
+
+When the item’s crafting time is complete, the team leader must roll an Intelligence check with the appropriate tool against a DC of 10. 
+
+#### Successful Team Crafting
+On a success, the team’s efforts succeeded, and the item is crafted as if by a higher level craftsperson (increasing the rarity), and each member has to make a successful Constitution saving throw against a DC of 10 or suffer one level of exhaustion at the conclusion. 
+The item acts as if the team leader had cast it for all purposes (such as who applies various effects, various modifications, etc.). 
+
+Depending on the number of allies with you, the potential number of character levels the spell you cast increases (up to a maximum rarity of Artifact). 
+When their proficiency bonus is heightened, the team leader may choose to apply a technological modification increasing rarity (in the case of technological devices). Each potential proficiency point increase can be expended to gain a 1 EP modification. 
+If the project is alchemical in nature, the team leader can attempt to perform potion miscibility, and roll twice for each potential proficiency point. 
+
+For example, seven novice tinkers (of level 2) can pool their expertise together, increasing their chosen team’s effective character level to 6 (proficiency +3), allowing their leader to craft rare-quality items for double the normal cost (after applying the reductions from the Efficient Engineering feature). 
+
+##### Sub-Teams
+If the difference in accessed character level is too great, team members can form sub-teams, each counting as their own sub-team leader, but acting as team members for the purpose of the main team. 
+
+\pagebreakNum
+
+##### Mass Production
+Once a Project Team is instituted, they act as the leader’s original level (not counting the cooperative crafting level increase) for the purposes of crafting, but only to replicate the focus of the project’s team particular item. This allows the team leader to continue producing while busy in other pursuits (such as spending downtime in training, managing an organization, traveling, or even adventuring).
+
+For each successful crafting project completed by the Project Team, the leader must succeed on a DC 10 Charisma check with Engineer’s Tools. Whenever the Project Team accrues three failed checks (which do not need to be consecutive), the Project Team loses the ability to continue production of the item. 
+
+## Resurrection and Immortals
+Resurrection in the Warcraft universe’s lore is a contentious subject; player characters can be revived, but important NPCs usually die permanently. 
+
+Resurrection is possible and expensive, although several factors make it easier, and some make it impossible. 
+___
+**Intact Corpse.** An intact corpse is required for resurrection with the following spells: Revivify (3rd level), and raise dead (5th level). Missing body parts are not restored with these spells, and an armless corpse becomes an armless raised character. If the limb is required for life (such as a head), the resurrection fails.
+___
+**Free Soul.** Some spells and effects trap the soul, such as the imprisonment, or essence seal spells. Being alive also prevents returning to life, as the soul is technically trapped in the body it inhabits. An animated undead is treated as an imprisoned soul. A trapped soul must be freed before resurrected (such as breaking the imprisonment spell, destroying the essence seal focus, or destroying an animated undead).
+
+If a soul is trapped in a focus (such as the essence seal spell or a soul-stealing sword), the one who casts the spell or evokes the effect must contest their spellcasting attribute with the target. On a success of two out of three rolls, the focus that traps the soul is broken and the soul is freed. Focuses that can be broken this way are explicitly stated to be subject to this effect. 
+___
+**Willing Target.** The target must be willing to return. Some characters, upon a fulfilled life, find that they cannot (or are unwilling) to be revived. This cancels the spell without consuming any material components.
+___
+**Material Components.** Spells that raise the dead require expensive material components, such as diamonds (or their dust), alchemical reagents, or anything that can stand in for the price. For example, a cherished wedding band can pay the price of the spell if it has a comparable price (even if not exact), as well as a magical item with an infusion cost comparable to the spell’s cost. 
+___
+**Resurrection Sickness.** Spells that revive inflict resurrection sickness. The target takes a -4 penalty to attack rolls, saving throws, and ability checks. Whenever they take a long rest, the penalty decreases by 1 point until it is eliminated entirely. 
+
+### Immortals
+Immortals such as celestials and fiends (sometimes known as outsiders), undead, and fey have different natures than mortals such as humanoids, beasts, etc. and do not age or die of aging. 
+
+Additionally, outsiders cannot be destroyed unless killed under certain conditions. 
+
+They must be killed on their native plane (the Twisting Nether for demons, and the native realm for celestials), or a plane heavily influenced by it, or
+
+They must be gated in physically (via a gate or plane shift, or similar effects) such as when the lich Kel’Thuzad invited the archdemonic Archimonde via a gate to Azeroth during the Third War.
+
+Few spellcasters know that outsiders do not die unless under these conditions (most of those who do know are warlocks who share this information sparingly). If a creature is bonded without being invited or gated in, they reform as normal. 
+
+Due to the difficulties of killing demons under these conditions, they are usually banished, trapped (either in gems, or spell focuses such as by the essence seal, or by spells such as imprisonment), or imprisoned instead of destroyed. In the case of the essence seal spell, ambitious spellcasters might even use the creature’s spirit to fuel infusions or to power engineering devices, though they run the risk the creature escapes. 
+
+Forsaken and other intelligent undead is another special case. So long as an undead is intelligent, it can be raised or revived by the normal raising spells (revivify, raise dead, and resurrection). Unintelligent undead are usually ‘revived’ by repeated animation. 
+
+Some undead often have special conditions to destroy beyond resurrection. For example, liches can only be killed if their phylacteries are destroyed. 
+
+Although undead also require their body parts to be available to be raised through these spells, it is easy to simply stitch body parts together with a sewing kit (or use body parts from other corpses), although the undead’s head is a vital and irreplaceable part. 
+
+The resurrection spell can, however, revert an undead creature to living, so long as its soul is free, but only if it is heightened to 9th level (also known as True Resurrection). 
+
+Creating intelligent undead requires more than just animating them; the Plague of Undeath was an unholy concoction suffused with necromantic and soul magics, and animated by semi-sentient will. Created by the Lich King before the beginning of the Third War, the Plague of Undeath is the strongest and most reliable tool to create intelligent undead (see equipment). 
+
+Should the Lich King’s telepathic control of his undead minions waver (either by suffering damage to himself or the Frozen Throne), there is a chance that these free-willed undead will summon back their spirits to their bodies, becoming intelligent undead—in many cases, joining the ranks of the Forsaken. 
+Intelligent undead usually appear in traumatic events that would cause their spirit to linger and return (executed unjustly, betrayed and killed by a loved one, died with broken oaths or severe regrets, slain on unholy ground, etc., as determined by the DM). Spellcasters may attempt to replicate these circumstances with the bind undead spell. 
+
+\pagebreakNum
+
+Casting the bind spell on a corpse in an area that was significant to the person while alive may summon his spirit to be bound as an undead. Animating and then binding a human farmer in the ruins of a market he used to sell his wares in, an elven farstrider in her archery range, or an orc in his hut are all likely to return a sliver of the creature’s spirit, returning their mental attributes to normal. These undead, if released from the binding, join the ranks of the Forsaken. 
+___
+**Fey.** Fey slain reform in the Emerald Dream, but do not regain physical bodies, such as the elder fey Cenarius. 
+___
+**Constructs.** Constructs are considered functionally immortal, and can be fixed and recrafted by a character with a sufficiently high proficiency in Engineer’s Tools, although they cannot be restored if missing critical components (subject to joint DM-player adjudication).
+
+## Retraining
+This allows a character to change their class or a chosen class feature (such as a Warrior’s Fighting Style, a Tinker’s Patent, or even a character’s class). This takes 7 days and costs 25 gp per class level of the character. If multiclassing, retrain only the relevant class’s levels.
+
+For instance, a Warrior 2/Tinker 5 who wishes to change her Fighting Style would take 14 days and 50 gp to change her Fighting Style or retrain her Warrior levels into something else, but 35 days and 125 gp to change her Patent. 
+
+## Strongholds
+Whether it be human keeps, orc barricades, or a lone mage tower, strongholds serve as centers of important activity. 
+
+You may refer to the Kingdoms, Strongholds, and War rules for rules on building and customizing strongholds.
+
+### Damaging Strongholds
+Each 10 x 10-foot section (whether it be wall, room, or door) of a stronghold can be damaged. It has AC and hit points relevant to its material, and is immune to poison and psychic damage.
+
+Reducing a section to 0 hit points destroys it and might cause connected sections to buckle and collapse at the DM’s discretion (usually if the attacker has the plans of the stronghold or is knowledgeable of masonry, such as having proficiency with the relevant artisan tool). A destroyed section suppresses a stronghold function (such as punching into a storage room or prison wall, exposing the contents or releasing prisoners, respectively).
+
+A stronghold can be damaged with one spell that affects all sections in the spell’s area. If the effect or spell affects only one side of the stronghold (such as from the outside), add all hit points together, with the damage causing an indent equal to the amount of increments of damage compared to inches. 
+
+Therefore, a cottage made of wood that is enveloped in the area of an earthquake or death and decay spell applies its damage to all sections; possibly bringing down the stronghold with the single spell. If attacking with a fire bolt spell cast by an 11th level spellcaster (3d10, average of 16 damage), however, every two hits cause 32 damage, equivalent to 1 inch of wood burnt out.
+
+| | | | | | 
+|:-:|:-:|:-:|:-:|:-:|
+| Material | AC | Hit Points/Inch | Wall (1 foot) | Damage Threshold | 
+| Stone | 17 | 30 | 360 | 10 | 
+| Wood | 15 | 25 | 300 | 5 | 
+
+With spells like death and decay and earthquake, it typically takes around one minute of damage to reduce a building’s floor to rubble with this spell (average of 21 damage per round for death and decay and 10 per round for earthquake (or 50 for heightened earthquake), before comparing to the Damage Threshold).
+
+### Siege Weapons and Bombardment
+Siege weapons take a number of rounds on average, to destroy or breach a wall section. Setting up siege weapons is therefore a critical step that stronghold defenders must prevent, such as by sending outriders to harry or defeat the crew, sabotage with thieves’ tools, use their own siege weapons, building the stronghold in marshy terrain or behind moats, or preparing (or digging) tunnels that end behind enemy lines. The below chart assumes average damage, and walls one foot thick. Interior walls are half as thick (and take half the time to destroy).
+___
+*Note.* This assumes concentrated bombardment on the same 10 by 10 foot section. Usually in war, attacking commanders open multiple points of entry to overwhelm and demoralize defenders. 
+
+| Weapon | Damage/minute | Stone (1 foot thick) | Wood (1 foot thick) | 
+|:-:|:-:|:-:|:-:| 
+| Ballista* | 160 | 2 minutes | 1 minute 6 rounds
+| Cannon* | 440 | 9 rounds | 7 rounds | 
+| Trebuchet* | 440 | 1 minute | 7 rounds | 
+| Mangonel* | 270 | 1 minute 4 rounds | 1 minute 2 rounds |  
+| Ram | 160 | 2 minutes | 1 minute 6 rounds | 
+___
+\* With these weapons, it is assumed the attacker has a full crew to maintain one attack per round (crew ranging from 3 to 5 for 3 to 5 actions each, as per their appropriate full descriptions). Without a full crew for the siege weapon, the damage takes longer (five times the normal time for trebuchets, for example). 
+___
+These statistics assume the siege weapons in the Dungeon Master’s Guide for the purposes of backwards compatibility. Modified crossbows and firearms (field cannons, great ballista, etc.) are described in Chapter 7 under engineering. 
+
+#### Collapsing Buildings
+A collapsing structure damages nearby creatures within half the structure’s height. Said creatures must make an Agility saving throw or else take 5d6 bludgeoning damage, and is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried. The DM can waive the damage entirely and entrap a character in a small area that has not caved in, though this still requires the above check to escape.
+
+\pagebreakNum
+
+<div class="classTable wide">
+
+## Vehicles
+Some vehicles are unique to the Warcraft universe, and have increased speeds and abilities over normal vehicles.
+
+| Type | Cost | Speed | Crew/Passengers | Cargo | AC | HP | Threshold | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Goblin Zeppelin | 25,000 gp | 10 mph | 20/40 | 10 tons | 15 | 300 | 10 | 
+| Juggernaut | 40,000 gp | 4 mph | 60/400 | 250 tons | 17 | 600 | 20 | 
+
+</div>
+
+##### Goblin Zeppelin (or Goblin Balloon)
+The goblin zeppelin has one engine (huge sized uncommon) which counts as 15 crew members, leaving the ship requiring only 5 crew members. Without the engine, the goblin zeppelin acts as a normal airship, and loses 1 mile of flight speed, and 9 tons of cargo.
+
+##### Juggernaut
+The juggernaut has one engine (large-sized size rare) that counts as 30 crew members (costs 15,000 gp), leaving the ship requiring only 30 crew members. Without the engine, the juggernaut acts as a normal warship, and loses 1½ a mile of speed, and 50 tons of cargo. 
+
+
