@@ -14482,7 +14482,7 @@ Crafting takes the specified time, cut down to the nearest ten minutes. Succeedi
 
 For example, a rogue (if proficient with smith’s tools), can begin to forge a dagger (simple weapon) if she has access to all the tools she needs. As a simple complexity item, it would take her one hour if she has all the required materials and succeeds on a DC 10 Crafting check. If she rolls a natural 20 or gets a result equal to or higher than 20, it takes only 30 minutes.
 
-### Discovery
+## Discovery
 Making new spells, alchemical formulae, and blueprints for engineering are all highly complicated tasks. It takes downtime and money to research appropriate to formula itself. 
 ___
 **Downtime.** It takes 2 weeks per spell level, or 1 week per rarity step of the device.
@@ -14497,7 +14497,7 @@ Instead of researching a new spell, a character can research a creature’s name
 
 <div class="classTable wide">
 
-### Item Creation Complexity and Cost Table
+## Item Creation Complexity and Cost Table
 Items have cost to create in materials and gold, scaling with its quality or rarity. The below table includes the cost for material per quality, but is modified further per type of material (or crafting class, such as consumable, use-item, infused item, or creature). 
 
 For instance, a Common rarity consumable costs 20 gp to buy (unmodified base price), but a Common creature costs 500 gp (x25 due to being a creature). 
@@ -14549,7 +14549,7 @@ ___
 *Note.* If being proficient with Herbalism Kit, a character can still craft Potions of Healing (of all types), but the price is multiplied by 2 (for 40 gp purchase from an herbalist, 20 gp craft). 
 This does not require the recipe for the Potion of Healing, but it is required if using Alchemist’s Supplies (even if also proficient with an Herbalism Kit).
 
-### Tools: Gathering
+## Tools: Gathering
 Due to the costs of crafting, few characters pay directly in raw materials and gp, especially those who are short on liquid wealth. For them, proficiency in gathering tools, harvesting nodes from monsters and locations (such as rare beasts and groves of natural materials), and scavenging materials from potions or devices they don’t need (or ones that are looted) is a cost-effective alternative. 
 
 For instance, a party of adventurers who defeat a harvest golem in Westfall might choose to deconstruct it if they have a tinker, so that the tinker can use its parts for devices that aid their quests. Coming across a cache of potions of dragons’ breath, an alchemist may decide to repurpose the potions and turn them into rejuvenation potions instead of paying the cost of potion creation.
@@ -14561,18 +14561,20 @@ Any tool that allows for the collection or preservation of raw materials may be 
 | Mining tools | Collects metals, identifies metals and minerals, and general mining |  
 | Skinning tools | Collects hides, skins, and identifies quality of leather. |  
 
-#### Harvesting Nodes
+### Harvesting Nodes
 A DM is recommended to place minor and major nodes on the game map or reference it to important areas. As nodes, they usually attract attention of other characters and creatures, such as golems and spellcasters in places where infusion points are, and fey and druids where alchemical materials are. Most nodes take a day to harvest materials from. Multiple characters can harvest from the same node.
 
 Engineering materials (or appropriate base materials) can be drawn from mines or mining nodes, where kobolds, miners, and dwarves live, or are generated workshops. Nodes can be rewards for quests, and can be referenced in-character. 
 
-##### Node Size
+#### Node Size
 **Minor Node.** 250 gp of materials/day (two uses, rarely replenish)
 
-Minor nodes are minor harvesting deposits. These are usually expended and replenish slowly over time or with DM discretion, but also include minor pools of mana, minor ley lines (for infusion), a small to medium busy engineering workshop or junkyard (for engineering), or a copse or forest grove filled with alchemical plants (for alchemy). There is usually at least one minor node present within 12 miles from one another.
+Minor nodes are minor harvesting deposits. These are usually expended and replenish slowly over time or with DM discretion, but also include minor pools of mana, minor ley lines (for infusion), a small to medium busy engineering workshop or junkyard (for engineering), or a copse or forest grove filled with alchemical plants (for alchemy).
 
 \columnbreak
 
+There is usually at least one minor node present within 12 miles from one another.
+___
 **Moderate Node.** 500 gp of materials/day (four uses, replenish every month)
 
 Moderate nodes include centers of power such as mana fountains, moon wells, or a ley line intersection (for infusion), a large engineering workshop or junkyard (for engineering), and an alchemical ingredient farm or a grove (for alchemy). There is usually a moderate node present within 100 miles of one another.
@@ -14585,7 +14587,7 @@ Examples are Tower of Karazhan, the Sunwell, the Tree of Eternity, Blackrock Spi
 
 For instance, a 1st level warrior proficient in mining tools, for example, can spend a day in a minor node (an iron mine), harvesting 250 gp worth of materials after working, which can be invested in making any iron-based weapon. 
 
-##### Monster Nodes
+#### Monster Nodes
 Some monsters act as nodes. A monster that is harvested for a particular body part has the rest of its body parts damaged in the attempts to extract value. The time it takes to harvest is decided jointly between the DM and the player. 
 
 If harvesting a Consumable the monster naturally creates (such as a poison), one dose can be created per Hit Dice with no cost with a given success (if medium sized). A monster that can be harvested usually shows signs of it, and are described as such. A single monster of the below proficiency can provide materials for a number of items of the below listed quality. For each size category of difference, the dosage is a fraction smaller or doubled in quantity (a small venomous spider gives one-half a dose per Hit Dice, while a wyvern gives two doses per hit dice).
@@ -14633,12 +14635,12 @@ ___
 
 Disenchanting legendary or artifact items also usually requires a quest or a journey to where the item was created, subject to DM discretion, or the listed process of destruction (if available). 
 
-### Tools: Production 
+## Tools: Production 
 Any tool that can create a product out of materials is classified as a production skill. The time it takes to make a product and the raw materials it takes depends on the cost of the item and its complexity. 
 
 This chapter details how to use production tools. The products themselves are found in Chapter 5: Equipment.
 
-#### Alchemist’s Supplies
+### Alchemist’s Supplies
 Having proficiency in Alchemist's Supplies allows you to craft magical potions that hold the power of a spell within them. 
 
 Any character who has access to a spell and the Alchemy ability can craft potions of spells they have the formula of (such as spells scribed in spellbooks). The Alchemist class does not need to spend mana to prepare spells into potions, and have their own spell list for potions. 
@@ -14647,7 +14649,7 @@ If you have neither a caster level nor the Alchemy feature, but have proficiency
 
 You cannot make potions of level higher than 1st level.
 
-##### Brewing Potions
+#### Brewing Potions
 Brewing a potion costs the same resources as casting the spell normally in material components (or mana, if required), and costs crafting materials (which can be either in herbs, harvested materials from monsters, or gold pieces in a settlement that can reasonably have the required materials). 
 ___
 **Prerequisites.** Alchemy requires at least 1 level in a spellcasting class (or 1 level in the Alchemist class) and proficiency in the tools. 
@@ -14672,7 +14674,7 @@ ___
 
 Concentration (partial) spells and channeled spells cannot be made into potions, but sigil spells can be, in which case they are rolled normally (as sigil rolls). 
 
-##### Potion Forms
+#### Potion Forms
 Potions take different forms, such as bombs, medicine pills, lotions, spray bottles, sticks, or amulet-like icons that crumble to release their essence. 
 
 In all such circumstances, they act the same as potions so long as they weigh similarly, can be applied by the same action, and used at touch or thrown range as described above. Note that some abilities allow for quicker use of alchemical items. 
@@ -14704,7 +14706,7 @@ it comes to other alchemical formulae and using potions for the purposes of poti
 
 <div class="classTable wide">
 
-##### Potion Miscibility Chart
+#### Potion Miscibility Chart
 A potion undergoes miscibility when it mixes with another potion. This can occur when a creature drinks more than one potion in the span of 1 hour, mixes two potions in one vial (so they can be consumed by one action), or when they are a creature benefitting from one potion also benefits from a new one. You are not instantly aware of the results of the miscibility until it fully manifests.
 
 | <span>&nbsp;&nbsp;&nbsp;</span>d100<span>&nbsp;&nbsp;&nbsp;</span> | Result |
@@ -14723,7 +14725,7 @@ A potion undergoes miscibility when it mixes with another potion. This can occur
 
 </div>
 
-##### Special Crafting: Cauldrons 
+#### Special Crafting: Cauldrons 
 When choosing to brew or craft a potion, you may choose to instead brew them in larger batches than individual potion doses. This does not risk miscibility, as the potions are not in full form when being brewed.
 
 By doing so, you need a container of reasonable size and appropriate material to brew the potions in. This is not included in Alchemists’ Supplies. 
@@ -14740,7 +14742,678 @@ ___
 
 Special cauldrons and mixing ladles (see Infusion) provide a benefit for crafting in batches. 
 
-##### Special Crafting: Transmuting Materials
+#### Special Crafting: Transmuting Materials
 Alchemist’s Supplies (in conjunction with the power of spells or the Alchemy feature) can be used to transmute materials from one type to another, which requires the transmute material spell. 
 
 Transmuting a mineral requires the original mineral and changes the original material into the target material, effectively going around usual material requirements (but altering size as appropriate). For instance, one can transmute alchemy materials from being fire-based to being water-based (allowing crafting different potions), or change 500 gp worth of iron into 500 gp worth of silver (turning a mound of iron into a silver rock). 
+
+\pagebreakNum
+
+### Engineer’s Tools
+Having proficiency in Engineer’s Tool allows you to craft technological devices. Such devices are non-magical items that are classified into one of four device types, according to general use and design: bombs, firearms, gadgets, and constructs. 
+
+Devices have rarity similar to infused items, which affect its initial traits, powers, malfunction rate (or chance for the device to not function as intended), and cost. A device’s engineering rarity is independent from its infusion rarity (therefore, you can infuse a boomstick, which is a common-quality device with an uncommon-quality +1 infusion to be a +1 boomstick). 
+
+#### Crafting Devices
+Crafting a device costs the resources listed in the Item Creation Complexity and Cost Table (modified per type; such as x10 the price for a use-item like a firearm, or x25 for a creature). This can be paid in crafting materials that are harvested or in gold pieces (or other coin) in a settlement that can reasonably have the required materials. 
+___
+**Creation.** Creating a new technological device has a couple of steps one must follow. 
+
+##### Determine Rarity
+When you choose to create a new device, you must first determine the starting Rarity. This affects the base abilities of the device, such as damage dealt, firearm capacity, maximum spell level replicated, and malfunction rate. You must start from a rarity you can access by your Proficiency Bonus. For example, a medium firearm that Rare in rarity deals 4d6 points of damage on a successful attack, has the capacity of 4 bullets, and a malfunction rate of 1-3. It requires a minimum Proficiency Bonus of 3 (and is thus EP 3).
+
+##### Apply Modifications (optional)
+Technological modifications affect the base abilities of devices, modifying the end rarity. There are many modifications, from the simple Reliable Device (lowers malfunction rating) to the more sophisticated Special Effect (which applies an additional spell effect on the target of the device). Each technological device class has its own modifications. 
+
+For instance, applying the Reliable Device modification to the above firearm lowers its malfunction rate by 2 points, but increases its rarity by 1 step. This can be counterbalanced with the Capacity modification, reducing rarity by 1 step and Capacity by 2 points. 
+
+If modified as such, the firearm remains Rare (or EP 3), deals 4d6 points of piercing damage on a hit, has the capacity of 2 bullets, and a malfunction rate of 1. 
+
+##### Determine End Rarity
+After applying modifications, determine the end rarity, which will affect the final abilities of the device. See the Item Creation Complexity and Cost table under Skills for prices relative to rarity.
+
+In the above example, the end rarity of the device was unchanged (Rare). The firearm has less space for ammunition in the magazine (or could possibly be a double-barreled rifle), but is more reliable. 
+___
+**Malfunction Rate (MR).** Devices can malfunction when used, with the chances of malfunctioning increasing with the complexity of the device. The malfunction rate (MR) is range from 1 (5%) to the invested EP or Rarity rank of the device (5% per point, minimum 10% for Common devices), and represents the chance for the device to malfunction when used.  Whenever you use a technological device, you must roll for a malfunction, which can determine if it works successfully (or if it suffers a mishap if it is already malfunctioning). 
+
+| Rarity | MR (d20) | MR (%) |
+|:-:|:-:|:-:| 
+| Common | 1-2 | 10% | 
+| Uncommon | 1-2 | 10% | 
+| Rare | 1-3 | 15% | 
+| Epic | 1-4 | 20% | 
+| Legendary	| 1-5 | 25% | 
+| Artifact | 1-6 | 30% | 
+
+You may roll a percentile roll or a d20 to check for malfunction (choose one), and if your device already has an attack roll (such as a gadget with a spell attack roll or a firearm), then your attack roll is also your malfunction check. 
+
+If you can roll multiple times (such as making multiple attacks or rolling with advantage or disadvantage), only the first roll is a test for malfunction. At any case, you roll only one malfunction check per round. 
+
+Dedicated tinkers can lower their malfunction rates by certain modifications and by class features (such as by the Knack for It ability). When a device first malfunctions, it does not work as intended. If a malfunctioning device malfunctions again, however, it suffers a mishap instead (See Appendix A for details on malfunctions and mishaps). 
+___
+**Device save DC** = 8 + the designer’s Proficiency Bonus +
+
+the designer’s Intelligence modifier
+<br>
+**Device Save DC (Generic)** = 10 + your Proficiency bonus
+
+(if proficient)
+___
+Generic devices (such as store-bought) treat their creator’s Intelligence modifier as +2. If you are using a firearm or explosive and you don’t have proficiency, do not add your Proficiency Bonus.
+
+##### Using Technological Devices
+Devices can be used automatically if one knows how to use them (point and shoot, press a button, etc.) as an action, unless the device describes otherwise. Using a bomb or firearm is treated like using weapons of the same type, and are martial weapons. 
+
+Any creature proficient with martial weapons can also become proficient with firearms or explosives after one week of training. Not having proficiency with explosives also reduces the Device save DC (see above).
+
+\pagebreakNum
+
+| Device | Complexity | Cost |
+|:-:|:-:|:-:| 
+| Constructs | Very Complex | As CR (see Item Creation Complexity and Cost Table) | 
+| Explosives | Simple | As a consumable of the same rarity | 
+| Firearm | Moderate | As an item of the same rarity | 
+| Gadget | Varies* | As spells (see Item Creation Complexity and Cost Table) | 
+___
+<div>* See Gadgets below.</div>
+
+**Charges and Fuel.** A device’s Charge determines how many fuel units it takes for a single activation (a use for a gadget, attack with a firearm or explosive, or 1 hour of activation for a construct or engine). Charges depend on energy sources. By default, the energy source is mechanical (clockwork, springs, etc.). See Energy Sources below for reference. 
+
+**Technological Modifications.** Technological modifications can further customize technological devices. They cannot be used to access a higher-level spell or a higher-CR creature than what is limited by the creator’s level or Proficiency Bonus. If reducing the EP value of an explosive or firearm when it is Common, it instead removes 2 dice of damage (dealing 1d6 at Common quality). 
+
+**Temporary Add-ons.** In some cases, a device might not need a permanent modification, and can serve as an independent add-on. Barrel adjustment can increase a firearm’s range, for example, and a portable silencer can reduce noise when on a stealth mission. Some modifications cannot be made into add-ons. 
+
+An add-on alters a device without altering the device’s total engineering points (EP) or rarity. Installing an add-on takes 3 actions. If you are proficient with Engineer’s Tools, it costs only 1 action instead. 
+
+You can have one add-on at a device at a given time, and it costs equal to gadget of Common rarity. When a device malfunctions, the add-on suffers the condition as well automatically. 
+
+For instance, the sniper gun has a pre-built silencer modification. Instead of the modification (which can reduce the total damage, capacity, or other base feature), the sniper rifle can benefit from a silencer add-on, if you are willing to run the problem of paying for the malfunction of two devices instead of one. 
+
+#### Creatures (Constructs)
+**Examples. Golems, Robots, Mecha and Vehicles**
+___
+**Using Constructs.** Creatures created by engineering are overwhelmingly constructs. For this purpose, all mention of creatures will refer to constructs instead. Constructs require an Action (Use Object) to activate or deactivate. Once activated, the construct takes 1 minute to begin acting. A construct can be activated faster if modified (such as via a technological modification). If programmed to activate on an uncommon trigger (such as an intrusion or being hit), activation takes only one round instead. 
+
+Constructs act like creatures of the construct type. They obey those who hold control over them (or who drive them, if mecha and vehicles). Constructs have the capacity for ten charges (1 hour of activation per charge), consuming fuel units appropriate to the construct’s size and rarity per hour (see Fuel and Energy sources below). A construct’s properties and charges also depend on its energy source. 
+
+The construct may have a Challenge of equal to the value in the Item Creation Complexity and Cost Table, and may be custom-built from any construct in the Monster Guide. 
+Technological Modifications can modify the rarity for additional customization as well (such as water-proofing, adding movement types, or increased reliability). 
+
+##### Construct Behavior
+Constructs take orders when the user communicates it to them via touching and/or manipulating knobs/controls on them, or otherwise issuing a spoken command when adjacent to them. Constructs may be programmed to behave independently, or when controlled by the user (in the latter case, it is treated as a mount). In the case of independent behavior, commanding the construct requires knowing how the device was programmed (activation codes, hidden command word, etc.) to control it. A construct that is under a character’s control can be deactivated as described above. 
+
+The DC of any ability used by a construct is equal to 8 + the crafter’s proficiency bonus + the crafter’s Intelligence modifier (instead of being based off the construct’s Proficiency and ability scores). 
+
+##### Constructs and Drivers
+Constructs and vehicles may require drivers when controlled from within. It takes a Bonus Action and 5 ft. of movement to enter or leave a construct (besides the Action to start and the warming up time). A driver can control a construct or vehicle directly instead of their own character. When the user performs an Action or moves from within the construct, the Action is performed instead by the construct instead (using the construct’s Proficiency Bonus, Strength score, movement speed, and abilities) instead of that of the pilot’s own, except with ranged attacks, spellcasting, and skill checks (which use the driver’s bonuses, if they wish). 
+For example, a Dwarven siege engine driver can use his action to either shoot the siege engine’s cannons or peer out of the siege engine and shoot their personal rifle (leaving the siege engine without an Action). 
+
+##### Mecha
+A construct that can be entered is usually called a mecha. The mecha cannot be smaller than its user. If the construct is equal in size to the driver, it is called a suit, but otherwise follows the same rules.
+
+A user within a mecha or suit gains ¾ cover versus any attack from outside, but takes 1/4 the damage suffered by the mecha. If the damage cannot harm the mecha and bypasses it (such as psychic damage), it deals full damage to the user if the effect has line of sight and effect. 
+The user does not benefit from any damage or condition resistances or immunities the mecha has, and may be targeted (though the user still benefits from 3/4 cover).
+
+##### Vehicles
+Some siege weapons can’t normally move (and are designated by Push), and others require charges as mecha. Vehicles may deal siege damage or normal damage (declared during creation). Siege damage falls under normal categories of nonmagical slashing/bludgeoning, etc., but if designated as siege attacks, it deals double damage to structures, and half to creatures. 
+
+\pagebreakNum
+
+##### Non-Construct Vehicles and Engines
+A vehicle with no inborn engineering mechanisms that warrant a challenge rating, such as ships or carts, are not considered constructs, but are considered objects instead. These may use the Vehicle Engine device (see below under Vehicles). 
+
+##### Healing Constructs
+Restoring hit points to a construct device is a task of moderate complexity, and restores 1d8 hit points + the character’s Intelligence or Agility modifier. Each instance of fixing a construct consumes 10 gp of engineering materials. 
+
+##### Mounted Weapons on Constructs
+Constructs can be used to mount defensive gadgets, rockets, firearms, and other weapons. These modifications are external (and thus can be stolen, targeted, or sabotaged). The user (or any fellow riders) may make use of these resources as if the item is within reach so long as they are within the construct (such as mounting firearms for an ally to use). A construct can hold heavier weapons (one step above Heavy for each size), but must be immobilized (see Firearms).
+
+Firearms and gadgets on a vehicle or mech still require actions to reload, but if the vehicle has other occupants, they may instead use their actions to reload instead, leaving the shooter free to use the firearm constantly the next round. 
+
+If the driver is concentrating on a gadget with a Duration of Concentration, the construct can perform the concentration instead so long as the driver is within the device. 
+
+<div class="classTable wide">
+
+##### Construct Modifications
+**Coated Interior (1 EP).** When activating a construct and being seated inside it (such as a mech or vehicle), the pilot gains 1d10 + 3 temporary hit points. This applies only to attacks that stem from outside the mech, and does not apply to arcane, holy, fel, shadow, or psychic damage. For each points of CR of the construct above 1, the bonus increases by another 5 temporary hit points. Once the pilot gains this bonus, he cannot gain it again until completing a short rest. 
+___
+**Efficient Fuel (1 EP).** The construct consumes one-quarter less fuel units than is normally required for a single charge.
+___
+**Quick Startup (1 EP).** The construct takes one round to activate. If the construct is activated on condition or contingency, it activates instantly instead (and is quick enough to allow it to use its reaction).
+___
+**Golem (+0, special)** This modification changes the construct to no longer require fuel for its engine of choice, but obeys controller near-magically. The golem is immune to any spell or Effect that would alter its form. When finished, the golem is fully inert unless it is also infused (as per the infusion skill), with a matrix of one step less rarity (and cost) to the golem's own rarity). If the rarity is Common, the cost is half that of an infusion of the same rarity.
+___
+**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested. This modification also does not increase the malfunction rating.
+___
+**Special Movement (1 EP).** You modify the construct to swim, climb, or fly (choose one per modification, minimum rarity of Epic for flight). See below the speeds granted.
+
+| Proficiency | Speed (choose one speed type) |
+|:-:|:-:|
+| +2 | - |
+| +3 | 15 | 
+| +4 | 30 (Fly 15) | 
+| +5 | 60 (fly 30) | 
+| +6 | 90 (fly 60) |
+___
+The engineer may reduce the existing land speed by 5 feet to add it to special movement, up to a minimum land speed of 0 feet. Fly requires a minimum rarity of Epic if it was not a base feature of the construct. | 
+
+</div>
+
+*Note.* Constructs have their own air supply if designed for air or underwater (or if specified so). This increases the cost of crafting by 10%, but allows enough breathable air 4 hours for a number of creatures equal to the construct’s size (double capacity per size modifier).
+
+For example, a Large submarine can hold enough air to allow a Large creature 4 hours of breath. If hosting a medium creature, it holds enough air for two medium creatures. If driven by one creature, it remains for 8 hours instead. 
+
+\pagebreakNum
+
+#### Explosives
+**Examples. The Big One, hand grenades, goblin land mines, siege rockets, siege breaching charge**
+___
+**Using Explosives.** Explosives can be used as an attack action, with the effect reliant on the form the explosive takes. An explosive can be thrown as a ranged weapon (if a bomb or rocket, see below) as a weapon attack, or target an area without a specific target. They affect a 10-ft.-radius sphere, and call for an Agility saving throw to halve the damage dealt. An explosive weighs 1 lbs. per EP invested (2 lb. for Common, 6 lb. for Artifact, etc.)
+___
+**Bomb (or grenade).** Bombs are thrown as light thrown weapons with a range of 30/60 feet. They deal no damage on impact, but explode when their fuse determines it (at the end of the user’s turn, usually, see fuses below). A bomb that is thrown beyond optimal range provides advantage to saving throws to half damage. If you target a creature with the bomb as a ranged weapon attack and succeed on the attack roll, they do not get to roll to halve damage, and suffer the full damage. The creatures in the blast radius are still entitled saving throws as normal. If throwing a bomb on a target, the attack roll is the malfunction roll test, otherwise you must roll for malfunction as a separate d20 roll.
+___
+**Mine.** Mines are explosive traps that explode when stepped on (unless modified with a fuse). A mine can be detected with a successful Spirit (Perception) check and disarmed with a successful Agility (Thieves’ Tools) check against the Device save DC, and is treated as a trap. The mine must pass a successful malfunction roll test. 
+___
+**Rocket.** Rockets are light ranged projectile weapons with a range of 60/120 feet that soar to the point of impact and then explode instantaneously. They deal no damage on impact, but explode when their fuse determines it (or upon impact, whichever applies). If modified with a fuse, the rocket instead embeds itself in the targeted area and explodes when the fuse determines it. A rocket that is launched beyond optimal range provides advantage to saving throws to half damage. If you target a creature with the rocket and succeed on the attack roll, they do not get to roll to halve damage, and suffer the full damage. The creatures in the blast radius are still entitled saving throws as normal. 
+
+When a rocket reaches its maximum range, it explodes regardless of whether it reached its target or not. If it misses its target, however, it continues along the path without guidance, usually exploding at some other point (such as at the maximum range or upon impact with a wall). If launching a rocket on a target, the attack roll is the malfunction roll test, otherwise you must roll for malfunction as a separate d20 roll.
+
+If an explosive of any type explodes near another one, they both set off, and the damage stacks (up to triple the highest amount of damage dice, and tripling the average area of effect, to no limit in area). 
+
+Explosives deal dice in damage depending on their base Engineering Point investment (based on rarity), see the Item Creation Complexity and Cost Table.
+
+If you do not suffer disadvantage to range attacks from long distance, you do not suffer penalty for throwing bombs and rockets (such as by the sharpshooter feat, or by negating disadvantage to attack by having advantage or another feature). 
+___
+**Explosives and Ammunition.** Ammunition such as arrows, crossbow bolts, or even bullets can be modified for explosives. This can represent anything from firearm explosive shells to a primitive attempt to tie a rocket to an arrow with a loose bit of string. When using ammunition explosives, your ranged attack roll is resolved with disadvantage on the attack due to the ammunition’s weight. If you treat this as a strike effect and spend a bonus action, you can ignore the disadvantage on attacks. 
+
+If the attack with the ammunition effect is a direct attack (attack roll), the explosion takes place on the target’s space (follow the rules for fuses if they apply). If the attack has a saving throw, the primary target is not entitled a saving throw against the explosion radius (unlike the creatures in its area of effect). 
+
+A piece of ammunition that has an explosive is treated as infused ammunition (see infused ammunition in Chapter 5), and cannot be infused. 
+
+If an ammunition explosive misses, draw a line from yourself to the target. If the line stops at a creature that is one size category larger than the target (minimum Large) or cover (such as a wall or tree), the attack is resolved as if it hit. If the target is a creature, compare the attack roll versus the creature’s AC, otherwise it continues until it reaches the end of the maximum range of the weapon, and explodes at that point. 
+___
+**Plant Explosives.** Besides thrown, set, or launched, an explosive can be planted on targets with an Agility (Sleight of Hand) check contested to Spirit (Perception). The Sleight of Hand check is made with disadvantage if the fuse is instantaneous. 
+If the planting goes unnoticed, the target suffers disadvantage to their saving throw against the explosive when it detonates. 
+___
+**Explosives Size.** Explosives can be increased in size (to become equivalent to creature-sized). Assume normal explosives are Tiny-sized, and calculate each step to increase the damage dice as follows.
+___
+**Dice Progression**
+| | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| d6 | d8 | d10  |2d6  |3d6  | 4d6 (and so on) |
+| Medium | Large | Huge | Gargantuan | - | - |
+
+Tiny explosives include hand grenades, rockets, or normal mines. Small explosives include rocket stands, large mines. Medium explosives include explosive totems, a mounted rocket, or an anti-vehicle mine. 
+
+If increased in size, all rolls to use bombs and rockets have disadvantage if the one using them does not use a specialized device (such as a rocket stand, mortar, or mine-launcher). Anything larger than the first size increase (or Bomb+/Mine+/Rocket+) must be deployed through other means (such as being planted into walls, thrown by catapults, used by an equal-sized construct, dropped off zeppelins, or by a dedicated vehicle to serve as a rocket-stand). 
+
+Increasing size also multiplies the final crafting cost and weight by 2 per size category (x2 if Small, x3 if Medium, etc.). 
+
+Furthermore, each size category increase also applies the Widened Explosion modification for no cost. 
+___
+**Explosive Fuses.** Depending on the fuse of an explosive, they can explode on various times from being triggered (usually at the end of its user’s turn). 
+
+\pagebreakNum
+
+**Instantaneous fuse.** The explosive explodes at the end of its user’s turn.
+___
+**Delayed fuse.** The explosive explodes after 1d4 rounds, starting at the end of the user’s turn.
+___
+**Long fuse.** The explosive explodes after one minute.
+___
+A character may also make fuses that are predesigned to explode after a specific number of rounds (determined at the time of crafting). Changing a fuse costs a bonus action and access to Engineer’s Tools. 
+
+Fuses can modify explosives in other forms as well as in bomb form, such as a mine exploding a few minutes after being stepped over (that would collapse a cave’s mouth after a minute of an intruder enters), or a rocket head that would scatter defenders, only to explode after they return to manning their posts (secure in the belief that the rocket malfunctioned). 
+
+<div class="classTable wide">
+
+##### Explosive Modifications
+**Careful Explosion (1 EP).** The explosive’s (any type) damage can be controlled. It can exclude a number of 5-foot squares equal to double the EP invested + your intelligence modifier, and can be designated by the user when the bomb explodes.
+___
+**Earth (1 or 0 EP, rockets only).** The rocket is outfitted with fast-moving drills, and can be launched to drill into the earth and explode under the target. If you have a remote keyed to the rocket, you can direct it to attack a target. If the target is standing on the ground, you have a +2 bonus to attack rolls to attack the target. If the target is aware and uses a reaction to jump, the bonus is negated (and the attack is made normally). This can cost no modification instead, and only work in the earth. 
+___
+**Firework (1 EP).** The explosive (any type) releases a sharp whistle and a ringing blast. A creature who fails their saving throw against this explosive must also roll a Stamina saving throw. Upon a failed save, roll 1d4 to see the effect.
+
+| Roll | Result | 
+| 1 | Target is blinded for 1 minute | 
+| 2	| Target is deafened for 1 minute | 
+| 3	| Target is blinded and deafened for 3 rounds | 
+| 4	| Target loses their reaction for until the end of your turn in the next round |
+___
+**Focused (-1 EP).** The explosive (any type) explosive radius halves per engineering point applied to the modification (5-foot square for explosives not modified by size). This modification is applied after all increases.
+___
+**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested. This can be applied in reverse, creating a more unreliable device (to benefit more from Superfunction).
+___
+**Sapper (0 EP).** The explosive (any type) deals double damage to structures, but half to creatures (constructs are creatures for this purpose). 
+___
+**Solid Coating (1 EP).** The explosive has a solid coating. If a rocket or bomb, the explosive deals 1d8 extra bludgeoning, piercing, or slashing damage on impact. This is added to the explosive’s own damage, but only when targeting a creature’s AC (see Using Explosives above). This damage scales with the size of the device (as appropriate). Furthermore, the explosive does not explode prematurely from being damaged or mishandled, and only explodes as a result of malfunction, contact (if in mine form), sabotage, reaching maximum distance (if in rocket form), being launched (such as from a siege weapon cannon), or activation by the fuse (whichever applies).
+___
+**Special Effect (special).** The explosive (any type) may manifest a cantrip (or a spell of level equal to half the engineering points spent, round down). The cantrip is treated as if the caster is of a level equal to double the EP invested. If it is a direct effect, it targets creatures on the 5-foot space the bomb was tossed only, or the cantrip’s normal area and targets (whichever is less). If this is an area of effect, it takes place in its original spell area or in the area of effect of the bomb (whichever is smaller). The target may attempt a saving throw against the Device save DC to negate the effects (unless the spell already called for a saving throw).
+___
+**Water (1 or 0 EP).** The explosive is waterproofed, and can be used both underwater and in air-less environments regardless of fuel type. This can cost no modification instead, and only work underwater.
+___
+**Weakened (-1 EP).** The device deals 1 less dice of damage. This is applied before accounting for size changes to damage dice.
+___
+**Widened Explosion (1 EP).** The explosive (any type) explosive radius doubles. This can be applied multiple times. 
+
+</div>
+
+Note. Explosives cannot have add-ons. 
+
+\pagebreakNum
+
+#### Firearms
+**Examples. Heavy and medium rifles, boomstick, siege cannons, sniper rifles.**
+Using Firearms. Firearms are ranged ammunition weapons. They come in light, medium, and heavy varieties. 
+
+The more complex firearms are, the more damage they inflict, dealing a number of damage dice depending on their base rarity (see the Item Creation Complexity and Cost Table). The damage dice and range of the weapon depend on the firearm’s size:
+___
+**Light.** d4 damage/dice, range 100/400 ft., and the firearm has the light and finesse properties, and weighs 5 lbs.
+___
+**Medium.** d6 damage/dice, range 150/600, and the firearm weighs 10 lbs. 
+___
+**Heavy.** d8 damage/dice, range 200/800. The firearm has the heavy and two-handed properties, and weighs 15 lbs. 
+___
+By default, bullets deal piercing damage, but the ammunition type can allow a firearm to deal other types (as described under Chapter 5). Attaching a bayonet to a firearm allows you to make melee attacks with it. Attacking with a firearm without a bayonet allows you to deal only its base damage with an attack roll (1d8 with a heavy firearm), but you do not add your proficiency bonus to the attack. 
+
+##### Firearm Capacity
+Despite requiring ammunition, firearms do not have the loading or ammunition weapon properties. Firearms (and specially modified crossbows) instead have the capacity weapon property. Capacity determines the number of attacks the firearm or crossbow can make before you must use an Action to reload. A firearm has capacity equal to 1 bullet per rarity grade (2 at Common rarity). Certain technological modifications can vastly influence bullet capacity (+3 or -3 per step), allowing for more (or less) attacks before you must reload. Some features use multiple bullets when used (such as scattershot or automatic shot), requiring a good capacity. 
+
+As a technological device, firearms also require fuel per shot. When using gunpowder, firearms are very efficient, costing only 2 ounces (1/8th a pound) for a single shot, regardless of rarity. 
+
+For example, a Common medium firearm deals 2d6 points of damage on a successful attack, and has a capacity of 2 bullets; while a Legendary light firearm deals 6d4 instead and has a capacity of 5 instead. 
+
+##### Crossbows
+Crossbows are similar to firearms in potential. Normal crossbows do not count as technological devices, however, unless they are modified by one with proficiency in Engineer’s Tools. 
+
+Despite crossbows allowing only a single attack and using mechanical (clockwork) engines, they can be modified from their base rarity. Their base statistics are below (starting with 1 dice of damage). 
+___
+**Light (originally Hand Crossbow).** 1d6 damage, range 30/120 ft., and the crossbow has the light and loading properties, costs 75 gp, and weighs 3 lbs. 
+___
+**Medium (originally Light Crossbow).** 1d8 damage, range 80/320 ft., and the crossbow has the loading and two-hand properties, costs 25 gp, and weighs 5 lbs.
+___
+**Heavy (originally Heavy Crossbow).** 1d10 damage, range 100/400 ft., and the crossbow has the heavy, loading, and two-handed properties, costs 50 gp, and weighs 18 lbs. 
+___
+By modifying crossbows, you can alter the number of damage dice the crossbow deals, its capacity (such as by adding a reload function), range, and other technological modifications. Choosing to do so, however, alters the crossbow too far from the original (efficient) designs, changing the components so much that you must treat them as technological devices in terms of cost as well. 
+
+Crossbows start with 1 capacity (1 bolt) and 1 dice of damage at Common rarity (or 1 dice and 1 capacity below firearms). 
+
+If upgraded, crossbows gain the following traits:
+
+They lose the Loading property, and gain the mechanical (clockwork) engine. Instead of the normal requirements to load a mechanical engine, a crossbow requires an action to reload. If you have the Crossbow Expert feat, you can reload as a Bonus Action. Otherwise, treat crossbows as firearms for the purposes of reloading. 
+
+The crossbow deals damage 1 dice less than firearms of the same rarity. For example, where a Legendary heavy firearm deals 6d8 damage, a Legendary heavy crossbow deals 5d10 instead. 
+
+The crossbow gains 1 less Capacity than firearms of the same rarity, and can be modified with the Capacity modification (adding 2 extra bolt capacity per step).
+
+They gain the chance to malfunction. The malfunction rate is 1 point less than firearms of the same rarity (minimum 1).
+
+Crossbows retain their common ammunition type, silence, and capability for underwater use. 
+
+##### Special Attack: Touch-Blast Strike
+When making a melee attack with a firearm ready (such as fighting with a saber and then shooting, or stabbing with a bayonet and then firing), you may declare a touch-blast strike. In this case, you may use a bonus action to shoot the firearm, and you do not take disadvantage from shooting in melee. If the melee attack already successfully hit the target, the firearm attack is furthermore made with advantage. This is a special strike effect. 
+
+##### Firearm/Crossbow Sizes
+Firearms and crossbows can be increased in size from being useable by Medium creatures (to become equivalent to creature-sized or larger). This increases the damage and range of such weapons, at the expense of cost, reload/capacity, and weight. 
+___
+**Damage**
+Assume normal weapons are Tiny-sized, and calculate each step to increase the damage dice as follows.
+___
+**Dice Progression**
+| | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| d4 | d6 | d8 | d10 | 2d6 | 3d6 | +d6/step |
+___
+**Range**
+The range of firearms increases by 50/200 feet per step. 
+___
+**Capacity.** The capacity of firearms is reduced by 1 per step (minimum 1) starting from Heavy. If modified with the scattershot or automatic fire modifications, it always has enough ammunition to make a single attack before requiring reload. For each missing capacity point, however, it requires another action to reload.
+
+\pagebreakNum
+
+___
+**Cost.** Increasing the size multiplies the crafting cost by 2 per step starting from Heavy.
+___
+**Reload/Capacity.** For each step above Heavy, the device requires two additional actions to reload. If you can use a bonus action to reload (such as a being a sufficiently-trained gunner Tinker), you may use your action and bonus action to reload at an accelerated rate. 
+___
+**Weight.** Increasing the size multiplies the firearm’s weight by 6 per step (starting at 15 lbs. for heavy, 90 lbs. for Heavy+, 540 lbs. for Heavy++, 3,240 lbs. for Heavy+++, etc.). All rolls to attack with Heavy+ (and heavier) firearms and crossbows have disadvantage if the one making the roll does not use a stand (such as nailing it down or having it mounted). 
+
+If mounted on a vehicle or creature (such as a steam tank, mech, or simple wheels), the vehicle must be grounded. Grounding a mount requires its full movement (reducing its movement to 0), and makes its movement 0 for until the start of the user’s turn in the next round (on which the user can move normally). 
+___
+For example, the Common medium boomstick has the following statistics: 
+* 2d6 damage, 10 lbs., 2 capacity, range 150/600 feet 
+
+___
+It can be improved one step to heavy, changing as follows:
+* 2d8 damage, 15 lbs., 2 capacity, range 200/800 feet
+___
+Increasing its size two further steps increases its creature-equivalent size from Tiny-equivalent to Medium (or Heavy++). A human or orc-sized firearm would likely be considered to be a 6-pounder cannon, and would have the following statistics:
+* 4d6 damage, 540 lbs., 1 capacity, range 400/1,600 feet
+___
+The 6 pounder cannon requires 3 actions to reload instead of one, and costs 3 times as much as a normal heavy firearm.
+
+<div class="classTable wide">
+
+##### Firearm Modifications
+**Automatic Fire (1 EP).** The firearm deals area damage in a line instead of a direct attack. This is treated as an area attack in a 5-foot wide line with length equal to half the firearm’s initial range. Creatures in the area can attempt an Agility saving throw against the Device save DC to halve the damage. When used this way, not having proficiency reduces the Device save DC. The firearm uses three pieces of ammunition when making an attack. You can make a normal or area attack with a firearm, but not both, in a given round.
+___
+**Capacity (+/- 1 EP).** The firearm alters its current ammo capacity by 3 points per EP modified. This can be made into an add-on (as a clip or magazine).
+___
+**Blaster (+0 EP).** The firearm’s range is quartered, but whenever it successfully hits an enemy, you may choose one of two special effects: 
+* You may deal one additional dice of damage of the firearm’s type.
+* You may push the target up to 5 feet per Rarity of the firearm (up to a maximum of 30 feet away from you). 
+___
+*Special.* If applied to a weapon that has the automatic fire or scattershot modifications, the firearm’s range is not reduced, but the extra effect only applies to the area attacks, and only then if the target is within half the initial range (instead of reducing the current range). 
+___
+**Extended Reload (-1 EP).** This device has a less efficient reload mechanism. This requires 1 extra action to reload. This can be made into an add-on, but only to reduce the final rarity of another modification.
+___
+**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested (minimum 0). This modification also does not increase the malfunction rating for modified EP, and thus lowers the chance of a Superfunction as well. 
+___
+**Scattershot (1 EP).** The firearm can deal damage in a cone instead of a direct attack. This is treated as an area attack in a cone with a length of one-tenth the firearm’s initial range. Creatures in the area can attempt an Agility saving throw against the Device save DC to halve the damage. The firearm uses two pieces of ammunition when making an attack. You can make a normal or area attack with a firearm, but not both, in a given round. 
+___
+**Silenced (1 EP).** The firearm’s sound is muffled, and imposes no penalty to the user’s Stealth check when used. This can be made into an add-on.
+___
+**Sniper (1 EP).** The firearm’s range doubles. This can be made into an add-on.
+___
+**Shortened (-1 EP).** The firearm’s range is halved. This can be made into an add-on, but only to reduce the final rarity of another modification.
+___
+**Water (1 EP).** The firearm is waterproofed, and can function in water normally as well as in air-less environments regardless of engine. This reduces the firearm’s range by quarter, however. This can be made into an add-on.
+___
+**Weakened (-1 EP).** The device deals 1 less base dice of damage. This is applied before accounting for size changes to damage dice. 
+
+</div>
+
+\pagebreakNum
+
+A firearm can also be modified with a bayonet (see Chapter 5). Some firearms come with special bayonet replacements, usually described in their entry. 
+
+##### Modified Ammunition
+Ammunition can be modified as well. Modified ammunition includes buck shot (blaster), distance shot (sniper), chain shot (automatic fire), spread shots (scattershot modification), underwater shot (water modification), etc. Some modifications cannot be made into bullets, such as silenced (as the firearm is what makes the noise), subject to DM adjudication.
+
+Modified ammunition costs as much as a consumable with an EP value of 1 per point; hence an underwater scatter shot costs as much as an EP 2 consumable. A malfunction when using modified ammunition counts as if the firearm malfunctioned.
+	
+\pagebreakNum
+
+#### Gadgets
+**Examples. Mind remote, rocket boots, pulley gun, rocket launcher, and atomizer**
+
+##### Using Gadgets
+These technological devices act like items that replicate spells. Using a gadget takes the same action it takes to cast the spell. 
+
+A gadget may replicate spell levels appropriate to its rarity (see the Item Creation Complexity and Cost Table). The rarer the gadget, the higher level spells it can replicate (or the better modifications it has). 
+
+Casting a spell through a gadget is not counted as a real spell, and thus is not subject to effects dependent on magic type, schools, and can be used against creatures that are immune to or resistant to magic. 
+
+##### Crafting Complexity
+Depending on rarity, the gadget has varying degrees of complexity in crafting. 
+
+| Gadget Rarity | Crafting Complexity | 
+|:-:|:-:|
+| Common | Very Simple | 
+| Uncommon | Simple | 
+| Rare | Moderate | 
+| Epic | Complex | 
+| Legendary | Highly Complex |
+| Artifact | Highly Complex |	
+
+##### Gadget Fuel
+Gadgets consume fuel upon being used (see fuel and energy sources below) commensurate with its rarity.
+
+Gadgets have the capacity for ten charges (1 use per charge), consuming fuel units appropriate to the gadget’s rarity per use (see Fuel and Energy sources below). When a device is too small to reasonably carry its fuel capacity (such as a light gadget that works with coal), you must attach the device to a fuel unit, which can be carried as a backpack). 
+___
+**Fuel Charge of Gadgets** = 1 fuel unit (if Common) or 2 fuel units (per rarity above Common) 
+___
+For instance, a Rare (+3) gadget (such as the Buzz Box) consumes 6 fuel units for a single charge (2 fuel x rarity of 3). Its maximum charge capacity is 60.
+
+This is similar to the fuel consumption of constructs.
+
+##### Gadget Cooldown
+After being used, a gadget must cool down for 1 minute before it can be used again. Devices begin their cooldown from the end of the device’s duration. 
+
+If the gadget replicates spell levels from 4-6, the device’s cooldown is 8 hours instead of 1 minute. 
+
+If the gadget replicates spell levels from 7-9, the cooldown is 1 day instead of 8 hours. A gadgeteer can lessen these restrictions. 
+
+##### Concentration Spells
+Gadgets that replicate spells with a Duration of Concentration must be manipulated constantly to keep the benefit (treat as if concentrating). It also requires the same check to maintain concentration. You must therefore be holding the device and focusing on continuing operation normally. 
+
+A device can be manipulated with a touch (does not require an action) to end its effect early (as if ceasing to concentrate). 
+
+If you are in a construct like a mech or a vehicle and the gadget is mounted to it, you may allow the construct to maintain concentration instead (allowing you to activate another gadget and concentrate on it instead). If either the construct or you are attacked, however, a concentration check is required for both devices. 
+
+##### Gadget Sizes
+Gadgets come in three possible sizes; Light (useable one-handed, finesse, and weigh 5 lbs.), Medium (useable one-handed, 10 lbs.), and Heavy (useable two-handed, 15 lbs.). 
+
+By default, a gadget is Light in size (and is easily concealed), and is further modified by the spell it replicates and other variables. 
+
+##### Magic School
+The following magic schools render the gadget one step heavier: Conjuration, Evocation, Necromancy, and Transmutation.
+
+##### Modifications
+The gadget can gain one modification worth 1 EP. If already Heavy, the weight of the gadget becomes 75 lbs., and cannot be used if you moved in the same round. Furthermore, using it reduces your speed when used to 0.
+
+If the spell replicated by the gadget has a range or target of self or personal, or grants or affects movement speed (such as the fly, haste, or feather fall spells), the gadget must also be worn on a harness. A single harness can hold one gadget (which can be replaced with an Action). One cannot wear a harness and armor heavier than Light Armor at the same time, but an armor of that size (Light) can be modified to also be a harness. 
+
+If a spell is a touch spell that may also target other creatures, creating it as a harness increases the spell’s duration by 25% instead. 
+
+##### Special Gadgets: Trap Gadgets
+Trap gadgets are priced as ‘consumable’ gadgets (despite the fact that they are not consumed on use). They trigger once the trap requirements are met (such as coming within 10 feet of them, touching the trap, triggering a remote gadget, or coming within sight if modified with the alarm gadget). A trap gadget triggers a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. The Spirit (Perception) DC to find the device, as well as the Agility (Thieves’ Tools) DC to disable the device is equal to the device’s DC. 
+
+If the spell used in the device has a DC, refer to the Device save DC below. If it has an attack, refer to the Device attack modifier instead.
+___
+**Device save DC** = 8 + the designer’s proficiency bonus +
+
+the designer’s Intelligence modifier
+___
+**Device attack modifier** = 4 + the designer’s proficiency bonus +
+
+the designer’s Intelligence modifier
+
+\pagebreakNum
+
+##### Special Gadgets: Strike Gadgets
+Gadgets that replicate strike (including shot) effects consume less power. Each fuel charge for such devices costs only one-quarter the normal fuel units for a single use. 
+
+If the gadget is for a strike effect, the gadget also includes the weapon to which the gadget is linked. For instance, the swipe and shred spell formed into a gadget may be linked to a shortsword (creating a buzz saw), or a greataxe (creating a chainsaw axe). A hit with the strike gadget can activate the swipe and shred spell as a strike effect (and bonus action). 
+
+With such a device, you may make four attacks for a single charge the device’s rarity and size would normally require. A strike gadget adds +2 lb. to a weapon’s mass, and are sometimes called ‘cores’. 
+
+A strike gadget can be prepared to be a trap gadget. For instance, the strike gadget can be prepared as a trap to strike if a creature comes within 10 feet of the device. 
+
+<div class="classTable wide">
+
+##### Gadget Modifications
+**Focused Device (1 EP).** You have advantage to any check to maintain concentration on this gadget. 
+___
+**Long Cooldown (-1 EP).** The gadget requires an hour to cool down instead of the normal duration. This cannot be used with quick use.
+___
+**Low Charge (-1 EP).** The gadget can contain only fuel enough for three Charges, not ten. If taken again, it has enough fuel for 1 charge only. If hooked up to a backup fuel tank, it instead consumes three times the normal units for a single charge.
+___
+**Quick Use (1 EP).** The gadget’s cooldown is 1d4 rounds instead of 1 minute. If applied twice, the gadget can be used again at the end of your turn in the next round. If applied to a device with a longer cooldown, it is reduced to 1 hour if it was 8 hours cooldown, and 8 hours if its cooldown was 1 day. 
+___
+**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested. This modification also does not increase the malfunction rating. 
+___
+**Small (1 EP).** The gadget is one size smaller (from medium to light, or heavy to medium), weighs appropriately, and its Malfunction Rate is reduced by 1 point. This does not affect fuel consumption, only mobility, carry capacity and ability to hide it. 
+
+</div>
+
+#### Vehicles and Vehicle Engines
+Vehicles that move without their own power (such as being pushed or dragged by muscle or wind) are not constructs at all, and are treated as normal vehicles in the Dungeon Master’s Guide. Siege weapons that are not attached to constructs must also be driven this way. 
+
+Vehicle engines are special technological devices that repeatedly perform a simple task, such as turning gears, raising and lowering levers, and other tasks that an unskilled laborer can perform. They are often used as the driving force behind vehicles such as boats and airships, allowing them to move without relying on muscle (oars), or current (water or wind current) at their normal speed. 
+___
+*Special.* An engine cannot be used to provide more mechanical fuel units than the fuel units that are spent on its operation. 
+
+Engines have rarity and size, which allow it to move vehicles that are not battle-construct or mech. For example, an engine can move a steamship or airship, but not a siege engine (which is a construct). Constructs and mechs consume fuel appropriate for size and rarity, like engines, but do not require crew members to man (unlike constructs, which require one driver for all tasks). An engine cannot cover more than 75% of the required crew members in a vehicle.
+
+Engines have 1 less malfunction rating compared to other devices of the same rarity, and consume fuel on an hourly basis. 
+
+The complexity of an engine is equal to that of a gadget of the same rarity. 
+
+##### Engine Rarity and Size
+Rarity affects the effective number of unskilled laborers or crew members the engine replaces, and size acts as a multiplier to the number of unskilled laborers. The engine consumes fuel appropriate to the rarity and size together. 
+
+| Rarity | Fuel per Hour | Unskilled laborers/Crew Members | 
+|:-:|:-:|:-:|
+| Common | 1/4 | 1 | 
+| Uncommon | 1 | 5 | 
+| Rare | 2 | 15 | 
+| Epic | 3 | 30 | 
+| Legendary | 4 | 90 | 
+| Artifact | 5 | 270 | 
+___
+Engine sizes start at Medium size (x1), and increase in size category similar to creatures (x2 for total laborers at large), x3 at huge, etc.). 
+
+With each size category of the engine above Medium, the total number of unskilled laborers double (x2 for large, x3 for huge, x4 for gargantuan), and with it the fuel cost.
+
+##### Engine Fuel
+Engine fuel can also be used to activate gadgets on board of the vehicle (treat as a backup fuel tank). Devices that use the vehicle’s engine fuel increase their malfunction rating by 1 point if the engine types are different. 
+
+You may spend 1 EP (improving its rarity and cost) to specifically enhance an engine's fuel consumption, reducing its fuel by 75% per step (round down), like the efficient fuel gadget modification. 
+
+\pagebreakNum
+
+For example, a Huge (x3) Uncommon (1 base fuel) engine provides 15 laborers (size category of 3 times the base laborers of 5), enough to cover 75% of the crew members for a zeppelin (crew 20). Such engine costs 3 pints of oil per hour (1 base; x3 modifier), or 3 vials of phlogiston every 5 hours. If Rare in quality, it would be more efficient, having the same total labor crew but use only 1 vials of oil per hour, or 1 vial of phlogiston per 5 hours. 
+
+A Large (x2) Rare (2 base fuel) can perform the work of 30 unskilled laborers, enough to cover 50% of the crew size of a juggernaut for 4 (2 base, x2 modifier) vials of phlogiston per hour (or 16 pounds of coal per hour). If increased to very rare for fuel consumption it consumes only 1 vial (or 4 pound of coal per hour). 
+
+Examples of vehicles (with engines) are in chapter 8 (Vehicles).
+
+#### Fuel and Energy Sources
+All devices require fuel at the start of their operation, or the beginning of an hour of activity (whichever applies). The device engine (see below) determines the type of fuel, and the cost of refueling. How much fuel units are consumed by a single fuel charge depends on two factors:
+___
+**Rarity.** Higher-rarity devices require more fuel.
+___
+**Size.** Larger devices require more fuel, but are usually stronger or more reliable.
+___
+**Fuel Charge** = 1 fuel unit (if Common) or 2 fuel units
+
+(per rarity above Common) + 4 fuel units per size above
+
+Medium (+0 at Medium)
+___
+For instance, a Common suit of Gnomish Combat Armor is Medium. It costs 1 fuel units per charge (1 due to Common rarity + 0 due to Medium size), while a Rare Huge Crowd Pummeler consumes 12 fuel units per charge (4 due to Rare rarity + 8 due to Huge size). Depending on the engine type, this might require clockwork, coal, mana, electricity, or even soul power. 
+
+Gadgets always act as if they are Medium sized (no size modifier). 
+
+##### Fuel scales as follows
+For Common rarity, the device’s fuel charge is 1 fuel unit.
+
+For every step of rarity above Common, the device’s fuel charge is 2 fuel units. 
+
+For every size above Medium, the device consumes 4 more fuel units for a single charge. The size of Small consumes half as less charges as Medium, down to ¼ the normal charges if Tiny (round down).
+
+Devices have enough capacity for fuel units as appropriate to their type; Gadgets and Creatures can have up to 10 charges and consumables only require 1 fuel charge. Firearms and crossbows can have enough fuel for their Capacity, but have different fueling systems (see the appropriate entry above). 
+
+A construct and gadget can always have separate fuel containers, which expand its capacity to what it can hold (see Container Capacity in Chapter 5 of the Player’s Handbook). 
+
+##### Fuel Units for Constructs
+| Rarity | Tiny | Small | Medium | Large | Huge | Gargantuan | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Common | 1/4 | 1/2 | 1 | 4 | 8 | 16 | 
+| Uncommon | 1/2 | 1 | 2 | 6 | 10 | 18 | 
+| Rare | 1 | 2 | 4 | 8 | 12 | 20 | 
+| Epic | 1 | 3 | 6 | 10 | 14 | 22 | 
+| Legendary | 2 | 4 | 8 | 12 | 16 | 24 | 
+| Artifact | 2 | 5 | 10 | 14 | 18 | 26 | 
+
+##### Device Engine and Schools
+A device’s energy source determines how often it can recharge, how it malfunctions, and various other traits. If making a new device, the energy source is adjudicated between the player and DM, such as a DM allowing alchemical, combustion, and mechanical engines for firearms (alchemical fire-spitters, regular firearms, and augmented crossbows, respectively) but banning necromantic engines for the same task (if the technology hasn’t reached that level, or the tinker would have not yet conceivably known of the secrets of that energy source). 
+
+For example, using a gadget to cast the mana burn spell is possible by using the arcane or alchemical engines, but not if combustion, mechanical, or steam engines. 
+
+| Engine | School | 
+|:-:|:-:|
+| Alchemy | These engines replicate all the spells on the Alchemist's spell list, as well as any ones that fit its theme of affecting objects and support effects. | 
+| Combustion | These engines replicate Evocation spells | 
+| Electric | These engines replicate Evocation spells, and most movement-affecting spells | 
+| Mana | These engines can replicate most spells with ‘mana’ in their name, as well as all spells from a single spell list (chosen when the engine is determined) | 
+| Mechanical | These engines replicate some Evocation and Illusion spells | 
+| Soul | Spells from the divination, conjuration, enchantment, and necromancy spells are replicated by soul engines | 
+
+As an example, a mana engine built for a priest (such as Draenei crystalline technologies) may store holy power and release blasts of light, while a mana engine built for a warlock (such as Burning Legion technologies) can instead unleash bolts of fel power. 
+
+The only devices that can replicate healing spells are with the alchemy, electric, mana, and soul engines.
+
+##### Alchemical Engine (Potions)
+The device is powered by alchemical powers. A single potion can provide fuel units according to the below table. An alchemical engine cannot use temporary potions (such as those made by the Inurement Alchemist feature).
+
+\pagebreakNum
+
+| Rarity | Fuel Units | 
+|:-:|:-:|
+| Common | 10 | 
+| Uncommon | 25 | 
+| Rare | 50 | 
+| Epic | 75 | 
+| Legendary | 100 | 
+
+Excess fuel units are wasted beyond the units needed for 10 charges. If the excess fuel exceeds double the maximum capacity of the device, the device instead gains a Superfunction (see the Tinker feature of the same name). If two different potions are mixed inside the tank, roll for miscibility as normal (the DM is to adjudicate the results appropriately). 
+
+##### Combustion (Oil/Gas/Powder)
+The device is powered by combustion of various fuels to provide a burst of energy. So long as fuel remains in the tank, the device can function. A single pint of gas or oil, or a pound of gunpowder can grant 1 fuel unit. A vial of phlogiston provides 5 fuel units. 
+
+For the purposes of energy sources, firearms and explosives use combustion, but use two ounces of gunpowder instead. You do not have to pay an additional cost with bombs, but must supply gunpowder and bullets (or pellets) for firearms. A device with the combustion engine gives as much sound as an explosive when it is used (usually muffled if inside a construct). Developed settlements familiar with firearms usually sell bullets and pellets already pre-packaged with gunpowder (increasing the cost of a bullet). 
+___
+*Special.* Gunpowder is extremely efficient when it comes to firearms and explosives; a single fuel charge of a medium firearm or a single explosive consumes 2 ounces of gunpowder (or 1/8th a pound). This applies for light, medium, and heavy firearms of all rarities. When created for larger sizes, such as gnome-sized explosives, or cannons and ballistae (larger-than-normal firearms and crossbows, respectively), account for the changes appropriately (referring to the chart above). 
+
+##### Electricity (Batteries)
+The device is powered by electrical energies. A single battery costs 50 gold, weighs one pound, and can store up to 5 fuel units. Batteries are tiny items coated with iron and made up of various materials. 
+
+A battery can be charged by lightning spells (in which case recharging it acts as a mana engine). For this purpose, the lightning spell’s base mana cost is transferred into charges for the device (before calculating reductions). If struck by lightning or a hazard that deals lightning damage that is not a spell, the device regains charges equal to one-tenth the damage the effect dealt. Granting an electrical engine more charges than its capacity automatically causes a malfunction. 
+
+##### Mana Engine (Mana)
+The device is powered by a combination of mana-focusing lenses and raw energies, and stores raw mana. 1 mana point provides 1 fuel unit. 
+
+A spellcaster who is keyed to the device and is of the appropriate spellcasting class or mana type can charge the device with their mana. 
+
+Mana can be invested by linking a caster’s mana-flow to the device as an Action, which begins feeding off their own mana reserves, refueling the device, effectively draining mana points until the caster cuts off the connection. Cutting off a connection does not require an action. 
+
+After charging a device, the caster’s own mana circulation is corrupted, and requires a Stamina saving throw against a DC of 20. On a failed check, the character suffers the distracted condition until they complete a long rest, with a distraction DC of 20. 
+
+A device cannot feed off the mana signatures of two different spellcasters, and must expend all its mana first. Each mana engine is keyed to a certain mana type (such as that of the Mage, Priest, or Warlock) which determines which mana types the device requires. 
+
+##### Mechanical (Clockwork/Springs)
+The device is powered by springs, gears, and clockwork mechanisms. 1 fuel unit is gained by winding the mechanism designated in the device or creature. It takes 1 hour of winding a device to grant it 1 mechanical fuel unit. If you are proficient with Engineer’s Tools or Tinker’s Tools, it takes 10 minutes instead, and grants 3 units. 
+
+If the device loses hit points and isn’t a construct, or isn’t used for 7 days, it loses 10% its maximum fuel units (minimum 1 unit).
+
+An exception is using mechanical engines for crossbows (modified firearms). Charging such devices adds the [reload] property to the device instead. Larger crossbows (ballistae) require an Action to reload (plus an additional Action per size above medium-sized), and no longer require proficiency to wind. 
+___
+*Special.* Explosives can be created using mechanical engines, but they deal only a type of physical damage (choose from Bludgeoning, Piercing, or Slashing), and deal the damage in d4 instead of d6. If a rocket, it has half the normal range. 
+
+##### Variant Mechanical: Chaos Energy 
+Chaos energy is highly dangerous; some believe it actually is equivalent to arcane magic, although it can be harnessed by tinkers. Thought at first to be magical, as it can sometimes mimic the effects of arcane magic, chaos energy is purely mechanical in nature. Chaos energy is generated through the use of devices called chaos generators. A small box contains magnets, several differing kinds of metal, a bit of steam energy and a tiny golden core that vibrates at a high frequency when powered. Political maneuverings by wizards in Theramore have caused the ruling body to declare chaos generators unlawful, but the goblins and some gnomes still manage to research and develop new uses for chaos energy. The Horde hasn't outlawed the usage yet, as it is not arcane magic, but they are suspicious of it because of the similarities.
+
+##### Soul (Spirits or Necromancy)
+This engine is powered by soul-magic. This can be keyed to any creature type except constructs (humanoids, beasts, undead, elementals, etc.) Once keyed, the soul engine requires a source of spirit power, or it can harvest spirit power as it functions. 
+
+\pagebreakNum
+
+**Spirit Power Source.** A spirit engine is usually powered by a spirit entrapped within by the essence seal spell (usually in the form of a soul gem). The soul engine gains 2 fuel units per Challenge Rating point of the spirit entrapped within (minimum 1 fuel unit at CR ½). Multiple creatures can be sealed together to fuel one device (counting the total Challenge Rating to determine the maximum Charges), subject to the same maximum fuel capacity.
+
+At the end of a long rest (or 24 hours) of its last use, the entrapped spirits regain part of their power, restoring a number of fuel units to the device equal to one-quarter their total Challenge Rating(s).
+
+For example, five creature of CR 3 are entrapped with the essence seal spell is used as fuel for a Meat Wagon, providing 30 fuel units (enough to keep it functioning for 5 straight hours). After 24 hours of its last use, it regains 7 fuel units. 
+___
+**Spirit Power Reap.** If the device defeats or reduces the Hit Points of a creature of the same creature type as its engine (such as a flamethrower fueled by elemental spirits vaporizing a CR 4 water elemental), it regains a number of fuel units equal to half the target’s Challenge Rating (or 2). 
+
+Gaining excess fuel above the device’s limit from defeating creatures has a 10% chance of causing a malfunction to the devices. 
+
+The maximum number of fuel units the engine can store is equal to the Charges required for 10 uses of the device. 
+
+Most soul engines without a bound creature have a backup engine (usually mechanical or electricity). This has fuel enough for one charge.
+___
+*Special.* Having multiple souls with conflicting interests may cause the device to malfunction if used against at least two souls’ wish two opposite courses of action. 
+
+Trapped spirits also often try to call upon creatures that can aid them, and typically pledge aid or reward for being released (though they are under no compulsion to actually fulfill their promise). Such spirits can also intercept attempts at Calling (see Chapter 10: Spellcasting) to be heard by psychically or spiritually-sensitive individuals, sometimes even offering them information of their master’s weaknesses. This often happens with elemental spirits, often calling to shamans who meditate nearby.
+
+##### Steam (Coal)
+The device is powered by steam-power. 4 pounds of coal yield 1 fuel unit. 
+
+A steam-powered device requires a small furnace (either within it, as a mecha or construct, or outside it if a gadget). 
+
+##### Exterior Fuel Containers
+It is possible to hook a device using mana or electrical engines to fuel containers or outlets, such as wiring an electric jumper cable to a giant battery, or a mana device to a mana fountain, or even a waterwheel or windmill for mechanical devices. 
+
+In this case, the item gains 5 fuel units per hour of being hooked up. Overcharging beyond maximum capacity might cause a malfunction if not attended to. 
