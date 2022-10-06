@@ -15417,3 +15417,267 @@ A steam-powered device requires a small furnace (either within it, as a mecha or
 It is possible to hook a device using mana or electrical engines to fuel containers or outlets, such as wiring an electric jumper cable to a giant battery, or a mana device to a mana fountain, or even a waterwheel or windmill for mechanical devices. 
 
 In this case, the item gains 5 fuel units per hour of being hooked up. Overcharging beyond maximum capacity might cause a malfunction if not attended to. 
+
+\pagebreakNum
+
+### Infusion Kit
+The infusion skill allows for the infusion, diffusion, and manipulation of magical items via infusion dust. A magical item, when created, requires investing crafting: Infusion Dust (ID) to reach a level of rarity (from Common, Uncommon, Rare, Epic, Legendary, or Artifact).
+___
+**Prerequisites.** Infusion requires at least 4 caster levels and an Intelligence of 15 or higher to become proficient with. You can use the Infusionist feat to gain proficiency with the Infusion Kit. 
+
+| Infusion | Complexity | 
+|:-:|:-:|
+| Common | Very Simple | 
+| Uncommon | Simple | 
+| Rare | Moderate | 
+| Epic | Complex | 
+| Legendary | Highly Complex | 
+| Artifact | Highly Complex | 
+___
+An infusionist requires the formula for an infusion matrix, which can be discovered, rewarded, or found. Infusing an item costs the CP for an item of its complexity. If it is a consumable (such as a scroll), its cost is reduced as described above. Sometimes, infusion matrices are found in spellbooks. 
+#### Greater Attunement Items
+Some items are known as ‘greater attunement’ items. These draw their power from the strength of their wielders, usually either due to requiring specific strength to unlock further powers, or by tying their own power with that of their wielder (see the below table). A character may only have one greater attuned item at any given time.
+
+When not attuned to any creature, they appear as uncommon quality, but their true potential for power can be sensed by any who identify them. 
+
+Crafting a greater attunement item can be done at Uncommon rarity, but require upgrading the rarity (and the associated price) as normal. If already accessing the highest rarity step (as appropriate for character level), creating a greater attunement item costs as the highest-level rarity. For monsters, use its Challenge Rating instead of character level. 
+
+| Character Level | Item Rarity | Effect | 
+|:-:|:-:|:-:|
+| 1st | Uncommon | Item becomes a +1 weapon | 
+| 3rd |	Uncommon | Item becomes magical (if a weapon) |
+| 5th | Rare | Item becomes a +2 weapon or +1 armor |
+| 11th | Epic | Item becomes a +3 weapon or +2 armor |
+| 17th | Legendary | Item becomes a +3 armor |
+___
+Some greater attunement items have other effects on rarity instead of gaining a bonus to attack and damage rolls or AC.
+
+#### Conditional Rarity
+If crafting a greater attunement weapon and adding conditions for its improvement in rarity, the total cost of the item is reduced by 15%. This is subject to joint player-DM approval. 
+
+#### Golems
+Golems can be created in conjunction with engineering. This requires a construct crafted with the golem modification, and is inert until suffused with the infusion skill. The matrix's rarity is relative to the creature's own.
+
+For example, a harvester golem costs an additional 4,000 gp in infusion materials, but improves their mental ability scores and allows the device to function forever without fuel.
+
+#### Runeblades
+A death knight's runeblade rarity automatically increases with his level. Upon reaching 5th level, the blade becomes uncommon in quality, rare at level 10, etc. Upon reaching 20th level, the runeblade may reach Legendary quality if the Lich King allows it. Typically, the Lich King will elevate only one runeblade to legendary quality, with the chosen Death Knight being his champion until the blade is destroyed or the Death Knight disappoints him. 
+
+#### Custom Infused Items
+Using infusion, you can craft custom infused items by mixing infusion matrices and enchanting normally-mundane items into masterpieces of work. First you must determine the base rarity of the infused item, and then add features to determine its ultimate rarity. 
+
+##### Base Rarity
+This depends on the material. Most materials have a base rarity of common (no modification), but uncommon materials (such as adamantite or arcanite) have special features to account for their increased cost. 
+___
+**Adamantite or Arcanite (Uncommon).** Objects made of adamantite or arcanite have an AC of 23, are immune to nonmagical weapon damage and are resistant to arcane damage, and have 30 hit points. If a weapon, it deals double damage to objects. If an armor, any critical hit you suffer while wearing it turns into a normal hit. Arcanite can be created by transmuting thorium and paying 50 gp in fire crystal materials for each pound of thorium, and casting the transmute material spell. Arcanite has the deep infusion for no cost.
+___
+**Bloodstone (Uncommon).** Objects made of bloodstone reflect the dim red of mortals, despite holding fel blood within, and are immune to fel damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, Bloodstone weapons and armor suppress fel addiction. Furthermore, you reduce the cost of all fel or unholy infusions by reducing 75% of the item's crafting cost. 
+___
+**Dark Iron (Uncommon).** Objects made of dark iron have an AC of 18, are resistant to nonmagical weapon damage, and have 20 hit points. If a weapon, it deals double damage to objects. They also have the deep infusion for no cost.
+___
+**Brightwood (Uncommon).** Objects made of Brightwood acts as steel or wood, whichever is best suited for the occasion; it does not rust nor conduct electricity as normal steel, and it does not easily burn nor rot as normal wood, and can hold an edge. Brightwood also naturally regrows; so long as it is in a temperate and relatively humid area, objects made of Brightwood regain 1 hit point every minute. 
+
+\pagebreakNum
+
+**Elementium (Rare).** Has traits of Arcanite, and is also resistant to all elemental damage (acid, cold, fire, and lightning). Furthermore, weapons and armor made of elementium reduce the cost of all elemental infusions by reducing 75% off the item's crafting cost. An Elementium weapon or armor also either gains the Elemental Damage feature for no cost (choose the damage type) or the Attuned Resistance feature for no cost. Finally, it has 1 additional spell use or 2 charges (if infused with the Spell or Charged Infusion features, if the spells are elemental in nature).
+___
+**Fel Iron (Uncommon).** Objects made of this mineral shed a fel glow in a radius of 10 feet, are immune to holy damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, fel iron weapons and armor sate fel addiction. Furthermore, you reduce the cost of all fel or unholy infusions by reducing 75% of the item's crafting cost. 
+___
+**Iron or Steel (Common)**
+___
+**Lightforged Iron (Uncommon).** Objects made of this mineral shed regular light in a radius of 10 feet, are immune to shadow damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, Lightforged weapons and armor suppress fel addiction. Furthermore, you reduce the cost of all light or holy infusions by reducing 75% of the item's crafting cost. 
+___
+**Mithril (Uncommon).** Objects made of mithral have half the weight of iron or steel but is just as hard, and does not rust, corrode, or tarnish. If a weapon, it is counted as if silver. If an armor, it can be worn under normal clothes if it is light or medium. If the armor normally imposes disadvantage on Agility (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't. If the item has a Deep Infusion, the final crafting cost of the item is reduced by 75%. 
+___
+**Saronite (Rare).** Objects made of Saronite have an AC of 25 and 40 hit points, and are naturally magical. Objects made of Saronite are also immune to nonmagical weapons, resistant to magical weapon damage, and shadow, fel and lightning damage. When suffering holy or arcane damage, the object takes damage normally, and also deals half of the damage it took in a 15-foot area sphere centered on it (Spirit saving throw DC 15 to negate). Saronite is strong but brittle, and takes full damage from critical hits. Prolonged exposure to Saronite counts as a test of sanity (see Alternate Madness under Chapter 8). Saronite objects also have the deep infusion for no cost.
+___
+**Thorium (Uncommon).** Objects made of thorium have an AC of 20 and have 25 hit points, and are resistant to nonmagical weapon damage and arcane damage. They also have the deep infusion for no cost.
+___
+**Truesilver (Rare).** Has the traits of both Mithril and Thorium. A Truesilver weapon or armor gains a Deep Infusion for no cost (increasing its bonus to Attack and Damage rolls, or the AC gained by +1), and has 1 additional spell use or 2 charges (if infused with the spell or charged infusion features).
+
+<div class="classTable wide">
+
+##### Inscribed Features
+**Ability Enhancement (+1 step, requires attunement, any).** When attuned to this item, it increases two ability scores by 1 each, to a maximum of 20. You can never benefit from two ability enhancement infusions. Ability enhancements are usually named and recognized in-universe by a creature-related suffix (such as Longsword of the Tiger or Bracers or the Dragon; see the below chart)
+
+| Roll | Suffix | Strength | Agility | Stamina | Intelligence | Spirit | Charisma |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Tiger | ✓ | ✓ | - | - | - | - | 		
+| 2 | Bear | ✓ | - | ✓ | - | - | - | 
+| 3 | Gorilla | ✓ | - | - | ✓ | - | - | 
+| 4 | Boar | ✓ | - | - | - | ✓ | - | 
+| 5 | Dragon | ✓ | - | - | - | - | ✓ | 
+| 6 | Monkey | - | ✓ | ✓ | - | - | - | 
+| 7 | Falcon | - | ✓ | - | ✓ | - | - | 
+| 8 | Wolf | - | ✓ | - | - | ✓ | - | 
+| 9 | Badger | - | ✓ | - | - | - | ✓ | 
+| 10 | Eagle | - | - | ✓ | ✓ | - | - | 
+| 11 | Whale | - | - | ✓ | - | ✓ | - | 
+| 12 | Orca | - | - | ✓ | - | - | ✓ | 
+| 13 | Owl | - | - | - | ✓ | ✓ | - | 
+| 14 | Crow | - | - | - | ✓ | - | ✓ | 
+| 15 | Cat | - | - | - | - | ✓ | ✓ | 
+| 16-20 | Reroll and try again | 
+
+</div>
+
+\pagebreakNum
+
+**Attuned Resistance (+1 step, requires attunement, Armor only).** For one step, you may gain resistance to a chosen elemental or magic damage type for 1 hour when wearing this armor (chosen when choosing this feature). For two steps, the resistance is permanent. 
+___
+**Charged Infusion (+1 step, Any).** You can charge an item with inner power, allowing it to gain multiple spells and abilities, spending charges to fuel them. When making a charged infusion, the item’s base rarity changes to reflect the rarity in the below chart. If the base item was an unusual material (such as mithril), add one step to the final rarity of the item per rarity above Common of the base material. 
+
+When creating a charged infusion, you may choose spells and abilities to store in your weapon, which expend charges upon being used. You must be able to cast these spells. At the start of every dawn or dusk (your choice upon infusion), the item regains charges as appropriate to its rarity. You use your spell save DC and attack bonus for the ability DCs, or otherwise use the specified DCs. 
+
+| Rarity (DC) | Spell levels | Max. charges (charges regained) | 
+|:-:|:-:|:-:| 
+| Common (12) | 3 | 5 (1d4) | 
+| Uncommon (13) | 5 | 10 (1d6) | 
+| Rare (14) | 7 | 10 (1d8 + 2) | 
+| Epic (15) | 10 | 10 (1d8 + 4) | 
+| Legendary (16) | 13 | 15 (1d8 + 4) | 
+| Artifact (17) | 16 | 20 (2d8 + 4) | 
+
+Each spell consumes 1 charge per spell level, and can be heightened to the maximum spell level appropriate for its rarity (see above). You can also inscribe cantrips (which cost ½ a spell level), but you cannot store a spell level without storing one at least two levels below it (for instance, storing a 6th level spell requires at least one 4th level spell, and one 2nd level spell). Once accessing a certain desired spell level, you can sacrifice access to lower spell levels and bind the item to the highest-level spell, refunds half the total spell levels of this infusion (in the above example, storing a 6th level spell costs 6 + 4 + 2 total spell levels, equivalent to 12 at Legendary rarity. Choosing to bind the 6th level spell counts the total spell levels spent as 6 instead of 12). This cannot reduce rarity below that appropriate to the original spell level before the refund (Legendary in this case). 
+
+If you expend the last charge on an inscribed item, roll 1d20. On a 1, the item is destroyed in a way appropriate to the type of the spells stored in it (becoming a mundane stick or twisted sword, melting, turning to ash, or disintegrating in display of power). If the item can only be destroyed in a specific way, it instead becomes inert until it is reinvigorated. The DM decides the method of invigoration, but it is usually similar in time and cost to the process of creation. 
+
+You may imbue an inscribed item with a special quality instead of adding spells. Each special quality can be purchased by spending spell levels as if they were inscribed. 
+___
+**Aligned Infusion (2 spell levels per sub-school or archetype suite, or 4 for one magic school).** Choose one school of magic, or a sub-class of spell. You can channel mana from your surroundings as a bonus action before casting this spell, reducing the mana cost of spells of that type by one less mana point (minimum 1). You may choose evocation as a school or magic, for example, or choose fire, cold, or lightning spells, and spend a bonus action to reduce the mana cost of the spell by 1. You must use the item as the focus for this spell, and it becomes a spell focus for you. 
+___
+**Enhanced Infusion (2 spell levels).** The weapon becomes a magical one. If the rarity is uncommon, it has a +1 bonus to attack and damage (3 spell levels). If the rarity is rare, it has a +2 bonus (4 spell levels). If the rarity is epic, it has a +3 bonus (5 spell levels). This cannot be taken when the Deep Infusion feature is taken. 
+___
+**Guiding Infusion (1 spell level, requires Enhanced Infusion).** You may add the item’s bonus damage on attack and damage rolls to spell attack rolls. 
+___
+**Insightful Infusion (1 spell level).** If you notice an illusion spell, you can attempt Intelligence (Investigation) checks without spending an action, but only once per turn. This must be at least one illusion spell stored in the item.
+___
+**Mana Storing (special).** The item can store a number of mana points equal to the maximum spell level it can store. Drawing from this pool does not cost an action, but it counts against the normal 1 hour limit of mana restoration effects. There must be at least one transmutation spell stored in the item. This special quality costs one-quarter of the number of spell levels of the item (round up). 
+___
+**Reflective Infusion (1 spell level).** If you succeed on a save against a spell that targets only you, with or without the item's intervention, you can use your reaction to expend 1 charge from the item and turn the spell back on its caster as if you had cast the spell. There must be at least three abjuration spells stored in the item.
+___
+**Resistant Infusion (2 spell levels)**. You gain resistance to one elemental damage type while holding the item. This cannot be taken when the Attuned Resistance feature is taken.
+___
+**Smiting Infusion (4 spell levels).** When you hit with a melee attack using the item, you can expend up charges (up to the maximum spell level the weapon can store). For each charge you expend, the target takes an extra ld6 points of damage. The bonus damage is arcane. The item must be a staff or club (of any kind). 
+___
+**Soothing Infusion (1 spell level).** If you fail a saving throw against an enchantment spell that targets only you, you can turn a failed save into a successful one. This must be at least one enchantment spell stored in the item.
+___
+**Warding Infusion (2 spell levels, requires enhanced infusion).** You may add the item’s bonus damage on attack and damage rolls to your to Armor Class and saving throws. There must be at least one abjuration spell stored in the item. The item must be a staff or club.
+
+This infusion is usually chosen for staves. A DM may allow a spellcaster to gain the proficiency in infusion tools and the recipe for the purposes of making a single personalized inscribed staff (as inspiration, see Chapter 4). 
+
+\pagebreakNum
+
+**Crusader (+1 step, Weapon only).** You enhance a melee weapon to invigorate a combatant. On a critical hit, a weapon infused with the Crusader infusion allows the user to spend 1 Hit Dice to heal themselves, and have the inner fire spell cast on them. This triggers on critical hits that are a result of natural roll (such a natural 20), and not from conditions that turn a successful attack into a critical hit (such as attacking a dying opponent).
+___
+**Deep Infusion (+1 step, Weapon, Shield, or Armor only).** For each step of rarity, add +1 to your Attack and Damage rolls with a weapon, or +1 to AC with an armor or shield, and the item is considered magical. This can be taken multiple times (each time adding +1 to a maximum of +3).
+___
+**Elemental Damage (Flame, Freeze, Lightning, Corrosion; Weapon only).** For each step, add 1d6 points of fire, cold, lightning, or acid (choose one) damage on a hit (maximum 3d6 with three levels). You can choose multiple elements, including two opposing ones. 
+___
+**Health Infusion  (+1 step, Armor only).** This armor is infused with protective warding enchantments. So long as you are wearing this armor (and attuned to it, if it requires attunement), you gain a +5 bonus to your maximum hit points. This can increase rarity multiple steps, each adding 5 extra hit points (maximum +25 hit points at Artifact rarity).
+___
+**Magical Damage (Radiant, Demonic, Death, Mystic; Weapon only).** For each step, add 1d4 points of holy, fel, shadow, or arcane (choose one) damage on a hit (maximum 3d4 with three levels). You can choose multiple magic damages, including two opposing ones. 
+___
+**Protection Ward (+1 step, Wonderous Item only).** This wondrous item (any item of clothing) is infused with wards of protection and resilience. So long as you are attuned to and are wearing this item, you gain a +1 bonus to AC and to all Saving Throws. You can be attuned to only one instance of Protection Ward. This infusion replaces the Cloak of Protection and the Ring of Protection wonderous items.
+___
+**Ricochet Infusion (+1 step, Weapon only).** This infusion can be placed only on a melee or thrown weapon. If it does not normally have the thrown property, it becomes a thrown weapon 20/60 ft. When you make a ranged thrown attack with this weapon, it flies out and targets another creature within 30 feet from the original target, counting its current target as its point of attack for the purposes of range. This does not require successfully striking the first target, but does require an attack action for each target. When the weapon cannot make any more attacks (such as you running out of attack actions), it returns to your hand at the end of your turn in the same round. You can make an attack with a bonus weapon as if using two-weapon fighting if the weapon normally qualifies. The weapon can ricochet up to a maximum number of times equal to 1 per its end rarity (once if Uncommon, five times if Artifact, etc.), so long as you have the attacks to expend. Night elven priestesses of Elune often grant a Ricochet-infused weapon (usually a moonglaive) to huntresses who have served well and protected the lands of Ashenvale and the Priesthood of Elune. 
+___
+**Spell (+1 step, Any).** You imbue a single spell per rarity rank in the item, which can be invoked to cast the spell. The spell’s level is dependent on its quality (see the Item Creation Complexity and Cost Table). You can increase the number of lower-level spells cast by 3 if you sacrifice the spell one rank higher than it. 
+
+For instance, a Legendary rarity item can cast 1 spell of level 7-8, 1 of levels 5-6, 1 of levels 3-4, and 1 of levels 1-2, or it can cast 4 of level 5-6, and 4 of levels 1-2. 
+___
+**Storm Infusion (+1 step, Weapon only).** This weapon deals +1 extra thunder damage per step of the weapon’s end rarity (+1 for Uncommon, +5 for Artifact). Furthermore, when thrown, the storm weapon returns at the same round, and may be used again with another attack action. Wildhammer shamans often grant their gryphon riders a Storm-infused weapon (usually a warhammer) upon proving their quality and protecting Aerie Peak. 
+___
+**Weapon Resistance (adds attunement; +2 steps, Armor only).** You gain resistance to nonmagical damage while wearing this armor. You can use an action to make yourself immune to nonmagical damage for 1 minute. If taken again, this increases the immunity’s duration to 3 minutes (at 3 steps), again to 10 minutes (at 4 steps), and again to 1 hour (at 5 steps).
+
+##### Single-Use Enhancements
+Temporary enhancements to weapons or ammunition can also be infused to contain a strike or shot effect if it is prepared specifically to hold it with an Infusion Kit. As this is infused with the ammunition itself, using it does not require a bonus action (but cannot be joined with another shot spell). 
+
+Ammunition are treated as both consumables and ammunition (enchanting 20 pieces of ammunition costs one-half the normal cost of the same quality). Despite the names below, ammunition infusions can be used interchangeably between ammunition such as arrows, crossbow bolts, bullets, and more. Ammunition infusions fade after a successful hit, and can be reused if they missed. 
+
+For the purposes of spellcasting ability rolls for strike effects, treat the bonus as +4. 
+
+Single use enhancements may be also stored into stones or gems, which can be sold by themselves, and used to confer the enchantment to a single weapon (or 20 pieces of ammunition) with an action. Once this is done, the weapon is enchanted for a single use, and the stone or gemstone loses the enchantment. 
+
+| Name | Rarity/EP | Spell (Spell Level) | 
+|:-:|:-:|:-:|
+| Arcane | Uncommon | Shot Array (Arcane); or 1d4 arcane damage, dispel magic (1st level) | 
+| Black | Rare | Shot Array (Black); or 3d4 shadow damage, conjure undead I | 
+| Fire | Uncommon | Shot Array (Searing); or 1d6 fire damage | 
+| Sleep | Uncommon | Shot Array (Tranquilizing); or 5d8 hit points of sleep | 
+
+##### Item Naming
+An item 
+Item names have three steps: Lesser, Greater, and Superior
+For example, an axe made of elementium with three steps of elemental damage (fire) is called an Axe of Superior Flame, or a Superior Elementium Axe of Fire, and deals 3d6 extra points of fire damage on a hit. 
+
+\pagebreakNum
+
+| Roll | Weapon | Armor | Wonderous Item |
+|:-:|:-:|:-:|:-:|
+| 1 | Ability Enhancement | Ability Enhancement | Ability Enhancement |
+| 2	| Crusader | Attuned Resistance | - |
+| 3 | Charged Infusion | Charged Infusion | Charged Infusion |
+| 4 | Deep Infusion | Deep Infusion | - |
+| 6 | Elemental Damage | - |
+| 7 | Health Infusion | - |
+| 8 | Magical Damage | - |
+| 9 | Protection Ward | Protection Ward |
+| 10 | Ricochet Infusion | Weapon Resistance |
+| 11 | Spell Infusion | - |
+| 12 | Storm Infusion | - |
+
+* Upon gaining a scaling infusion and having remaining infusion steps (marked by *), roll a d20. On a result of 5 or lower, increase the step of 
+
+For Uncommon-quality, roll once. Artifact rolls five times. 
+
+| | | 
+|:-:|:-:| 
+| 1 | Ability Enhancement | 
+| 2 | Attuned Resistance |
+| 3 | Charged Infusion |
+| 4 | Crusader |
+| 5 | Deep Infusion |
+| 6 | Elemental Damage |
+| 7 | Health-Enhancement |
+| 8 | Magical Damage |
+| 9 | Protection Ward | 
+| 10 | Ricochet Infusion | 
+| 11 | Spell | 
+| 12 | Storm Infusion | 
+| 13 | Weapon Resistance | 
+
+### Poisoner’s Kit
+A character proficient with a poisoner’s kit may gain immunity to any disease or poison they know how to create by subjecting themselves to it and surviving the ordeal. This requires three instances of surviving the poison or the disease, and no more than three times over the course of a year. A poison or disease must be recovered from naturally to count towards immunity. 
+
+| | 
+|:-:|:-:| 
+| Rarity | Complexity | 
+| Common | Very Simple | 
+| Uncommon | Simple | 
+| Rare | Moderate | 
+| Epic | Complex | 
+| Legendary | Highly Complex | 
+| Artifact | Highly Complex | 
+
+#### Using Poisons
+Applying poisons is a Use Object action if they are not used as weapons. If applied to a weapon, poisons retain potency for one minute or until used. Poisons are applicable to up to three hits. A creature multiple times with a single poison suffers disadvantage to the saving throw of the poison. 
+
+Depending on the vector of the poison, it takes different shapes. 
+___
+**Contact.** Applying poisons to a door handle delivers contact poisons, and costs an action. 
+___
+**Ingested.** Applying poisons to a bowl or cooked meal delivers ingested poisons. If diluting a dose (such as putting a dose in a cooking pot or a well), the DC is reduced by 4, but a single dose affects 4 targets.
+___
+**Inhaled.** Cracking eggshells made of pottery or porcelain delivers inhaled poisons (treat as potions in regards to range, with a 10-foot radius cloud), and are treated as improvised weapons.
+___
+**Injury.** Applying poisons to the tip of an arrow or within a syringe delivers injury poisons.
+___
+The default DC of each poison is 13, although proficient users have DCs as follows:
+___
+**Poison Saving Throw DC** = 8 + your Proficiency Bonus +
+
+your Intelligence Modifier
+___
+Crafting poisons requires proficiency in a poisoner’s kit and materials. Poisons can be crafted using alchemical crafting materials of the same components, or ingredients of the same cost (such as coming across 100 gp worth of a lesser demon’s blood, or 200 gp worth of deathweed). Their cost is that of a consumable under the appropriate rarity (see the Item Creation Complexity and Cost Table).
+
