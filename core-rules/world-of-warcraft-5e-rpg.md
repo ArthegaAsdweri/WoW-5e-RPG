@@ -15991,4 +15991,92 @@ The goblin zeppelin has one engine (huge sized uncommon) which counts as 15 crew
 ##### Juggernaut
 The juggernaut has one engine (large-sized size rare) that counts as 30 crew members (costs 15,000 gp), leaving the ship requiring only 30 crew members. Without the engine, the juggernaut acts as a normal warship, and loses 1½ a mile of speed, and 50 tons of cargo. 
 
+\pagebreakNum
+
+# Chapter 9: Combat
+
+## Actions in Combat
+
+### Attack
+When using an action to make an attack, some abilities (such as the Extra Attack feature or Haste) allow multiple attacks. In this case, each attack is considered a single ‘attack action’. 
+
+This conversion also makes use of several effects that affect combat, such as strike and stance effects. The character must choose to use their bonus action to fight (with an off-hand weapon or cast a spell or use an item) or to use a strike effect if they have one. 
+
+### Strikes and Shots
+These are abilities or spells that consume a bonus action to execute and grant an additional effect on the first successful attack (or a number of successful attacks, depending on the description).
+
+When using a strike effect, the use of a bonus action prevents using two-weapon fighting and use of off-hand natural attacks. Any character using a strike or shot effect can declare whether or not to use them for each attack action, or to withhold the effect until before the end of the duration. Shot spells are strike spells, but are restricted to ranged weapons. 
+
+For instance, a 9th level hunter can use a bonus action to cast the shot array: black arrow spell. The spell enchants 6 arrows, and allows them to deal 3d4 extra fel damage (with the ability to animate a target killed by the arrow). He may replace any normal arrow with a black arrow, until the arrows end or the enchantment fades after 1 minute. 
+
+### Stances
+These are abilities or spells that usually restrict the character’s movement, but grant the bonus so long as they are conscious and acting. They usually require an action or a bonus action to enter (depending on the description). Some stances require moving less than half a character’s maximum speed, while others require constant movement. A character can only benefit of one stance at a given time. 
+
+### Tether
+A character can tether another using rope, chain, or another mechanism to restrain its range of movement, without having to restrain the character (such as by a spell or using grappling). 
+
+If tethering two creatures, one side can perform the shove action, but instead of pushing away, the creature moves closer on a successful check. The creatures moves the same distance as they would if they were shoved normally. 
+
+If a character uses a grappling hook, they can tether a target reliably with a successful ranged attack roll, and then use their action the next round to pull them closer. 
+
+## Damage and Healing 
+Effects that deal holy damage and can heal the living give the option for the spellcaster to either heal or deal damage. The same goes for effects that deal shadow damage and heal (though it can only heal the undead or demons). These spells have the [healing] descriptor, or otherwise only harm. 
+
+For example, the holy light spell is a [healing] spell that can deal holy damage. If targeting a living being, the caster can choose to make it heal them instead. Death coil is also a [healing], though it can only heal the undead and demons, while dealing shadow damage at the will of the caster to other creatures. 
+
+### Damage Types
+Different attacks, damaging spells, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types. The damage types follow, with examples to help a DM assign a damage type to a new effect.
+___
+**Arcane.** Arcane is pure magical energy focused into a damaging form. Most effects that deal arcane damage are spells, including magic missile and spiritual weapon. Effects that used to deal force damage deal arcane damage instead.
+___
+**Concussive.** Concussive damage is half bludgeoning, half thunder. Most effects that deal concussive damage as fueled by explosives.
+___
+**Holy.** Holy is a form of divine power focused to harm or heal (if it also has the healing descriptor), such as a paladin’s crusader strike or a holy light spell. Most effects that deal holy damage are fueled by divine beings. Effects that used to deal radiant damage deal holy damage instead.
+___
+**Shadow.** Shadow is the polar opposite of the holy light, and can also be used to harm or heal different creature types, such as a death knight’s runic strike or death coil. Most effects that deal shadow damage are fueled by dark beings such as void lords. Effects that used to deal necrotic damage deal shadow damage instead.
+___
+**Fel.** Fel damage is a semi-sentient form of magic that suffuses and corrupts living beings, and are usually spells, such as a warlock’s orb of annihilation or a fiend’s explosive death. Most effects that deal fel damage are fueled by fiends or the lords of the Burning Legion. Effects that used to deal necrotic damage and were of a demonic source deal fel damage instead.
+
+### Damage Class 
+Often times, certain abilities describe damage classes.
+___
+**Physical damage** includes bludgeoning, piercing, slashing
+___
+**Elemental damage** includes acid, cold, fire, and lightning. 
+___
+**Magic damage** includes arcane, holy, shadow, thunder, and fel.
+___
+Some damage effects deal one-half one damage and one-half another, such as concussive damage. In this case, divide the damage into its component halves before applying resistances.
+
+## Optional Rules
+The following optional rules are of particular suit to the Warcraft setting. These are from other sourcebooks, reproduced below for convenience. 
+
+\pagebreakNum
+
+### Absorb Knockdown
+In many cases, a creature might appear to be more resistant to being knocked prone by certain abilities. A tauren using a warstomp to knock a human footman is more easily visualized than using it to knock down a crypt lord or a giant salamander (who is not only larger than the creature creating the effect, but also has their center of mass in a different area).
+
+In these cases (where mass, weight or leverage), you may consider substituting the described saving throw (usually Agility) with Strength, with further advantageous circumstances also reflecting with advantage to the saving throw. 
+
+### Cleaving Through Creatures
+**Source: Dungeon Master’s Guide, page 272**
+___
+If your player characters regularly fight hordes of lower level monsters, consider using this optional rule to help speed up such fights.
+
+When a melee attack reduces an undamaged creature to 0 hit points, any excess damage from that attack might carry over to another creature nearby. The attacker targets another creature within reach and, if the original attack roll can hit it, applies any remaining damage to it. If that creature was undamaged and is likewise reduced to 0 hit points, repeat this process, carrying over the remaining damage until there are no valid targets, or until the damage carried over fails to reduce an undamaged creature to 0 hit points.
+
+### Withdrawal
+Arcane magic is known to be addictive--and tapping into vast energies more than once and losing it afterwards causes severe mental and physical stress. High elves after the fall of Quel’thalas are particularly susceptible to arcane withdrawal. 
+
+If cursed with this dreadful affliction, one must meditate for thirty minutes every day (this does not contribute to short rests), or else suffer disadvantage to their saving throws versus magic, and reduce their maximum mana pool by 1 point. If the spell has an attack roll, it has advantage against the character. 
+
+Meditation requires a Spirit score of 11 or higher to automatically succeed, or a successful DC 10 Spirit saving throw at the end of the meditation period.
+
+Drawing mana and restoring it actively (such as drinking from mana fountains, potions of any type that contain arcane spells, and mana siphoning) restores the addict’s maximum mana pool of any penalties, and suspends withdrawal for a number of days equal to their Stamina modifier. 
+
+If one’s maximum mana is reduced to 0 from this effect, they typically transform into mindless mana addicts, relentlessly seeking out mana fountains and similar restorative effects (such as potions), viciously savaging anyone who seeks to take away their light (and are derogatorily known as mana junkies or wretches). 
+
+Addiction to fel magic can also be represented by this rule. 
+
+\pagebreakNum
 
