@@ -16080,3 +16080,333 @@ Addiction to fel magic can also be represented by this rule.
 
 \pagebreakNum
 
+# Chapter 10: Spellcasting
+Whether it comes in the form of a healer’s gentle touch or the wrath of a warlock’s fiery rain, magic is a way of life in Azeroth. For good or evil, magic has infiltrated the world and shows no sign of leaving. The dark siren call of the arcane and the gentle but firm tapping of divine energies both color the world and affect its inhabitants. The way of magic is often a dangerous road to travel, yet most set out confidently on a journey that they do not expect to end in doom.
+
+The path of the arcane magic user is dark and questionable. Arcane power is undeniably the strongest magic branch; arcanists can command elements, monsters and even undead with their power. It was the use of these powers, however, that attracted the most destructive forces to Azeroth — not once, but many times in the past ten thousand years. Even with history proving time and again that arcane use leads to damnation, there is no lack of arrogant new arcanists on Azeroth who believe that they can control the forces at work. Arcane magic users are usually high elves and humans. Demons are the masters of the arcane, and the Lich King and his Scourge spellcasters are also talented.
+
+The path of the divine is less fraught with paradox and doom. Arcane casters call it the weaker path, while divine casters calmly state that it is the subtler of the two. Focused on support magic and healing, adherents of the divine can also call down the destructive forces of nature. Divine practitioners are usually orcs, tauren or night elves. Ironforge dwarves and humans also have their divine magic users. 
+This chapter introduces the mana system, and the mechanics that facilitate its function. 
+
+## Spellcasting Ability
+Depending on the character’s class or race, they may gain spellcasting abilities (also known as a caster level). Spellcasting can either be arcane (drawn from studying esoterica, complex ley patterns, and ancient tomes and runes) or divine (drawn from revering and being granted powers from powerful entities, such as the Elven goddess Elune, the Holy Light, the Unholy Shadow, or the Lich King). 
+
+Regardless of source, merely gaining spellcasting capabilities grants the character the ability to cast spells and maintain a mana pool to fuel their powers. The spellcaster needs to have spells readied and prepared, and also requires the mana necessary to fuel them. 
+
+The character’s caster level is different from (but is affected by) their character level and hit dice, and determines access to new spell levels (representing mastery of magic), while the spellcaster’s proficiency bonus determines the cost of magic spells and mana pool size (which represents their practical training).
+
+## Known and Prepared Spells
+The caster level of the spellcaster is determined by the ability that grants spellcasting. Mages gain 1 caster level for every level in the mage class, while paladins gain half the normal rate. A spellcaster can only prepare spells if their caster level is 1 or higher. The below table shows the spell level accessed by caster level.
+
+Unlike with normal fractions, caster levels are rounded up at the point they are gained.
+
+For example, the hunter’s spellcasting is at 0.5 a caster level per level in hunter, but gain the Spellcasting feature at level 2 (preventing spellcasting to be done at level 1). A level 10 mage and level 10 hunter have caster levels of 10 and 5, respectively, allowing the mage can access 5th level spells, and the hunter to access 3rd level spells. 
+
+Merely having a high enough caster level is not enough to begin casting, however; a character must also prepare and access the relevant spell. 
+
+### Prepared and Known Spells
+A character can prepare a total number of spells equal to their caster level plus their spellcasting attribute modifier. These spells can be of any spell level the character can access and cast (being of the required caster level and spell list). 
+
+Some class abilities grant extra spells to the total. These are often described as ‘you always have this spell prepared’. These can exceed the normal limit of prepared and known spells.
+
+### Heightening Spells
+A caster may cast a lower-level spell with additional mana as if it were a few spell levels higher. This is termed heightening. Spells that can be heightened gain various effects when they are heightened at specific spell levels. This can only be done if the caster level of the spellcaster is high enough to heighten the spell to said level. 
+
+A character can always heighten a spell. In most cases, the difference between one spell level and one higher is 1 mana point. 
+
+| Caster Level | Spell Level Accessed | 
+|:-:|:-:|
+| 1 | 1 (and cantrips if specified by class) |
+| 3 | 2 | 
+| 5 | 3 |
+| 7 | 4 |
+| 9 | 5 |
+| 11 | 6 |
+| 13 | 7 |
+| 15 | 8 |
+| 17 | 9 |
+
+### Spellbooks
+Spellbooks are a collection of scrolls, a book, or objects that contain the method of casting a spell, such as magic words, name of the forces invoked, and required hand gestures. 
+
+Unlike in other campaign settings, all spellcasters in the Warcraft universe require some form of spellbook or external house of their spells. Spellbooks are important objects for spellcasters, therefore, and are often traded among trusted members of the same profession. 
+
+For example, a shaman completing his apprenticeship will be given a master totem (which acts as a spellbook) thatdescribes how invoking the elements may be done and
+
+\pagebreakNum
+
+containing several basic spells, while a mage graduate from Dalaran’s magical universities will have already scribed a spellbook over the course of her study. A spellbook can be a gift from a dying friend or loved one, or valuable loot taken from a rival or enemy on the field of battle. 
+
+When a spellcaster finds a spell that is present their class’s spell list that they can cast (having the required level), they may spend the required time and resources to decipher and copy it. 
+
+Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the spellcaster who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+
+For each level of the spell, the process takes 2 hours and costs 50 gp (or 2 Infusion Points per level). The cost represents material components you expend as you experiment with the spell to master it, which can be anything from fine inks (for a mage) to sacrificing rare reagents (for a shaman or druid), or costly incense (for a paladin). Cantrips count as half a spell level, or 1 hour and 25 gp to scribe. 
+
+Once you have spent this time and money, you can prepare the spell just like your other spells, and the spell is fully scribed in your spellbook. 
+
+Replacing the Book. A spellcaster can copy a spell from one spellbook to another—for example, if they wish to back up their spellbook or grant one to a student. This does not require deciphering. It takes only 1 hour and 10 gp per spell level to copy the spell (or 30 minutes and 5 gp for a cantrip).
+
+If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many spellcasters keep backup spellbooks in a safe place, or even scribe their spells onto their strongholds—chapels of the Holy Light often have basic priest and paladin spells scribed onto the stone walls or woven into prayer books, while the druids of Ashenvale may visit the Ancients to be blessed with an idol of the Ancients that performs a similar task. 
+
+After preparing a spell, referring to a spellbook is not required except to change the spell.
+
+| Class | Spellbook (or equivalent) |
+|:-:|:-:|
+| Alchemist | Formula Book | 
+| Death Knight | Runeblade | 
+| Druid | Idol | 
+| Hunter | Idol (as druid), totem (if shadow hunter) | 
+| Mage | Spellbook | 
+| Paladin | Libram | 
+| Priest | Libram | 
+| Rogue | Spellbook (if subtlety), spell tattoos (if demon hunter) | 
+| Shaman | Totem (often known as a master totem) | 
+| Warlock | Grimoire | 
+| Warrior | Spellbook (if spellbreaker), spell tattoos (if mountain king) | 
+___
+Special spellbooks exist, also known as Relics. See Treasures under Chapter 5: Equipment.
+
+#### Variant Spellbook: Spell Tattoos
+A character may tattoo spells onto their skins, scales, or clothes to hold their spells besides normal spellbooks. This costs the same as normal scribed spells, and the creature's body is treated to be the spellbook. However, whenever the creature fails a death saving throw, one tattooed spell has a 25% chance to be destroyed (the chance increases by 50% if the damage scars, such as acid, fire, or fel damage). 
+
+A medium character can scribe up to 50 pages worth onto their skin (such as chest, arms, legs, etc.). For smaller creatures, the pages are halved, and for larger creatures, the pages are doubled. 
+
+A known spell-tattooist is the demon hunter Illidan Stormrage, although many demon hunters also scribe spells onto their skin. 
+
+### Spells Prepared
+A spellcaster may ready any spell they can access (and have the required minimum caster level). This requires being tutored, praying for a spell, studying one, or finding spells in scrolls or spellbooks. A spellcaster may always use a spellbook they find, or scribe the spell from a spellbook they don’t own to a spellbook they do own. If a class has access to cantrips, they can also change their cantrips (taking the same process to change spells). The character is limited to the number of cantrips equal to their proficiency bonus. 
+
+There are several ways to gain access to and ready spells. 
+___
+**1st level:** The first level of any spellcasting class instantaneously grants a number of readied spells, such as by gaining a grimoire, spellbook, libram (holy spellbook) etc. 
+___
+**Leveling Up:** When leveling up, the spellcaster gains 2 spells of any spell level they can cast. They are treated as if they have spent their pastime performing research (see below or Discovery on chapter 4). 
+___
+**Scribing a Spell:** Drawing new runes with rare inks, carving a dedication on a shaman totem, or reproducing a spell in a mage’s spellbook or scroll into another one all require acute understanding of spellcasting, time, and materials. This is described in more detail above under Spellbooks. 
+___
+**Research:** A character can research and create their own spell (effectively preparing a spell in their spell lists they could not find yet) by spending downtime in research and the cost of scribing the spell. This works exactly as the discovery downtime activity (see chapter 7). 
+___
+**Tutelage:** Spellcasters may gain spells directly from other spellcasters or magical beings such as celestials, fey, demons, undead, or monstrosities. Tutelage costs the same as scribing a new spell, but is often be done for free in return for a service or fulfilling a quest, with the creature scribing the spellcaster’s spell for no cost. Druids, shamans, and warlocks usually resort to being tutored by powerful beings (such as Cenarius taught Malfurion Stormrage, the elementals taught Thrall, and demonic cults teach warlocks) in exchange for services (usually related to defeating their enemies or reducing their influence). A spellcaster naturally knows their tutor’s name, but in most cases they are insufficiently powerful to conjure it. 
+___
+**Lore:** Easy Way to Power. The primary reason why walking the path of the warlock is considered the ‘easy and corrupt way’ to power has to do with gaining spells. Mages don’t have tutors who are naturally-attuned to the arcane, and must go through the works of studying and reading 
+
+\pagebreakNum
+
+spellbooks, which is a controlled and difficult environment usually plagued by academic competition and rivalries.
+
+On the other hand, the Burning Legion’s emissaries (from imps to dreadlords) all find the process of tutoring a win-win situation; by tutoring and asking for services in exchange, they both increase the power of their agent (the warlock himself) and further their own objectives (spreading destruction, the Legion’s influence, and character change in making the warlock more suspected by their peers, tying them to the Legion and away from their community so that redemption is more difficult). 
+
+This is similar to the Holy Light, Forgotten Shadow, and the Ancients’ approach to tutelage of priests, paladins, and druids; except that these forces are normally reluctant to dole out spells and power unless the student has proven themselves worthy or loyal enough to the ideology or cause. 
+
+Some spells, such as holy light, divine shield, and revivify (for paladins); create food and water and teleport (for mages); elemental shock and astral recall (for shamans) may be offered for free in exchange for class quests, and are not commonly traded among equals of the relevant profession. 
+
+Subject to DM adjudication, these spells cannot be gained by other methods (such as being researched, chosen at 1st level, or gained when leveling up). 
+
+It is advised that a DM employing this rule clarify their stance regarding iconic spells before the game starts.
+
+## The Mana System
+When gaining spellcasting ability, the character also gains a pool of mana points equal to their two times their spellcasting ability score (Intelligence for mages, charisma for paladins, etc.) plus their caster level. For instance, a Mage with 16 Intelligence and caster level of 5 has a mana pool of 37 (two times the ability score + 5 caster level). 
+
+Mana is spent on casting spells, and spells fail when the mana pool doesn’t have enough mana for the spell (unless the spell itself costs 0 mana).
+
+### Mana Cost of Spells
+The higher the spellcaster’s skill in wielding magic, the more efficient they can fuel their spells with mana. The cost is 16 mana points for the caster’s highest level spell. For each spell level below the highest, the mana cost is reduced by 3, to a minimum equal to the spell’s level. When you cast a spell of 7th, 8th, or 9th level, you cannot cast it again until after a short rest, regardless of how many mana you have in reserve. Cantrips do not cost mana. 
+
+Some abilities reduce the mana cost of spells below the listed mana cost, to a minimum stated in the ability. In all cases and with no exceptions, spells that restore hit points are never reduced below 1 mana point. 
+
+<div class="classTable wide">
+
+| Caster Level | 1 | 2 | 3 | 4 | 5 | 6 | 7* | 8* | 9* | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | 16 | - | - | - | - | - | - | - | - | 
+| 2 | 16 | - | - | - | - | - | - | - | - |
+| 3 | 13 | 16 | - | - | - | - | - | - | - |
+| 4 | 13 | 16 | - | - | - | - | - | - | - |
+| 5 | 10 | 13 | 16 | - | - | - | - | - | - | 
+| 6 | 10 | 13 | 16 | - | - | - | - | - | - |
+| 7 | 7 | 10 | 13 | 16 | - | - | - | - | - |
+| 8 | 7 | 10 | 13 | 16 | - | - | - | - | - |
+| 9 | 4 | 7 | 10 | 13 | 16 | - | - | - | - |
+| 10 | 4 | 7 | 10 | 13 | 16 | - | - | - | - | 
+| 11 | 1 | 4 | 7 | 10 | 13 | 16 | - | - | - | 
+| 12 | 1 | 4 | 7 | 10 | 13 | 16 | - | - | - |
+| 13 | 1 | 2 | 4 | 7 | 10 | 13 | 16 | - | - |
+| 14 | 1 | 2 | 4 | 7 | 10 | 13 | 16 | - | - |
+| 15 | 1 | 2 | 3 | 4 | 7 | 10 | 13 | 16 | - |
+| 16 | 1 | 2 | 3 | 4 | 7 | 10 | 13 | 16 | - |
+| 17 | 1 | 2 | 3 | 4 | 5 | 7 | 10 | 13 | 16 |
+| 18 | 1 | 2 | 3 | 4 | 5 | 7 | 10 | 13 | 16 |
+| 19 | 1 | 2 | 3 | 4 | 5 | 7 | 10 | 13 | 16 |
+| 20 | 1 | 2 | 3 | 4 | 5 | 7 | 10 | 13 | 16 |
+
+Mana Cost Table: Caster Level and Spell Level
+
+</div>
+
+\pagebreakNum
+
+### Less-than-Full Casters
+If your caster level is not equal to your character level, as the case with paladins, subtlety rogues, or hunters, refer to the table above as normal appropriate to their caster level. 
+
+### Favored Spells
+Some spellcasters are particularly skilled in casting certain spell. Favored spells cost 2 less mana points (minimum 0). Some abilities and items grant favored spells when used. 
+
+## Regaining Mana Points
+A character regains spent mana through the following passive and active regeneration methods: 
+___
+**Invocations.** Abilities of powerful spellcasting classes such as Invocation for mages, Ancient Power for druids, and Desperate Prayer for priests all restore mana. Unless otherwise stated, a character can only use mana restorative abilities once every hour (such as a drink from mana fountain).
+___
+**Rest.** A character regains a number of mana points equal to spellcasting ability modifier for every hour in which they have not cast spells, or every per short rest. A character regains all spent mana points after a full night’s rest.
+___
+**Epic Heroism.** If you are using the Epic Heroism rest variant, you regain mana every 5 minutes, and regain all spent mana points after 1 hour’s rest. Consider restricting spellcasters so that only a full 8-hour rest will allow a spellcaster to regain access to spent 7th to 9th level spells.
+___
+**Gritty Realism.** If you are using the Gritty Realism rest variant, you regain mana every 4 hours in which you have not cast spells. 
+___
+Around the world lie areas of power: ley lines intersect and react with water, creating moonwells, mana fountains, and similar fonts of power. Those who rest near a lay line intersection or such feature increase their mana regeneration per hour when within 30 feet of the source by 50% (round down, minimum +1 mana point). An example of a mana fountain is the high elves’ Sunwell in Quel’Thalas (which, unlike normal mana fountains, grants the benefits within the city of Silvermoon, and not just when in proximity), and the night elves’ Moonwells. 
+___
+**Mana Tap.** You may tap into reserves of magic, such as drinking from a mana potion, drawing from a lay line-infused font of power (such as a drinking from a mana fountain or bathing in a moonwell), or special spells. This requires an action, and restores mana as if you rested for one hour (using the normal rest rules, 5 minutes for epic heroism, and 4 hours for gritty realism) or the amount listed in the source’s description (such as with the Warlock’s life tap spell). 
+___
+**Mana Siphoning.** Also known as vampirism, mana siphoning is an obscure and often frowned-upon variant of mana tap. Drawing from a living source of mana instead of an object or location, you may siphon mana from another creature by touching them (with hands, fingers, or even by a kiss) and draining out their mana. For each action, this restores the same amount of mana as if you conducted a mana tap, and deducts double the amount of mana points from the target so long as they have mana to give. 
+
+The target must be helpless, willing, or dead for no more than 1 hour. If the creature is helpless (asleep, paralyzed, etc.) but neither dead nor willing, they is entitled a Stamina saving throw contested to the drinker’s Stamina saving throw to resist. When siphoned once, a creature cannot be siphoned again for 24 hours. If done to an unwilling, dead, or particularly powerful or charismatic target, vampirism could have a hidden and corruptive influence on the feeder (such as inflicting an arcane disease, leaving a mark, causing an addiction to continue vampirism, or even embed a shard of the target’s personality in you). 
+
+Fiends such as demons always have active mana pools, using their highest mental ability score (even if they do not have caster levels). Creatures that do not have mana (or do not use them) are normally immune to the effects of such spells. Siphoning mana from fiends via vampirism usually causes the influence of Fel magic to appear on the target (causing green to invade the character’s coloration in skin, eye color, or even blood), and causing them to be more receptive to demonic influences (can take any form). 
+
+## Special Rules
+### Calling, Conjuring, and Binding
+The Warcraft universe has many historical instances of calling out to a creature, conjuring it, and then binding it to servitude. 
+
+Druids of Ashenvale can call out to creatures they heard of but never witnessed to speak with them and learn their secrets (allowing them to Wild Shape into them), while hunters may call out to beasts native to their region to bind them for temporary service before releasing them back into the wilds. 
+
+Failed mages of harsh masters or teachers may succumb to the temptation of calling an imp or similar demonic force that can teach them a spell they must learn (accepting tutoring instead of having to do exhausting research), and established warlocks can conjure and bind said creatures to deliver them information about such students to further drive them into dark magic.
+
+Paladins and priests of the holy light might attempt to call out to greater forces than the ones in Azeroth, such as the Naaru or other angelic and celestial creatures, or be called by them in turn for an urgent quest delivered in a dream.
+
+In all such cases, calling a creature is a critical mechanic in the Warcraft universe that has driven many events. If not for Gul’dan answering the Legion’s call, he might have never developed as warlock, and employed his fel might to corrupt the orcs. Also, if not for humans hearing the call of the Naaru, they might have never known the Holy Light. 
+
+#### Call
+##### Mechanic
+You can send out a mental plea, message, or beseech a creature that can listen, even if not on your plane. The DM can either roll on the following table to determine the power that heard your call, or can choose one power from the same list that is interested in your call. 
+
+The power receives a shard of your name, and gains the Call Link action (see below), and can use it upon you. 
+
+\pagebreakNum
+
+##### Call Link
+**You call upon**
+___
+Upon establishing the connection, each party receives a shard of the other party’s full name. This does not require the ability to cast spells, but does require a skill check (chosen by the power, and DC set by the DM, depending on the strength of the power that chooses to answer). Commonly, a servitor’s name is sent instead of the power itself, in which case they hear the call and the request.
+
+Depending on the nature of your plea, it can be heard clearer by one power than by others. For instance, requests for power might be heard by the Old Gods or the Burning Legion, while requests for aid might be heard of more benign powers such as the Wild Gods or the Holy Light. Sometimes, a call can be intercepted by a third party, such as a demon hunter hearing a budding warlock’s call to the Burning Legion. 
+
+| d10 | Power | Servitor |
+|:-:|:-:|:-:|
+| 1 | Burning Legion | Warlocks, demons, cultists, chaotic evil undead | 
+| 2 | Dragon aspects | Dragons, aligned mages, cultists of the dragon | 
+| 3 | Order | Titans, remaining servitors (titanic observers, watchers) | 
+| 4 | Holy Light | Naaru, celestials, holy priests, paladins | 
+| 5 | Lich King<sup>1</sup> | Death knights, death priests, lawful evil undead, cultists of the damned | 
+| 6 | Spirits<sup>2</sup> | Shamans, neutral or good elementals, neutral or good ghosts, spirit beings | 
+| 7 | Void (Shadow) | Old Gods, shadow priests, void beings, aberrations (forgotten ones), evil elementals | 
+| 8 | Voodoo/Loa | The Loa, some druids and priests, shadow hunters, witch doctors | 
+| 9 | Wild Gods<sup>3</sup> | Druids, beasts, fey, some shamans | 
+| 10 | Roll again | If the result is another 10, the power that contacts you is a possible version of you from a parallel universe or timeline. |
+___
+**1** This can represent other death gods in the case of the Lich King’s destruction or weakening, such as certain Loa (Bwonsamdi and Lukou)
+___
+**2** This can represent anything from ancestral ghosts or restless spirits in your area, your own ancestors, elemental spirits, or beings from the Shadowlands
+___
+**3** This includes the Elune, the Moon Goddess, beings from the Emerald Dream, or other natural powers.
+___
+If you have part of a creature’s name, you can invite a projection of them to meet you in your native realm or affect them with the bind spell, so long as the creature type is of one in your class list (see Conjuring and Binding under your class).
+
+The projection can choose to answer or reject your call, depending on what you wish from it or offer it. You may deceive the creature by calling it for a different reason, but projections can also deceive you, and claim to serve powers they in reality oppose.
+
+Usually, this depends on your reputation, and deceptive practitioners of this ability usually find their calls rejected or answered by similarly deceptive forces. 
+
+The projection, upon accepting the invitation into your realm, is under no compulsion to behave in any particular way, and may choose to appear in a form unlike its true one. The projection is an intangible magical impression of the creature, and has none of their capabilities (spellcasting, hit points), except that it can move at a fly speed of 30 feet per round and can hover, and can appear as whatever form it wishes. It can speak any language it can, but only you can hear it. It appears within 90 feet of you, and cannot move further away or contact another creature than you. 
+
+The projection remains until you choose to dismiss it, which requires a successful Charisma saving throw against a DC of 10. If the creature wishes to resist being dismissed, the DC is 8 + the creature’s Proficiency bonus + the creature’s Charisma modifier. 
+
+You may repeat this saving throw once per round, but if you fail three times, the impression is not bound stay close to you, and can attempt to contact another being (such as by Calling it in turn until the connection is established). Such actions are usually taken by chaotic beings or ones who believe they have unfinished business (such as spirits and ghosts) or beings that expect (or can sense) spellcasters nearby that can conjure and bind them. 
+
+##### Extraplanar Binding Rules
+Performing extraplanar binding is a difficult task that requires many steps, but can be rewarding.
+___
+First, you must know the name of the creature you wish to bind. This can be gained by learning it from a teacher, reading it in a book, or calling out to a creature (although the risk with lying projections usually deters rash conjurations). You do not necessarily know the name of a creature you conjure with the conjure spell. True names (see below) are stronger versions of the creature’s normal name.
+___
+Second, you must prepare the conjure spell to conjure the specific creature you named.
+___
+Third, you must prepare the bind spell to bind the specific creature you need. You may conjure the creature into an inverted magic circle spell to keep it from causing chaos or leaving the bind spell’s range while you cast the bind spell.
+___
+Fourth, you must cast the bind spell, and the target must fail their saving throw.
+___
+Fifth, you must negotiate terms of binding, such as servitude for a time or task, and pay the cost of the binding. You may alternatively choose to release it, in which case it can act freely until dismissed by other means (such as the exorcism or banishment spells, being killed, being charmed or commanded to return to their own realm, or being bound by another caster and then dismissed). 
+___
+If you are successful, the creature is bound to you for the duration of its task (if it was given a task). 
+
+#### Oaths and Blood Oaths
+Oaths and Blood oaths are pledges of undying loyalty and faithfulness that are spoken before a representative of the spirits or a divine (such as most priests and paladins). It is easy to take an oath, but its true strength applies only if the oath-giver is true in the oath.
+
+\pagebreakNum
+
+If pledging to a cause, the oath-giver and all their comrades are linked by deep magics. Shamans (restoration shamans specifically) can enhance certain abilities of fellow oath-sworn. 
+
+Willingly breaking an oath after giving it in truth may cause the oath-giver to be cursed as per the bestow curse spell. The detect thoughts spell may reveal an oath given by a character.
+
+If compelled to go against their oath, the oath-giver can gain advantage to one d20 roll to avoid breaking it. This can be used once per short rest. 
+
+#### True Names
+All that is has a true name; a name that can compass what the object or creature is, and describe it to the fullest picture. Hence, a demon has a true name, so does a ship. In most cases, learning a true name is a practice in study and reflection of the thing’s nature and role in life (or in the afterlife). 
+
+Learning a true name is a task that requires at least 30 days of downtime in research per point of CR for regular creatures. 
+
+Particularly social creatures are easier to learn (taking half as much), and reclusive ones may require research at a particular facility or using specific books (as determined by the DM) at double the research rate. For each day of research, you must spend 1 gp plus your normal living expenses. 
+
+After obtaining the name, it can be written down as normal text. Knowledge of how it is pronounced is not tied to reading the name; it can be properly pronounced by those who have heard it aloud, researched it, or have read it with perfect accent (such as using linguistic tools as umlauts) 
+
+These abilities require speaking the name of the creature verbally. It needn’t be shouted, but even whispers can be listened in with a successful Spirit (Perception) check contested by your Charisma (Performance) check. Allowing a creature to learn the true name of a favored summoned ally is a dangerous proposition, as enemy conjurers would love to compel your allies to turn against you; if they are conjured, they have no choice.
+
+##### Using a true name grants several benefits:
+You may conjure a creature you conjure with the conjure spell with a stronger bond; the creature gains temporary hit points upon being conjured equal double its Challenge Rating. This also applies to creatures that are affected by the bind spell. 
+
+You may impose upon a creature disadvantage to saving throws against spells you target it with. 
+
+You gain the benefits of the sanctuary spell against the creature (and it alone) for 24 hours. The spell acts at a spell level equal to half the target’s CR (minimum 1, maximum 9). The DC is equal to 8 + your Proficiency Bonus + your Charisma bonus (minimum 1). 
+
+You can reduce one of the creature’s damage immunities into damage resistance, or remove one of the creature’s damage resistances. This can stack with similar features (such as the Black Fire feature). Only your abilities and spells can affect the creature this way.
+
+You can remove one type of condition immunity from the target. With this ability, you can cause skeleton to be poisoned by your poisons, or frighten a construct, etc. Only your abilities and spells can affect the creature this way.
+
+A creature’s true name can change if their inherit nature transforms, such as them undergoing character development, leveling up, undergoing a trial, or by casting the mind blank spell on them. The latter method can weaken the connection between a creature and its true name, but cannot fully change a creature’s nature unless it is cast on a creature in a moment of reflection. 
+
+Fiends and celestials are more resistant to changing their true name; such would require a grand quest where the creature’s original mortal form must be rediscovered. With constructs, changing a true name is invariably linked to the spirit of its creator and their feelings upon crafting, who is a required reference. 
+
+A creature can be affected by their true name by one user at a time and only one effect; if two or more creatures attempt to use one creature’s true name, they must contest against one another with a Charisma (Persuasion, Intimidation, or Performance) check to determine who has the greater command over this mighty magic.
+
+## Casting a Spell
+Spellcasting may be interrupted if the spellcaster is harmed while casting or channeling the spell (such as channeling or stance spells, or when struck with a held action). This is called a distraction. 
+
+When hit this way, the spellcaster must succeed on a concentration check (Stamina saving throw), DC 10 or half the damage dealt (whichever is higher) or the spell fails (and the mana is spent uselessly). 
+
+This acts similarly to casting spells in situations that are difficult to cast spells in (such as while on being a storm-tossed ship or while being distracted by wind and rain). 
+
+### Concentration
+Some spells require a lesser degree of concentration than normal. These spells are described as Concentration (Partial) spells. 
+
+Spells with this duration allow you to concentrate on the spell itself and another concentration spell at the same time, including another Concentration (Partial) spell. 
+
+### Mana-Less Casting
+Resilient spellcasters can cast magic on nothing, channeling the mana around them instead of their own. Attempting to cast a spell without sufficient mana points left (or attempting to cast a spell without spending mana at all) requires a Stamina saving throw to cast a spell. The DC is equal to 20 + spell level. You take a penalty to the saving throw equal to half the amount of mana below 0. 
+
+If successful, the spell is cast, but count the mana cost against the current pool (this can reach a negative value, increasing the DC). On a failure, the spellcaster suffers one level of exhaustion. This level of exhaustion is only lifted when the spellcaster is at full mana points. 
+
+### Multiclassing
+Multiclassing in the World of Warcraft 5e RPG is similar to its state in 5e; you add your levels in spellcasting together to determine your total caster level (0.5 for each level in Paladin, 1 for each level in Priest, etc.) to learn your maximum spell level. You may also make use of both spell lists, but only to the maximum spell level you can access in either lists (a level 1 Mage and level 10 Paladin cannot cast 3rd level mage spells). The mana is drawn from a single pool. 
+
+\pagebreakNum
+
+You also refer your proficiency bonus when addressing mana costs, and not your caster level.
+
+\pagebreakNum
