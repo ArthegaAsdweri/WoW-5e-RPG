@@ -16410,3 +16410,1861 @@ Multiclassing in the World of Warcraft 5e RPG is similar to its state in 5e; you
 You also refer your proficiency bonus when addressing mana costs, and not your caster level.
 
 \pagebreakNum
+
+# Chapter 11 - Spells
+
+This chapter describes the most common spells in the worlds Warcraft. The chapter begins with the spell lists of the spellcasting classes. The remainder contains spell descriptions, presented in alphabetical order by the name of the spell.
+
+Some classes have specific names for a spell. These names are italicized next to the normal spell name. 
+
+Spells can be cast by any character who has access to mana and a spell list. Whenever a class references being able to cast spells from a specific spell list, refer to the below list under the appropriate name. 
+___
+**Array.** Spells with the array tag have several sub-spells. When preparing a spell with the array tag, you must choose to prepare one spell of the array (each of which may have their own spell levels and different effects). Some arrays give circumstantial access to other spells. In this case, heightening the spell in the array count as if heightening that spell. Array spells that manifest a strike or shot effect enhance a number of attacks as appropriate to their description. 
+___
+**Auras.** Spells with the aura tag are spells that emit an aura centered on the character, usually reaching 15 feet away, typically remaining for a few minutes, and moving with the user. Auras do not require concentration, but a character can only benefit from one aura at any given time (their choice), and auras can usually counter other ones. If subject to harmful auras, the character is subject to all they fail to resist (as normal for spells), rolled upon entering the aura or being affected by it.  Aura bonuses do not stack with other aura bonuses. Creatures affected by auras automatically sense where they are emanating from.
+___
+**Aura Spike.** An aura spike is the ability to focus an aura’s power to perform a secondary effect. This is useable on a reaction. You can make one aura spike per every two spell levels of a given aura spell. 
+___
+**Blessings.** This array includes beneficial spells that are activated by consuming half your movement, and may target yourself or an ally. A creature can have only one blessing active on them at any given time, with most blessings’ duration being five minutes. 
+___
+**Channel.** These spells are most demanding concentration spells, and require the investment of one action every round to maintain the spell. If the caster cannot invest the required actions, the spell ends. Above the required action, the spellcaster cannot move faster than half their speed. As for all concentration spells, this spell is broken if concentration is lost.
+___
+**Sigil.** These are spells that have an initial direct effect (and a diminished effect on a miss). After the primary effect, the sigil re-inflicts the primary effect every round (called a sigil ‘pulse’). A sigil pulses at the start of the caster’s turn every round for the spell’s duration. Sigil effects end when its duration ends or if the target is reaches full hit points (if a healing sigil) or 0 hit points (healing spells and other spells). Some sigils have a special effect that only trigger when they end naturally, or when their target is reduced to 0 hit points. 
+___
+**Seals.** These are personal spells (with a target of ‘you’) that are also cast as part of your movement (consumes base half movement, cannot be used if already spent). A creature may be under the effects of one seal at any given time, and most seals have a duration of one minute. Seals may be released (termed judgment or release), and impose the additional effect specified under the spell. These are considered beneficial spells. Only paladins may cast seals. Death Knights may cast seals, but only those marked as runic spells.
+___
+**Strike.** Strike spells modify a successful attack. See Chapter 9 for more details on strike effects. Strike and shot effects also usually a potential number of attacks equal to double the spell level. 
+
+For instance, using kill shot as a 2nd level spell enhances 4 ranged attacks. The caster can have multiple potential strikes active, but cannot apply two shot or strike abilities to the same attack unless otherwise specified. 
+___
+**Stances.** Stance spells modify several features, usually involving movement. See Chapter 9 for more details on stance effects.
+___
+**Totems.** Totems are spells that are imbued with power from the caster, and are set on a spot within range. Totems usually remain for one minute, and require a reaction to activate each round, casting a specific spell.
+
+Totems have 7 AC, and hit points equal to double the level of the caster. Totems occupy space as if an object one size category smaller than their caster. Destroying a totem by reducing it to 0 hit points deactivates the effect and dispels the spell as normal. Whenever the totem is subjected to a saving throw, they use the caster’s bonus. They can be moved with a bonus action and a gesture, moving a distance equal to the caster’s speed.
+
+Also, when heightening a totem based on another spell (such as an elemental shock totem, based on the elemental shock spell), heightening the totem acts as if heightening the spell for the same number of spell levels.
+___
+Superscripted is the source of the spell if it is not from the Player’s Handbook.
+___
+**EE** = Elemental Evil
+___
+**XGtE** = Xanthar’s Guide to Everything
+____
+**WoW5eRPG** = World of Warcraft 5e RPG
+___
+**UA** = Unearthed Arcana
+
+\pagebreakNum
+
+<div class="wide">
+
+## Spell List
+
+### Alchemist (ALC)
+
+</div>
+
+<div class='spellList'>
+
+##### Cantrips (0 Level)
+
+- Blade Ward
+- Acid Splash
+- Create Bonfire<sup>EE</sup>
+- Poison Spray (*Noxious Fumes*)
+- Produce Flame
+- Guidance
+- Vicious Mockery 
+- Fire Bolt
+- Frost Bolt
+- Light
+- Shocking Grasp
+- Thunderclap<sup>EE</sup>
+- Spare the Dying
+- Mending
+- Minor Alchemy<sup>WoW5eRPG</sup> 
+- Mold Earth<sup>EE</sup>
+
+##### 1st Level
+- Alarm
+- Bind<sup>WoW5eRPG</sup>
+- Elemental Armor<sup>WoW5eRPG</sup>
+- Protection from Evil and Good
+- Sanctuary
+- Shield
+- Conjure <sup>Modified</sup>
+- Entangling Roots
+- Fog Cloud
+- Grease
+- Detect Poison/Disease
+- Detect Magic
+- Identify
+- Charm 
+- Command
+- Color Spray 
+- Chromatic Orb
+- Dissonant Whispers
+- Faerie Fire
+- Heroism
+- Hideous Laughter
+- Sleep
+- Burning Hands
+- Explosion<sup>WoW5eRPG</sup>
+- Rejuvenation<sup>WoW5eRPG</sup>
+- Thunderwave
+- Disguise Self
+- Illusory Script
+- Magic Aura
+- Silent Image
+- Cause Fear<sup>XGtE</sup>
+- Death Coil<sup>Modified</sup>
+- False Life 
+- Ray of Sickness
+- Expeditious Retreat
+- Feather Fall - Bouncy Body
+- Inner Fire - Invigorating vapors<sup>WoW5eRPG</sup>
+- Jump
+- Longstrider
+- Mutate <sup>WoW5eRPG</sup>
+- Purify Food/Drink
+- Shift Skill<sup>WoW5eRPG</sup>
+
+##### 2nd Level
+- Aid – Increase toughness
+- Protection from Poison
+- Lesser Restoration
+- Web 
+- See Invisibility – Ghost-Eye Drops
+- Calm Emotions – Sedative Gas
+- Berserker Frenzy<sup>WoW5eRPG</sup>
+- Suggestion
+- Zone of Truth – Truth Serum
+- Continual Flame – Lingering Flare
+- Hold <sup>Modified</sup>
+- Scorcher<sup>EE</sup> (Aganazzar’s Scorcher)
+- Shatter
+- Blur
+- Invisibility
+- Pass Without Trace
+- Silence
+- Blindness/Deafness
+- Corpse Explosion<sup>WoW5eRPG</sup>
+- Gentle Repose 
+- Ray of Enfeeblement 
+- Unholy Frenzy<sup>WoW5eRPG</sup>
+- Alter Self
+- Darkvision
+- Enhance Ability 
+- Enlarge/Reduce
+- Magic Weapon – Weapon Oil
+- Spider Climb – Sticky Limbs
+
+##### 3rd Level
+- Nondetection
+- Protection from Energy – Alchemical dampener
+- Remove Curse
+- Stinking Cloud 
+- Speak with Dead – Corpse Tap
+- Daylight
+- Sunbeam <sup>Modified</sup>
+- Fear – Fear Toxin
+- Vampiric Touch
+- Feign Death – Heartstopper Serum
+- Revivify<sup>Modified</sup>
+- Haste – Emboldening vapors
+- Plant Growth – Alchemical fertilizer
+- Slow
+- Transmute Material<sup>WoW5eRPG</sup>
+- Water Breathing
+
+##### 4th Level
+- Death Ward – Spirit Shield
+- Compulsion
+- Confusion
+- Greater Invisibility
+- Blight
+- Polymorph 
+- Stone Shape 
+- Stone Skin 
+
+##### 5th Level
+- Cloudkill
+- Greater Restoration
+- Dominate<sup>Modified</sup>
+- Dream
+- Geas
+- Modify Memory 
+- Cone of Cold
+- Mislead
+- Contagion
+- Raise Dead<sup>Modified</sup>
+- Creation
+- Skill Empowerment<sup>XGtE</sup>
+
+##### 6th Level
+- True Seeing
+- Heroes’ Feast – Ambrosia
+- Mass Suggestion
+- Heal
+- Investiture of Flame<sup>EE</sup
+- Investiture of Ice <sup>EE</sup
+- Investiture of Stone<sup>EE</sup
+- Investiture of Wind<sup>EE</sup
+- Awaken – Homunculus Mind
+- Create Homunculus<sup>XGtE</sup>
+- Disintegrate – Dissolution
+- Flesh to Stone
+- Transformation<sup>XGtE</sup> (Tenser’s Transformation) – Cannot use potions while active
+
+##### 7th Level
+- Firestorm
+- Simulacrum – Living Homunculus
+- Resurrection<sup>Modified</sup>
+- Etherealness
+- Regenerate
+
+##### 8th Level
+- Mind Blank
+- Antipathy/Sympathy
+- Feeblemind
+- Incendiary Cloud
+- Horrid Wilting <sup>EE</sup> (Abi-Dalzim’s Horrid Wilting)
+- Clone
+
+##### 9th Level
+- Foresight – Celerity
+- Shapechange
+- True Polymorph
+
+</div>
+
+\pagebreakNum
+
+<div class="wide">
+
+### Death Knight (DKN)
+
+</div>
+
+<div class='spellList'>
+
+##### Cantrips (0 Level)
+- none
+
+##### 1st Level
+- Abandonment Aura <sup>WoW5eRPG</sup>
+- Barrier Ward <sup>WoW5eRPG</sup>
+- Bind <sup>WoW5eRPG</sup>
+- Protection from Evil and Good
+- Shield of Faith
+- Conjure <sup>Modified<sup>
+- Conjure Strike <sup>WoW5eRPG</sup>
+- Detect Evil and Good
+- Detect Magic
+- Detect Poison and Disease
+- Bane
+- Charm <sup>Modified</sup>
+- Compelled Duel – Dark Command
+- Command 
+- Heroism – Grim Resolve
+- Divine Favor
+- Icy Touch 
+- Searing Smite
+- Thunderous Smite
+- Wrathful Smite
+- Cause Fear <sup>XGtE</sup>
+- Death Coil <sup>Modified</sup>
+- Death Pact <sup>WoW5eRPG</sup> 
+- Flash of Shadow <sup>WoW5eRPG</sup>
+- Rune Array <sup>WoW5eRPG</sup>
+- Purify Food and Drink
+
+##### 2nd Level
+- Aid – Unholy Resolve
+- Necrotic Aura<sup>WoW5eRPG</sup>
+- Essence Seal<sup>WoW5eRPG</sup>
+- Lesser Restoration
+- Protection from Poison
+- Find Steed
+- Locate Object
+- Hold<sup>WoW5eRPG</sup>
+- Zone of Truth
+- Branding Smite
+- Desecration<sup>WoW5eRPG</sup>
+- Corpse Explosion<sup>WoW5eRPG</sup>
+- Unholy Frenzy<sup>WoW5eRPG</sup>
+- Earth Shield – Bone Shield
+- Magic Weapon
+
+##### 3rd Level
+- Unholy Aura<sup>WoW5eRPG</sup>
+- Dispel Magic
+- Magic Circle
+- Remove Curse
+- Aura of Vitality – This spell only heals you and undead
+- Avatar Form<sup>WoW5eRPG</sup> – Lich Form 
+- Blinding Smite
+- Crusader's Mantle – This spell only deals extra shadow damage
+- Darkness
+- Death Nova<sup>WoW5eRPG</sup>
+- Elemental Weapon
+- Revivify Modified
+- Spirit Haunt<sup>WoW5eRPG</sup> – Torment 
+- Telekinesis<sup>Modified</sup> – Death Grip 
+
+##### 4th Level
+- Distraction Aura<sup>WoW5eRPG</sup>
+- Death Ward
+- Find Greater Steed<sup>XGtE</sup>
+- Locate Creature
+- Staggering Smite
+- Drain Life
+- Shadow of Moil<sup>XGtE</sup>
+- Strangulate<sup>WoW5eRPG</sup>
+
+##### 5th Level
+- Circle of Power
+- Dispel Evil and Good
+- Vulnerability Aura<sup>WoW5eRPG</sup>
+- Mind Freeze<sup>WoW5eRPG</sup>
+- Cloudkill
+- Teleportation Circle – Only to circles made by Mages
+- Dominate<sup>Modified</sup>
+- Geas
+- Aligned Weapon<sup>Modified</sup> – was Holy Weapon <sup>XGtE</sup> 
+- Banishing Smite
+- Destructive Wave
+- Hallow/Unhallow<sup>Modified</sup>
+- Contagion
+- Cripple<sup>WoW5eRPG</sup>
+- Danse Macabre<sup>XGtE</sup>
+- Death and Decay<sup>WoW5eRPG</sup>
+- Mass Revivify<sup>WoW5eRPG</sup> – Can only target intelligent undead 
+- Negative Energy Flood<sup>XGtE</sup>
+- Raise Dead<sup>Modified</sup>
+
+</div>
+
+\pagebreakNum
+
+<div class="wide">
+
+### Druid (DRD)
+
+</div>
+
+<div class="spellList">
+
+##### Cantrips (0 Level)
+- Resistance
+- Create Bonfire<sup>EE</sup>
+- Infestation<sup>XGtE</sup>
+- Poison Spray
+- Produce Flame
+- Guidance
+- Frostbite<sup>EE</sup>
+- Gust<sup>EE</sup>
+- Thunderclap<sup>EE</sup>
+- Wrath<sup>WoW5eRPG</sup>
+- Control Flames<sup>EE</sup>
+- Druidcraft
+- Magic Stone<sup>EE</sup>
+- Mending
+- Mold Earth<sup>EE</sup>
+- Primal Savagery<sup>XGtE</sup>
+- Shape Water<sup>EE</sup>
+- Shillelagh
+- Thorn Whip
+
+##### 1st level
+- Abandonment Aura<sup>WoW5eRPG</sup> – Primal Roar 
+- Absorb Elements<sup>EE</sup>
+- Bind<sup>WoW5eRPG</sup>
+- Snare<sup>XGtE</sup>
+- Conjure<sup>Modified</sup>
+- Conjure Strike<sup>WoW5eRPG</sup>
+- Create or Destroy Water
+- Entangle
+- Entangling Roots<sup>WoW5eRPG</sup>
+- Fog Cloud
+- Beast Bond<sup>EE</sup>
+- Detect Magic
+- Detect Poison and Disease
+- Speak with Animals
+- Animal Friendship
+- Charm<sup>Modified</sup>
+- Faerie Fire
+- Ice Knife<sup>EE</sup>
+- Healing Word
+- Rejuvenation<sup>WoW5eRPG</sup>
+- Moonfire<sup>WoW5eRPG</sup>
+- Swipe and Shred<sup>WoW5eRPG</sup>
+- Thunderwave 
+- Earth Tremor<sup>EE</sup>
+- Fade<sup>WoW5eRPG</sup>
+- Aspect Array<sup>WoW5eRPG</sup>
+- Inner Fire<sup>WoW5eRPG</sup> – Mark of the Wild 
+- Jump
+- Longstrider
+- Goodberry
+- Purify Food and Drink
+- Resolve<sup>WoW5eRPG</sup>
+
+##### 2nd Level
+- Retribution Aura<sup>WoW5eRPG</sup> – Thorns Aura 
+- Lesser Restoration
+- Protection from Poison
+- Pass without Trace
+- Blink Step<sup>WoW5eRPG</sup>
+- Dust Devil<sup>EE</sup>
+- Healing Spirit<sup>XGtE</sup>
+- Beast Sense
+- Find Traps
+- Locate Animals or Plants
+- Locate Object
+- Animal Messenger
+- Hold<sup>Modified</sup>
+- Flame Blade
+- Flaming Sphere
+- Gust of Wind
+- Moonbeam 
+- Warding Wind<sup>EE</sup>
+- Barkskin
+- Darkvision
+- Earthbind<sup>EE</sup>
+- Enhance Ability
+- Heat Metal
+- Tiger’s Maul<sup>WoW5eRPG</sup>
+- Spike Growth
+- Skywrite<sup>EE</sup>
+
+##### 3rd Level
+- Dispel Magic
+- Protection from Energy
+- Call Lightning
+- Sleet Storm
+- Tidal Wave<sup>EE</sup>
+- Slumber
+- Cyclone<sup>WoW5eRPG</sup>
+- Daylight
+- Flame Arrows<sup>EE</sup>
+- Shooting Star<sup>WoW5eRPG</sup>
+- Sunbeam<sup>Modified</sup> – Stellar Flare
+- Sunfire<sup>WoW5eRPG</sup>
+- Wall of Water<sup>EE</sup>
+- Wind Wall
+- Feign Death 
+- Lunar Curse<sup>WoW5eRPG</sup>
+- Revivify<sup>Modified</sup>
+- Avatar Form<sup>WoW5eRPG</sup> 
+- Erupting Earth<sup>EE</sup>
+- Meld into Stone
+- Plant Growth
+- Speak with Plants
+- Spirit Infusion<sup>WoW5eRPG</sup>
+- Water Breathing
+- Water Walk
+
+##### 4th Level
+- Detonate Mana<sup>WoW5eRPG</sup>
+- Freedom of Movement
+- Grasping Vine
+- Watery Sphere<sup>EE</sup>
+- Locate Creature
+- Confusion
+- Ice Storm
+- Wall of Fire
+- Hallucinatory Terrain
+- Blight
+- Control Water
+- Elemental Bane<sup>EE</sup>
+- Giant Insect
+- Guardian of Nature<sup>XGtE</sup>
+- Polymorph
+- Stone Shape
+- Stoneskin
+
+##### 5th Level
+- Antilife Shell
+- Greater Restoration
+- Insect Plague
+- Teleportation Circle – only to natural glades
+- Tree Stride
+- Commune with Nature
+- Scrying
+- Dominate<sup>Modified</sup>
+- Geas
+- Dawn<sup>XGtE</sup>
+- Earthquake<sup>Modified</sup>
+- Maelstrom<sup>EE</sup>
+- Starfall<sup>WoW5eRPG</sup>
+- Starsurge<sup>WoW5eRPG</sup>
+- Tranquility<sup>WoW5eRPG</sup>
+- Wrath of Nature<sup>XGtE</sup>
+- Contagion
+- Raise Dead<sup>Modified</sup>
+- Awaken
+- Control Winds<sup>EE</sup>
+- Investiture of Flame<sup>EE</sup>
+- Investiture of Ice<sup>EE</sup>
+- Investiture of Stone<sup>EE</sup>
+- Investiture of Wind<sup>EE</sup>
+- Reincarnate
+- Transmute Rock<sup>EE</sup>
+- Wall of Stone
+
+##### 6th Level
+- Druid Grove<sup>XGtE</sup>
+- Primordial Ward<sup>EE</sup>
+- Heroes’ Feast
+- Transport via Plants
+- Wall of Thorns
+- Find the Path
+- Heal
+- Bones of the Earth<sup>EE</sup>
+- Move Earth
+- Wind Walk
+
+##### 7th Level
+- Plane Shift
+- Fire Storm
+- Whirlwind<sup>EE</sup>
+- Mirage Arcane
+- Resurrection<sup>Modified</sup>
+- Regenerate
+- Reverse Gravity
+
+##### 8th Level
+- Tsunami
+- Antipathy/Sympathy
+- Feeblemind
+- Sunburst
+- Animal Shapes
+- Control Weather
+
+##### 9th Level
+- Storm of Vengeance
+- Foresight
+- Shapechange
+
+</div>
+
+\pagebreakNum
+
+<div class="wide">
+
+### Hunter (HTR)
+
+</div>
+
+<div class="spellList">
+
+##### Cantrips (0 Level)
+- none
+
+##### 1st Level
+- Absorb Elements<sup>EE</sup>
+- Alarm
+- Bind<sup>WoW5eRPG</sup>
+- Snare<sup>XGtE</sup>
+- Conjure<sup>Modified</sup>
+- Conjure Strike<sup>WoW5eRPG</sup>
+- Counter Shot<sup>WoW5eRPG</sup>
+- Ensnaring Strike
+- Fog Cloud
+- Hail of Thorns
+- Trueshot Aura<sup>WoW5eRPG</sup>
+- Beast Bond<sup>EE</sup>
+- Detect Magic
+- Detect Poison and Disease
+- Hunter’s Mark
+- Speak with Animals
+- Animal Friendship
+- Charm<sup>Modified</sup>
+- Rejuvenation<sup>WoW5eRPG</sup>
+- Fade<sup>WoW5eRPG</sup>
+- Aspect Array<sup>WoW5eRPG</sup>
+- Goodberry
+- Jump
+- Longstrider
+- Shot Array<sup>WoW5eRPG</sup>
+- Zephyr Strike<sup>XGtE</sup>
+
+##### 2nd Level
+- Lesser Restoration
+- Pass without Trace
+- Protection from Poison
+- Healing Spirit<sup>XGtE</sup>
+- Beast Sense
+- Find Traps
+- Locate Animals or Plants
+- Locate Object
+- Animal Messenger
+- Hold<sup>Modified</sup>
+- Flare<sup>WoW5eRPG</sup>
+- Shadow Word Pain – Shadow Strike<sup>WoW5eRPG</sup>
+- Mute<sup>WoW5eRPG</sup>
+- Silence
+- Barkskin
+- Cordon of Arrows
+- Darkvision
+- Spike Growth
+
+##### 3rd Level
+- Nondetection
+- Protection from Energy
+- Conjure Barrage
+- Daylight
+- Wind Wall
+- Revivify<sup>Modified</sup> – Can only revive an animal companion
+- Flame Arrows<sup>EE</sup>
+- Lightning Arrow
+- Plant Growth
+- Speak with Plants
+- Water Breathing
+- Water Walk
+
+##### 4th Level
+- Freedom of Movement
+- Stoneskin
+- Grasping Vine
+- Locate Creature
+- Guardian of Nature<sup>XGtE</sup>
+
+##### 5th Level
+- Conjure Volley
+- Steel Wind Strike<sup>XGtE</sup>
+- Tree Stride
+- Commune with Nature
+- Dominate<sup>Modified</sup>
+- Wrath of Nature<sup>XGtE</sup>
+- Raise Dead<sup>Modified</sup> - Can only raise an animal companion
+- Swift Quiver
+
+</div>
+
+\pagebreakNum
+
+
+<div class="wide">
+
+### Mage (MGE)
+
+</div>
+
+<div class="spellList">
+
+##### Cantrips (0 Level)
+- Blade Ward
+- Acid Splash
+- Create Bonfire<sup>EE</sup>
+- Infestation<sup>XGtE</sup>
+- Mage Hand
+- Poison Spray
+- True Strike
+- Friends
+- Dancing Lights
+- Fire Bolt 
+- Light
+- Frostbite<sup>EE</sup>
+- Frost Bolt
+- Shocking Grasp
+- Thunderclap<sup>EE</sup>
+- Minor Illusion
+- Chill Touch
+- Control Flames<sup>EE</sup>
+- Gust<sup>EE</sup>
+- Mending
+- Message
+- Mold Earth<sup>EE</sup>
+- Prestidigitation
+
+##### 1st Level
+- Absorb Elements
+- Alarm 
+- Arcane Armor<sup>WoW5eRPG</sup>
+- Barrier Ward<sup>WoW5eRPG</sup>
+- Bind<sup>WoW5eRPG</sup>
+- Detect Magic
+- Elemental Armor<sup>WoW5eRPG</sup>
+- Mage Armor
+- Mana Shield<sup>WoW5eRPG</sup>
+- Protection from Evil and Good
+- Shield
+- Snare<sup>XGtE</sup>
+- Conjure<sup>Modified</sup>
+- Conjure Strike<sup>WoW5eRPG</sup>
+- Find Familiar
+- Fog Cloud
+- Grease
+- Ice knife<sup>EE</sup>
+- Floating Disk
+- Unseen Servant
+- Comprehend Languages
+- Detect Magic
+- Identify
+- Charm<sup>Modified</sup>
+- Sleep
+- Hideous Laughter
+- Arcane Missile<sup>Modified</sup>
+- Burning Hands
+- Chromatic Orb
+- Earth Tremor<sup>EE</sup>
+- Explosion<sup>WoW5eRPG</sup>
+- Frostfire Bolt<sup>WoW5eRPG</sup>
+ 
+\columnbreak
+
+- Icy Touch<sup>WoW5eRPG</sup>
+- Thunderwave
+- Witch Bolt
+- Color Spray
+- Disguise Self
+- Fade<sup>WoW5eRPG</sup>
+- Illusory Script
+- Silent Image
+- Cause Fear<sup>XGtE</sup>
+- False Life
+- Ray of Sickness
+- Catapult<sup>EE</sup>
+- Create or Destroy Water – Can create only one-half the normal quantity
+- Expeditious Retreat
+- Feather Fall
+- Jump
+- Longstrider
+
+##### 2nd Level
+- Arcane Lock
+- Banishment<sup>WoW5eRPG</sup>
+- Essence Seal<sup>WoW5eRPG</sup>
+- Blink Step<sup>WoW5eRPG</sup>
+- Cloud of Daggers
+- Flaming Sphere
+- Parasite<sup>WoW5eRPG</sup>
+- Web 
+- Detect Thoughts
+- Locate Object
+- Mind Spike<sup>XGtE</sup>
+- See Invisibility
+- Crown of Madness
+- Hold Modified
+- Suggestion
+- Acid Arrow<sup>Modified</sup>
+- Arcane Explosion<sup>WoW5eRPG</sup>
+- Continual Flame
+- Darkness
+- Freezing Sphere<sup>Modified</sup> (Otiluke's freezing sphere)
+- Gust of Wind
+- Mana Burn<sup>WoW5eRPG</<sup>
+- Scorcher<sup>EE</sup> (Aganazzar’s Scorcher)
+- Scorching Ray
+- Shadow Word Pain – Shadow Strike WoW5eRPG
+- Shatter
+- Snowball Swarm<sup>EE</sup> (Snilloc’s snowball swarm)
+- Blur
+- Invisibility
+- Magic Aura
+- Magic Mouth
+- Mirror Image
+- Mute<sup>WoW5eRPG</sup>
+- Phantasmal Force
+- Shadow Blade<sup>XGtE</sup>
+
+\columnbreak 
+
+- Blindness/Deafness
+- Gentle Repose
+- Ray of Enfeeblement
+- Unholy Frenzy<sup>WoW5eRPG</sup>
+- Alter Self
+- Berserker Frenzy<sup>WoW5eRPG</sup>
+- Darkvision
+- Dragon’s Breath<sup>XGtE</sup>
+- Earthen Grasp<sup>EE</sup> (Maximilian’s earthen grasp)
+- Earthbind<sup>EE</sup>
+- Enlarge/Reduce
+- Knock
+- Levitate
+- Magic Weapon
+- Pyrotechnics<sup>EE</sup>
+- Rope Trick
+- Skywrite<sup>EE</sup>
+- Spider Climb
+
+##### 3rd Level
+- Counterspell
+- Dispel Magic
+- Glyph of Warding
+- Magic Circle
+- Nondetection
+- Protection from Energy
+- Remove Curse
+- Create Food and Water
+- Sleet Storm
+- Stinking Cloud
+- Thunder Step<sup>XGtE</sup>
+- Tidal Wave<sup>EE</sup>
+- Clairvoyance
+- Tongues
+- Catnap<sup>XGtE</sup>
+- Enemies Abound<sup>XGtE</sup>
+- Blizzard<sup>WoW5eRPG</sup>
+- Fireball
+- Fire Nova<sup>WoW5eRPG</sup>
+- Frost Nova<sup>WoW5eRPG</sup>
+- Tiny Hut
+- Lightning Bolt Modified
+- Minute Meteors<sup>EE</sup> (Melf’s Minute Meteors)
+- Sending
+- Sunbeam<sup>Modified</sup>
+- Wall of Sand<sup>EE</sup>
+- Wall of Water<sup>EE</sup>
+- Fear
+- Hypnotic Pattern
+- Major Image
+- Phantom Steed
+- Bestow Curse
+- Feign Death 
+- Life Transference<sup>XGtE</sup>
+- Vampiric Touch
+- Blink
+- Erupting Earth<sup>EE</sup>
+
+\columnbreak 
+
+- Flame Arrows<sup>EE</sup>
+- Fly
+- Gaseous Form
+- Haste
+- Slow
+- Telekinesis<sup>Modified</sup>
+- Tiny Servant<sup>XGtE</sup>
+- Transmute Material<sup>WoW5eRPG</sup>
+- Water Breathing
+
+##### 4th Level
+- Brilliance Aura<sup>WoW5eRPG</sup>
+- Globe of Invulnerability<sup>Modified</sup>
+- Ice Block<sup>WoW5eRPG</sup>
+- Private Sanctum
+- Stoneskin
+- Black Tentacles
+- Dimension Door
+- Faithful Hound
+- Secret Chest
+- Watery Sphere<sup>EE</sup>
+- Arcane Eye
+- Locate Creature
+- Confusion
+- Arcane Barrage<sup>WoW5eRPG</sup>
+- Detonate Mana<sup>WoW5eRPG</sup>
+- Fire Shield
+- Ice Storm
+- Inferno Blast<sup>WoW5eRPG</sup>
+- Resilient Sphere
+- Sickening Radiance<sup>XGtE</sup>
+- Storm Sphere<sup>EE</sup>
+- Vitriolic Sphere<sup>EE</sup>
+- Wall of Fire
+- Greater Invisibility
+- Hallucinatory Terrain
+- Phantasmal Killer
+- Blight
+- Drain Mana<sup>WoW5eRPG</sup>
+- Control Water
+- Elemental Bane<sup>EE</sup>
+- Fabricate
+- Polymorph
+- Stone Shape
+
+##### 5th Level
+- Amplify Magic<sup>WoW5eRPG</sup>
+- Mind Freeze<sup>WoW5eRPG</sup>
+- Spell Steal<sup>WoW5eRPG</sup>
+- CloudkilI
+- Far Step<sup>XGtE</sup>
+- Steel Wind Strike<sup>XGtE</sup>
+- Teleportation Circle
+- Contact Other Plane
+- Legend Lore
+- Scrying
+- Telepathic Bond
+- Dominate<sup>Modified</sup>
+- Geas
+ 
+</div>
+
+\pagebreakNum 
+
+<div class="spellList">
+
+- Modify Memory
+- Synaptic Static<sup>XGtE</sup>
+- Arcane Orb<sup>WoW5eRPG</sup>
+- Combustion<sup>WoW5eRPG</sup>
+- Cone of Cold
+- Dawn<sup>XGtE</sup>
+- Flame Strike
+- Hand<sup>Modified</sup>
+- Immolation<sup>EE</sup>
+- Living Bomb<sup>WoW5eRPG</sup>
+- Wall of Force
+- Wall of Light<sup>XGtE</sup>
+- Wall of Stone
+- Creation
+- Dream
+- Mislead
+- Seeming
+- Cripple<sup>WoW5eRPG</sup> 
+- Danse Macabre<sup>XGtE</sup>
+- Death and Decay<sup>WoW5eRPG</sup>
+- Enervation<sup>XGtE</sup>
+- Negative Energy Flood<sup>XGtE</sup>
+- Animate Objects
+- Control Winds<sup>EE</sup>
+- Passwall
+- Skill Empowerment<sup>XGtE</sup>
+- Transmute Rock<sup>EE</sup>
+ 
+##### 6th Level
+- Guards and Wards
+- Arcane Gate
+- Instant Summons
+- Scatter<sup>XGtE</sup>
+- True Seeing
+- Irresistible Dance
+- Mass Suggestion
+- Contingency
+- Nether Tempest<sup>WoW5eRPG</sup>
+- Wall of Ice
+- Mental Prison<sup>XGtE</sup>
+- Programmed Illusion
+- Circle of Death
+- Eyebite
+- Possession<sup>Modified</sup>
+- Soul Cage<sup>XGtE</sup>
+- Create Homunculus<sup>XGtE</sup>
+- Disintegrate
+- Flesh to Stone
+- Investiture of Flame<sup>EE</sup>
+- Investiture of Ice<sup>EE</sup>
+- Investiture of Stone<sup>EE</sup>
+- Investiture of Wind<sup>EE</sup>
+- Move Earth
+- Transformation<sup>XGtE</sup> (Tenser’s Transformation)
+
+##### 7th Level
+- Symbol
+- Magnificent Mansion
+- Plane Shift
+- Teleport
+- Power Word Pain<sup>XGtE</sup>
+- Arcane Sword
+- Crown of Stars<sup>XGtE</sup>
+- Forcecage
+- Prismatic Spray
+- Pyroblast<sup>Modified</sup>
+- Whirlwind<sup>EE</sup>
+- Mirage Arcane
+- Project Image
+- Simulacrum
+- Finger of Death
+- Etherealness
+- Reverse Gravity
+- Sequester
+
+##### 8th Level
+- Antimagic Field
+- Mind Blank
+- Demiplane
+- Incendiary Cloud
+- Maze
+- Mighty Fortress<sup>XGtE</sup>
+- Antipathy/Sympathy
+- Feeblemind
+- Power Word Stun
+- Maddening Darkness<sup>XGtE</sup>
+- Sunburst
+- Telepathy
+- Illusory Dragon<sup>XGtE</sup>
+- Clone
+- Horrid Wilting<sup>EE</sup> (Abi-Dalzim’s Horrid Wilting)
+- Control Weather
+
+##### 9th Level
+- Imprisonment
+- Invulnerability<sup>XGtE</sup>
+- Prismatic Wall
+- Gate
+- Wish
+- Foresight
+- Power Word Kill
+- Psychic Scream<sup>XGtE</sup>
+- Meteor Swarm
+- Weird
+- Astral Projection
+- Mass Polymorph<sup>XGtE</sup>
+- Shapechange
+- Time Stop
+- True Polymorph
+
+</div>
+
+\pagebreakNum
+
+### Paladin (PLD)
+
+<div class="spellList">
+
+##### Cantrips (0 Level)
+- none 
+
+##### 1st Level
+- Abandonment Aura<sup>WoW5eRPG</sup> – Aura of Might 
+- Barrier Ward<sup>WoW5eRPG</sup>
+- Bind<sup>WoW5eRPG</sup>
+- Ceremony<sup>XGtE</sup>
+- Devotion Aura<sup>WoW5eRPG</sup>
+- Protection from Evil and Good
+- Shield of Faith
+- Conjure<sup>Modified</sup>
+- Conjure Strike<sup>WoW5eRPG</sup>
+- Detect Evil and Good
+- Detect Magic
+- Detect Poison and Disease
+- Bless
+- Charm<sup>Modified</sup>
+- Command 
+- Compelled Duel 
+- Heroism
+- Divine Favor
+- Flash of Light<sup>Modified</sup>
+- Holy Light<sup>Modified</sup>
+- Renewing Light<sup>WoW5eRPG</sup>
+- Searing Smite
+- Thunderous Smite
+- Wrathful Smite
+- Purify Food and Drink
+- Seal Array<sup>WoW5eRPG</sup>
+
+##### 2nd Level
+- Retribution Aura<sup>WoW5eRPG</sup>
+- Aid – Holy Resolve
+- Banishment<sup>WoW5eRPG</sup>
+- Denounce<sup>WoW5eRPG</sup>
+- Divine Shield<sup>WoW5eRPG</sup>
+- Lesser Restoration
+- Protection from Poison
+- Find Steed – Divine Steed
+- Locate Object
+- Hold<sup>Modified</sup> – Repentance
+- Zone of Truth
+- Branding Smite
+- Consecration<sup>WoW5eRPG</sup>
+- Exorcism<sup>WoW5eRPG</sup>
+- Hammer of Justice<sup>WoW5eRPG</sup>
+- Holy Shock<sup>WoW5eRPG</sup>
+- Shackle Evil<sup>WoW5eRPG</sup>
+- Blessing Array<sup>WoW5eRPG</sup>
+- Magic Weapon
+
+##### 3rd Level
+- Crusader Aura<sup>WoW5eRPG</sup>
+- Dispel Magic
+- Magic Circle
+- Remove Curse
+- Create Food and Water
+- Aura of Vitality
+- Avatar Form<sup>WoW5eRPG<</sup> – Avenging Wrath
+- Blinding Smite
+- Crusader's Mantle
+- Daylight
+- Holy Nova<sup>Modified</sup> – Holy Wrath
+- Sunbeam<sup>Modified</sup>
+- Revivify<sup>Modified</sup> – Redemption
+- Elemental Weapon
+
+##### 4th Level
+- Concentration Aura<sup>WoW5eRPG</sup>
+- Aura of Life
+- Aura of Purity
+- Death Ward
+- Find Greater Steed<sup>XGtE</sup>
+- Locate Creature
+- Staggering Smite
+
+##### 5th Level
+- Resistance Aura<sup>WoW5eRPG</sup>
+- Banishing Smite
+- Circle of Power
+- Dispel Evil and Good
+- Geas
+- Aligned Weapon<sup>Modified</sup> – was Holy Weapon<sup>XGtE</sup>
+- Destructive Wave
+- Hallow/Unhallow<sup>Modified</sup>
+- Mass Revivify<sup>WoW5eRPG</sup> – Mass Redemption
+- Raise Dead<sup>Modified</sup> – Champions Arise
+
+</div>
+
+\pagebreakNum
+
+### Priest (PRS)
+
+<div class="spellList">
+
+##### Cantrips (0 Level)
+- Resistance
+- Guidance
+- Mind Sliver<sup>UA</sup>
+- Vicious Mockery
+- Light
+- Smite
+- Word of Radiance<sup>XGtE</sup>
+- Spare the Dying
+- Toll the Dead<sup>XGtE</sup>
+- Mending
+- Thaumaturgy
+
+##### 1st Level
+- Barrier Ward<sup>WoW5eRPG</sup>
+- Bind<sup>WoW5eRPG</sup>
+- Ceremony<sup>XGtE</sup>
+- Fear Ward<sup>WoW5eRPG</sup>
+- Protection from Evil and Good
+- Sanctuary
+- Shield of Faith
+- Conjure<sup>Modified</sup>
+- Conjure Strike<sup>WoW5eRPG</sup>
+- Detect Evil and Good
+- Detect Magic
+- Detect Poison and Disease
+- Bane
+- Bless
+- Charm<sup>Modified</sup>
+- Command
+- Flash of Light<sup>Modified</sup>
+- Flash of Shadow<sup>WoW5eRPG</sup>
+- Guiding Bolt
+- Holy Light<sup>Modified</sup>
+- Mind Blast<sup>WoW5eRPG</sup>
+- Shadow Bolt<sup>WoW5eRPG</sup> – Void Bolt
+- Renewing Light<sup>WoW5eRPG</sup>
+- Fade<sup>WoW5eRPG</sup>
+- Cause Fear<sup>XGtE</sup>
+- Death Coil<sup>Modified</sup>
+- Death Pact<sup>WoW5eRPG</sup>
+- Create or Destroy Water
+- Inner Fire<sup>WoW5eRPG</sup>
+- Purify Food and Drink
+
+##### 2nd Level
+- Aid – Power Word Fortitude
+- Banishment<sup>Modified</sup>
+- Denounce<sup>WoW5eRPG</sup>
+- Lesser Restoration
+- Protection from Poison
+- Warding Bond
+- Augury
+- Find Traps
+- Locate Object
+- Mind Spike<sup>XGtE</sup>
+- Calm Emotions
+- Hold<sup>Modified</sup>
+- Zone of Truth
+- Continual Flame
+- Exorcism<sup>WoW5eRPG</sup>
+- Holy Fire<sup>WoW5eRPG</sup>
+- Mana Burn<sup>WoW5eRPG</sup>
+- Orb of Annihilation<sup>WoW5eRPG</sup>
+- Prayer of Healing
+- Shadow Word Death<sup>WoW5eRPG</sup>
+- Shadow Word Pain<sup>WoW5eRPG</sup>
+- Spiritual Weapon
+- Mute<sup>WoW5eRPG</sup>
+- Silence
+- Blindness/Deafness
+- Gentle Repose
+- Shackle Evil<sup>WoW5eRPG</sup>
+- Unholy Frenzy<sup>WoW5eRPG</sup>
+- Enhance Ability – Blessing of Strength/Agility, etc.
+
+##### 3rd Level
+- Beacon of Hope
+- Dispel Magic
+- Globe of Invulnerability<sup>Modified</sup> – Antimagic Shell
+- Glyph of Warding
+- Magic Circle
+- Protection from Energy
+- Power Word Shield<sup>Modified</sup>
+- Remove Curse
+- Create Food and Water
+- Spirit Guardians
+- Clairvoyance
+- Tongues
+- Enemies Abound<sup>XGtE</sup>
+- Avatar Form<sup>WoW5eRPG</sup>
+- Daylight
+- Death Nova<sup>WoW5eRPG</sup>
+- Holy Nova<sup>WoW5eRPG</sup>
+- Lightwell<sup>WoW5eRPG</sup>
+- Mass Healing Word
+- Mind Flay<sup>WoW5eRPG</sup>
+- Sending
+- Sunbeam<sup>Modified</sup>
+- Psychic Horror<sup>WoW5eRPG</sup>
+- Banshee’s Curse<sup>WoW5eRPG</sup>
+- Bestow Curse
+- Feign Death
+- Life Transference<sup>XGtE</sup>
+- Revivify<sup>Modified</sup>
+- Speak with Dead
+- Spirit Haunt<sup>WoW5eRPG</sup> 
+- Meld into Stone
+- Water Walk
+
+##### 4th Level
+- Death Ward
+- Freedom of Movement
+- Guardian of Faith
+- Locate Creature
+- Mind Vision<sup>WoW5eRPG</sup>
+- Detonate Mana<sup>WoW5eRPG</sup>
+- Phantasmal Killer
+- Drain Life<sup>WoW5eRPG</sup>
+- Control Water
+- Stone Shape
+
+##### 5th Level
+- Vampiric Aura<sup>WoW5eRPG</sup>
+- Dispel Evil and Good
+- Greater Restoration
+- Insect Plague
+- Commune
+- Legend Lore
+- Scrying
+- Dominate<sup>Modified</sup>
+- Geas
+- Mind Bomb<sup>WoW5eRPG</sup>
+- Synaptic Static<sup>XGtE</sup>
+- Aligned Weapon<sup>Modified</sup> – was Holy Weapon<sup>XGtE</sup>
+- Dawn<sup>XGtE</sup>
+- Earthquake<sup>Modified</sup>
+- Flame Strike
+- Hallow/Unhallow<sup>Modified</sup>
+- Mass Cure Wounds – Hope of Healing
+- Wall of Light<sup>XGtE</sup>
+- Void Eruption<sup>WoW5eRPG</sup>
+- Contagion
+- Cripple<sup>WoW5eRPG</sup>
+- Mass Revivify<sup>WoW5eRPG</sup>
+- Raise Dead<sup>Modified</sup>
+
+##### 6th Level
+- Forbiddance
+- Heroes’ Feast
+- Planar Ally
+- Word of Recall
+- Find the Path
+- True Seeing
+- Blade Barrier
+- Dark Void<sup>WoW5eRPG</sup>
+- Heal
+- Void Crash<sup>WoW5eRPG</sup>
+- Mental Prison<sup>XGtE</sup>
+- Harm
+
+##### 7th Level
+- Symbol
+- Plane Shift
+- Temple of the Gods<sup>XGtE</sup>
+- Power Word Pain<sup>XGtE</sup>
+- Divine Word
+- Fire Storm
+- Resurrection<sup>Modified</sup>
+- Etherealness
+- Regenerate
+
+##### 8th Level
+- Antimagic Field
+- Holy Aura
+- Mind Blank
+- Feeblemind
+- Maddening Darkness<sup>XGtE</sup>
+- Control Weather
+
+##### 9th Level
+- Gate
+- Psychic Scream<sup>XGtE</sup>
+- Mass Heal
+- Astral Projection
+
+</div>
+
+\pagebreakNum
+
+### Shaman (SHM)
+
+<div class="spellList">
+
+##### Cantrips (0 Level)
+- Blade Ward
+- Resistance
+- Create Bonfire<sup>EE</sup>
+- Produce Flame
+- Guidance
+- True Strike
+- Fire Bolt 
+- Frostbite<sup>EE</sup>
+- Frost Bolt
+- Invoke Elements<sup>WoW5eRPG</sup>
+- Light
+- Shocking Bolt<sup>WoW5eRPG</sup>
+- Shocking Grasp
+- Thunderclap<sup>EE</sup>
+- Control Flames<sup>EE</sup>
+- Magic Stone<sup>EE</sup>
+- Mending 
+- Message
+- Mold Earth<sup>EE</sup>
+- Shape Water<sup>EE</sup>
+
+##### 1st Level
+- Absorb Elements<sup>EE</sup>
+- Bind<sup>WoW5eRPG</sup>
+- Elemental Armor<sup>WoW5eRPG</sup> 
+- Fear Ward<sup>WoW5eRPG</sup>
+- Sanctuary
+- Conjure<sup>Modified</sup>
+- Conjure Strike<sup>WoW5eRPG</sup>
+- Entangle
+- Fog Cloud
+- Ice Knife<sup>EE</sup>
+- Stasis Trap<sup>WoW5eRPG</sup>
+- Detect Magic
+- Detect Poison and Disease
+- Speak with Animals
+- Animal Friendship – Bestial Grace
+- Charm<sup>Modified</sup>
+- Sleep – Slumber Hex
+- Burning Hands
+- Earth Tremor<sup>EE</sup>
+- Elemental Shock<sup>WoW5eRPG</sup>
+- Elemental Tongue<sup>WoW5eRPG</sup>
+- Healing Ward<sup>WoW5eRPG</sup>
+- Hellish Rebuke
+- Lightning Orbs<sup>WoW5eRPG</sup>
+- Riptide<sup>WoW5eRPG</sup>
+- Spirit Strike<sup>WoW5eRPG</sup>
+- Shadow Bolt<sup>WoW5eRPG</sup> – Spirit Bolt (witch doctor), Shadow Shock (shadow hunter) 
+- Thunderwave – Thunderstorm
+- Witch Bolt – Sticky Lightning
+- Aspect Array<sup>WoW5eRPG</sup>
+- Create or Destroy Water
+- Feather Fall
+- Hex Arra<sup>WoW5eRPG</sup>
+- Purify Food and Drink
+- Shift Skill – Ancestor’s Memory<sup>WoW5eRPG</sup>
+
+##### 2nd Level
+- Ancestral Guardians<sup>WoW5eRPG</sup>
+- Banishment<sup>Modified</sup>
+- Divine Shield – Bad Voodoo<sup>WoW5eRPG</sup>
+- Essence Seal<sup>WoW5eRPG</sup>
+- Lesser Restoration
+- Pass without Trace
+- Protection from Poison
+- Dust Devil<sup>EE</sup>
+- Flaming Sphere 
+- Healing Spirit<sup>XGtE</sup>
+- Locate Animals or Plants
+- Locate Object
+- See Invisibility – Ghost Sight
+- Animal Messenger
+- Calm Emotions – Ancestral Calm
+- Hold<sup>Modified</sup>
+- Continual Flame
+- Flame Blade
+- Freezing Sphere<sup>Modified</sup> (Otiluke's freezing sphere)
+- Gust of Wind
+- Lava Burst<sup>WoW5eRPG</sup>
+- Scorcher<sup>EE</sup> (Aganazzar’s Scorcher)
+- Scorching Ray - Fire Beam
+- Shatter - Erosion
+- Snowball Swarm<sup>EE</sup> (Snilloc’s snowball swarm)
+- Spiritual Weapon
+- Totemic Recall<sup>WoW5eRPG</sup>
+- Warding Wind<sup>EE</sup>
+- Wind Shear<sup>WoW5eRPG</sup>
+- Curse of Agony – Hex of Pain<sup>WoW5eRPG</sup>
+- Barkskin
+- Berserker Frenzy – Fury Hex<sup>WoW5eRPG</sup>
+- Blessing Array<sup>WoW5eRPG</sup> – Only Blessing of Wisdom; named Blessing of Water 
+- Darkvision
+- Earthbind<sup>EE</sup>
+- Earth Shield<sup>WoW5eRPG</sup>
+- Earthen Grasp<sup>EE</sup> (Maximilian’s earthen grasp)
+- Enhance Ability 
+- Heat Metal
+- Pyrotechnics<sup>EE</sup>
+- Skywrite<sup>EE</sup>
+- Spike Growth - Earth Spikes
+
+##### 3rd Level
+- Conjure Elemental Totem<sup>WoW5eRPG</sup>
+- Dispel Magic – Purge
+- Elemental Shock Totem<sup>WoW5eRPG</sup>
+- Glyph of Warding
+- Protection from Energy
+- Remove Curse – Cleanse Spirit
+- Spirit Link<sup>WoW5eRPG</sup>
+- Call Lightning
+- Sleet Storm
+- Spirit Guardians
+- Tidal Wave<sup>EE</sup>
+- Clairvoyance – Far Sight
+- Tongues
+- Cyclone<sup>WoW5eRPG</sup>
+- Daylight
+- Fireball
+- Fire Nova<sup>WoW5eRPG</sup>
+- Healing Stream<sup>WoW5eRPG</sup>
+- Lightning Bolt – Chain Lightning Modified
+- Lightning Storm<sup>WoW5eRPG</sup>
+- Sending
+- Sunbeam Modified
+- Wall of Sand<sup>EE</sup>
+- Wall of Water<sup>EE</sup>
+- Wind Wall
+- Curse of Weakness<sup>WoW5eRPG</sup> – Weakening Hex
+- Feign Death
+- Life Transference<sup>XGtE</sup>
+- Revivify – Ancestral Sight<sup>Modified</sup>
+- Speak With Dead
+- Spirit Haunt<sup>WoW5eRPG</sup>
+- Bloodlust<sup>WoW5eRPG</sup>
+- Erupting Earth<sup>EE</sup>
+- Flame Arrows<sup>EE</sup>
+- Meld into Stone
+- Spirit Infusion<sup>WoW5eRPG</sup>
+- Water Breathing
+- Water Walk
+
+##### 4th Level
+- Brilliance Aura – Mana Tide<sup>WoW5eRPG</sup>
+- Freedom of Movement – Grace of Air
+- Stoneskin
+- Watery Sphere<sup>EE</sup>
+- Arcane Eye – Eye of Kilrogg
+- Divination – Spirit Visitations
+- Locate Creature
+- Earthbind Totem<sup>WoW5eRPG</sup>
+- Fire Shield
+- Ice Storm
+- Resilient Sphere – Solid Wind
+- Storm Sphere<sup>EE</sup>
+- Vitriolic Sphere<sup>EE</sup>
+- Wall of Fire
+- Blight
+- Control Water
+- Elemental Bane<sup>EE</sup>
+- Polymorph – Spirit Animal, Ghost Wolf, or Hex
+- Stone Shape
+
+##### 5th Level
+- Greater Restoration
+- Spirit Link Totem<sup>WoW5eRPG</sup>
+- Spiritual Reincarnation<sup>WoW5eRPG</sup>
+- Steel Wind Strike<sup>XGtE</sup>
+- Teleportation Circle – Astral Recall
+- Commune
+- Contact Other Plane
+- Legend Lore
+- Scrying
+- Dominate<sup>Modified</sup>
+- Geas
+- Cone of Cold
+- Earthquake<sup>Modified</sup>
+- Fire Nova Totem<sup>WoW5eRPG</sup>
+- Flame Strike<sup>WoW5eRPG</sup>
+- Hallow/Unhallow<sup>Modified</sup>
+- Healing Stream Totem<sup>WoW5eRPG</sup>
+- Mass Cure Wounds – Hope of Healing
+- Maelstrom<sup>EE</sup>
+- Resistance Totem<sup>WoW5eRPG</sup>
+- Tranquility<sup>WoW5eRPG</sup>
+- Wall of Stone
+- Windfury Tongue<sup>WoW5eRPG</sup>
+- Curse of Shadows<sup>WoW5eRPG</sup> – Veil of Shadows 
+- Mass Revivify – Ancestral Vision<sup>Modified</sup>
+- Raise Dead – Reincarnate<sup>Modified</sup>
+- Control Winds<sup>EE</sup>
+- Transmute Rock<sup>EE</sup>
+
+</div>
+
+\pagebreakNum
+
+<div class="spellList">
+
+##### 6th Level
+- Big Bad Voodoo<sup>WoW5eRPG</sup>
+- Forbiddance
+- Primal Attunement<sup>WoW5eRPG</sup>
+- Primordial Ward<sup>EE</sup>
+- Heroes’ Feast
+- Word of Recall
+- Find the Path
+- True Seeing
+- Heal
+- Possession Modified
+- Bones of the Earth<sup>EE</sup>
+- Investiture of Flame<sup>EE</sup>
+- Investiture of Ice<sup>EE</sup>
+- Investiture of Stone<sup>EE</sup>
+- Investiture of Wind<sup>EE</sup>
+- Mana Tide Totem<sup>WoW5eRPG</sup>
+- Move Earth
+- Wind Walk
+
+##### 7th Level
+- Plane Shift – Only to elemental planes
+- Divine Word
+- Fire Storm
+- Pyroblast<sup>Modified</sup> – Molten Blast
+- Windfury Tongue Totem<sup>WoW5eRPG</sup>
+- Whirlwind<sup>EE</sup>
+- Resurrection<sup>Modified</sup>
+- Etherealness – Spirit Walk
+- Regenerate
+- Reverse Gravity – Upturned Earth
+
+##### 8th Level
+- Incendiary Cloud
+- Tsunami
+- Sunburst
+- Horrid Wilting<sup>EE</sup> (Abi-Dalzim’s Horrid Wilting)
+- Control Weather
+
+##### 9th Level
+- Imprisonment
+- Gate
+- Storm of Vengeance
+- Foresight
+- Mass Heal
+- Meteor Swarm
+- Astral Projection – Spirit Journey
+
+</div>
+
+\pagebreakNum
+
+### Warlock (WRK)
+
+<div class="spellList">
+
+##### Cantrips (0 Level)
+- Blade Ward
+- Acid Splash
+- Create Bonfire<sup>EE</sup>
+- Infestation<sup>XGtE</sup>
+- Poison Spray
+- Mage Hand
+- True Strike
+- Friends
+- Dancing Lights
+- Fire Bolt
+- Light
+- Shocking Grasp
+- Minor Illusion
+- Chill Touch
+- Toll the Dead<sup>XGtE</sup>
+- Control Flames<sup>EE</sup>
+- Gust<sup>EE</sup>
+- Mending
+- Message
+- Prestidigitation
+
+##### 1st Level
+- Absorb Elements<sup>EE</sup>
+- Alarm
+- Bind<sup>WoW5eRPG</sup>
+- Elemental Armor<sup>WoW5eRPG</sup>
+- Mage Armor
+- Protection from Evil and Good
+- Shield
+- Conjure<sup>Modified</sup>
+- Conjure Strike<sup>WoW5eRPG</sup>
+- Demon Skin<sup>WoW5eRPG</sup>
+- Find Familiar
+- Fog Cloud
+- Grease
+- Floating Disk
+- Unseen Servant
+- Comprehend Languages
+- Detect Magic
+- Detect Evil and Good
+- Identify
+- Charm<sup>Modified</sup> 
+- Hex Array<sup>WoW5eRPG</sup>  – All except Fortune
+- Hideous Laughter
+- Sleep
+- Burning Hands
+- Chaos Bolt<sup>WoW5eRPG</sup>
+- Explosion<sup>WoW5eRPG</sup>
+- Hellish Rebuke
+- Icy Touch<sup>WoW5eRPG</sup>
+- Immolate<sup>WoW5eRPG</sup>
+- Mind Blast<sup>WoW5eRPG</sup>
+- Shadow Bolt<sup>WoW5eRPG</sup>
+- Thunderwave
+- Witch Bolt
+- Color Spray
+- Disguise Self
+- Fade<sup>WoW5eRPG</sup>
+- Illusory Script
+- Silent Image
+- Cause Fear<sup>XGtE</sup>
+- False Life
+- Ray of Sickness
+- Catapult<sup>EE</sup>
+- Expeditious Retreat
+- Feather Fall
+- Hex Array<sup>WoW5eRPG</sup> – Only Death 
+- Jump
+- Longstrider
+
+##### 2nd Level
+- Immolation Aura<sup>WoW5eRPG</sup>
+- Arcane Lock
+- Banishment<sup>WoW5eRPG</sup>
+- Essence Seal<sup>WoW5eRPG</sup>
+- Blink Step<sup>WoW5eRPG</sup>
+- Flaming Sphere
+- Parasite<sup>WoW5eRPG</sup>
+- Web
+- Detect Thoughts
+- Locate Object
+- Mind Spike<sup>XGtE</sup>
+- See Invisibility
+- Crown of Madness
+- Hold<sup>Modified</sup>
+- Suggestion
+- Acid Arrow<sup>Modified</sup>
+- Continual Flame
+- Darkness
+- Exorcism<sup>WoW5eRPG</sup>
+- Freezing Sphere<sup>Modified</sup> (Otiluke's freezing sphere)
+- Gust of Wind
+- Mana Burn<sup>WoW5eRPG</sup>
+- Orb of Annihilation<sup>WoW5eRPG</sup>
+- Scorcher<sup>EE</sup> (Aganazzar’s Scorcher)
+- Scorching Ray– Eye Beam – Deals fel damage, no longer has S Component
+- Serpent Ward<sup>WoW5eRPG</sup>
+- Shadow Word Death<sup>WoW5eRPG</sup> – Death Curse
+- Shadow Word Pain<sup>WoW5eRPG</sup>
+- Magic Aura
+- Magic Mouth
+- Mute<sup>WoW5eRPG</sup>
+- Shadow Blade<sup>XGtE</sup>
+- Blindness/Deafness
+- Curse of Agony<sup>WoW5eRPG</sup>
+- Gentle Repose
+- Life Tap<sup>WoW5eRPG</sup>
+- Ray of Enfeeblement
+- Shackle Evil<sup>WoW5eRPG</sup>
+- Unholy Frenzy<sup>WoW5eRPG</sup> – Curse of Recklessness
+- Alter Self
+- Darkvision
+- Dragon’s Breath<sup>XGtE</sup>
+- Enlarge/Reduce
+- Knock
+- Levitate
+- Magic Weapon
+- Pyrotechnics<sup>EE</sup>
+- Rope Trick
+
+##### 3rd Level
+- Dispel Magic
+- Glyph of Warding
+- Magic Circle
+- Nondetection
+- Protection from Energy
+- Remove Curse
+- Spirit Link<sup>WoW5eRPG</sup> – Fel Bond
+- Stinking Cloud
+- Thunder Step<sup>XGtE</sup>
+- Clairvoyance
+- Tongues
+- Enemies Abound<sup>XGtE</sup>
+- Carrion Swarm<sup>WoW5eRPG</sup>
+- Fireball
+- Fire Nova<sup>WoW5eRPG</sup>
+- Mind Flay<sup>WoW5eRPG</sup> – Shadow-Speech
+- Minute Meteors<sup>EE</sup> (Melf’s Minute Meteors)
+- Rain of Fire<sup>WoW5eRPG</sup>
+- Sending
+- Fear
+- Hypnotic Pattern
+- Phantom Steed
+- Bestow Curse
+- Curse of Tongues<sup>WoW5eRPG</sup>
+- Curse of Weakness<sup>WoW5eRPG</sup>
+- Vampiric Touch
+- Blink
+- Flame Arrows<sup>EE</sup>
+- Fly
+- Gaseous Form
+- Haste
+- Slow
+- Telekinesis Modified
+- Water Breathing
+
+##### 4th Level
+- Globe of Invulnerability<sup>Modified</sup>
+- Ice Block<sup>WoW5eRPG</sup>
+- Private Sanctum
+- Black Tentacles
+- Dimension Door
+- Secret Chest
+- Arcane Eye – Eye of Kilrogg
+- Locate Creature
+- Confusion
+- Soulshatter<sup>WoW5eRPG</sup>
+- Detonate Mana<sup>WoW5eRPG</sup>
+- Fire Shield
+- Ice Storm
+- Inferno Blast<sup>WoW5eRPG</sup>
+- Resilient Sphere
+- Vitriolic Sphere<sup>EE</sup>
+- Wall of Fire
+- Greater Invisibility
+- Hallucinatory Terrain
+- Phantasmal Killer
+- Blight
+- Drain Life<sup>WoW5eRPG</sup>
+- Drain Mana<sup>WoW5eRPG</sup>
+- Shadow of Moil<sup>XGtE</sup>
+- Control Water
+- Elemental Bane<sup>EE</sup>
+- Polymorph
+
+##### 5th Level
+- Vampiric Aura<sup>WoW5eRPG</sup>
+- Amplify Magic<sup>WoW5eRPG</sup>
+- Mind Freeze<sup>WoW5eRPG</sup>
+- Cloudkill
+- Far Step<sup>XGtE</sup>
+- Soul Well<sup>WoW5eRPG</sup>
+- Teleportation Circle
+- Contact Other Plane
+- Legend Lore
+- Scrying
+- Telepathic Bond
+- Dominate<sup>Modified</sup>
+- Geas
+- Modify Memory
+- Synaptic Static<sup>XGtE</sup>
+- Combustion<sup>WoW5eRPG</sup>
+- Flame Strike – Flame Crash<sup>WoW5eRPG</sup>
+- Hand<sup>Modified</sup>
+- Immolation<sup>EE</sup>
+- Living Bomb<sup>WoW5eRPG</sup>
+- Wall of Force
+- Wall of Light<sup>XGtE</sup>
+- Creation
+- Dream
+- Mislead
+- Seeming
+- Contagion
+- Cripple<sup>WoW5eRPG</sup>
+- Curse of Shadows<sup>WoW5eRPG</sup>
+- Danse Macabre<sup>XGtE</sup>
+- Death and Decay<sup>WoW5eRPG</sup>
+- Enervation<sup>XGtE</sup>
+- Negative Energy Flood<sup>XGtE</sup>
+- Soul Stone<sup>WoW5eRPG</sup>
+- Animate Objects
+- Passwall
+- Skill Empowerment<sup>XGtE</sup>
+
+</div>
+
+\pagebreakNum
+
+<div class="spellList">
+
+##### 6th Level
+- Forbiddance
+- Guards and Wards
+- Arcane Gate
+- Instant Summons
+- Scatter<sup>XGtE</sup>
+- True Seeing
+- Irresistible Dance
+- Mass Suggestion
+- Contingency
+- Mental Prison<sup>XGtE</sup>
+- Programmed Illusion
+- Circle of Death
+- Eyebite
+- Soul Cage<sup>XGtE</sup>
+- Possession<sup>Modified</sup>
+- Disintegrate
+- Flesh to Stone
+- Investiture of Flame<sup>EE</sup>
+- Investiture of Ice<sup>EE</sup>
+- Investiture of Stone<sup>EE</sup>
+- Investiture of Wind<sup>EE</sup>
+
+##### 7th Level
+- Symbol
+- Magnificent Mansion
+- Plane Shift
+- Teleport
+- Power Word Pain<sup>XGtE</sup>
+- Crown of Stars<sup>XGtE</sup>
+- Fire Storm
+- Forcecage
+- Prismatic Spray
+- Pyroblast – Soul Fire<sup>Modified</sup>
+- Mirage Arcane
+- Project Image
+- Simulacrum
+- Finger of Death
+- Etherealness
+- Reverse Gravity
+- Sequester
+
+##### 8th Level
+- Antimagic Field
+- Mind Blank
+- Demiplane
+- Incendiary Cloud
+- Maze
+- Antipathy/Sympathy
+- Feeblemind
+- Power Word Stun
+- Maddening Darkness<sup>XGtE</sup>
+- Sunburst
+- Telepathy
+- Clone
+- Control Weather
+
+##### 9th Level
+- Imprisonment
+- Demonic Doom<sup>WoW5eRPG</sup>
+- Gate
+- Wish
+- Foresight
+- Power Word Kill
+- Psychic Scream<sup>XGtE</sup>
+- Meteor Swarm
+- Weird
+- Astral Projection
+- Time Stop
+
+</div>
+
+\pagebreakNum
