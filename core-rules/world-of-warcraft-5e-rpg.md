@@ -85,7 +85,7 @@
 <div class='cover-footer'>5e RPG Conversion</div>
 
 \pagebreak
- 
+
 <style>
 .phb#p2:after { display:none; }
 </style>
@@ -111,23 +111,23 @@ Version 3.5
 *- Medivh, the last Guardian*
 
 Many have waited for Blizzard to approve another conversion of their world to the tabletop playing realm. Alas, many waited in vain.
- 
+
 *“We will persevere.”*<br>
 *- The Blood Elves*
 
-However, tabletop players are well-known for their persistence and tenacity in getting what they want to play--or at least, satisfying themselves with an adequate enough replica. 
- 
+However, tabletop players are well-known for their persistence and tenacity in getting what they want to play--or at least, satisfying themselves with an adequate enough replica.
+
 *“Sometimes, the hand of Fate must be forced.”*<br>
 *- Illidan Stormrage*
 
 And thus, the World of Warcraft 5e RPG Conversion begun.
 
-This conversion is of the much-loved World of Warcraft Role universe, as for 5th edition of Dungeons and Dragons, made by the fans, for the fans. 
+This conversion is of the much-loved World of Warcraft Role universe, as for 5th edition of Dungeons and Dragons, made by the fans, for the fans.
 
-This not only includes special classes, races, and magical spells, but also includes magical items, and even a few subsystems (such as infusion, mana, and crafting) built in the streamlined format of 5th edition, for the benefit of all roleplayers. 
- 
+This not only includes special classes, races, and magical spells, but also includes magical items, and even a few subsystems (such as infusion, mana, and crafting) built in the streamlined format of 5th edition, for the benefit of all roleplayers.
+
 Cover Art: [Ekaterina Shapovalova](https://www.artstation.com/artwork/or5JJ)
- 
+
 </div>
 
 <div class='back-cover-right'>
@@ -186,7 +186,7 @@ Warcraft setting, including but not limited to capitalized names, names of artif
 creatures, geographic locations, gods, historic events, magic items, organizations, songs, and spells; any and all stories,
 storylines, plots, thematic elements, and dialogue; and all artwork, symbols, designs, depictions, illustrations, maps and
 cartography, likenesses, poses, logos, symbols, or graphic designs), and use of this is non-commercial in purpose, and
-appeals to the ‗Fair Use‘ intent of copyright infringement laws. 
+appeals to the ‗Fair Use‘ intent of copyright infringement laws.
 
 </div>
 
@@ -239,7 +239,7 @@ ___
 
 </div>
 
-In some cases, a spell has a name known for a certain class (such as the warlock’s shadow bolt being known as void bolt for priests), in which case the name is unchanged but the newer is referred to in Chapter 11. 
+In some cases, a spell has a name known for a certain class (such as the warlock’s shadow bolt being known as void bolt for priests), in which case the name is unchanged but the newer is referred to in Chapter 11.
 
 Spells not included in the above list that include their inventor’s name (Bigby’s Hand, Evard’s Black Tentacles) excises the inventor’s name (Hand, Black Tentacles, etc.), as detailed in Chapter 11.
 
@@ -248,18 +248,18 @@ Spells not included in the above list that include their inventor’s name (Bigb
 #### Magic and Mana
 Some spells are changed in function or name. All such spells are referred to with their new names, rather than their old names.
 
-Mana and prepared spells are also used as a core magic system, not spell slots. Mana restores over time, while resting, by drinking certain potions, and by using certain abilities. This is detailed further under chapter 10. 
+Mana and prepared spells are also used as a core magic system, not spell slots. Mana restores over time, while resting, by drinking certain potions, and by using certain abilities. This is detailed further under chapter 10.
 
 #### Classes
-As detailed below, some classes gain different abilities to better synergize with the mana system, while others are renamed as above. 
+As detailed below, some classes gain different abilities to better synergize with the mana system, while others are renamed as above.
 
 #### Corporeality and Etherealness
-The Warcraft universe does not transit into the ethereal plane present in other settings, and thus all ethereal movement is incorporeal movement instead. 
+The Warcraft universe does not transit into the ethereal plane present in other settings, and thus all ethereal movement is incorporeal movement instead.
 
 Incorporeal creatures gain damage resistance to all physical and elemental damage, but not magic damage (arcane, holy, fel, shadow, and thunder). They may also go through solid objects such as walls (treating movement as difficult terrain), but take 5 (1d10) arcane damage if ending their turn within one. They are also naturally invisible, but are not naturally silent. They cannot attack non incorporeal creatures or cast spells, but may handle force effects as normal (such as by pushing, casting force spells, or attacking with force weapons). Force effects prevent incorporeal creatures to pass through them.
 
 #### Damage Types
-Besides the normal damage descriptors in 5e D&D, the Warcraft universe has an additional damage type: Fel, which is channeled by demonic power and is inherently destructive and corruptive. It also differs in naming existing descriptors. 
+Besides the normal damage descriptors in 5e D&D, the Warcraft universe has an additional damage type: Fel, which is channeled by demonic power and is inherently destructive and corruptive. It also differs in naming existing descriptors.
 Damage types are detailed under Chapter 9.
 
 \pagebreakNum
@@ -269,91 +269,91 @@ Damage types are detailed under Chapter 9.
 <div class='index'>
 
 - ### [<span>Chapter 1: Step-by-Step-Characters</span>                <span>5</span>](#chapter1)
-  - #### [<span>Ability Score Summary</span>                          <span>5</span>](#ascoresum)
-  - #### [<span>Determining Ability Scores</span>                     <span>5</span>](#determinescores)
-  - #### [<span>Beyond 1st Level</span>                               <span>6</span>](beyondfirst)
+    - #### [<span>Ability Score Summary</span>                          <span>5</span>](#ascoresum)
+    - #### [<span>Determining Ability Scores</span>                     <span>5</span>](#determinescores)
+    - #### [<span>Beyond 1st Level</span>                               <span>6</span>](beyondfirst)
 - ### [<span>Chapter 2: Races</span>                                  <span>7</span>](#races)
-  - #### [<span>Racial Mount</span>                                   <span>7</span>](#races)
-  - #### [<span>Draenei</span>                                        <span>8</span>](#draenei)
-  - #### [<span>Dwarf</span>                                          <span>10</span>](#dwarf)
-  - #### [<span>Elf</span>                                            <span>13</span>](#elf)
-  - #### [<span>Forsaken</span>                                       <span>18</span>](#forsaken)
-  - #### [<span>Gnome</span>                                          <span>20</span>](#gnome)
-  - #### [<span>Goblin</span>                                         <span>21</span>](#goblin)
-  - #### [<span>Human</span>                                          <span>22</span>](#human)
-  - #### [<span>Orc</span>                                            <span>22</span>](#orc)
-  - #### [<span>Pandaren</span>                                       <span>25</span>](#pandaren)
-  - #### [<span>Tauren</span>                                         <span>26</span>](#tauren)
-  - #### [<span>Troll</span>                                          <span>26</span>](#troll)
-  - #### [<span>Worgen</span>                                         <span>31</span>](#worgen)
-  - #### [<span>Special: Half-Breed-Race</span>                       <span>33</span>](#halfbreed)
+    - #### [<span>Racial Mount</span>                                   <span>7</span>](#races)
+    - #### [<span>Draenei</span>                                        <span>8</span>](#draenei)
+    - #### [<span>Dwarf</span>                                          <span>10</span>](#dwarf)
+    - #### [<span>Elf</span>                                            <span>13</span>](#elf)
+    - #### [<span>Forsaken</span>                                       <span>18</span>](#forsaken)
+    - #### [<span>Gnome</span>                                          <span>20</span>](#gnome)
+    - #### [<span>Goblin</span>                                         <span>21</span>](#goblin)
+    - #### [<span>Human</span>                                          <span>22</span>](#human)
+    - #### [<span>Orc</span>                                            <span>22</span>](#orc)
+    - #### [<span>Pandaren</span>                                       <span>25</span>](#pandaren)
+    - #### [<span>Tauren</span>                                         <span>26</span>](#tauren)
+    - #### [<span>Troll</span>                                          <span>26</span>](#troll)
+    - #### [<span>Worgen</span>                                         <span>31</span>](#worgen)
+    - #### [<span>Special: Half-Breed-Race</span>                       <span>33</span>](#halfbreed)
 - ### [<span>Chapter 3: Classes</span>                                <span>34</span>](#classes)
-  - #### [<span>Alchemist</span>                                      <span>35</span>](#alchemist)
-  - #### [<span>Death Knight</span>                                   <span>44</span>](#deathknight)
-  - #### [<span>Druid</span>                                          <span>53</span>](#druid)
-  - #### [<span>Hunter</span>                                         <span>61</span>](#hunter)
-  - #### [<span>Mage</span>                                           <span>69</span>](#mage)
-  - #### [<span>Monk</span>                                           <span>76</span>](#monk)
-  - #### [<span>Paladin</span>                                        <span>84</span>](#paladin)
-  - #### [<span>Priest</span>                                         <span>92</span>](#priest)
-  - #### [<span>Rogue</span>                                          <span>105</span>](#rogue)
-  - #### [<span>Shaman</span>                                         <span>112</span>](#shaman)
-  - #### [<span>Tinker</span>                                         <span>122</span>](#tinker)
-  - #### [<span>Warlock</span>                                        <span>130</span>](#warlock)
-  - #### [<span>Warrior</span>                                        <span>138</span>](#warrior)
-  - #### [<span>Special and Racial Specializiations</span>            <span>145</span>](#specials)
-    - ##### [<span>Demon Hunter (Rogue)</span>                        <span>146</span>](#demonhunter)
-    - ##### [<span>Mountain King (Warrior)</span>                     <span>148</span>](#mountainking)
-    - ##### [<span>Runeweaver (Monk)</span>                           <span>150</span>](#runeweaver)
-    - ##### [<span>Shadow Hunter (Hunter)</span>                      <span>152</span>](#shadowhunter)
-    - ##### [<span>Spell Breaker (Warrior)</span>                     <span>154</span>](#spellbreaker)
-    - ##### [<span>Witch Doctor (Shaman)</span>                       <span>156</span>](#witchdoctor) 
-  - #### [<span>Bound Companions</span>                               <span>158</span>](#companions)
-  - #### [<span>Class Talents</span>                                  <span>159</span>](#classtalents)  
+    - #### [<span>Alchemist</span>                                      <span>35</span>](#alchemist)
+    - #### [<span>Death Knight</span>                                   <span>44</span>](#deathknight)
+    - #### [<span>Druid</span>                                          <span>53</span>](#druid)
+    - #### [<span>Hunter</span>                                         <span>61</span>](#hunter)
+    - #### [<span>Mage</span>                                           <span>69</span>](#mage)
+    - #### [<span>Monk</span>                                           <span>76</span>](#monk)
+    - #### [<span>Paladin</span>                                        <span>84</span>](#paladin)
+    - #### [<span>Priest</span>                                         <span>92</span>](#priest)
+    - #### [<span>Rogue</span>                                          <span>105</span>](#rogue)
+    - #### [<span>Shaman</span>                                         <span>112</span>](#shaman)
+    - #### [<span>Tinker</span>                                         <span>122</span>](#tinker)
+    - #### [<span>Warlock</span>                                        <span>130</span>](#warlock)
+    - #### [<span>Warrior</span>                                        <span>138</span>](#warrior)
+    - #### [<span>Special and Racial Specializiations</span>            <span>145</span>](#specials)
+        - ##### [<span>Demon Hunter (Rogue)</span>                        <span>146</span>](#demonhunter)
+        - ##### [<span>Mountain King (Warrior)</span>                     <span>148</span>](#mountainking)
+        - ##### [<span>Runeweaver (Monk)</span>                           <span>150</span>](#runeweaver)
+        - ##### [<span>Shadow Hunter (Hunter)</span>                      <span>152</span>](#shadowhunter)
+        - ##### [<span>Spell Breaker (Warrior)</span>                     <span>154</span>](#spellbreaker)
+        - ##### [<span>Witch Doctor (Shaman)</span>                       <span>156</span>](#witchdoctor)
+    - #### [<span>Bound Companions</span>                               <span>158</span>](#companions)
+    - #### [<span>Class Talents</span>                                  <span>159</span>](#classtalents)
 - ### [<span>Chapter 4: Personality & Background</span>               <span>???</span>](#personality)
-  - #### [<span>Character Details</span>                             <span>???</span>](#characterdetails)  
-    - ##### [<span>Languages</span>                                   <span>???</span>](#languages)
-    - ##### [<span>Inspiration</span>                                 <span>???</span>](#inspiration)
-  - #### [<span>Backgrounds</span>                                    <span>???</span>](#backgrounds)  
-    - ##### [<span>Acolyte</span>                                     <span>???</span>](#acolyte)
-    - ##### [<span>Charlatan</span>                                   <span>???</span>](#charlatan)
-    - ##### [<span>Criminal</span>                                    <span>???</span>](#criminal)
-    - ##### [<span>Entertainer</span>                                 <span>???</span>](#entertainer)
-    - ##### [<span>Folk Hero</span>                                   <span>???</span>](#folkhero)
-    - ##### [<span>Guild Artisan</span>                               <span>???</span>](#guildartisan)
-    - ##### [<span>Haunted One</span>                                 <span>???</span>](#hauntedone)
-    - ##### [<span>Hermit</span>                                      <span>???</span>](#hermit)
-    - ##### [<span>Noble</span>                                       <span>???</span>](#noble)
-    - ##### [<span>Outlander</span>                                   <span>???</span>](#outlander)
-    - ##### [<span>Sage</span>                                        <span>???</span>](#sage)
-    - ##### [<span>Sailor</span>                                      <span>???</span>](#sailor)
-    - ##### [<span>Soldier</span>                                     <span>???</span>](#soldier)
-    - ##### [<span>Urchin</span>                                      <span>???</span>](#urchin)
+    - #### [<span>Character Details</span>                             <span>???</span>](#characterdetails)
+        - ##### [<span>Languages</span>                                   <span>???</span>](#languages)
+        - ##### [<span>Inspiration</span>                                 <span>???</span>](#inspiration)
+    - #### [<span>Backgrounds</span>                                    <span>???</span>](#backgrounds)
+        - ##### [<span>Acolyte</span>                                     <span>???</span>](#acolyte)
+        - ##### [<span>Charlatan</span>                                   <span>???</span>](#charlatan)
+        - ##### [<span>Criminal</span>                                    <span>???</span>](#criminal)
+        - ##### [<span>Entertainer</span>                                 <span>???</span>](#entertainer)
+        - ##### [<span>Folk Hero</span>                                   <span>???</span>](#folkhero)
+        - ##### [<span>Guild Artisan</span>                               <span>???</span>](#guildartisan)
+        - ##### [<span>Haunted One</span>                                 <span>???</span>](#hauntedone)
+        - ##### [<span>Hermit</span>                                      <span>???</span>](#hermit)
+        - ##### [<span>Noble</span>                                       <span>???</span>](#noble)
+        - ##### [<span>Outlander</span>                                   <span>???</span>](#outlander)
+        - ##### [<span>Sage</span>                                        <span>???</span>](#sage)
+        - ##### [<span>Sailor</span>                                      <span>???</span>](#sailor)
+        - ##### [<span>Soldier</span>                                     <span>???</span>](#soldier)
+        - ##### [<span>Urchin</span>                                      <span>???</span>](#urchin)
 - ### [<span>Chapter 5: Equipment</span>                              <span>???</span>](#equipment)
-  - #### [<span>Starting Equipment</span>                             <span>???</span>](#startingequipment)
-  - #### [<span>Wealth</span>                                         <span>???</span>](#wealth)
-  - #### [<span>Adventuring Gear</span>                                         <span>???</span>](#adventuringgear)
-  - #### [<span>Weapons and Armor</span>                              <span>???</span>](#weaponsarmor)
-  - #### [<span>Tools</span>                                          <span>???</span>](#tools)
-  - #### [<span>Treasures</span>                                      <span>???</span>](#treasures)
-    - ##### [<span>Infused Items</span>                               <span>???</span>](#infuseditems)
-    - ##### [<span>Artifacts</span>                                   <span>???</span>](#artifacts)
-    - ##### [<span>Armor Sets</span>                                  <span>???</span>](#armorsets)
-    - ##### [<span>Epic Boons</span>                                  <span>???</span>](#epicboons)
-  - #### [<span>Skill or Tool Products</span>                         <span>???</span>](#)
-  - #### [<span>Alchemy: Potions</span>                            <span>???</span>](#alchemypotions)
-  - #### [<span>Engineering: Devices</span>                          <span>???</span>](#engineeringdevices)
-      - ##### [<span>Creatures</span>                          <span>???</span>](#engineeringcreatures)
-      - ##### [<span>Explosives</span>                          <span>???</span>](#engineeringexplosives)
-      - ##### [<span>Firearms & Crossbows</span>                          <span>???</span>](#engineeringfirearms)
-      - ##### [<span>Ammunition</span>                          <span>???</span>](#engineeringammunition)
-      - ##### [<span>Gadgets</span>                          <span>???</span>](#engineeringgadgets)
-  - #### [<span>Infusion Kit</span>                          <span>???</span>](#infusionkit)
-  - #### [<span>Jewelcrafting Kit</span>                          <span>???</span>](#jewelcraftingkit) 
-  - #### [<span>Poisoners Kit</span>                          <span>???</span>](#poisonerskit) 
-- ### [<span>Chapter 6 - Customization</span>                          <span>???</span>](#customization) 
-  - #### [<span>Multiclassing</span>                          <span>???</span>](#multiclassing) 
-  - #### [<span>Feats</span>                          <span>???</span>](#feats) 
+    - #### [<span>Starting Equipment</span>                             <span>???</span>](#startingequipment)
+    - #### [<span>Wealth</span>                                         <span>???</span>](#wealth)
+    - #### [<span>Adventuring Gear</span>                                         <span>???</span>](#adventuringgear)
+    - #### [<span>Weapons and Armor</span>                              <span>???</span>](#weaponsarmor)
+    - #### [<span>Tools</span>                                          <span>???</span>](#tools)
+    - #### [<span>Treasures</span>                                      <span>???</span>](#treasures)
+        - ##### [<span>Infused Items</span>                               <span>???</span>](#infuseditems)
+        - ##### [<span>Artifacts</span>                                   <span>???</span>](#artifacts)
+        - ##### [<span>Armor Sets</span>                                  <span>???</span>](#armorsets)
+        - ##### [<span>Epic Boons</span>                                  <span>???</span>](#epicboons)
+    - #### [<span>Skill or Tool Products</span>                         <span>???</span>](#)
+    - #### [<span>Alchemy: Potions</span>                            <span>???</span>](#alchemypotions)
+    - #### [<span>Engineering: Devices</span>                          <span>???</span>](#engineeringdevices)
+        - ##### [<span>Creatures</span>                          <span>???</span>](#engineeringcreatures)
+        - ##### [<span>Explosives</span>                          <span>???</span>](#engineeringexplosives)
+        - ##### [<span>Firearms & Crossbows</span>                          <span>???</span>](#engineeringfirearms)
+        - ##### [<span>Ammunition</span>                          <span>???</span>](#engineeringammunition)
+        - ##### [<span>Gadgets</span>                          <span>???</span>](#engineeringgadgets)
+    - #### [<span>Infusion Kit</span>                          <span>???</span>](#infusionkit)
+    - #### [<span>Jewelcrafting Kit</span>                          <span>???</span>](#jewelcraftingkit)
+    - #### [<span>Poisoners Kit</span>                          <span>???</span>](#poisonerskit)
+- ### [<span>Chapter 6 - Customization</span>                          <span>???</span>](#customization)
+    - #### [<span>Multiclassing</span>                          <span>???</span>](#multiclassing)
+    - #### [<span>Feats</span>                          <span>???</span>](#feats)
 
 </div>
 
@@ -378,7 +378,7 @@ ___
 - **Racial Increases:** Bronzebeard Dwarf (+1), Draenei (+2), Forsaken (+1), Orc (+2), Human (+1), Tauren (+2), Troll (+1, +2 if Drakkari), Worgen (+1)
 
 <div style='margin-top:20px;'></div>
- 
+
 #### Agility
 ___
 - **Measures:** Physical agility, reflexes, balance, poise
@@ -391,7 +391,7 @@ ___
 ___
 - **Measures:** Health, constitution, vital force
 - **Important for:** Everyone
-- **Racial Increases:** Dwarf (+2), Forsaken (+1), Gnome (+1), Human (+1), Orc (+1), Pandaren (+2), Tauren (+1), Troll (+1, +2 if Drakkari) 
+- **Racial Increases:** Dwarf (+2), Forsaken (+1), Gnome (+1), Human (+1), Orc (+1), Pandaren (+2), Tauren (+1), Troll (+1, +2 if Drakkari)
 
 #### Intelligence
 ___
@@ -405,7 +405,7 @@ ___
 ___
 - **Measures:** Awareness, intuition, wisdom
 - **Important for:** Druid, Priest, Shaman
-- **Racial Increases:** Wildhammer Dwarf (+1), Draenei (+1), Forsaken (+1), Human (+1), Night Elf (+1), Orc (+1), Pandaren (+1), Tauren (+1), Troll (+1) 
+- **Racial Increases:** Wildhammer Dwarf (+1), Draenei (+1), Forsaken (+1), Human (+1), Night Elf (+1), Orc (+1), Pandaren (+1), Tauren (+1), Troll (+1)
 
 <div style='margin-top:20px;'></div>
 
@@ -421,7 +421,7 @@ ___
 
 ## Determining Ability Scores
 
-#### Focus and Foible. 
+#### Focus and Foible.
 
 This method leads to more focused characters with clearer weaknesses.
 
@@ -505,7 +505,7 @@ With such options available, players benefit more from wealth and time to build 
 explosives, and more spells in a mage's spellbook, to advanced constructs and vehicles such as gyrocopters, so exercising
 judgment is key.
 
-\pagebreakNum 
+\pagebreakNum
 
 <a id="races"></a>
 
@@ -513,7 +513,7 @@ judgment is key.
 
 The races of Warcraft are diverse and rich. Each race has a role in the world, and their deeds resonate through the ages. Members of each race view each other with assumptions formed by past conflicts and alliances. Warcraft’s history is troubled and epic, and every aspect influences the races, their beliefs and their roles.
 
-The races described here are not the only races in the Warcraft world, but they are the most dominant, influential, and prone to adventuring. Other races can be found in the Monster Guide. 
+The races described here are not the only races in the Warcraft world, but they are the most dominant, influential, and prone to adventuring. Other races can be found in the Monster Guide.
 
 ## Racial Mount
 Each race in Warcraft has affinity to one creature that serves as a primary mount, either to accommodate their skeletal and muscular structure, or for cultural reasons. Refer to the below table for details.
@@ -550,7 +550,7 @@ Each race in Warcraft has affinity to one creature that serves as a primary moun
 \pagebreakNum
 
 <a id="draenei"></a>
- 
+
 <img src='https://www.hahn-webdesign.de/wow5e/draenei-back.webp' style='position:absolute; top:0px; left:-100px; width:1000px' />
 
 <img src='https://www.gmbinder.com/images/rNOAD8A.png' style='position:absolute; top:-30px; left:0px; width:100%;' />
@@ -691,7 +691,7 @@ if cast as a 1st level spell. This can be used once, replenishing on a short or 
 While a creature benefits from this ability, they have a glowing blue mark above their forehead
 (shedding light equal to dancing lights). Your spellcasting ability modifier is Spirit or Charisma (your
 choice).<br>
-***Gemcutting.*** You are proficient with artisan‘s tools (jewelcrafting kit). 
+***Gemcutting.*** You are proficient with artisan‘s tools (jewelcrafting kit).
 
 \pagebreakNum
 
@@ -809,7 +809,7 @@ As a mountain dwarf, you probably hail from the Bronzebeard clan and its allies,
 *“You shall serve.”*
 <br><br>
 As a darklands dwarf, you probably hail from the Dark Iron clans, lead by the Sorcerer-thane Thaurissan. Reviled as betrayers of their fellow dwarves, and living in the mountain-halls of Blackrock Mountain, Dark Iron dwarves are slaves to the great elemental Firelord Ragnaros, and serve him in the latent volcanic mountain.<br>
-Dark Irons seem identical to Ironforge dwarves, except that their skin tones are ashen and gray, and their eyes are golden-red. Dark Irons who adventure can often reach into the power in their bloodline and spontaneously conjure flames.<br> 
+Dark Irons seem identical to Ironforge dwarves, except that their skin tones are ashen and gray, and their eyes are golden-red. Dark Irons who adventure can often reach into the power in their bloodline and spontaneously conjure flames.<br>
 Hoarse of voice and prone to undertone muttering, Dark Irons do not inspire trust easily.
 
 #### Affiliation
@@ -911,9 +911,9 @@ The night elves in particular do not care for the company of high elves and in s
 
 ***Ability Score Increase.*** Your Intelligence score increases<br>
 by 1.<br>
-***High Magic.*** You know the prestidigitation cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a spell 1st level spell. When you reach 5th level, you can also cast the mute spell as a 2nd level spell. 
+***High Magic.*** You know the prestidigitation cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a spell 1st level spell. When you reach 5th level, you can also cast the mute spell as a 2nd level spell.
 
-Intelligence is your spellcasting ability for these spells, and you use your mana pool for these abilities (your mana pool is considered active, even if you are not normally a spellcaster). While you use such abilities, your eyes glow a pale blue, and for one hour thereafter. 
+Intelligence is your spellcasting ability for these spells, and you use your mana pool for these abilities (your mana pool is considered active, even if you are not normally a spellcaster). While you use such abilities, your eyes glow a pale blue, and for one hour thereafter.
 
 If you can already cast such spells (and have a sufficiently high caster level to access them), they are instead prepared for free.
 <br>
@@ -950,16 +950,16 @@ ___
 Following the Third War, 90% of the High Elven population was slain during the Siege of Silvermoon and the Razing of Quel‘Thalas. Prince Kael‘Thas Sunstrider renamed his people the Blood Elves (Sin‘dorei) following this terrible event.<br>
 With their homeland destroyed, their forests burned and corrupted, and their beloved sacred Sunwell sullied, the Blood Elves underwent mana withdrawal.<br>
 Therefore their culture is more warped due to their insatiable thirst for vengeance: most have abandoned worship of the Light, and
-their allegiances have also changed, and most suffer psychologically from extensive use of mana siphoning, due to the Sunwell‘s corruption and subsequent destruction.<br> 
+their allegiances have also changed, and most suffer psychologically from extensive use of mana siphoning, due to the Sunwell‘s corruption and subsequent destruction.<br>
 A DM should consider applying the mana withdrawal optional rule with Blood Elves.
 
 #### Affiliation
 Horde or independent. Most of the blood elves have joined the New Horde, invited to do so by the Banshee Queen Sylvanas Windrunner.
 
 #### Blood Elf Traits
-Blood Elves are identical to High Elves in racial bonuses and names. 
+Blood Elves are identical to High Elves in racial bonuses and names.
 <br><br>
-***Blood Magic.*** This acts as High Magic. While you use abilities granted by this ability, your eyes glow a pale fel green instead of High Elves‘ blue. Instead of the prestidigitation cantrip, you may choose the thaumaturgy cantrip instead, and may cast the mana burn spell instead of mute. 
+***Blood Magic.*** This acts as High Magic. While you use abilities granted by this ability, your eyes glow a pale fel green instead of High Elves‘ blue. Instead of the prestidigitation cantrip, you may choose the thaumaturgy cantrip instead, and may cast the mana burn spell instead of mute.
 
 \columnbreak
 
@@ -1019,7 +1019,7 @@ following two features:<br>
 * Energy Blast. You can release a blast of arcane force as if you possessed the Mystic Blast feat (arcane damage only). You may use this blast number of times equal to your Intelligence modifier before replenishing at a long rest. This deals a number of d4 dice equal to onequarter your level (minimum 1d4).
 ___
 ***Blessing of the Nightwell.*** You have resistance to arcane damage.<br>
-***Nightfallen Magic.*** You know the mage hand cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the arcane explosion spell as a 2nd level spell. 
+***Nightfallen Magic.*** You know the mage hand cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast detect magic as a 1st level spell. When you reach 5th level, you can also cast the arcane explosion spell as a 2nd level spell.
 
 Intelligence is your spellcasting ability for these spells, and you use your mana pool for these abilities (your mana pool is considered active, even if you are not normally a spellcaster). While you use such abilities, your eyes glow a light blue, and for one hour thereafter.
 
@@ -1120,10 +1120,10 @@ Although humans make the vast population of Forsaken, there is also a population
 
 ***Knowledge from Beyond.*** The forsaken are uniquely acquainted with death. You can choose one of the below abilities.
 * *Elven Blood (must have been an elf).* You have lingering elven blood in your veins. You have proficiency with the Perception skill, and can gain one of the following racial traits, depending on your elven subrace.
-  * *Arcane Legacy (high elf or blood elf)*
-  * *Blessing of the Nightwell (Nightborne)*
-  * *Preternatural Calm (void elf)*
-  * *Shadowmeld (night elf)*
+    * *Arcane Legacy (high elf or blood elf)*
+    * *Blessing of the Nightwell (Nightborne)*
+    * *Preternatural Calm (void elf)*
+    * *Shadowmeld (night elf)*
 * *Human Blood (must have been a human).* You have lingering human blood in your veins. You gain the Skillful racial trait and a +1 bonus to a third ability score of your choice.<br>
 * *Necrotic Touch.* You can cast the plague rune spell. This can be used once until a short or long rest. At 6th level, you gain another use of the ability or choose to heighten the spell’s level to a 3rd level spell. You can make the same choice at the 11th and 16th levels (4th or 5th level, or additional uses). While you use this ability, your hand and eyes emit an eerie green glow.
 * *Natural Alchemist.* You have proficiency with Alchemist‘s Supplies and the Alchemy ability as a 1st level Alchemist. You have to store alchemical formula in a formula book, which you may start out with at 1st level. If you gain later proficiency, you gain expertise to the roll instead.
@@ -1192,7 +1192,7 @@ Gnomes and goblins have always been rivals — though whether this rivalry is a 
 ***Female Names.*** Beggra, Nefti, Sorassa, Gamash.<br>
 ***Family Names.*** Spinpistol, Airslicer, Bombtosser, Greatgear, Mekkatorque.
 
-\pagebreakNum  
+\pagebreakNum
 
 <a id="goblin"></a>
 
@@ -1312,7 +1312,7 @@ To their enemies, they are brutal and fearsome opponents, without parallel in th
 
 The orcs of Azeroth are part of a race that has once again found its true spirit, shunning the cruel practices of arcane and demonic magic for the paths of wisdom and power. Some orcs still hang on to the arcane practices of the past, but their time is fading.
 
-The concept of honor pervades all echelons of orcish society. Even the naming of an orc is temporary until he has performed a rite of passage. Once an orc has brought honor to his name and the name of his clan, the elders give him a second name based upon his deed. For an orc, honor is as important as his clan, and most will die defending either clan or personal reputation. 
+The concept of honor pervades all echelons of orcish society. Even the naming of an orc is temporary until he has performed a rite of passage. Once an orc has brought honor to his name and the name of his clan, the elders give him a second name based upon his deed. For an orc, honor is as important as his clan, and most will die defending either clan or personal reputation.
 
 \columnbreak
 
@@ -1328,7 +1328,7 @@ As one of the orcish people, you may hail from the exodus lead by Warchiefs Thra
 ### Orcish Traits
 
 ***Ability Score Increase.*** Your Strength score increases by 2, and your Stamina increases by 1. You may also choose one third ability score and increase it by 1.<br>
-***Age.*** Orcs mature and age a little faster than humans, reaching adulthood around the age of 20 and rarely live up to be 100 years old.<br> 
+***Age.*** Orcs mature and age a little faster than humans, reaching adulthood around the age of 20 and rarely live up to be 100 years old.<br>
 
 \pagebreakNum
 
@@ -1344,7 +1344,7 @@ As one of the orcish people, you may hail from the exodus lead by Warchiefs Thra
 ***Menacing.*** You gain proficiency in the Intimidation or Insight skills, and may use Strength for Intimidation checks instead of Charisma.<br>
 ***Warrior Tradition.*** You may choose two of the below features. You are treated as a 1st level warrior, hunter, or rogue for talents (unless you later take a level in warrior).
 * *Aggressive.* You gain the Aggressive talent.
-* *Brutal Critical.* You gain the Brutal Critical talent, and can apply it to spell damage rolls once per spell. 
+* *Brutal Critical.* You gain the Brutal Critical talent, and can apply it to spell damage rolls once per spell.
 * *Relentless.* You gain the Relentless talent. If you later gain the talent, you reduce the base DC by 5.
 * *Shock Resistant.* You gain the Shock Resistant talent.
 * *Primal Intuition.* You have proficiency with two of the following skills of your choice: Animal Handling, Medicine, Nature, Perception, and Survival.
@@ -1388,7 +1388,7 @@ Your allies might wonder from where you came and whether they could visit your h
 \columnbreak
 
 <div style="margin-top:600px;"></div>
- 
+
 ### Pandaren Traits
 
 ***Ability Score Increase.*** Your Stamina score increases by 2, and your Spirit by 1.<br>
@@ -1645,7 +1645,7 @@ Independent or Alliance. The Worgen of Gilneas re-joined their brethren of the A
 ***Size.*** Worgens are about the same size as humans when in humanoid and Worgen form. Your size is Medium.<br>
 ***Speed.*** Your base walking speed is 30 feet.
 
-\pagebreakNum 
+\pagebreakNum
 
 <img src='https://cdnb.artstation.com/p/assets/images/images/012/241/361/large/sleepingfox-shien-r-w-kelmia-commission-da.jpg?1533767771' style='position:absolute; bottom:0px; right:-250px; height:88%;' />
 
@@ -1657,15 +1657,15 @@ Independent or Alliance. The Worgen of Gilneas re-joined their brethren of the A
 ***Aberration.*** You have advantage to saves against poisons and resistance against poison damage.<br>
 ***Worgen Form.*** On your turn, you can shift from human form to worgen form as an action. Shifting lasts until you end it on your turn as a bonus action. You also gain the features described below.
 * You can roll a 1d6 dice for your unarmed attack when you bite (piercing damage), and a 1d4 for your unarmed attack if you use your claws (slashing damage). These can replace your original human natural attacks.
-* You can use the Dash action as a bonus action. 
+* You can use the Dash action as a bonus action.
 * Any attack you make with your claw can grapple a target if they are your size or smaller.
 * Your natural weapon dice increases in strength as if you were a monk equal to your level for your claw attack, or a monk four levels higher for your bite attack (up to a maximum of 2d6 damage if at level 17 or above). For example, a 7th level Worgen warrior‘s claws deal 1d6 damage (from 1d4), and their bite deals 1d8 damage.
 * If you have a magic weapon, you can fold its power into your form while you are shifting. While shifted, you cannot use the magic weapon, but can treat your unarmed attacks as if magical.
-Worgen Curse. Depending on your mental acuity, willpower, or predilections in combat, the curse is either a major or minor part of your identity. You can modify your Worgen Form ability with one of the following modifiers.
+  Worgen Curse. Depending on your mental acuity, willpower, or predilections in combat, the curse is either a major or minor part of your identity. You can modify your Worgen Form ability with one of the following modifiers.
 * Embrace the Beast. The curse more heavily affects your body than your mind or abilities of perception. You can shift as a bonus action instead of an action. While shifting, you gain temporary hit points equal to your level + your Stamina modifier (minimum of +1), although you can only gain temporary hit points once per long rest, regardless of how many times you shift to worgen form.
-Furthermore, when you use the Attack action with an unarmed strike with your natural weapon on your turn, you can make another unarmed strike as a bonus action. For example, if you take the Attack action and attack with your claws, you can also make an unarmed strike (bite) as a bonus action, assuming you haven't already taken a bonus action this turn.
+  Furthermore, when you use the Attack action with an unarmed strike with your natural weapon on your turn, you can make another unarmed strike as a bonus action. For example, if you take the Attack action and attack with your claws, you can also make an unarmed strike (bite) as a bonus action, assuming you haven't already taken a bonus action this turn.
 * Reject the Beast. The curse more heavily affects your mind and spirit, enhancing your abilities to track and perceive, but is unable to fully take hold of you. At the end of a long rest, you gain temporary hit points equal to your level. When you are in Worgen Form, these temporary hit points are suppressed, but you gain keen senses, and have advantage on Perception checks that involve scent. You are also proficient in the Insight and Perception skills, and gain expertise in one of them if you are already proficient in both.
-Lastly, so long as you are not shifting, you have advantage to contested checks to track (as if you had the Favored Enemy ability, but not restricted to a creature type).
+  Lastly, so long as you are not shifting, you have advantage to contested checks to track (as if you had the Favored Enemy ability, but not restricted to a creature type).
 ___
 ***Languages.*** You can speak, read, and write Common and one other language of your choice.
 <br><br>
@@ -1732,7 +1732,7 @@ Laughing maniacally as he consumes his potion, the troll rushes into the fight, 
 <br><br>
 A goblin mercenary sits on the back of a drugged ogre, tossing explosive potions. Wincing as a human warrior stabs his giant homunculus, he pulls out a potion from his side pouch and jams it down the ogre‘s throat. The crunch of teeth against glass invigorates the ogre, and, with a burp, it tosses its arm forward with great strength, tossing the human away as the alchemist laughs in triumph.*
 <br><br>
-Whether by careful measuring, self-experimentation, explosive mixtures, or supportive potions, an alchemist utilizes their own mix of magic and science, alchemical science, to support and heal wounds, decimate enemies, manifest unusual effects, or augment themselves to wade into battle. 
+Whether by careful measuring, self-experimentation, explosive mixtures, or supportive potions, an alchemist utilizes their own mix of magic and science, alchemical science, to support and heal wounds, decimate enemies, manifest unusual effects, or augment themselves to wade into battle.
 
 These lightly armored individuals are experts in creating a variety of special effects, from temporary explosives to elixirs that revive the dead.
 
@@ -1743,7 +1743,7 @@ These lightly armored individuals are experts in creating a variety of special e
 ### Magic and Science
 In the Warcraft universe, alchemy is not merely pseudo-chemistry—it is an art that draws power from the primal elements of life, not unlike actual magic. An alchemist is a master of the art who takes it leaps and bounds further than their peers, who are limited in their alchemical products to mere healing poultices and anti-toxins, reaching heights of reviving the dead or manifesting massive explosives.
 
-The greatest strength of an alchemist is their versatility. They can themselves adequately but can specialize in being battle-chemists who augment themselves with potions before tearing their enemies apart with their own hands. They can choose to focus on the augmentative powers of their mixtures, delaying harm and healing wounds, or to debilitate their enemies with negative status effects. Damage dealt by an alchemist’s potions usually focus on concussive or poison damage, but they are also broad in scope, dealing fire or frost or lighting as required of them. The better they anticipate their opposition, the better the alchemist can prepare. 
+The greatest strength of an alchemist is their versatility. They can themselves adequately but can specialize in being battle-chemists who augment themselves with potions before tearing their enemies apart with their own hands. They can choose to focus on the augmentative powers of their mixtures, delaying harm and healing wounds, or to debilitate their enemies with negative status effects. Damage dealt by an alchemist’s potions usually focus on concussive or poison damage, but they are also broad in scope, dealing fire or frost or lighting as required of them. The better they anticipate their opposition, the better the alchemist can prepare.
 
 The success of alchemists relies greatly on the formulae and recipes they have in their formula books. They gain new formulae as they gain experience, study other formula books, or research independently.
 
@@ -1844,7 +1844,7 @@ When starting with this class, you have proficiency with Alchemist’s Supplies 
 At 1st level, you know a number of cantrips equal to 1 + your proficiency bonus. As normal for alchemist spells, you cannot cast them, but can turn them into potions (unless you chose the Innate Cantrips focus from Weird Science). Cantrips do not require a formula book, and are always memorized.
 
 ##### Conjuring and Binding
-An alchemist can conjure and bind aberrations, constructs, elementals, oozes, plants, and undead, as well homunculi creatures (creatures with the homunculus template). 
+An alchemist can conjure and bind aberrations, constructs, elementals, oozes, plants, and undead, as well homunculi creatures (creatures with the homunculus template).
 
 This is usually done by crafting miniature versions and preparing them in potions or globes of alchemical mixtures.
 
@@ -1856,11 +1856,11 @@ When you level up, you can exchange a spell known with another you qualify for. 
 ##### Spellcasting Ability
 Intelligence is your spellcasting ability for your alchemist spells and abilities, since your powers draw upon your scientific prowess. You use your Intelligence modifier whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an alchemist effect you create and when making an attack roll with one.
 <br><br>
-**Spell save DC** = 8 + your proficiency bonus + 
+**Spell save DC** = 8 + your proficiency bonus +
 
 your Intelligence modifier
 <br>
-**Spell attack modifier** = your proficiency bonus + 
+**Spell attack modifier** = your proficiency bonus +
 
 your Intelligence modifier
 
@@ -1929,11 +1929,11 @@ As you increase in levels, creations of certain rarity require less time and eff
 
 Also at 1st level, you may choose a weird science or avenue of natural talent to focus your alchemical powers upon. Choose one of the following choices:
 * *Homunculus.* You gain a companion that is a humanoid, undead, construct, or any creature with the homunculus template. The creature has a Challenge Rating of 1/2 or lower. See Bound Companions for more details. Your homunculus companion improves in CR the higher your level becomes, CR equal to 1 per every 8 levels of Alchemist (improving to 1 CR at level 4, 2 CR at level 8, and 3 CR at level 16). This either takes the form of choosing a higher-level companion, or adding hit dice to the companion until its CR increases.
-If a humanoid or a creature with the homunculus template, the creature is loyal to you, but retains a shadow of free will. It can be commanded to go against its nature (or what it perceives as its nature) with a DC 15 Charisma check. Bonding with a homunculus requires spending one hour communicating with the creature by means it can understand, and spending the next seven hours in bonding activities (fixing/healing/conversing/etc.). The companion can use your potions as if it was you.
+  If a humanoid or a creature with the homunculus template, the creature is loyal to you, but retains a shadow of free will. It can be commanded to go against its nature (or what it perceives as its nature) with a DC 15 Charisma check. Bonding with a homunculus requires spending one hour communicating with the creature by means it can understand, and spending the next seven hours in bonding activities (fixing/healing/conversing/etc.). The companion can use your potions as if it was you.
 * *Innate Cantrips.* You can use any cantrips you have learned, so long as you have access to your Formula Book. You can use cantrips as if you were a spellcaster, and do not need to turn them into potions or use any resources on them (such as mana or inurement).
-* *Potion Slinger.* You may choose one type of ranged weapon (such as crossbows or bows) and gain proficiency if you don‘t already have it. Furthermore, you may spend a potion to infuse the projectile with the potion‘s effects. You may choose to activate the potion before launching the projectile (to take into account the spell‘s original casting time), but the spell otherwise takes place as if the target was hit (or the area it landed on) is the spell‘s original target. You may choose to deal the ranged weapon‘s damage on impact or to only apply the potion‘s effect. 
+* *Potion Slinger.* You may choose one type of ranged weapon (such as crossbows or bows) and gain proficiency if you don‘t already have it. Furthermore, you may spend a potion to infuse the projectile with the potion‘s effects. You may choose to activate the potion before launching the projectile (to take into account the spell‘s original casting time), but the spell otherwise takes place as if the target was hit (or the area it landed on) is the spell‘s original target. You may choose to deal the ranged weapon‘s damage on impact or to only apply the potion‘s effect.
 * *Mithridatism.* You gain innate power over poisons. You naturally generate up to four doses of basic poison (as described in the Player’s Handbook) whenever you complete a long rest. The poison’s DC is equal to your Alchemy Spell Save DC, however, and the damage is equal to 1d4 Poison damage per Alchemist spell level you can access. The poison expires before you complete your next long rest, replenishing your store. If you have an empty Mithridatism dose slot, you can choose to fill it with a poison you are affected by, so long as you succeed on the saving throw against it and are aware of its presence. You can store this poison for future use, but cannot otherwise generate it.
-You also have skill in deploying poisons that are in your dosage slots, and gain temporary immunity to such poisons so long as they are not deployed. You may deploy poisons as described under Chapter 7: Poisoner‘s Kit.  
+  You also have skill in deploying poisons that are in your dosage slots, and gain temporary immunity to such poisons so long as they are not deployed. You may deploy poisons as described under Chapter 7: Poisoner‘s Kit.
 
 #### Efficient Alchemy
 Starting at 2nd level, your ability to whip up potions increases your efficiency in creating normal potions. You reduce the base crafting cost for potions from one-half to one-quarter buying price.
@@ -1962,7 +1962,7 @@ alchemist spell for you.
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can‘t increase an ability score above 20 using this feature.
 
 #### Empowered Physique
-Starting at 5th level, you do not automatically incur miscibility when using potions within 1 hour of one another. 
+Starting at 5th level, you do not automatically incur miscibility when using potions within 1 hour of one another.
 
 You may benefit from a number of potions at a given time equal to 1 + your
 Stamina modifier (minimum 1) without risking miscibility.
@@ -2187,7 +2187,7 @@ Upon reaching 10th level, you can augment a potion you hold by spending 1 minute
 * Every dice your potion rolls is minimized (lowest result on the roll).
 * When the potion is used, roll a d100. On a result of 50 or higher, the potion gives its full effects with only a fraction of the actual content, allowing the potion to be reused.
 * You alter your potion to activate in response to a trigger you choose and that can affect the potion‘s contents, such as time passed, being shaken a certain way, or being touched by an eligible target. This does not stack with the Internal Clock feature.
-For instance, if you can create an exorcism potion, you can coat a sword with it to activate in response to touching an eligible target of the spell, or to activate after 1 minute to counter a possible possession.
+  For instance, if you can create an exorcism potion, you can coat a sword with it to activate in response to touching an eligible target of the spell, or to activate after 1 minute to counter a possible possession.
 
 ##### Greater Augmentation
 Upon reaching 16th level, you can augment up to three potions at any given time. You can also apply the following additional augmentations:
@@ -2232,7 +2232,7 @@ primarily made up of other fallen paladins whose souls were twisted and bound to
 Frozen Throne.
 
 Like Gul'dan's death knights, these dark champions possess unholy strength; they, however, do not
-possess free will and their minds are inexorably entwined with and 
+possess free will and their minds are inexorably entwined with and
 
 \columnbreak
 
@@ -2264,10 +2264,10 @@ bitter hatred over the course of their grueling quest.
 
 When they finally reached Ner'zhul's icy fortress in Northrend they had become dark and
 brooding. The Lich King offered them untold power in exchange for their services and loyalty. The
-weary, vengeful warriors accepted his dark pact, 
+weary, vengeful warriors accepted his dark pact,
 and although they retained their humanity, their
 twisted souls were bound to his evil
- will for all time. 
+will for all time.
 
 \pagebreakNum
 
@@ -2360,11 +2360,11 @@ weapons into Runeblades, a weapon infused with the might of the Lich King and hi
 Runeblades have three benefits:
 * They serve as spellbooks and store spells (as described under Spellcasting).
 * You gain advantage to saving throws against any effect that controls your character or alters
-their alignment against the Lich King‘s will while using them.
+  their alignment against the Lich King‘s will while using them.
 * The blade serves as an unholy symbol.
 * The runeblade is a greater attunement weapon (see Chapter 5: Equipment).
-You cannot have multiple Runeblades (beyond the one you choose or two you fight with). If lost,
-the blade usually finds its way back to you (or you to it) due to the bond you share. 
+  You cannot have multiple Runeblades (beyond the one you choose or two you fight with). If lost,
+  the blade usually finds its way back to you (or you to it) due to the bond you share.
 
 \pagebreakNum
 
@@ -2487,13 +2487,13 @@ You can‘t take a Fighting Style option more than once, even if you later get t
 
 * **Defense** While you are wearing armor, you gain a +1 bonus to AC.
 * **Dueling** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to
-damage rolls with that weapon.
+  damage rolls with that weapon.
 * **Great Weapon Fighting** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are
-wielding with two hands, you can reroll the die and must use the new roll. The weapon must have
-the two-handed or versatile property for you to gain this benefit.
+  wielding with two hands, you can reroll the die and must use the new roll. The weapon must have
+  the two-handed or versatile property for you to gain this benefit.
 * **Two-Weapon Fighting**
-When you engage in two-weapon fighting, you can add your ability modifier to the damage of the
-second attack.
+  When you engage in two-weapon fighting, you can add your ability modifier to the damage of the
+  second attack.
 
 #### Runic Strike
 Starting at 2nd level, when you hit a creature with a melee weapon attack, you can expend mana
@@ -2649,7 +2649,7 @@ You may also instead tear the life from living targets within 30 ft. as a reacti
 of hit points equal to ¼ their current hit points, and restoring your hit points by the same amount.
 
 The target may resist with Stamina saving throw against your Spell Save DC. This may be used once
-per Charisma modifier (minimum 1) before requiring a long rest. 
+per Charisma modifier (minimum 1) before requiring a long rest.
 
 \pagebreakNum
 
@@ -2784,7 +2784,7 @@ Score Improvement once you do (this acts as the normal feature).
 #### Special
 Bonding with an undead requires spending one hour animating it, and the next hour drawing from
 any superficial memories before its death. You can apply the skeletal or zombie monster template to
-any creature that qualifies and 
+any creature that qualifies and
 
 \pagebreakNum
 
@@ -2835,11 +2835,11 @@ however.
 Starting at 20th level, you gain the avatar form death knight spell for no cost if
 you didn‘t already have it. Furthermore, you augment the spell in the following ways:
 * You are instantly healed for 3d8 + 10 hit points. The healing increases by 1d8 per spell
-level above 3rd.
+  level above 3rd.
 * You become resistant to damage from good aligned targets (or magical weapons) as well as
-to shadow damage.
+  to shadow damage.
 * Any undead within any active aura you have regains 2d6 hit points every round. This
-cannot exceed half their total hit points.
+  cannot exceed half their total hit points.
 
 \pagebreakNum
 
@@ -2965,7 +2965,7 @@ ___
 ___
 - **Saving Throws:** Charisma, Stamina
 - **Skills:** Choose two from Arcana, Animal Handling, Insight, Medicine, Nature, Perception,
-Religion, and Survival
+  Religion, and Survival
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -3084,30 +3084,30 @@ drop to 0 hit points, or die.
 
 While you are transformed, the following rules apply:
 * Your game statistics are replaced by the statistics of the beast, but you retain your
-alignment, personality, and Intelligence, Spirit, and Charisma scores. You also retain all of your
-skill and saving throw proficiencies, in addition to gaining those of the creature.
+  alignment, personality, and Intelligence, Spirit, and Charisma scores. You also retain all of your
+  skill and saving throw proficiencies, in addition to gaining those of the creature.
 * If the creature has the same proficiency as you and the bonus in its stat block is higher than
-yours, use the creature‘s bonus instead of yours. If the creature has any legendary or lair actions,
-you can't use them.
+  yours, use the creature‘s bonus instead of yours. If the creature has any legendary or lair actions,
+  you can't use them.
 * When you transform, you assume the beast‘s hit points and Hit Dice. When you revert to
-your normal form, you retain the percentage of hit points your wild shape form ended with, but
-this cannot reduce your hit points by more than one-quarter your hit point total (for instance, wild
-shaping to a creature at full hit points and ending the spell at 0 hit points reduces your current hit
-points by one-quarter). If the spell ended from your hit points being reduced to 0 or below, you
-revert back automatically, and reduce your current hit points by one-quarter as described.
+  your normal form, you retain the percentage of hit points your wild shape form ended with, but
+  this cannot reduce your hit points by more than one-quarter your hit point total (for instance, wild
+  shaping to a creature at full hit points and ending the spell at 0 hit points reduces your current hit
+  points by one-quarter). If the spell ended from your hit points being reduced to 0 or below, you
+  revert back automatically, and reduce your current hit points by one-quarter as described.
 * You can‘t cast spells unless those noted by other abilities, and your ability to speak or take
-any action that requires hands is limited to the capabilities of your beast form. Transforming
-doesn‘t break your concentration on a spell you‘ve already cast, however, or prevent you from
-taking actions that are part of a spell (such as call lightning) that you‘ve already cast.
+  any action that requires hands is limited to the capabilities of your beast form. Transforming
+  doesn‘t break your concentration on a spell you‘ve already cast, however, or prevent you from
+  taking actions that are part of a spell (such as call lightning) that you‘ve already cast.
 * You retain the benefit of any features from your class, race, or other source and can use
-them if the new form is physically capable of doing so. However, you can‘t use any of your special
-senses, such as darkvision, unless your new form also has that sense.
+  them if the new form is physically capable of doing so. However, you can‘t use any of your special
+  senses, such as darkvision, unless your new form also has that sense.
 * You choose whether your equipment falls to the ground in your space, merges into your
-new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is
-practical for the new form to wear a piece of equipment, based on the creature‘s shape and size.
-Your equipment doesn‘t change size or shape to match the new form, and any equipment that the
-new form can‘t wear must either fall to the ground or merge with it. Equipment that merges with
-the form has no effect until you leave the form.
+  new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it is
+  practical for the new form to wear a piece of equipment, based on the creature‘s shape and size.
+  Your equipment doesn‘t change size or shape to match the new form, and any equipment that the
+  new form can‘t wear must either fall to the ground or merge with it. Equipment that merges with
+  the form has no effect until you leave the form.
 
 \pagebreakNum
 
@@ -3124,9 +3124,9 @@ maximum CR of your hit dice divided by 8 (¼ at level 2, ½ at level 4, 1 at lev
 16).
 
 #### Ancient Power
-Starting at 2nd level, you may rapidly recover your mana by invoking ancient powers. You can use your action and bonus action on your turn to regain up to 20 mana points. 
+Starting at 2nd level, you may rapidly recover your mana by invoking ancient powers. You can use your action and bonus action on your turn to regain up to 20 mana points.
 
-You replenish your reserve of ancient power when you finish a long rest. While using this feature, natural energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
+You replenish your reserve of ancient power when you finish a long rest. While using this feature, natural energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round.
 
 #### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
@@ -3192,7 +3192,7 @@ Also starting at 2nd level, you may expend one Eclipse point when
 casting a spell that deals arcane or holy damage to apply one of the following effects:
 * Deal 2d6 extra points of damage of that type atop the normal bonus
 * Cast the wrath cantrip as a bonus action. On a successful hit with the cantrip, you regain
-the Eclipse point.
+  the Eclipse point.
 
 #### Moonkin
 Starting at 6th level, you may always transform into a wildkin when wild shaping.
@@ -3234,7 +3234,7 @@ The moon‘s light is bright and cloaked in the shadow which blankets the
 earth in a 5-mile radius centered on the druid for one hour. The area becomes either dim or
 normal light (your choice), and creatures sensitive to moonlight or sunlight take penalties
 (depending on your wish) when in the area. All your druid spells that deal holy damage do so as if
-your Eclipse pool is full. You also gain one Eclipse Point per minute. 
+your Eclipse pool is full. You also gain one Eclipse Point per minute.
 
 \pagebreakNum
 
@@ -3281,8 +3281,8 @@ of category of wild shape (land, sea, air, or plant), and you may assign one of 
 to all creatures in that category when wild shaping into them, but only when in that form. Upon
 reaching 15th level, you may choose another option.
 * Defending beast: Whenever you start your turn while in wild shape, you gain 5 temporary hit points. Furthermore,
-you can, as a reaction, gain resistance to one damage type of your choice. This
-remains for one minute, and cannot be used again until you complete a short rest.
+  you can, as a reaction, gain resistance to one damage type of your choice. This
+  remains for one minute, and cannot be used again until you complete a short rest.
 
 \columnbreak
 
@@ -3290,29 +3290,29 @@ remains for one minute, and cannot be used again until you complete a short rest
 
 * Furious beast: You gain the Berserker Rage talent.
 * Holy beast: You gain the priest‘s Channel Divinity as a holy priest, but only to Turn Undead.
-Your effective priest level for this ability is equal to half your druid level. Fiends are also
-turned by this ability, but cannot be destroyed as undead. You cannot increase the number of uses
-of the Channel Divinity effect (regardless of effective priest level).
+  Your effective priest level for this ability is equal to half your druid level. Fiends are also
+  turned by this ability, but cannot be destroyed as undead. You cannot increase the number of uses
+  of the Channel Divinity effect (regardless of effective priest level).
 * Inspiring beast: You gain the bard‘s Inspiration ability. Your effective bard level for this
-ability is equal to half your druid level.
+  ability is equal to half your druid level.
 * Magical beast: You may choose any four spells from your druid spell list and cast them in
-while in wild shape. This does not require somatic or verbal components, but you must have
-chosen to merge any material components with you when you chose to wild shape. If taken again,
-this ability adds four other spells. 
-Upon gaining the Beast Spells feature of 18th level, you may cast all your druid spells without
-somatic or verbal components, as this ability details. You may choose up four spells per use of this
-ability, and use their material components while wild shaped.
+  while in wild shape. This does not require somatic or verbal components, but you must have
+  chosen to merge any material components with you when you chose to wild shape. If taken again,
+  this ability adds four other spells.
+  Upon gaining the Beast Spells feature of 18th level, you may cast all your druid spells without
+  somatic or verbal components, as this ability details. You may choose up four spells per use of this
+  ability, and use their material components while wild shaped.
 * Prowling beast: Whenever you and an ally both threaten a creature, your ally gains advantage
-to attack rolls against it, and you deal 1d6 extra points of damage to it.
+  to attack rolls against it, and you deal 1d6 extra points of damage to it.
 * Persistent beast: Whenever you are in a wild shape, you have advantage to Stamina saving
-throws to maintain a concentration spell. Furthermore, if you lose concentration on a spell by
-taking damage while in wild shape, you regain half the mana spent on the spell. This does not
-count as a normal mana restorative effect.
+  throws to maintain a concentration spell. Furthermore, if you lose concentration on a spell by
+  taking damage while in wild shape, you regain half the mana spent on the spell. This does not
+  count as a normal mana restorative effect.
 * Raking beast: You gain the rogue‘s Sneak Attack ability as a 1st level rogue. If chosen again,
-your effective rogue level for this ability is equal to half your druid level.
-Grand Beast. Starting at 14th level, your weapon attacks while in wild shape deal an additional die
-of damage, and your bonus to attack and damage rolls from your Primal Strike feature improves to
-+2.
+  your effective rogue level for this ability is equal to half your druid level.
+  Grand Beast. Starting at 14th level, your weapon attacks while in wild shape deal an additional die
+  of damage, and your bonus to attack and damage rolls from your Primal Strike feature improves to
+  +2.
 
 Also, if you start your turn while under a wild shape, you gain 5 temporary hit points. These do not
 stack.
@@ -3360,7 +3360,7 @@ When you choose this archetype at 2nd level, you may alter the target of a druid
 Also starting at 2nd level, the duration of healing spells from the druid spell list for you is increased by 1 round (such as the rejuvenation sigil spell).
 
 #### Seed of Power
-Starting at 6th level, you may cast a spell on a target and store it on a creature you touch. The spell, if cast this way, does not manifest immediately, and is stored until you discharge it with a mental command. The seed remains active for up to 1 hour. 
+Starting at 6th level, you may cast a spell on a target and store it on a creature you touch. The spell, if cast this way, does not manifest immediately, and is stored until you discharge it with a mental command. The seed remains active for up to 1 hour.
 
 \columnbreak
 
@@ -3370,7 +3370,7 @@ So long as the seed of power remains active, you gain a general and vague sense 
 
 If you choose the Lesser Restoration or Greater Restoration spells (or similar effects), the spell can also notify you when the target is affected by a condition the spell would heal or remove (such as death, if casting revivify as a Seed of Power spell).
 
-You may also discharge this spell only if the target is within 5 miles of you, or if both you and the target are in the same terrain, and both have live plants within 30 feet of both of you (such as if being in the same forest or desert). 
+You may also discharge this spell only if the target is within 5 miles of you, or if both you and the target are in the same terrain, and both have live plants within 30 feet of both of you (such as if being in the same forest or desert).
 
 You can place up to three seeds per day, and a creature can only benefit from one at any given time. This feature has no effect on constructs unless they are plant-based or made of wood.
 
@@ -3381,11 +3381,11 @@ damage for 1 minute, or gain a number of temporary hit points equal to your leve
 creature can benefit only once every 24 hours.
 
 #### Wild Growth
-Starting at 14th level, whenever you cast a healing sigil from your druid spell list, you can target one additional target, even if the spell specifies only one target. The spell must be three levels below your highest spell level. 
+Starting at 14th level, whenever you cast a healing sigil from your druid spell list, you can target one additional target, even if the spell specifies only one target. The spell must be three levels below your highest spell level.
 
 Also, a number of times equal to your Spirit modifier (minimum 1), you may use an action to prematurely end a healing sigil spell from the druid spell list. If you choose to do this, the target gains the full benefit as if the spell ended normally.
 
-You regain all uses of this ability when you complete a long rest. 
+You regain all uses of this ability when you complete a long rest.
 
 \pagebreakNum
 
@@ -3447,7 +3447,7 @@ allies.
 Hunters are skilled in stealth, slipping through the woods like a ghost. Orcs of the Horde first
 learned the ways of the Azerothian hunter from forest trolls on Lordaeron and tauren have been
 masters of the hunt since the dawn of the world. Like the druid, hunters call upon the spirits of the
-land, wind, and fire to aid them in their hunts and tasks. 
+land, wind, and fire to aid them in their hunts and tasks.
 
 ### Creating a Hunter
 As you create your hunter character, consider the nature of the training that gave you your
@@ -3491,7 +3491,7 @@ ___
 ___
 - **Saving Throws:** Strength, Agility
 - **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception,
-Stealth, and Survival
+  Stealth, and Survival
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -3500,7 +3500,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a dungeoneer‘s pack or *(b)* an explorer‘s pack
 - A druid idol
 - A longbow and a quiver of 20 arrows, or a common-quality firearm (EP 2 or lower), 20
-bullets, and a powder horn
+  bullets, and a powder horn
 
 \pagebreakNum
 
@@ -3555,7 +3555,7 @@ again.
 * **Archery** You gain a +2 bonus to attack rolls you make with ranged weapons.
 * **Defense** While you are wearing armor, you gain a +1 bonus to AC.
 * **Dueling** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to
-damage rolls with that weapon.
+  damage rolls with that weapon.
 * **Two-Weapon Fighting** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 #### Hunter Focus
@@ -3689,7 +3689,7 @@ Its hit point maximum equals its normal maximum or four times your hunter level,
 higher.
 
 Whenever you gain Extra Attack, you can give the extra attack action to your beast instead of using
-it yourself. This decision is made on the start of your turn on every round. 
+it yourself. This decision is made on the start of your turn on every round.
 
 ##### Leveling up
 Your beast companion improves in CR the higher your level becomes, CR equal to 1 per every 8
@@ -3709,7 +3709,7 @@ While traveling through your favored terrain with your beast, you can move steal
 pace. Bonding with a beast requires spending one hour communicating with the creature by
 nonverbal cues, and spending the next seven hours in bonding activities (hunting, etc.).
 
-#### Spirit Bond. 
+#### Spirit Bond.
 Beginning at 7th level, on any of your turns, you can use a bonus action to command
 the beast to take the Dash, Disengage, Dodge, or Help action on your turn. The beast also has
 advantage with any saving throw to resist spells that control or repel it (such as charm or fear
@@ -3719,7 +3719,7 @@ You may also empower the spirit link to your beast. Doing so takes 1 minute of p
 with a magic weapon (such as placing a magic sword against its paw, tapping it with a magic staff, or
 resting a magic bow on it). Once the task is completed, the beast‘s weapon attacks are treated as
 magical as well for 1 hour. You may use weapons that belong to others, but not if they are attuned
-to others. If the weapon is attuned to you, it takes only 1 round of physical contact. 
+to others. If the weapon is attuned to you, it takes only 1 round of physical contact.
 
 #### Frenzy
 Starting at 11th level, you can command your companion to attack with a bonus action,
@@ -3780,7 +3780,7 @@ allows you to combine the effects of up to three different shot spells in the sa
 not cost mana.
 
 If you do not have access to shot spells, you can use the properties of up to three different
-ammunition types (such as suffused arrows or other special ammunition). 
+ammunition types (such as suffused arrows or other special ammunition).
 
 \pagebreakNum
 
@@ -3953,7 +3953,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a component pouch or *(b)* an arcane focus
 - *(a)* a scholar‘s pack or *(b)* an explorer‘s pack
 - A spellbook
- 
+
 \pagebreakNum
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8932fa02-b339-4e8c-99d6-115e7cd29415/d49u30f-ab16486b-14c6-4f22-8ac4-8a944d84951d.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg5MzJmYTAyLWIzMzktNGU4Yy05OWQ2LTExNWU3Y2QyOTQxNVwvZDQ5dTMwZi1hYjE2NDg2Yi0xNGM2LTRmMjItOGFjNC04YTk0NGQ4NDk1MWQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bqkD9QBXgctA1PM91c4TlFD5JfIVigesyQ5BoQccY9g' style='position:absolute; top:0px; left:-50px; width:980px;' />
@@ -3990,9 +3990,9 @@ You start with the following equipment, in addition to the equipment granted by 
 \pagebreakNum
 
 #### Invocation
-Starting at 1st level, you may rapidly recover your mana by invoking attuning yourself to the flows of magic. You can use your action and bonus action on your turn to regain up to 20 mana points. 
+Starting at 1st level, you may rapidly recover your mana by invoking attuning yourself to the flows of magic. You can use your action and bonus action on your turn to regain up to 20 mana points.
 
-You replenish your reserve of the flows when you finish a long rest. While using this feature, arcane energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
+You replenish your reserve of the flows when you finish a long rest. While using this feature, arcane energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round.
 
 ##### Spellcasting
 As a student of arcane magic, you have a spellbook containing spells that show the first
@@ -4107,13 +4107,13 @@ happens to you:
 * You deal arcane damage to an enemy with a mage ability or spell from the mage list
 * You lose at least 8 mana points by being target of the mana burn or detonate mana spells or absorbing damage via the mana shield spell. If absorbing damage by the mana shield spell, you gain one Arcane Sphere for each 8 mana points lost this way.
 * You suffer an attack from another Mystic Blast or similar ability (usually called Mystic, Fire,
-Arcane, or Shadow Blasts), unless it is fel damage (in which case you do not gain a sphee).
+  Arcane, or Shadow Blasts), unless it is fel damage (in which case you do not gain a sphee).
 ___
 This applies once per spell. Arcane Spheres may be used to empower your abilities. Arcane Spheres
 may be spent for the following:
 * *Augmenting Arcana.* Deal 1 additional point of arcane damage per damage dice with mage
-spells and abilities that deal arcane damage. This can be spent after rolling for damage, and
-applies once per spell. This does not stack with similar abilities.
+  spells and abilities that deal arcane damage. This can be spent after rolling for damage, and
+  applies once per spell. This does not stack with similar abilities.
 * *Mana Circulation.* You may substitute 1 Arcane Sphere for 2 mana points (cannot reduce mana point loss beyond 1) for effects that consume mana (such as spells or mana burn and similar effects).
 ___
 You may have a maximum number of spheres equal to 2 plus your Proficiency bonus, and they
@@ -4439,14 +4439,14 @@ and monk weapons, which are shortswords and any simple melee weapons that don‘
 You gain the following benefits while you are unarmed or wielding only monk weapons and you
 aren‘t wearing armor or wielding a shield:
 * You can use Agility instead of Strength for the attack and damage rolls of your unarmed
-strikes and monk weapons.
+  strikes and monk weapons.
 * You can roll a d4 in place of the normal damage of your unarmed strike or monk weapon.
-This die changes as you gain monk levels, as shown in the Martial column of the Monk table. If you
-have a greater damage die, you may choose that instead.
+  This die changes as you gain monk levels, as shown in the Martial column of the Monk table. If you
+  have a greater damage die, you may choose that instead.
 * When you use the Attack action with an unarmed strike or a monk weapon on your turn,
-you can make one unarmed strike as a bonus action. For example, if you take the Attack action and
-attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you
-haven't already taken a bonus action this turn.
+  you can make one unarmed strike as a bonus action. For example, if you take the Attack action and
+  attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you
+  haven't already taken a bonus action this turn.
 
 Certain monasteries use specialized forms of the monk weapons. For example, you might use a
 nunchaku (club that is two lengths of wood connected by a short chain) or a kama (sickle with a
@@ -4496,7 +4496,7 @@ of Fire to cast burning hands, you can spend 2 ki points to cast it as a 2nd-lev
 it as a 3rd level spell. The maximum number of ki points you can spend to cast a spell in this way
 (including its base ki point cost and any additional ki points you spend to increase its level) is
 determined by your monk level, as shown in the Spells and Ki Points table. Your effective
-spellcasting ability score is Spirit. 
+spellcasting ability score is Spirit.
 
 #### Monk Talent
 Starting at 2nd level, you gain a class talent, representing your various special abilities, either by use
@@ -4600,7 +4600,7 @@ Upon reaching 6th level, you gain the following new Ki powers and add them to
 your repertoire.
 
 ##### Purifying Touch [Strike]
-As an action, you can spend 3 Ki and cast the dispel magic spell. 
+As an action, you can spend 3 Ki and cast the dispel magic spell.
 
 This requires touching the effect or creature that is subject to the effect. You may use this as a touch or as a strike effect. You can spend additional Ki to heighten the spell (up to the normal limit of ki spells). If you end a spell this way, you regain a number of Ki points equal to the dispelled spell’s level (if dispelling multiple spells, choose only the highest-level spell). This cannot restore more Ki than double the amount spent on the ability.
 
@@ -4608,7 +4608,7 @@ This requires touching the effect or creature that is subject to the effect. You
 As a reaction, you may spend 2 Ki and stagger damage done to you,
 spreading the damage over multiple rounds. You suffer one-quarter the damage you would
 
-\columnbreak 
+\columnbreak
 
 <div style="margin-top:300px;"></div>
 
@@ -4693,7 +4693,7 @@ to a target, you are enhanced with enlightenment for until the end of your turn 
 
 You may either reduce the Ki cost of an ability you use by 1 point (minimum 1 point), or use the
 Soothing Mist Ki power with no expenditure of Ki. This heals as if you spent 1 Ki point only, but
-cannot heal a creature above its Bloodied value. 
+cannot heal a creature above its Bloodied value.
 
 #### Mistweaver Ki
 Upon reaching 6th level, you gain the following new Ki powers and add them to
@@ -4718,7 +4718,7 @@ obstruction from mist and fog.
 Also starting at 6th level, you can spend 3 Ki to cast the barrier ward spell as a
 3rd level spell. Furthermore, if a creature fails to force its way through the barrier or attempts to
 deal damage to the barrier, it is pushed 10 feet away from the barrier. If attempting to damage the
-barrier, the target is pushed only if they fail a Strength saving throw against your Ki DC. 
+barrier, the target is pushed only if they fail a Strength saving throw against your Ki DC.
 
 #### Life Cocoon
 Starting at 11th level, you may spend 2 Ki points designate an allied creature with a
@@ -4735,7 +4735,7 @@ cast the revivify spell. Once the resurrection spell is cast, you cannot cast it
 short rest, regardless if you have Ki remaining.
 
 Furthermore, your Life Cocoon ability grants 5d10 temporary hit points instead of 3d10, and a
-creature can benefit once per a short rest. 
+creature can benefit once per a short rest.
 
 \pagebreakNum
 
@@ -4924,7 +4924,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* five javelins or *(b)* any simple melee weapon
 - *(a)* a priest‘s pack or *(b)* an explorer‘s pack
 - Chain mail, a holy symbol, and a holy libram
- 
+
 \columnbreak
 
 #### Special
@@ -4932,7 +4932,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ##### Seal Spells
 Paladins are the only class that can access the seal array spell, and can prepare different seals for
 strike effects. Seals are magical enhancements that can enhance a paladin‘s weapon attacks, and can
-be released in coordination with the Crusader Strike ability to cause a devastating strike. 
+be released in coordination with the Crusader Strike ability to cause a devastating strike.
 
 \pagebreakNum
 
@@ -4982,9 +4982,9 @@ desecrated, as with the hallow spell. You can use this feature a number of times
 Charisma modifier. When you finish a long rest, you regain all expended uses.
 
 #### Lay on Hands
-Your blessed touch can cure wounds. As an action, you may lay your hands on a target, investing them with healing energies. For every mana point you spend for Lay on Hands, you heal 1 hit point, up to a maximum amount every action equal to half your maximum hit points. Amounts you heal is instead treated as holy damage for undead and fiends (in which case, this requires a melee spell attack). Excess hit points are lost. When performing Lay on Hands on yourself, this is instead a bonus action. 
+Your blessed touch can cure wounds. As an action, you may lay your hands on a target, investing them with healing energies. For every mana point you spend for Lay on Hands, you heal 1 hit point, up to a maximum amount every action equal to half your maximum hit points. Amounts you heal is instead treated as holy damage for undead and fiends (in which case, this requires a melee spell attack). Excess hit points are lost. When performing Lay on Hands on yourself, this is instead a bonus action.
 
-Alternatively, you can expend the mana to cure one disease or one poison of your choice. Each disease or poison requires spending mana points equal to the saving throw DC of the poison or disease. You may cure multiple diseases or poisons this way. This feature has no effect on constructs. This acts as a lesser restoration spell. 
+Alternatively, you can expend the mana to cure one disease or one poison of your choice. Each disease or poison requires spending mana points equal to the saving throw DC of the poison or disease. You may cure multiple diseases or poisons this way. This feature has no effect on constructs. This acts as a lesser restoration spell.
 
 You gain a mana pool as if you were a second level paladin (see the Spellcasting feature below), with the pool size as if you had no access to 1st level spells.
 
@@ -5003,12 +5003,12 @@ At 2nd level, you adopt a style of fighting as your specialty. Choose one of the
 You can‘t take a Fighting Style option more than once, even if you later get to choose again.
 * **Defense** While you are wearing armor, you gain a +1 bonus to AC.
 * **Dueling** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to
-damage rolls with that weapon.
+  damage rolls with that weapon.
 * **Great Weapon Fighting** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are
-wielding with two hands, you can reroll the die and must use the new roll. The weapon must have
-the two-handed or versatile property for you to gain this benefit.
+  wielding with two hands, you can reroll the die and must use the new roll. The weapon must have
+  the two-handed or versatile property for you to gain this benefit.
 * **Protection** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use
-your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+  your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 
 #### Spellcasting
 By 2nd level, you have learned to draw on divine magic through meditation and prayer to cast
@@ -5135,7 +5135,7 @@ You regain expended uses when you finish a long rest.
 #### Aura Improvement
 Also starting at 18th level, you have advantage to any check to maintain an aura, and may extend
 the range of any aura spell by 100%. Any effect that would normally dispel the aura instead
-suppresses it for 1 minute instead. 
+suppresses it for 1 minute instead.
 
 \pagebreakNum
 
@@ -5380,7 +5380,7 @@ dice for your Crusader Strike, and you must choose the new roll, even if the new
 At level 20, your Cleansing Touch ability may be used at a range of 10 feet, and you
 may always cast it on yourself, even when otherwise incapacitated.
 Furthermore, whenever you have no mana points remaining or uses of Cleaning Touch, you may
-spend hit dice to fuel your Crusader Strike feature (up to one hit dice per spell level). 
+spend hit dice to fuel your Crusader Strike feature (up to one hit dice per spell level).
 
 \pagebreakNum
 
@@ -5507,7 +5507,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* a light crossbow and 20 bolts or *(b)* any simple weapon
 - *(a)* a priest‘s pack or *(b)* an explorer‘s pack
 - A holy (or unholy or neutral) symbol and libram
- 
+
 \pagebreakNum
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/de4be64b-e500-415f-8edf-24f127b586ac/der9i6m-29b67098-05ce-4be1-bacf-60eb0a6ccd5c.png/v1/fill/w_1024,h_627,q_80,strp/commission_cesselia_by_nozomi_m_der9i6m-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjI3IiwicGF0aCI6IlwvZlwvZGU0YmU2NGItZTUwMC00MTVmLThlZGYtMjRmMTI3YjU4NmFjXC9kZXI5aTZtLTI5YjY3MDk4LTA1Y2UtNGJlMS1iYWNmLTYwZWIwYTZjY2Q1Yy5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-mQNzzMbkwz_h6n9WYwC6yecDgaW8ItZE_CsGcrDPA4' style='position:absolute; top:0px; right:0; height:60%;' />
@@ -5612,9 +5612,9 @@ Beginning at 1st level, while you are wearing no armor and not wielding a shield
 10 + your Agility modifier + your Spirit modifier.
 
 #### Desperate Prayer
-Starting at 1st level, you may rapidly recover your mana by invoking your diety in a desperate prayer. You can use your action and bonus action on your turn to regain up to 20 mana points. 
+Starting at 1st level, you may rapidly recover your mana by invoking your diety in a desperate prayer. You can use your action and bonus action on your turn to regain up to 20 mana points.
 
-You replenish your reserve of power when you finish a long rest. While using this feature, holy power suffuses you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
+You replenish your reserve of power when you finish a long rest. While using this feature, holy power suffuses you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round.
 
 #### Channel Divinity
 At 2nd level, you gain the ability to channel divine energy directly from your deity, using that
@@ -5629,7 +5629,7 @@ twice between rests, and beginning at 18th level you can use it three times betw
 finish a short or long rest, you regain your expended uses.
 
 ##### Channel Divinity: Invoke Power
-As a bonus action, you present your symbol and speak a prayer to your patron power, filling you with mysterious strength. The next spell you cast within 1 minute has its mana cost reduced by 4 points (minimum 0). 
+As a bonus action, you present your symbol and speak a prayer to your patron power, filling you with mysterious strength. The next spell you cast within 1 minute has its mana cost reduced by 4 points (minimum 0).
 
 #### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
@@ -5696,7 +5696,7 @@ Starting at 2nd level, you add all necromancy spells from all spell lists to you
 #### Channel Divinity: Turn Living
 Also starting at 2nd level, you can, as an action, present your
 symbol and speak a prayer censuring the living. Each living creature that can see or hear you within
-30 feet of you must 
+30 feet of you must
 
 \columnbreak
 
@@ -5725,7 +5725,7 @@ Living table. It disintegrates, leaving only a pile of dust, so commands the Lic
 | 17th | 4 or lower
 
 #### Death Denied
-Starting at 6th level, you may release a burst of shadow as an action. This acts as the death nova spell. After you use this ability, you cannot use it again until you complete a short or long rest, or until you have made at least one death saving throw. 
+Starting at 6th level, you may release a burst of shadow as an action. This acts as the death nova spell. After you use this ability, you cannot use it again until you complete a short or long rest, or until you have made at least one death saving throw.
 
 #### Death's Touch
 At 8th level, you may use an action to target any dying creature within 90 feet with
@@ -5811,8 +5811,8 @@ Channel Divinity: Atonement, roll a d4. On a roll of 2 to 4, the Channel Divinit
 can be used again.
 
 #### Chakra Cleansing
-Starting at 8th level, whenever you cast the Power Word Shield spell, you may apply one of the two effects as a bonus action. 
-* You may dispel a magical effect the target suffers from. This acts as dispel magic with a spell level equal to the level of the Power Word Shield spell. 
+Starting at 8th level, whenever you cast the Power Word Shield spell, you may apply one of the two effects as a bonus action.
+* You may dispel a magical effect the target suffers from. This acts as dispel magic with a spell level equal to the level of the Power Word Shield spell.
 * You may grant additional temporary hit points equal to double the spell‘s level.
 
 #### Infused Shield
@@ -5919,10 +5919,10 @@ if on your turn.
 Starting at 8th level, you gain the avatar form priest spell for no cost if you didn‘t
 already have it. Furthermore, you augment the spell in the following ways:
 * You can cast the spell as a reaction when reduced to 0 hit points. When this happens, the
-spell also restores one-quarter your full hit points and mana. If you enter the avatar form
-this way cast healing, restorative, and domain spells so long as the form persists.
+  spell also restores one-quarter your full hit points and mana. If you enter the avatar form
+  this way cast healing, restorative, and domain spells so long as the form persists.
 * When you cast the spell, you can dispel one magical effect on you (as if by the dispel magic
-spell, spell level equal to the avatar form spell).
+  spell, spell level equal to the avatar form spell).
 ___
 After the spell‘s duration ends, you return to your normal form, and are reduced to 10% of your
 maximum hit points. You also learn celestial, if you don‘t already know how to speak it.
@@ -5970,11 +5970,11 @@ faces of Elune, the goddess of the moon. Whenever the moon (or one moon of your 
 new phase, you may adapt that aspect of Elune. This choice is made at the end of a long rest. This
 changes how some of your priesthood features act.
 * *Full Moon Aspect.* The full moon aspect of Elune is known as the Mother Moon. It is more
-adept with healing and providing support, as well as ranged combat, and represents calm
-wisdom and righteous, precise action.
+  adept with healing and providing support, as well as ranged combat, and represents calm
+  wisdom and righteous, precise action.
 * *New Moon.* The new moon aspect of Elune is known as the Night Warrior. It is more adept
-with melee combat, and represents the furious savagery of nature, vengeful aspects of the
-goddess, and her shepherding the souls of the dead to beyond the stars.
+  with melee combat, and represents the furious savagery of nature, vengeful aspects of the
+  goddess, and her shepherding the souls of the dead to beyond the stars.
 
 \columnbreak
 
@@ -6007,9 +6007,9 @@ Starting at 2nd level, when you channel divinity, you may
 channel an aspect of Elune‘s grace to calm a creature within 30 feet of you. You may target a
 humanoid or beast, or a creature in another shape (such as a druid in wild shape or a shapeshifter).
 * If you target a beast or humanoid, the creature must succeed on a Charisma saving throw or it
-is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is
-friendly to you and other creatures you designate. If you treat them fairly, they do not revert to
-their original hostility after the duration ends.
+  is charmed by you for 1 minute or until it takes damage. While it is charmed by you, it is
+  friendly to you and other creatures you designate. If you treat them fairly, they do not revert to
+  their original hostility after the duration ends.
 
 \pagebreakNum
 
@@ -6018,21 +6018,21 @@ their original hostility after the duration ends.
 <img src='https://www.gmbinder.com/images/j0RJ7pI.png' style='position:absolute; top:0px; left:-40px; width:100%; height:100%;' />
 
 * If you target a Druid in their Wild Shape or a shapeshifting creature, they revert to their
-original shape if they fail a Charisma saving throw, and cannot shapeshift for one minute. They
-may repeat the saving throw at the end of their turn every round.
+  original shape if they fail a Charisma saving throw, and cannot shapeshift for one minute. They
+  may repeat the saving throw at the end of their turn every round.
 
 #### Channel Divinity: Moonlight Ward
 Starting at 6th level, you may spend a Channel Divinity use
 as a bonus action and designate one ally within 30 feet as your moonlight ward. The ward remains
 for 1 minute. Depending on the phase of the moon, your ward has one of the following effects:
 * *Full Moon*. So long as the ally remains within range, you may use a bonus action to heal the
-target with any healing spell from the priest spell list that normally requires an action. If the
-spell normally costs a bonus action to cast (such as the flash of light spell), it may instead cast it
-as a reaction.
+  target with any healing spell from the priest spell list that normally requires an action. If the
+  spell normally costs a bonus action to cast (such as the flash of light spell), it may instead cast it
+  as a reaction.
 * *New Moon*. So long as the ally within range, you can cast any spell that deals psychic or shadow
-damage as a bonus action so long as you target a creature who attacked your moonlit ward in
-the last round. If the spell normally costs a bonus action to cast (such as the flash of light spell),
-it may instead cost a reaction. You cannot cast sigil spells this way.
+  damage as a bonus action so long as you target a creature who attacked your moonlit ward in
+  the last round. If the spell normally costs a bonus action to cast (such as the flash of light spell),
+  it may instead cost a reaction. You cannot cast sigil spells this way.
 ___
 If you successfully dealt weapon damage to an enemy before using the moonlight ward, the mana cost of the spell (healing or damaging, respectively) is reduced by 2 (minimum 1). This can stack with the normal reduction for repeat-casting a spell.
 
@@ -6042,9 +6042,9 @@ Depending on your chosen phase, you can grant a creature you affect by your spel
 below blessings. Once you use the blessings three times, you cannot bless another creature until you
 complete a short rest. You may use multiple blessings per round (they do not require an action).
 * *Full Moon*. You priest spells that restore hit points heal the maximum amount for the dice for
-one target.
+  one target.
 * *New Moon*. Your priest spells that deal psychic or shadow damage deal maximum damage for
-the dice for one target.
+  the dice for one target.
 ___
 If you are under the effects of the avatar form priest spell, you can use the blessing two additional
 times before a short rest.
@@ -6095,8 +6095,8 @@ through a spell or ability, you gain one Shadow orb. This applies once per spell
 spheres may be used to empower your abilities. Shadow Orbs may be spent for the following.
 * Meld into Madness. Reduce the mana cost of one priest spell you cast. The reduction in mana cost is 2 points per Shadow orb removed (minimum mana cost 1). For each level of madness you have, a single Shadow orb can reduce the mana cost by 1 points (round down) instead.
 * Prey on the Psyche. Deal 1 additional point of psychic damage per damage dice with spells
-and abilities that deal psychic damage. This can be spent after rolling for damage, and
-applies once per spell. This does not stack with similar abilities.
+  and abilities that deal psychic damage. This can be spent after rolling for damage, and
+  applies once per spell. This does not stack with similar abilities.
 
 \columnbreak
 
@@ -6157,11 +6157,11 @@ if on your turn.
 Starting at 8th level, you gain the avatar form priest spell for no cost if you didn‘t
 already have it. Furthermore, you augment the spell in the following ways:
 * You can cast the spell as a reaction when reduced to 0 hit points. When this happens, the
-spell also restores one-quarter your full hit points and mana, and grants you 4 Shadow
-orbs. If you enter the avatar form this way, you can only cast psychic, sigil, and domain
-spells so long as the form persists.
+  spell also restores one-quarter your full hit points and mana, and grants you 4 Shadow
+  orbs. If you enter the avatar form this way, you can only cast psychic, sigil, and domain
+  spells so long as the form persists.
 * When you cast the spell, you can dispel one magical effect on you (as if by the dispel magic
-spell, spell level equal to the avatar form spell).
+  spell, spell level equal to the avatar form spell).
 ___
 After the spell‘s duration ends, you return to your normal form, and are reduced to 10% of your
 maximum hit points. You also learn shath‘yar, if you don‘t already know how to speak it.
@@ -6297,7 +6297,7 @@ ___
 ___
 - **Saving Throws:** Agility, Intelligence
 - **Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation,
-Perception, Performance, Persuasion, Sleight of Hand, and Stealth
+  Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -6308,7 +6308,7 @@ You start with the following equipment, in addition to the equipment granted by 
 ___
 One use of a poison (a vial, a dash, etc.) are considered creations of moderate complexity (1 day) to
 create.
- 
+
 \pagebreakNum
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/feac120a-4482-4a91-9cee-fce7fbde0dbe/dbrlxyf-bb5748e3-24d3-4e6a-8a68-1d59e913add6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlYWMxMjBhLTQ0ODItNGE5MS05Y2VlLWZjZTdmYmRlMGRiZVwvZGJybHh5Zi1iYjU3NDhlMy0yNGQzLTRlNmEtOGE2OC0xZDU5ZTkxM2FkZDYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oorfRtsgtYwRmNbA14fL4LBXziFTXMKlz9t-ZfxNANc' style='position:absolute; top:0px; right:0; width:100%;' />
@@ -6685,7 +6685,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* 2 Handaxes or *(b)* a shield
 - *(a)* a priest‘s pack or *(b)* an explorer‘s pack
 - A shamanistic focus (minor totem)
- 
+
 \pagebreakNum
 
 <img src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10bcfa0c-24e0-46b2-810d-ad75c14cdd6c/dcsgyne-42b4d2fc-e0e4-42d0-a66d-97ec753361a6.jpg/v1/fill/w_1280,h_793,q_75,strp/___commission__tauren_shaman____by_shadowpriest_dcsgyne-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwYmNmYTBjLTI0ZTAtNDZiMi04MTBkLWFkNzVjMTRjZGQ2Y1wvZGNzZ3luZS00MmI0ZDJmYy1lMGU0LTQyZDAtYTY2ZC05N2VjNzUzMzYxYTYuanBnIiwiaGVpZ2h0IjoiPD03OTMiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8xMGJjZmEwYy0yNGUwLTQ2YjItODEwZC1hZDc1YzE0Y2RkNmNcL3NoYWRvd3ByaWVzdC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.JpCJcIMYOKbD6miM7oEcPSXYWSjmwiPPDcTt5hCgCps' style='position:absolute; top:0px; right:-100px; width:140%;' />
@@ -6831,9 +6831,9 @@ beyond).
 \pagebreakNum
 
 #### Mana Surge
-Starting at 2nd level, you may rapidly recover your mana by invoking elemental energies. You can use your action and bonus action on your turn to regain up to 20 mana points. 
+Starting at 2nd level, you may rapidly recover your mana by invoking elemental energies. You can use your action and bonus action on your turn to regain up to 20 mana points.
 
-You replenish your reserve of shamanistic power when you finish a long rest. While using this feature, elemental energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
+You replenish your reserve of shamanistic power when you finish a long rest. While using this feature, elemental energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round.
 
 #### Ability Score Improvement
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability
@@ -6846,7 +6846,7 @@ you may subject the creature to a dispel (as the dispel magic spell), release it
 bound by the bind or essence seal spells), return it to its realm of origin (as the banishment spell), or
 destroy it outright if its challenge rating is at or below a certain threshold, as shown in the Release
 Elemental table. This ability only functions when you declare your intention to use it.
- 
+
 | Shaman Level  | Releases Elemental of CR |
 |:---:|:-----------:|
 | 5th | 1/2 or lower
@@ -6995,22 +6995,22 @@ modifier. All such uses of elemental command are restored after a short rest.
 <div style="margin-top:500px;"></div>
 
 * *Command the Storm*. When a creature within 5 feet of you that you can see hits you with an
-attack, you can use your reaction to cause the creature to make an Agility saving throw. The
-creature takes 2d6 lightning or thunder damage (your choice) on a failed saving throw, and half
-as much damage on a successful one. If they took at least 5 points of damage, they are pushed 5
-feet away. The damage increases by 1 dice for every two spell levels you can access above 1st
-level (up to 6d6).
+  attack, you can use your reaction to cause the creature to make an Agility saving throw. The
+  creature takes 2d6 lightning or thunder damage (your choice) on a failed saving throw, and half
+  as much damage on a successful one. If they took at least 5 points of damage, they are pushed 5
+  feet away. The damage increases by 1 dice for every two spell levels you can access above 1st
+  level (up to 6d6).
 * *Command the Earth*. You may send a tremor through the earth as a bonus action as an elemental
-command, unbalancing your enemies. In a 30-foot-sphere centered on you, you may send a
-shockwave, dealing 2d6 + your Spirit modifier in bludgeoning damage (or your off-handed
-weapon damage, whichever is higher), with an Agility saving throw to half damage. You may
-instead shape this as a 15-foot-long cone, or a 30-foot-long line. If you also have the Tremor
-talent, you may expend a use of Tremor. If you elect to do so, creatures who fail the Agility
-saving throw are also knocked prone and suffer 5 additional points of damage. The damage
-increases by 1 dice for every two spell levels you can access above 1st level (up to 6d6).
+  command, unbalancing your enemies. In a 30-foot-sphere centered on you, you may send a
+  shockwave, dealing 2d6 + your Spirit modifier in bludgeoning damage (or your off-handed
+  weapon damage, whichever is higher), with an Agility saving throw to half damage. You may
+  instead shape this as a 15-foot-long cone, or a 30-foot-long line. If you also have the Tremor
+  talent, you may expend a use of Tremor. If you elect to do so, creatures who fail the Agility
+  saving throw are also knocked prone and suffer 5 additional points of damage. The damage
+  increases by 1 dice for every two spell levels you can access above 1st level (up to 6d6).
 * *Command the Flame*. You may cast fire bolt as a bonus action or as a reaction as a use of
-elemental command. You may add this damage to your off-hand attack as part of the same
-action.
+  elemental command. You may add this damage to your off-hand attack as part of the same
+  action.
 ___
 Also, choose one weapon you are proficient in and enhance it with a shard of your essence. So long
 as you wield the weapon, it counts as a spellcasting focus, and you may use it to perform somatic
@@ -7115,7 +7115,7 @@ to as an existing spirit link spell as well by using channel divinity, so long a
 cast it.
 
 #### Cleanse Spirit
-Starting at 6th level, you may use an action to cast the dispel magic spell (spell level equal to the highest spell level you can access) to any creature within 30 feet, but not on objects, areas, or creatures without spirits (such as Undead or Constructs). This may be used a number of times equal to your Spirit modifier (minimum 1). You may spend three uses of this ability to cast the remove curse spell instead with the same limitations. All expended uses are replenished at a long rest. To unwilling targets, this must be a ranged spell attack. 
+Starting at 6th level, you may use an action to cast the dispel magic spell (spell level equal to the highest spell level you can access) to any creature within 30 feet, but not on objects, areas, or creatures without spirits (such as Undead or Constructs). This may be used a number of times equal to your Spirit modifier (minimum 1). You may spend three uses of this ability to cast the remove curse spell instead with the same limitations. All expended uses are replenished at a long rest. To unwilling targets, this must be a ranged spell attack.
 
 \pagebreakNum
 
@@ -7259,7 +7259,7 @@ ___
 ___
 - **Saving Throws:** Agility, Intelligence
 - **Skills:** Choose four from Acrobatics, Athletics, Insight, Intimidation, Investigation, Perception,
-Performance, Persuasion, Sleight of Hand, and Stealth.
+  Performance, Persuasion, Sleight of Hand, and Stealth.
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -7268,7 +7268,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - (a) A dungeoneer‘s pack, or (b) an explorer‘s pack
 - Leather armor, Engineer‘s Tools
 - Engineer‘s notebook, 250 gp worth of engineering materials (can be spent during charactercreation), and fuel enough for 4 devices charges of the tinker‘s choice (except alchemical fuel)
- 
+
 
 \pagebreakNum
 
@@ -7352,16 +7352,16 @@ You are afforded a pool of Crafting Points (which act as Mana Points). Similarly
 you spend points to spontaneously craft items, and regain such points by resting. This is subject to
 the following points of difference, however:
 * You have a number of Crafting Points equal to your Intelligence score (not modifier) plus
-your proficiency bonus plus one-half your Tinker level (round down). Unlike mana points, your
-pool is unaffected by the spell level you can access. As this power is not magical in nature, you are
-unaffected by any anti-magic effects such as an antimagic field or mana burn effects.
+  your proficiency bonus plus one-half your Tinker level (round down). Unlike mana points, your
+  pool is unaffected by the spell level you can access. As this power is not magical in nature, you are
+  unaffected by any anti-magic effects such as an antimagic field or mana burn effects.
 * You do not regain points by mana-restorative effects, such as Mana Potions or resting near
-mana fountains. However, so long as you are in a relevant resource node or crafting area (such as
-an engineering workshop or your stronghold), you regain points with a +50% increase, as you draw
-inspiration from them.
+  mana fountains. However, so long as you are in a relevant resource node or crafting area (such as
+  an engineering workshop or your stronghold), you regain points with a +50% increase, as you draw
+  inspiration from them.
 * Your creation costs scale by the item‘s rarity and your ability to craft them; and are thus
-limited by the Rarity column in your class chart. You can craft anything you have memorized or if
-you refer to the formula of in your possession (such as in your formulae book).
+  limited by the Rarity column in your class chart. You can craft anything you have memorized or if
+  you refer to the formula of in your possession (such as in your formulae book).
 ___
 
 A temporary creation that breaks down, fails, or expires can be harvested for one-half the crafting
@@ -7461,12 +7461,12 @@ When a device superfunctions, it does not roll for a malfunction for the duratio
 below, affected by energy source). It also gains a bonus depending on its energy source. Choose one
 benefit the device qualifies for.
 * *Better.* The next malfunction condition is negated, and the next use of the device consumes no
-fuel charges (so long as it doesn‘t have only one use)
+  fuel charges (so long as it doesn‘t have only one use)
 * *Faster.* The device gains a 25% increase in movement speed (if a construct or vehicle) for 1 hour
 * *Harder.* The device cannot lose charges by taking damage or suffer any negative effects that
-would normally cause it to loses charges (such as overcharging) for 1 hour
+  would normally cause it to loses charges (such as overcharging) for 1 hour
 * *Stronger.* The device deals maximum damage (no need to roll) with the next (or current) damage
-roll it makes
+  roll it makes
 ___
 *Note.* Since your Patent device cannot malfunction, it can only Superfunction at a natural 20 use.
 
@@ -7477,7 +7477,7 @@ engineered device or ability check with Engineer‘s Tools.
 #### Consistent Innovations
 Starting from 9th level, you have advantage to any tool check to maintain an innovated device, and
 the maximum duration increases from 5 minutes to 1 hour. You lessen the malfunction rate of
-innovated devices by 2 points (to a base increase of only 2 points). Without this ability, the malfunction rate is increased by 4 points. 
+innovated devices by 2 points (to a base increase of only 2 points). Without this ability, the malfunction rate is increased by 4 points.
 
 #### Scavenge
 Starting at 10th level, when you gather raw materials for use with engineering, you gain triple the
@@ -7583,7 +7583,7 @@ they consume half the normal fuel.
 <div style="margin-top:520px;"></div>
 
 #### Greater Flash Bomber
-Starting at 10th level, you can use the Flash Bomber talent a number of times equal to double your Intelligence modifier before a rest. 
+Starting at 10th level, you can use the Flash Bomber talent a number of times equal to double your Intelligence modifier before a rest.
 
 You also gain the remote blueprint for free if you didn’t already have it, and may employ it to trigger any number of your explosives normally, and can use it with a reaction.
 
@@ -7656,9 +7656,9 @@ has no cost.
 Starting at 6th level, whenever you apply the Quick Use modification to your
 devices (as described under Quick Cooldown above), you reduce it by a further step.
 * Gadgets that replicate spell levels above 3rd level have their cooldown reduced to 1 minute
-instead of 1 hour.
+  instead of 1 hour.
 * Gadgets that replicate spell levels above 6th level have their cooldown reduced to 1 hour
-instead of 8 hours.
+  instead of 8 hours.
 ___
 You may also add your proficiency bonus to attack rolls with your constructs.
 
@@ -7866,9 +7866,9 @@ Destruction, who summons Hellfire upon their foes. Your choice grants you featur
 choose it at 1st level and again at 6th, 14th, and 18th level.
 
 #### Demonic Invocation
-Starting at 1st level, you may rapidly recover your mana by invoking demonic energies. You can use your action and bonus action on your turn to regain up to 20 mana points. 
+Starting at 1st level, you may rapidly recover your mana by invoking demonic energies. You can use your action and bonus action on your turn to regain up to 20 mana points.
 
-You replenish your reserve of demonic power when you finish a long rest. While using this feature, fel energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round. 
+You replenish your reserve of demonic power when you finish a long rest. While using this feature, fel energies suffuse you, imposing disadvantage on attack rolls made against you, and granting you advantage to saving throws until the start of your turn in the next round.
 
 #### Spellcasting
 Also starting at 1st level, you gain the ability to cast spells, trafficking in demonic forces most have
@@ -7940,20 +7940,20 @@ consistently harm you).
 
 You may use soul shards for any of the following:
 * *Enhanced Conjuring:* You may spend one soul shard per spell level, and quicken any conjure
-spell of a casting time of 1 minute to cost only a 1 action. For until the beginning of your
-turn in the next round, your speed is 0.
+  spell of a casting time of 1 minute to cost only a 1 action. For until the beginning of your
+  turn in the next round, your speed is 0.
 
 * *Enhanced Concentration:* When you cast a conjuration warlock spell that requires
-concentration, you may spend one soul shard to concentrate on the spell, instead of having
-to concentrate on it yourself. You cannot concentrate on more than two conjured creatures
-using this ability. When your concentration is threatened, you must roll to maintain both
-spells, however. This costs one soul shard per spell level.
+  concentration, you may spend one soul shard to concentrate on the spell, instead of having
+  to concentrate on it yourself. You cannot concentrate on more than two conjured creatures
+  using this ability. When your concentration is threatened, you must roll to maintain both
+  spells, however. This costs one soul shard per spell level.
 
 * *Soul Magic:* With a bonus action, you can force a living creature or an undead to take -4 to
-its saving throw of one of your warlock spells, or you can gain a +4 bonus to your own spell
-and attack rolls to such targets (including sigil rolls). This functions up to 5th level spells,
-and costs one soul shard per spell level. This bonus can be applied after knowing the result
-of the roll (whether failure or success).
+  its saving throw of one of your warlock spells, or you can gain a +4 bonus to your own spell
+  and attack rolls to such targets (including sigil rolls). This functions up to 5th level spells,
+  and costs one soul shard per spell level. This bonus can be applied after knowing the result
+  of the roll (whether failure or success).
 
 #### Warlock Focus
 At 3rd level, you may choose to focus on one of two warlock focuses.
@@ -7961,15 +7961,15 @@ At 3rd level, you may choose to focus on one of two warlock focuses.
 \pagebreakNum
 
 * *Fiendish Alliance:* The warlock gains a permanent bound companion that accompanies you
-on your adventures, advises you in the ways of demonology, and teaches you magical spells
-upon the completion of tasks (determined by the DM). You can also have the conjure fiend
-spell memorized. See Bound Companion for details.
+  on your adventures, advises you in the ways of demonology, and teaches you magical spells
+  upon the completion of tasks (determined by the DM). You can also have the conjure fiend
+  spell memorized. See Bound Companion for details.
 * *Shadow Harvest:* You gain the ability to reap soul shards out of your victims. As a bonus
-action you can target one hostile creature within 60 feet of you, and shearing its soul. This
-deals 1d4 points of shadow damage for each spell level you access and grants you a number
-of soul shards equal your proficiency bonus. Once you use this power, you cannot use it
-again until you complete a short or long rest. If the target dies from using this power, roll a
-d6. On a result of 5-6, you do not expend this power.
+  action you can target one hostile creature within 60 feet of you, and shearing its soul. This
+  deals 1d4 points of shadow damage for each spell level you access and grants you a number
+  of soul shards equal your proficiency bonus. Once you use this power, you cannot use it
+  again until you complete a short or long rest. If the target dies from using this power, roll a
+  d6. On a result of 5-6, you do not expend this power.
 ___
 The companion you gain by the Fiendish Alliance focus must be a demon you can summon and
 bind to your service (see the bind spell) that is no larger than Medium and that has a challenge
@@ -8069,12 +8069,12 @@ spell (possibly affecting two targets in the same turn).
 Starting at 14th level, if you reduce a creature to 0 hit points with a damaging
 sigil or single-target channel spell effect, you may produce one of the following effects:
 * *Exploding Seed.* You may deal the sigil (or channel) damage again in a 30-foot burst. This
-does not count as an additional hit against the original target.
+  does not count as an additional hit against the original target.
 * *Store Seed.* You may recapture the spell‘s effects, regaining the spell. If you choose to do so,
-you can cast the spell again for no cost against another target within 1 minute. This acts as
-if you cast the spell again, for the purposes of actions required (but not for resources spent
-like mana or components), and for the purposes of talents that trigger off spell use (such as
-your Haunt talent). You can store one seed this way.
+  you can cast the spell again for no cost against another target within 1 minute. This acts as
+  if you cast the spell again, for the purposes of actions required (but not for resources spent
+  like mana or components), and for the purposes of talents that trigger off spell use (such as
+  your Haunt talent). You can store one seed this way.
 
 #### Corruptive Influence
 Starting at 18th level, whenever you would fail to maintain a sigil effect, you
@@ -8164,8 +8164,8 @@ once per spell.
 #### Havoc
 Also at 1st level, you gain the Havoc ability, and can spend a soul shard to activate it.
 * *Havoc:* You may spend one soul shard to affect two creatures within 30 feet of one another
-with a single-target damaging or channeling (such inferno blast or drain mana), so long as the
-spell is from the warlock spell list. The spell cannot have a range of touch or self.
+  with a single-target damaging or channeling (such inferno blast or drain mana), so long as the
+  spell is from the warlock spell list. The spell cannot have a range of touch or self.
 ___
 Maintaining the spell on one target maintains it on the other so long as the spell‘s duration
 is active.
@@ -8174,7 +8174,7 @@ Furthermore, you also gain two soul shards instead of one if you reduce a creatu
 with a channeled warlock spell.
 
 #### Searing Magics
-Starting at 6th level, you may also target a creature with an action to make it more susceptible to your fire and fel spells. If the target is immune to fire or fel, it becomes resistant to the damage. If it is resistant, it loses the resistance. If it has no resistance, it becomes vulnerable. 
+Starting at 6th level, you may also target a creature with an action to make it more susceptible to your fire and fel spells. If the target is immune to fire or fel, it becomes resistant to the damage. If it is resistant, it loses the resistance. If it has no resistance, it becomes vulnerable.
 
 \columnbreak
 
@@ -8187,12 +8187,12 @@ Starting at 14th level, whenever you deal fire damage to an enemy with a spell (
 the spell or through your chaos magic ability), you may use a soul shard to manifest one of the
 following effects. This triggers once per round.
 * *Burning Blast.* If the target is reduced to 0 hit points, you can deal 6d6 damage (or the
-damage they took, whichever is lower) in a 30-foot burst centered on the target.
+  damage they took, whichever is lower) in a 30-foot burst centered on the target.
 * *Lingering Brimfire.* The target suffers the burning condition for until the end of their turn in
-the next round. While suffering this condition and taking at least 1 point of damage in the
-same round, the target has disadvantage to attack rolls and ability checks.
+  the next round. While suffering this condition and taking at least 1 point of damage in the
+  same round, the target has disadvantage to attack rolls and ability checks.
 * *Quickened Infestations.* Cast any sigil spell you have prepared without spending the normal
-casting time.
+  casting time.
 
 #### Soul Burner
 Starting at 18th level, you double the range of your fire and fel spells. If the spell has
@@ -8317,7 +8317,7 @@ ___
 ___
 - **Saving Throws:** Strength, Stamina
 - **Skills:** Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight,
-Intimidation, Perception, and Survival
+  Intimidation, Perception, and Survival
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -8375,12 +8375,12 @@ can‘t take a Fighting Style option more than once, even if you later get to ch
 * **Defense.** While you are wearing armor, you gain a +1 bonus to AC.
 * **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 * **Great Weapon Fighting.** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are
-wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a
-1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+  wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a
+  1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
 * **Protection.** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use
-your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+  your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
 * **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the
-second attack.
+  second attack.
 
 #### Warrior Talent
 Starting at 1st level, you gain a class talent, representing your preferred tactics and adaptability on
@@ -8425,13 +8425,13 @@ up their foes for their allies, arms warriors become an inspiring sight on the b
 masters of their chosen weapons.
 
 #### First Blood
-Starting upon gaining this archetype at 3rd level, you gain a +2 bonus to your melee attack and damage rolls so long as you are targeting a creature that does not have the Bloodied condition. 
+Starting upon gaining this archetype at 3rd level, you gain a +2 bonus to your melee attack and damage rolls so long as you are targeting a creature that does not have the Bloodied condition.
 
 #### Cleaving Strike [Strike]
-Also at 3rd level, when you successfully attack and damage a creature with a melee attack, you spend a bonus action to attack another creature you choose that is within 5 feet away from the first target. If you already have the Great Weapon Master feat, and if its conditions trigger, resolve the Great Weapon Mastery extra attack, and then the Cleaving Strike. Both use the same bonus action. 
+Also at 3rd level, when you successfully attack and damage a creature with a melee attack, you spend a bonus action to attack another creature you choose that is within 5 feet away from the first target. If you already have the Great Weapon Master feat, and if its conditions trigger, resolve the Great Weapon Mastery extra attack, and then the Cleaving Strike. Both use the same bonus action.
 
 #### Master of Arms
-Starting at 7th level, when you use a strike effect, you can apply it to all your melee attacks until the start of your turn in the next round with the same bonus action. Limited-use strike effects are still limited by their uses. 
+Starting at 7th level, when you use a strike effect, you can apply it to all your melee attacks until the start of your turn in the next round with the same bonus action. Limited-use strike effects are still limited by their uses.
 
 #### Mortal Strike [Strike]
 Starting at 10th level, you may severely wound a creature’s healing capabilities if you successfully apply a mortal strike. If a creature is affected by a Mortal Strike, you deal 2 extra points of damage to them, and they must succeed on a Stamina saving throw against a DC equal to 8 + your proficiency bonus + your Strength bonus or take 50% less healing from all sources for one minute.
@@ -8562,10 +8562,10 @@ Block and Tackle ability, you can add one of the following effects.
 
 * *Destructive Counter.* Your opportunity attack deals an additional 2d6 damage.
 * *Disarming Counter.* Your opportunity attack drops the enemy‘s weapon. If they reach for it
-while threatened by you, you can make another attack of opportunity.
+  while threatened by you, you can make another attack of opportunity.
 * *Pushing Counter.* Your opportunity attack pushes the enemy 5 feet away.
 * *Repositioning Counter.* Your opportunity attack allows you to exchange places with an ally
-within 5 feet of you.
+  within 5 feet of you.
 
 #### Vanguard
 Starting at 15th level, whenever you start your round in a turn with below half your
@@ -8669,7 +8669,7 @@ your power on it. This effect is permanent, but only manifests when the weapon i
 
 #### Suffused Sight
 Also starting at 3rd level, you may choose to either gain Darkvision 60 feet (or
-increase the range of existing darkvision by 60 feet), or gain the spectral sight ability. 
+increase the range of existing darkvision by 60 feet), or gain the spectral sight ability.
 
 #### Spectral Sight
 Your sight is both enhanced and hindered. Within 100 feet, you have blindsight.
@@ -8693,21 +8693,21 @@ attacks as well instead of only one.
 Furthermore, you gain the avatar form warlock spell for no cost if you didn‘t already have it, and
 always have it prepared for no cost. Furthermore, you augment the spell in the following ways:
 * You gain the benefits of the demon skin spell (spell level equal to the highest-level spell you
-can cast) for no cost.
+  can cast) for no cost.
 * Your Strength and Charisma scores increases by 2 points (up to a maximum of 18 each).
 * You gain wings, horns, and claws.
-  * *Wings.* You can glide, and your jump distance is tripled (this can stack with the
-jump spell). For every 10 feet of distance you fall, you can glide 30 feet in any direction. You
-can also instead take no fall damage so long as you can exercise your wings.
-If you
-are restrained or otherwise encumbered, you cannot make use of your wings.
-  * *Horns and Claws.* You gain a horn and claw attack as an unarmed strike. These are
-light melee weapon attacks that deal 1d6 piercing and 1d4 slashing damage
-(respectively, plus your Strength or Agility as normal). These weapons are also
-magical (with +1 to attack and damage rolls).
+    * *Wings.* You can glide, and your jump distance is tripled (this can stack with the
+      jump spell). For every 10 feet of distance you fall, you can glide 30 feet in any direction. You
+      can also instead take no fall damage so long as you can exercise your wings.
+      If you
+      are restrained or otherwise encumbered, you cannot make use of your wings.
+    * *Horns and Claws.* You gain a horn and claw attack as an unarmed strike. These are
+      light melee weapon attacks that deal 1d6 piercing and 1d4 slashing damage
+      (respectively, plus your Strength or Agility as normal). These weapons are also
+      magical (with +1 to attack and damage rolls).
 ___
 While your avatar form shape, you are treated as a fiend for all spell purposes (such as charm and
-dominate spells). This is considered a shapeshifting effect. 
+dominate spells). This is considered a shapeshifting effect.
 
 You may choose one of the following features to remain in your normal form: wings, claws, or
 horns.
@@ -8734,7 +8734,7 @@ than 1/round. The warlock does not gain the soul shard in this case.
 Starting at 17th level, you can access the demonic doom, gate, and foresight warlock
 spells as if 6th level spells, and can cast them normally. If you can access higher-level spells, you can
 cast one of the aforementioned spells once every long rest for no cost instead.
-Also, you gain another Mystic Blast enhancement when in your avatar form. 
+Also, you gain another Mystic Blast enhancement when in your avatar form.
 
 \pagebreakNum
 
@@ -8773,7 +8773,7 @@ Starting at 3rd level, you gain the ability to cast spells as a mage of
 an effective caster level equal to 0.5 your Mountain King level (minimum 0). You do require
 spellbooks, however, as the spells manifest in the form of inscriptions and engravings on your
 armor, weapons, or runes that you draw at the spell‘s range
- (treat as tattoos), but otherwise use the
+(treat as tattoos), but otherwise use the
 
 \columnbreak
 
@@ -8840,7 +8840,7 @@ benefits while benefitting from the spell:
 * At the start of each of your turns, you regain 5 hit points (up until your Bloodied value).
 * You increase your weapons‘ reach by 5 feet.
 * You can make an attack of opportunity against any creature that successfully attacks an ally
-within 10 feet.
+  within 10 feet.
 
 \pagebreakNum
 
@@ -8882,7 +8882,7 @@ Ki is commonly known as Runic Pulse with runeweavers, but functions the same way
 
 #### Runic Attunement
 When you choose this tradition at 3rd level, you learn magical disciplines that
-harness the power of the runic ley lines. An attunement requires you to spend ki points each 
+harness the power of the runic ley lines. An attunement requires you to spend ki points each
 
 \columnbreak
 
@@ -9059,11 +9059,11 @@ runes at the end of a short or long rest.
 * *Arcane.* Mage hand, true strike
 * *Earth.* Mending, mold earth
 * *Frost.* frostbolt (strike only), frostbite
-(strike only)
+  (strike only)
 * *Fire.* Fire bolt (strike only), create
-bonfire
+  bonfire
 * *Light.* Light, dancing lights (maximum
-range 10 ft.)
+  range 10 ft.)
 * *Ward.* Blade ward, resistance (self only)
 * *Wind.* Gust, shocking grasp (strike only)
 
@@ -9096,12 +9096,12 @@ until after a short rest, regardless whether you have the Ki to cast it or not.
 <div style="margin-top:450px;"></div>
 
 ### Shadow Hunter (Hunter)
-Troll shadow hunters are the highest authority of the jungle trolls. Their spirit powers both bless and curse, and they walk the line of dark and light in hope of saving the future of their people. Their dark gods, the Loa, channel themselves through the shadow hunters when they use their ceremonial Rush'kah masks. In some circles, Shadow Hunter is a title bestowed equally among hunters of this specialization and witch doctors. 
+Troll shadow hunters are the highest authority of the jungle trolls. Their spirit powers both bless and curse, and they walk the line of dark and light in hope of saving the future of their people. Their dark gods, the Loa, channel themselves through the shadow hunters when they use their ceremonial Rush'kah masks. In some circles, Shadow Hunter is a title bestowed equally among hunters of this specialization and witch doctors.
 
-Like other practitioners of voodoo, shadow hunters deal with the darker aspects of the spirit world. Unlike witch doctors (who excel in channeling voodoo magic and alchemy), Shadow Hunters claim a strong bond with the Loa, animal spirits thought to be divine in nature. 
+Like other practitioners of voodoo, shadow hunters deal with the darker aspects of the spirit world. Unlike witch doctors (who excel in channeling voodoo magic and alchemy), Shadow Hunters claim a strong bond with the Loa, animal spirits thought to be divine in nature.
 
-Able to channel the essence of some of these extremely potent beings - and often acting with their blessing, conduit, and mortal champions - shadow hunters gain special abilities only the Loa can grant. As they grow in experience, the shadow hunters' bond with the Loa strengthens and their connection to these powerful voodoo spirits eventually gives them the ability to curse and heal at a whim. The strongest shadow hunters can create a pit of shadow filled with terrible beings that can tear their enemies apart. 
-This archetype is restricted to worshipers of the Loa, which are overwhelmingly trolls. Shadow hunters typically utilize Warglaives for combat (see equipment). 
+Able to channel the essence of some of these extremely potent beings - and often acting with their blessing, conduit, and mortal champions - shadow hunters gain special abilities only the Loa can grant. As they grow in experience, the shadow hunters' bond with the Loa strengthens and their connection to these powerful voodoo spirits eventually gives them the ability to curse and heal at a whim. The strongest shadow hunters can create a pit of shadow filled with terrible beings that can tear their enemies apart.
+This archetype is restricted to worshipers of the Loa, which are overwhelmingly trolls. Shadow hunters typically utilize Warglaives for combat (see equipment).
 
 #### Loa Spellcasting
 Starting upon gaining this archetype, you access the shaman’s spell list. You do not gain the increased spellcasting capabilities or access to higher spell levels, but you add all shaman spells of spell levels you can access to your hunter spell list (including totems, healing spells, and elemental spells). You may also add the darkness spell to your shared spell list. Your own sight is unaffected by your darkness spell.
@@ -9113,10 +9113,10 @@ Starting upon gaining this archetype, you access the shaman’s spell list. You 
 Your spellcasting otherwise follows the same rules as the shaman class, although your totems (or spellbooks) are your masks.
 
 #### Mask Magic
-Starting from 3rd level, you can wear various Rush'kah masks can provide blessings, channeling the power of chosen Loa. You can spend 6 hours creating a suite of these magic masks (up to all the ones you know), and they have nearly negligible weight. So long as you have such masks, you can wear them with a bonus action, applying a special benefit as described below. Once a mask is used, it cannot be used again until after a long rest. 
+Starting from 3rd level, you can wear various Rush'kah masks can provide blessings, channeling the power of chosen Loa. You can spend 6 hours creating a suite of these magic masks (up to all the ones you know), and they have nearly negligible weight. So long as you have such masks, you can wear them with a bonus action, applying a special benefit as described below. Once a mask is used, it cannot be used again until after a long rest.
 
 * *Legba Mask.* You cast the haste spell.
-* *Lukou Mask.* You add your Spirit modifier to the final number of hit points healed by your hunter or shaman spells. This can be added to the final damage to undead cured by said spells. This mask grants the benefit for one hour. 
+* *Lukou Mask.* You add your Spirit modifier to the final number of hit points healed by your hunter or shaman spells. This can be added to the final damage to undead cured by said spells. This mask grants the benefit for one hour.
 * *Shango Mask.* You add your Spirit modifier to the final number of damage points dealt by your hunter or shaman lightning spells. This mask grants the benefit for one hour.
 ___
 If a mask is destroyed, it takes 1 hour per mask to create a new one from simple materials.
@@ -9127,19 +9127,19 @@ action, it costs 3
 
 \pagebreakNum
 
-actions instead. If its casting time is 1 hour, it costs 3 hours, etc. This is applied to ritual spells normally. 
+actions instead. If its casting time is 1 hour, it costs 3 hours, etc. This is applied to ritual spells normally.
 
 #### Advanced Mask Magic
 Starting at 11th level, you can add new masks to your repertoire.
 
-* *Bwonsamdi Mask.* You treat the exorcism spell as a bonus spell that you prepared (hunter spell list). You may cast the spell normally or apply it as a strike effect. This benefit remains for one hour. This affects all undead except undead shadows. 
+* *Bwonsamdi Mask.* You treat the exorcism spell as a bonus spell that you prepared (hunter spell list). You may cast the spell normally or apply it as a strike effect. This benefit remains for one hour. This affects all undead except undead shadows.
 * *Ogoun and Dambala Masks.* You can cast the polymorph spell. If you are later able to prepare the spell, it instead costs 2 less mana points (minimum 1) while the mask is active (this cancels out the penalty from the Loa spellcasting feature above). This is usually used to turn yourself into a snake, or turn your enemy into a frog or likewise helpless critter.
-* *The Dark Mask.* You cast the big bad voodoo spell. This costs 16 mana. 
+* *The Dark Mask.* You cast the big bad voodoo spell. This costs 16 mana.
 
 #### Pit of Shadows
-Starting on 15th level, whenever you cast the darkness spell, you can reduce its duration to Concentration (Partial), up to 1 minute. While enhanced this way, however, all spells you cast that deal shadow damage or that conjure shadows cost 2 less mana points (minimum 0), so long the spell does not target an area or a creature outside the darkness. If the darkness spell was heightened by your Voodoo Ritualist ability (making it more resilient against being defeated by light spells), then spells that deal shadow damage or conjure shadows are similarly heightened (as described under the spells’ descriptions). 
+Starting on 15th level, whenever you cast the darkness spell, you can reduce its duration to Concentration (Partial), up to 1 minute. While enhanced this way, however, all spells you cast that deal shadow damage or that conjure shadows cost 2 less mana points (minimum 0), so long the spell does not target an area or a creature outside the darkness. If the darkness spell was heightened by your Voodoo Ritualist ability (making it more resilient against being defeated by light spells), then spells that deal shadow damage or conjure shadows are similarly heightened (as described under the spells’ descriptions).
 
-Once this feature is used, it cannot be used again until after a long rest. Alternatively, this ability can consume one of the uses of a mask you didn’t use yet. 
+Once this feature is used, it cannot be used again until after a long rest. Alternatively, this ability can consume one of the uses of a mask you didn’t use yet.
 
 \pagebreakNum
 
@@ -9193,19 +9193,19 @@ well as your normal one, even without using the spell resistance feature), you m
 absorb residual mana, gaining mana points equal to the spell‘s level. This is a normal manarestorative effect.
 
 #### Abjuring Knight
-Starting at 7th level, you may cast the dispel magic and counterspell spells with one less mana point, and always have them prepared. 
+Starting at 7th level, you may cast the dispel magic and counterspell spells with one less mana point, and always have them prepared.
 
 You may also throw a two-bladed sword, treating it as a thrown weapon with a range of 10/30 feet. This may deliver melee strikes at range, and the two-bladed sword returns after the attack roll is resolved, but allowing for only one melee strike every round.
 
 #### Feedback
-At 10th level, whenever you dispel or counterspell a magical effect from a creature, you destroy 2 mana points per spell level you used. Each mana point burned deals 1d4 arcane damage to the target. 
+At 10th level, whenever you dispel or counterspell a magical effect from a creature, you destroy 2 mana points per spell level you used. Each mana point burned deals 1d4 arcane damage to the target.
 
 If you dispel an effect from an ally, you may manifest one of the following effects:
 * You can direct the mana-burning effect to any hostile creature within 30 feet of you. This is negated on a successful a Spirit saving throw against your Spell save DC.
 
-\pagebreakNum 
+\pagebreakNum
 
-* You can gain a bonus to melee and thrown weapon damage rolls equal to the highest-spell level you dispelled or counterspelled. The bonus decreases by 1 point at the end of your turn every round until it reaches 0. 
+* You can gain a bonus to melee and thrown weapon damage rolls equal to the highest-spell level you dispelled or counterspelled. The bonus decreases by 1 point at the end of your turn every round until it reaches 0.
 
 #### Steal Magic
 At 15th level, you may transfer a dispelled or counterspelled magical effect to another
@@ -9305,25 +9305,25 @@ or handle for at least 1 minute.
 \pagebreakNum
 
 * *Personalized Mojo.* You can personalize a potion for a specific creature by mixing a part of them
-(hair, nail clippings, a tear, etc.) into it. This potion functions only for the target, and is treated
-as if heightened one spell level (this can exceed your normal maximum spell level). If the
-potion has no benefit when targeting a creature (such as an area of effect spell or a potion that
-conjures a creature), or when heightened, the potion can instead be reused with a successful
-DC 15 Intelligence check with Alchemist‘s Supplies, so far as you use an action when adjacent
-to the potion (or target) within 1 minute of it being used. This can be attempted once.
+  (hair, nail clippings, a tear, etc.) into it. This potion functions only for the target, and is treated
+  as if heightened one spell level (this can exceed your normal maximum spell level). If the
+  potion has no benefit when targeting a creature (such as an area of effect spell or a potion that
+  conjures a creature), or when heightened, the potion can instead be reused with a successful
+  DC 15 Intelligence check with Alchemist‘s Supplies, so far as you use an action when adjacent
+  to the potion (or target) within 1 minute of it being used. This can be attempted once.
 * *Rage Mojo.* You imbue your potion a spirit of rage and battle. When the potion is consumed,
-the target is also enraged, as the berserker rage spell, for the full duration (or until you command
-it to end as a bonus action or reaction). The target does not suffer a level of exhaustion if it
-succeeds on a Stamina saving throw against your Spell DC at the end of the rage.
+  the target is also enraged, as the berserker rage spell, for the full duration (or until you command
+  it to end as a bonus action or reaction). The target does not suffer a level of exhaustion if it
+  succeeds on a Stamina saving throw against your Spell DC at the end of the rage.
 * *Spirit Mojo.* You augment the potion with a spirit of balance, allowing you to mix two potions
-to retain the benefits of both (as the Proper Sync miscibility result), so long as both potions
-have the same quality. This can be done once per short rest.
+  to retain the benefits of both (as the Proper Sync miscibility result), so long as both potions
+  have the same quality. This can be done once per short rest.
 * *Shaka Mojo.* You augment the potion with a spirit of might. When you roll for damage or
-healing with the potion, it deals the maximum effect instead, so long as you use it. You may
-have only one shaka mojo potion active at any given time.
+  healing with the potion, it deals the maximum effect instead, so long as you use it. You may
+  have only one shaka mojo potion active at any given time.
 * *Strange Mojo.* This potion houses a tiny, wild spirit. When this potion is consumed with other
-ones, roll twice for miscibility and choose your favored result. This stacks with other re-rolls of
-miscibility. You can only have one strange mojo potion active at any given time.
+  ones, roll twice for miscibility and choose your favored result. This stacks with other re-rolls of
+  miscibility. You can only have one strange mojo potion active at any given time.
 
 #### Spiritual Intervention
 When you reach level 17, you can invoke the spirits of Loa to aid you. You
@@ -9336,7 +9336,7 @@ If you use of your elemental intervention ability, you can choose any other spel
 the shaman spell list, but the spell you choose must be one spell level lower than the spell you
 altered. This costs the same mana cost as the original spell. This spell remains prepared for 8 hours
 or until cast, after which it fades and your original altered spell returns. This counts as a successful
-use of the elemental intervention ability, and does not require a roll to succeed. 
+use of the elemental intervention ability, and does not require a roll to succeed.
 
 \pagebreakNum
 
@@ -9401,20 +9401,20 @@ You may use your bonus action to take the Dash action, but only to approach a ho
 #### Agile Leap
 **Prerequisite.** 5th level
 <br>
-You may use a bonus action to leap, moving at half your total speed. This movement does not provoke reactions. If you have the ability to glide, hover, or fly (via spell, gadget, or ability), you may choose to use this ability in mid-air (effectively changing your trajectory as a double-jump). This jump also counts as a Dash action for the purposes of other abilities. 
+You may use a bonus action to leap, moving at half your total speed. This movement does not provoke reactions. If you have the ability to glide, hover, or fly (via spell, gadget, or ability), you may choose to use this ability in mid-air (effectively changing your trajectory as a double-jump). This jump also counts as a Dash action for the purposes of other abilities.
 
-You are treated as if you always benefit from the jump spell. 
+You are treated as if you always benefit from the jump spell.
 
-If you also have the Heroic Leap talent, a use of the ability increases your jump distance to your full speed for that use. 
+If you also have the Heroic Leap talent, a use of the ability increases your jump distance to your full speed for that use.
 
 #### Berserker Rage
 **Prerequisite.** Must be taken at 1st level of Warrior.
 <br>
-You may cast the berserker frenzy spell on yourself as a bonus action. This rage continues until you end it with a bonus action, or until the rage ends early (as per the spell’s description), and you can use it as limited by the spell’s description. 
+You may cast the berserker frenzy spell on yourself as a bonus action. This rage continues until you end it with a bonus action, or until the rage ends early (as per the spell’s description), and you can use it as limited by the spell’s description.
 
-This spell cannot be dispelled, but can be overwhelmed by a calm emotions spell or similar effect that would suppress this ability, and does not prevent use of spell-like abilities derived from talents. 
+This spell cannot be dispelled, but can be overwhelmed by a calm emotions spell or similar effect that would suppress this ability, and does not prevent use of spell-like abilities derived from talents.
 
-You can take this talent again. If you do so, you do not gain a level of exhaustion at the end (regardless of how long you rage). 
+You can take this talent again. If you do so, you do not gain a level of exhaustion at the end (regardless of how long you rage).
 
 If you reach 9th level of Warrior, your rage only ends if you are knocked unconscious or if you end it willingly.
 
@@ -9423,11 +9423,11 @@ If you reach 9th level of Warrior, your rage only ends if you are knocked uncons
 <br>
 You may enter this stance with an action. While in this stance, you whirl with your weapon outstretched, automatically dealing your melee weapon damage to all creatures within the weapon’s reach of you. This damage is treated as an area effect. Affected targets are entitled an Agility saving throw to halve the damage. You can apply strike effects, but they affect only targets who failed their saving throw, and one strike affects one target.
 
-You cannot take any other actions in this stance other than maintaining it. You can enter this stance a number of times equal to your proficiency bonus before replenishing on a 
+You cannot take any other actions in this stance other than maintaining it. You can enter this stance a number of times equal to your proficiency bonus before replenishing on a
 
 \columnbreak
 
-short rest, and the effects of it remaining until the beginning of your turn in the next round unless you extend it using the same actions. 
+short rest, and the effects of it remaining until the beginning of your turn in the next round unless you extend it using the same actions.
 
 While in this stance, you have advantage against all movement-impairing effects or effects that result in loss of control for your character, and you do not provoke reactions from movement from a creature who has failed their saving throw to half damage. Your speed, however, is halved in this stance. If you are unable to use your action, or if you cannot move at least 5 feet every round, this stance ends. If you are in this stance more than 3 rounds, you gain the incapacitated condition for after you are finished. The condition remains for 1 round per round you were in the stance beyond the first three.
 
@@ -9584,40 +9584,40 @@ target on a failed Stamina saving throw. The
 weapon damage type determines the
 condition, chosen from the below.
 * *Blinded (any).* The target is blinded
-for until the end of their turn in the
-next round.
+  for until the end of their turn in the
+  next round.
 * *Kidney Shot (piercing or bludgeoning,
-requires level 5).* The target is stunned
-until the end of their turn in the
-next round.
+  requires level 5).* The target is stunned
+  until the end of their turn in the
+  next round.
 * *Rupture (slashing or piercing).* The
-target gains the bleeding condition
-for 1 minute, with the value of blood
-loss equal to your Agility modifier.
-Furthermore, unless they take
-precautions, they leave a trail of
-blood behind them.
-The creature can attempt another
-Stamina saving throw at the
-beginning of every round to end this
-effect. Creatures that do have blood
-(or do not require it to survive)
-cannot be harmed by bleeding.
+  target gains the bleeding condition
+  for 1 minute, with the value of blood
+  loss equal to your Agility modifier.
+  Furthermore, unless they take
+  precautions, they leave a trail of
+  blood behind them.
+  The creature can attempt another
+  Stamina saving throw at the
+  beginning of every round to end this
+  effect. Creatures that do have blood
+  (or do not require it to survive)
+  cannot be harmed by bleeding.
 * *Sap (bludgeoning).* The creature is
-charmed for one minute and looks
-visibly dazed and flat-footed. While
-charmed by this effect, the creature is
-incapacitated and has a speed of 0.
-The effect ends for an affected
-creature if it takes any damage or if
-someone else uses an action to shake
-the creature out of its stupor. The
-creature can attempt another
-Stamina saving throw once every
-round to end this effect. Once a
-creature is affected by this ability, it
-is immune to it until it performs a
-short rest.
+  charmed for one minute and looks
+  visibly dazed and flat-footed. While
+  charmed by this effect, the creature is
+  incapacitated and has a speed of 0.
+  The effect ends for an affected
+  creature if it takes any damage or if
+  someone else uses an action to shake
+  the creature out of its stupor. The
+  creature can attempt another
+  Stamina saving throw once every
+  round to end this effect. Once a
+  creature is affected by this ability, it
+  is immune to it until it performs a
+  short rest.
 ___
 For each saving throw attempt the target
 makes against a dire strike ability, they gain a
@@ -10478,7 +10478,7 @@ rest.
 | Pandaren | Pandaren | Pandaren | - | 
 | Shath'Yar | Void beings, faceless |  Corrupted runic | - | 
 | Taur-ahe | Tauren | Pictograms | - | 
-| Titan | Titans, earthen Runic | - | 
+| Titan | Titans, earthen Runic | - |
 | Troll<sup>7</sup> | Trolls | Zandali | - | 
 ___
 
@@ -10569,17 +10569,17 @@ support their ideals, or aid their bonds. A
 character with inspiration may spend it to
 gain one of the following effects.
 * Advantage to a single saving throw,
-ability check, or attack roll.
+  ability check, or attack roll.
 
 \pagebreakNum
 
 * Roll a 1d6, and add the result to one d20
-roll or your AC against one attack. You
-may declare this after you know the
-result of the attack.
+  roll or your AC against one attack. You
+  may declare this after you know the
+  result of the attack.
 * Impose disadvantage to a single saving
-throw, ability check, or attack roll of a
-creature attacking you.
+  throw, ability check, or attack roll of a
+  creature attacking you.
 
 #### Special Inspiration
 Upon hearing of the murder of his brother
@@ -10598,7 +10598,7 @@ feat (such as Infusionist) for one task or
 encounter, crafting an artifact, regaining a
 use of an ability with no remaining uses
 (Berserker Rage), or another appropriate
-effect. 
+effect.
 
 #### Personality
 It is always advisable to consult with the DM
@@ -10776,7 +10776,7 @@ and the Forsaken.
 ___
 You may start with a dagger that doubles as a
 signet of rank (called the Shadowstalker), and
-one memento of your Deathstalker test. 
+one memento of your Deathstalker test.
 
 ##### Variant Feature (Undead Deathstalker): Undead Stalker
 When conducting a mission, you intuitively
@@ -10892,7 +10892,7 @@ Besides the normal Entertainer Routines, you may refer to the list below for Dar
 | 8	| Shooting Game Vendor | 
 | 9	| Sweets Vendor | 
 | 10 | Pet Tamer | 
- 
+
 ### Folk Hero
 
 <a id="folkhero"></a>
@@ -10935,7 +10935,7 @@ enterprise over joining the employ of a guild
 or company. This requires great initiative and
 persistence, as other companies may wish to
 force a merger to take advantage of your
-innovations or to get rid of a competitor. 
+innovations or to get rid of a competitor.
 
 ##### Variant Feature: Chief Executive Officer
 Thanks to your initiative and ambition,
@@ -10994,7 +10994,7 @@ to be among the finest Azeroth has ever seen.
 They possess the knowledge required to make
 the arms and armaments of Ragnaros, the
 Fire Lord, but lack the manpower to obtain
-the materials required for the crafting. 
+the materials required for the crafting.
 
 A daunting task, no doubt, but gaining access
 to the Thorium Brotherhood's secrets should
@@ -11048,7 +11048,7 @@ tools, a vehicle, or an additional language.
 And instead of artisan‘s tools, you can start
 with a mule and a cart, or a permanent free
 pass on goblin balloons for yourself and your
-adventuring companions. 
+adventuring companions.
 
 ### Haunted One
 
@@ -11164,7 +11164,7 @@ ___
 *Special.* If you are under the effects of the
 slumber druid spell, you can remain in the
 Emerald Dream so long as the spell is still
-active. 
+active.
 
 ### Noble
 
@@ -11244,7 +11244,7 @@ civilization. They live off the land and survive
 using their wits.
 
 Every race has its members who chose to live
-apart from urban civilization. 
+apart from urban civilization.
 
 #### Variant Outlander: Headhunter (Troll only)
 You are capable combatant and survivalist
@@ -11266,7 +11266,7 @@ reverence by their people, often becoming
 reclusive priests who wander the land in
 search of kindred spirits. Spirit walkers
 maintain balance between the world of the
-living and the spirit realm. 
+living and the spirit realm.
 
 As a spirit walker, your fur is pearly-white,
 and your eyes reflect the life of a thousand
@@ -11307,7 +11307,7 @@ ignore you, instead of attacking on sight.
 
 Because this feature is not magical, its power
 is inferior to the speak with dead spell or
-actually speaking a shared language. 
+actually speaking a shared language.
 
 ### Sage
 
@@ -11409,7 +11409,7 @@ equivalent for them is "reaver", for reavers
 can be found among almost all orc gunships.
 
 Instead of a lucky charm, you may choose to
-receive an insignia of rank instead. 
+receive an insignia of rank instead.
 
 ### Soldier
 
@@ -11547,7 +11547,7 @@ A child of the streets. Urchins can be found
 in the dirty streets begging for coin,
 pocketing what isn‘t theirs, and generally
 trying to grow up to be criminals or
-charlatans. 
+charlatans.
 
 #### Variant Urchin: Refugee
 In many cases, an urchin could have been
@@ -11587,22 +11587,22 @@ campaign.
 ## Starting Equipment
 As described in the Player’s Handbook, you can start with a number of gold pieces based on your class and spend them on items from the lists in the equipment chapter. See the Starting Wealth by Class table to determine how much gold you have to spend.
 
-You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing. 
+You decide how your character came by this starting equipment. It might have been an inheritance, or goods that the character purchased during his or her upbringing.
 
 <a id="wealth"></a>
 
 ## Wealth
-Material wealth in Azeroth was based on gold, silver, and copper coins. In many cases, however, barter takes place (such as in Booty Bay or other goblin strongholds), or is measured in other means (land, ownership of mines and other resource nodes, etc.) 
+Material wealth in Azeroth was based on gold, silver, and copper coins. In many cases, however, barter takes place (such as in Booty Bay or other goblin strongholds), or is measured in other means (land, ownership of mines and other resource nodes, etc.)
 
-Stormwind's coinage has traditionally been the copper penny, the silver groat, and the gold sovereign. For all purposes, however, coinage is nearly universal, with Stormwind-minted coin in equal circulation with coins minted in Ironforge, Orgrimmar, or Booty Bay. The Defias Brotherhood enjoys marring Stormwind minted coins creating "cross-eyed coins” which is a sign of treason to the throne. 
+Stormwind's coinage has traditionally been the copper penny, the silver groat, and the gold sovereign. For all purposes, however, coinage is nearly universal, with Stormwind-minted coin in equal circulation with coins minted in Ironforge, Orgrimmar, or Booty Bay. The Defias Brotherhood enjoys marring Stormwind minted coins creating "cross-eyed coins” which is a sign of treason to the throne.
 
-Mined from the rich earth of Azeroth and Lordaeron, gold is commonly used as coins in exchange for goods and services. As a rare substance that is always in short supply, gold must be dug out from the rock and soil within established gold mines. Many of these mines were abandoned when the orc raids began (followed by the First and Second wars) and the workers fled for their very lives. 
+Mined from the rich earth of Azeroth and Lordaeron, gold is commonly used as coins in exchange for goods and services. As a rare substance that is always in short supply, gold must be dug out from the rock and soil within established gold mines. Many of these mines were abandoned when the orc raids began (followed by the First and Second wars) and the workers fled for their very lives.
 
 Since the beginning of the Second War, many gold-mining sites are frequently operated while under the protection of military forces.
 
 Goblins call their currency macaroons, and they refer to money as moolah.
 
-Some other coins that are not minted any longer are worth more to some people. Gold coins from the fall of the Night Elf empire (Azshara-mint) often worth at least ten times the actual value of the same coin at the time of the empire’s fall and drowning beneath the sea. 
+Some other coins that are not minted any longer are worth more to some people. Gold coins from the fall of the Night Elf empire (Azshara-mint) often worth at least ten times the actual value of the same coin at the time of the empire’s fall and drowning beneath the sea.
 
 ### Starting Wealth by Class
 
@@ -11649,37 +11649,37 @@ The monetary system in the world of Warcraft operates on the scale described in 
 \pagebreakNum
 | | |
 |:---:|:---:|
-| 35 gold | This amount was lost by an unnamed Defias Brotherhood member in bets during a Crimson Ring tournament in Dire Maul. | 
+| 35 gold | This amount was lost by an unnamed Defias Brotherhood member in bets during a Crimson Ring tournament in Dire Maul. |
 | 30 gold | was added onto an existing bet against Croc-Bait by an unknown audience member during the Crimson Ring tournament. |
-| 20 gold | is the average cost of a salvage operation. | 
+| 20 gold | is the average cost of a salvage operation. |
 | 20 gold | can buy 19 pallets filled with jerky and codfish.
-| 10 gold | During the invasion of Durotar, an unknown hunter in Daelin Proudmoore's army wanted to bet that amount of gold that he could kill Vol'jin. | 
-| 10 gold | was bet by an unnamed troll on Giago during a Crimson Ring tournament. | 
-| 5 gold | was bet by an audience member on Two-Heads during a Crimson Ring tournament. | 
-| 3 gold | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the groin. | 
-| 2 gold | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the face. | 
-| 2 gold | was given by Horde adventurers to Boss Bazzelflange to allow her to get home to Brawl'gar Arena after being stranded in Area 52. After being given the gold, Bazzelflange could be seen running up to the flight master Krexcil, presumably to buy a ride using the money. | 
-| 1 gold 45 silver | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the chest. | 
-| 15 silver | is the price for Scarlet Crusaders who want to receive absolution for sins of "harsh words". | 
-| 15 silver | In Bilgewater Harbor, every vice one can imagine is available for "just a handful of silver". | 
-| 50 silver | was offered by Sparkeye in a bet against Rehgar Earthfury's gladiator team. | 
-| 40 silver | was offered by Sparkeye in a "small wager" on a fight between his and Rehgar's gladiator teams. Rehgar doubled the bet to 80 silver. | 
-| 40 silver | was bet by an audience member on Croc-Bait during the Crimson Ring tournament. | 
-| 30 silver | is enough to purchase the ogre Throgg. | 
-| 20 silver | was bet by Spiketooth on Croc-Bait winning a fight against a crocolisk. As the fight progressed and Rokul refused to pay up, Spiketooth offered to raise the bet to 40, followed by Rehgar doubling it to 80. | 
-| 10 silver | was offered by an unnamed orc in a bet that Croc-Bait wouldn't last another two minutes during the Crimson Ring tournament. | 
-| 6 copper | Yrel owes this amount to Maami. | 
-| 1 copper | purchases a few vegetables. | 
-| 1 copper | was asked of Lo'Gosh and his companions by an old woman in Menethil Harbor in exchange for telling them their fortune. | 
+| 10 gold | During the invasion of Durotar, an unknown hunter in Daelin Proudmoore's army wanted to bet that amount of gold that he could kill Vol'jin. |
+| 10 gold | was bet by an unnamed troll on Giago during a Crimson Ring tournament. |
+| 5 gold | was bet by an audience member on Two-Heads during a Crimson Ring tournament. |
+| 3 gold | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the groin. |
+| 2 gold | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the face. |
+| 2 gold | was given by Horde adventurers to Boss Bazzelflange to allow her to get home to Brawl'gar Arena after being stranded in Area 52. After being given the gold, Bazzelflange could be seen running up to the flight master Krexcil, presumably to buy a ride using the money. |
+| 1 gold 45 silver | is the price for Scarlet Crusaders who want to receive absolution for the sin of punching someone in the chest. |
+| 15 silver | is the price for Scarlet Crusaders who want to receive absolution for sins of "harsh words". |
+| 15 silver | In Bilgewater Harbor, every vice one can imagine is available for "just a handful of silver". |
+| 50 silver | was offered by Sparkeye in a bet against Rehgar Earthfury's gladiator team. |
+| 40 silver | was offered by Sparkeye in a "small wager" on a fight between his and Rehgar's gladiator teams. Rehgar doubled the bet to 80 silver. |
+| 40 silver | was bet by an audience member on Croc-Bait during the Crimson Ring tournament. |
+| 30 silver | is enough to purchase the ogre Throgg. |
+| 20 silver | was bet by Spiketooth on Croc-Bait winning a fight against a crocolisk. As the fight progressed and Rokul refused to pay up, Spiketooth offered to raise the bet to 40, followed by Rehgar doubling it to 80. |
+| 10 silver | was offered by an unnamed orc in a bet that Croc-Bait wouldn't last another two minutes during the Crimson Ring tournament. |
+| 6 copper | Yrel owes this amount to Maami. |
+| 1 copper | purchases a few vegetables. |
+| 1 copper | was asked of Lo'Gosh and his companions by an old woman in Menethil Harbor in exchange for telling them their fortune. |
 
 ### Selling Treasure
 Opportunities abound to find treasure, equipment, weapons, armor, and more in the dungeons you explore. Normally, you can sell your treasures and trinkets when you return to a town or other settlement, provided that you can find buyers and merchants interested in your loot.
 
 #### Arms, Armor, and Other Equipment
-As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell. Those in pristine condition (newly made) can sell for their normal value. 
+As a general rule, undamaged weapons, armor, and other equipment fetch half their cost when sold in a market. Weapons and armor used by monsters are rarely in good enough condition to sell. Those in pristine condition (newly made) can sell for their normal value.
 
 #### Magic Items
-Selling magic items is usually problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Major cities and faction capitals often have one or more shops (or institutions) that hire and retain professional infusionists. Such infusionists are often tied to their trade, training institutions, or faction, and require a certain degree of respect or clout to trade with strangers. People who are friendly with such organizations (or the mother faction) can expect fair trade (in the instance of Stormwind, humans who are considered heroes are fairly traded with, while wandering Pandaren might not be trusted with valuable items). 
+Selling magic items is usually problematic. Finding someone to buy a potion or a scroll isn’t too hard, but other items are out of the realm of most but the wealthiest nobles. Major cities and faction capitals often have one or more shops (or institutions) that hire and retain professional infusionists. Such infusionists are often tied to their trade, training institutions, or faction, and require a certain degree of respect or clout to trade with strangers. People who are friendly with such organizations (or the mother faction) can expect fair trade (in the instance of Stormwind, humans who are considered heroes are fairly traded with, while wandering Pandaren might not be trusted with valuable items).
 
 #### Gems, Jewelry, and Art Objects
 These items retain their full value in the marketplace, and you can either trade them in for coin or use them as currency for other transactions. For exceptionally valuable treasures, the DM might require you to find a buyer in a large town or larger community first.
@@ -11687,7 +11687,7 @@ These items retain their full value in the marketplace, and you can either trade
 #### Trade Goods
 On the borderlands, many people conduct transactions through barter. Like gems and art objects, trade goods—bars of iron, bags of salt, livestock, and so on—retain their full value in the market and can be used as currency.
 
-In many instances, going to larger towns (or those with greater commercial and economic activity) increases the chance of both selling treasure at fair prices as well as finding rarer items. See the Codex Mandatum document for more details on settlement economic activity. 
+In many instances, going to larger towns (or those with greater commercial and economic activity) increases the chance of both selling treasure at fair prices as well as finding rarer items. See the Codex Mandatum document for more details on settlement economic activity.
 
 \pagebreakNum
 
@@ -11717,13 +11717,13 @@ In many instances, going to larger towns (or those with greater commercial and e
 
 ##### Bullets and Pellets
 These pieces of ammunition typically come in ammo bags or packs, and are used by firearms. Specially-shaped bullets can be used to seal slashing damage instead.
-Bullets and pellets are both blacksmithing and engineering product for crafting purposes. 
+Bullets and pellets are both blacksmithing and engineering product for crafting purposes.
 
 ##### Packaged Bullets/Pellets
 These pieces of ammunition are specially-prepared to include their own fuel. Such ammunition is resistant to water, but have a 10% chance to explode every round if exposed to direct flame. Bullets and pellets are both blacksmithing and engineering product for crafting purposes.
 
 ##### Powder Horn
-Carrying two pounds of gunpowder, this fire and water-resistant horn is required almost always for a tinker on the go. Gunpowder is both an alchemical and engineering product for crafting purposes. 
+Carrying two pounds of gunpowder, this fire and water-resistant horn is required almost always for a tinker on the go. Gunpowder is both an alchemical and engineering product for crafting purposes.
 
 ##### Powder Keg
 Containing twenty pounds of gunpowder, this keg is very flammable, but it is a sure sight for sore dwarven eyes. Gunpowder is both an alchemical and engineering product for crafting purposes.
@@ -11734,11 +11734,11 @@ Containing twenty pounds of gunpowder, this keg is very flammable, but it is a s
 
 ## Weapons and Armor
 
-The Warcraft universe has several special varieties for existing weapons, as described below. 
+The Warcraft universe has several special varieties for existing weapons, as described below.
 
-Clothes can be infused as if armors (with armor-specific infusions). They do not count as armor for the purposes of class features that require you to be armored or unarmored (such as the Defense Fighting Style or Unarmored Defense feature) unless they alter your AC. 
+Clothes can be infused as if armors (with armor-specific infusions). They do not count as armor for the purposes of class features that require you to be armored or unarmored (such as the Defense Fighting Style or Unarmored Defense feature) unless they alter your AC.
 
-Some weapons are described as if based off another weapon (for example, the greathammer and the maul). If proficient with the original weapon (the maul), one week of training confers proficiency to the second (greathammer). Firearms require one week of training to be counted as martial weapons, and proficiency with Engineer’s Tools automatically confers proficiency. 
+Some weapons are described as if based off another weapon (for example, the greathammer and the maul). If proficient with the original weapon (the maul), one week of training confers proficiency to the second (greathammer). Firearms require one week of training to be counted as martial weapons, and proficiency with Engineer’s Tools automatically confers proficiency.
 <br><br>
 <div class="classTable wide">
 
@@ -11758,22 +11758,22 @@ Some weapons are described as if based off another weapon (for example, the grea
 </div>
 
 ##### Attack Claws
-These claws may be attached to a hand, and allow for a user to perform somatic components without occupying the hand (as if a spellcasting focus). They are usually favored by orcish shamans who enter melee after conjuring elementals or placing totems. This is based on the dagger.  
+These claws may be attached to a hand, and allow for a user to perform somatic components without occupying the hand (as if a spellcasting focus). They are usually favored by orcish shamans who enter melee after conjuring elementals or placing totems. This is based on the dagger.
 
 ##### Bayonet
-This dagger-like blade can be attached to a firearm or crossbow, allowing it to make melee weapon attacks. Longer bayonets can act as shortswords or longswords instead (attached to medium and heavy firearms respectively). This requires the proficiency of the weapon described. Some firearms are modified with different weapons. The weapon cannot be heavier than the firearm itself. Weapons attached to firearms or crossbows can be enchanted (as normal weapons). 
+This dagger-like blade can be attached to a firearm or crossbow, allowing it to make melee weapon attacks. Longer bayonets can act as shortswords or longswords instead (attached to medium and heavy firearms respectively). This requires the proficiency of the weapon described. Some firearms are modified with different weapons. The weapon cannot be heavier than the firearm itself. Weapons attached to firearms or crossbows can be enchanted (as normal weapons).
 
 ##### Garrote Wire
-This weapon can be used to start a grapple with an attack roll instead of making a Strength (Athletics) check, but suffers disadvantage to the roll if the target is aware of the attacker. This is a simple weapon. 
+This weapon can be used to start a grapple with an attack roll instead of making a Strength (Athletics) check, but suffers disadvantage to the roll if the target is aware of the attacker. This is a simple weapon.
 
 ##### Greathammer
 This iconic paladin weapon is favored by the Order of the Holy Light. This is based on the maul.
 
 ##### Moonglaive
-This circular blade has three dagger-like blades jutting from its sides. Uncommonly seen but easy to train with, Moonglaives are favored by the night elves of Kalimdor. This is based on the shortsword. 
+This circular blade has three dagger-like blades jutting from its sides. Uncommonly seen but easy to train with, Moonglaives are favored by the night elves of Kalimdor. This is based on the shortsword.
 
 ##### Spiked Chain
-A 10-foot chain marked with a large hook, this spiked chain is a dangerous and rare weapon to see in the battlefield. A hooked spiked chain can tether on a successful hit (see Chapter 9). This is a martial weapon. 
+A 10-foot chain marked with a large hook, this spiked chain is a dangerous and rare weapon to see in the battlefield. A hooked spiked chain can tether on a successful hit (see Chapter 9). This is a martial weapon.
 
 ##### Sword, Two-Bladed
 Typically used only by elven swordsmen of great agility, the two-bladed sword is almost iconic of the high elven military. This sword can be used to attack with both ends as if using two weapons, despite being a single melee weapon that can is used in one hand. This otherwise acts as two-weapon fighting with all other respects. The weapon is also infused as if one weapon. This is based on the longsword.
@@ -11782,17 +11782,17 @@ Typically used only by elven swordsmen of great agility, the two-bladed sword is
 This needle is a specifically-designed weapon to inject injury poisons, plagues, and offensive potions into targets who are stabbed with it. After a successful attack roll, you may use a bonus action to inject the target with the contents of the syringe. This is based on the dagger.
 
 ##### Totem, Tauren
-Large, unwieldy, but very intricately-made, tauren totems are iconic of the tauren peoples. A tauren totem can be treated as a shaman’s totem for the purposes of scribing spells. This is based on the Greatclub. 
+Large, unwieldy, but very intricately-made, tauren totems are iconic of the tauren peoples. A tauren totem can be treated as a shaman’s totem for the purposes of scribing spells. This is based on the Greatclub.
 
 ##### Warglaive
-This night elf weapon is a crescent-shaped blade about 4 feet long with a hilt in the center of the back edge. Demon hunters favor these weapons. This is based on the scimitar. 
+This night elf weapon is a crescent-shaped blade about 4 feet long with a hilt in the center of the back edge. Demon hunters favor these weapons. This is based on the scimitar.
 
 \pagebreakNum
 
 <a id="tools"></a>
 
 ## Tools
-The Warcraft universe has its share of special tools, kits, and items. 
+The Warcraft universe has its share of special tools, kits, and items.
 <br><br>
 <div class="classTable">
 
@@ -11807,7 +11807,7 @@ The Warcraft universe has its share of special tools, kits, and items.
 </div>
 
 ##### Engineer's Tools
-This toolset includes various tools such as a collection of fuses, wrenches, nails, wires, and assorted common spare parts. Proficiency with these tools confers proficiency in firearms and explosives. 
+This toolset includes various tools such as a collection of fuses, wrenches, nails, wires, and assorted common spare parts. Proficiency with these tools confers proficiency in firearms and explosives.
 
 ##### Infusion Kit
 These toolsets include an inscription plate, various brushes that can draw with magical ink, scales to measure infusion dusts, magnifying glasses of different sizes, and strips of vellum to help design and inscribe infusion matrices.
@@ -11835,21 +11835,21 @@ Hearthstone is a magical card game popular in inns and taverns across Azeroth. I
 
 is nearby (as if with the mage hand cantrip), unless physically prevented from doing so.
 
-Both the cards and the boards can be disenchanted, but will yield no components that would be of use in crafting equipment useful to adventurers. Decks have rarity as magic items, however, with Common rarity at +0 bonus, Uncommon at +1, Rare at +2, and Epic at +3. 
+Both the cards and the boards can be disenchanted, but will yield no components that would be of use in crafting equipment useful to adventurers. Decks have rarity as magic items, however, with Common rarity at +0 bonus, Uncommon at +1, Rare at +2, and Epic at +3.
 
 ##### Portable board
-The decks replicate the prestidigitation and minor illusion cantrips, but only to serve the game’s function. 
+The decks replicate the prestidigitation and minor illusion cantrips, but only to serve the game’s function.
 
 ##### Full-size board
-Fuller sets are physically larger, and can serve the players with more detail than the portable board, adding illusory fountains, lights, minor movement, terrain re-textures of the board, and minor self-repair as if also containing the Light, Dancing Lights, and Mending cantrips. 
+Fuller sets are physically larger, and can serve the players with more detail than the portable board, adding illusory fountains, lights, minor movement, terrain re-textures of the board, and minor self-repair as if also containing the Light, Dancing Lights, and Mending cantrips.
 
 ##### Basic Set
 These are enough cards to play Hearthstone with. This set has no deck bonus, but can be of a specific build. Each set is flavored to act as a specific class. This does not pre-determine the deck structure (see below), but usually suggests one (warlocks lean to spell or minion builds, paladins lean towards hero or endurance builds, etc.)
 
 ##### Card Pack
-The card pack has 5 random cards. Roll 1d10 for each pack opened. On a roll of a 10, you get cards good enough to add you a +1 bonus to your ability check to play. 
+The card pack has 5 random cards. Roll 1d10 for each pack opened. On a roll of a 10, you get cards good enough to add you a +1 bonus to your ability check to play.
 
-Every twenty packs opened automatically give you a +1 bonus (appropriately increasing rarity as previously described). 
+Every twenty packs opened automatically give you a +1 bonus (appropriately increasing rarity as previously described).
 
 The detect magic spell reveals auras of the illusion and transmutation schools around both the decks and the cards.
 
@@ -11874,11 +11874,11 @@ Periodically, expansions to the game are released, creating new opportunities fo
 At a minimum, each player needs a basic set (1 gp, as above). One board is also needed to play the game. Basic sets and packs can generally be bought in taverns and general stores in any moderate-to-large settlement. A portable board is compact enough to be carried around and allow the game to be played in the field; full-size, stationary boards are typically installed in taverns and gambling dens, and have greater magical effects (see Magic below).
 
 #### Resolving a Hearthstone match
-Proficiency with Hearthstone as a game set allows you to add your proficiency bonus to any ability check you make using that tool. For a normal game, you may use Intelligence (if playing tactically), Spirit (if anticipating and preparing for enemy counters), or Charisma (if relying on psychological tactics and reading the enemy). 
+Proficiency with Hearthstone as a game set allows you to add your proficiency bonus to any ability check you make using that tool. For a normal game, you may use Intelligence (if playing tactically), Spirit (if anticipating and preparing for enemy counters), or Charisma (if relying on psychological tactics and reading the enemy).
 
 The contested roll is as follows.
 <br><br>
-**Hearthstone Roll Modifier** = your proficiency bonus 
+**Hearthstone Roll Modifier** = your proficiency bonus
 
 (if proficient in the gaming set) +
 
@@ -11887,17 +11887,17 @@ your chosen mental ability score modifier +
 your deck bonus (from +0 to +3)
 ___
 
-The higher dice result wins. In case of a tie, both checks are rerolled (which can represent anything from a rematch to a forced change in tactics). 
+The higher dice result wins. In case of a tie, both checks are rerolled (which can represent anything from a rematch to a forced change in tactics).
 
-You have advantage on this check if you somehow learn about the contents of your opponent's deck, the order in which your cards will be drawn, or some other method of cheating. 
+You have advantage on this check if you somehow learn about the contents of your opponent's deck, the order in which your cards will be drawn, or some other method of cheating.
 
-You have disadvantage to this check if you have a build weakness (such as using an Endurance build against a Spell build). 
+You have disadvantage to this check if you have a build weakness (such as using an Endurance build against a Spell build).
 
 #### Deck-Building and Deck Bonus
 The deck bonus reflects the current competitive value of a deck. It ranges from 0 to +3. On average, it takes about twelve packs to collect enough card synergy to raise the deck bonus by 1. Some decks are pre-designed, having an established beck bonus, but usually can be improved by opening card packs.
 
 #### Deck Structure
-A deck can be built to serve one tactic at the expense of another. Starter decks have no special strengths or weaknesses, but you may choose one tactic over the course of collecting cards. 
+A deck can be built to serve one tactic at the expense of another. Starter decks have no special strengths or weaknesses, but you may choose one tactic over the course of collecting cards.
 
 | Deck Structure | Strong versus |
 |:---:|:---:|
@@ -11907,19 +11907,19 @@ A deck can be built to serve one tactic at the expense of another. Starter decks
 | Endurance	| Minion | 
 
 ##### Minion Deck
-This deck relies on multiple weak cards to overwhelm individual strong ones, such as by using summoning cards and cards that spawn more minions every round. This tactic is also sometimes known as ‘zerging’ in some circles. It is weak against the Endurance build, since the defensive style the build employs outlasts and exhausts Minion builds’ cards. 
+This deck relies on multiple weak cards to overwhelm individual strong ones, such as by using summoning cards and cards that spawn more minions every round. This tactic is also sometimes known as ‘zerging’ in some circles. It is weak against the Endurance build, since the defensive style the build employs outlasts and exhausts Minion builds’ cards.
 
 ##### Hero Deck
 This tactic relies on one powerful card (or few powerful ones) and supportive cards that increase the power of the hero (or central card) and weaken the enemy. Hero builds can destroy Spell builds before they gather power, but are vulnerable to Minion builds which can overwhelm the build’s ability to withstand multiple enemies.
 
 ##### Spell Deck
-This tactic relies on using special spell cards to destroy several cards at once, but takes time to build up. Spell builds can out-damage the slower and more defensive Endurance builds, but need more time to gather power, which makes it vulnerable against the quick and decisive action of Hero builds. 
+This tactic relies on using special spell cards to destroy several cards at once, but takes time to build up. Spell builds can out-damage the slower and more defensive Endurance builds, but need more time to gather power, which makes it vulnerable against the quick and decisive action of Hero builds.
 
 ##### Endurance Deck
-This tactic relies on a defensive mindset to outlast and exhaust the opponent's cards while whittling down the opponent. Endurance builds can reduce Minion builds to nothing while taking very little damage in return over a longer game period, but it is vulnerable to Spell cards, which can crush Endurance builds the longer the game goes. 
+This tactic relies on a defensive mindset to outlast and exhaust the opponent's cards while whittling down the opponent. Endurance builds can reduce Minion builds to nothing while taking very little damage in return over a longer game period, but it is vulnerable to Spell cards, which can crush Endurance builds the longer the game goes.
 
 ##### Chosing your deck
-When playing against a deck to which you have a build disadvantage, you roll your d20 with disadvantage. 
+When playing against a deck to which you have a build disadvantage, you roll your d20 with disadvantage.
 
 Every character has a build they prefer that appeals to their personality. Choose a build or roll on the table below for existing characters.
 
@@ -11934,21 +11934,21 @@ Every character has a build they prefer that appeals to their personality. Choos
 \pagebreakNum
 
 #### Game Expansions
-Expansions to Hearthstone are released thrice per year: every early spring, midsummer, and late autumn. Every expansion release lowers the deck bonus of every existing deck, everywhere in the world, by 1, to a minimum of 0. 
+Expansions to Hearthstone are released thrice per year: every early spring, midsummer, and late autumn. Every expansion release lowers the deck bonus of every existing deck, everywhere in the world, by 1, to a minimum of 0.
 
 This reflects the need to buy newly released cards to stay competitive with each expansion release.
 
 ### Jihui Rules
-A strategic game played on a flat checkered black-and-white board, jihui players navigate their pieces to defeat their opponents’ pieces (as Chess, popular with Stormwind and Dalaran’s elite). Unlike with chess, however, jihui pieces also include ships. 
+A strategic game played on a flat checkered black-and-white board, jihui players navigate their pieces to defeat their opponents’ pieces (as Chess, popular with Stormwind and Dalaran’s elite). Unlike with chess, however, jihui pieces also include ships.
 
-Jihui encapsulates much of pandaren philosophy. It simultaneously encourages thoughtfulness and incorporates impulsiveness. It balances deliberation with chance, but chance can also be punished. For a player to lose to a foe who has more pieces on the board is not a great loss. To yield to a superior position, regardless of the pieces in play, is not considered an honorless loss. While the game's aim is to eliminate all the opposition's pieces, playing to that point is considered ill-mannered and even barbaric. Usually, one player finds themselves out-maneuvered and surrenders, though some rely on chance to turn their fortune around and achieve victory. Playing to a standstill, having both players' forces balanced, is considered the greatest victory of them all and shows not only skill, but restraint and discipline. 
+Jihui encapsulates much of pandaren philosophy. It simultaneously encourages thoughtfulness and incorporates impulsiveness. It balances deliberation with chance, but chance can also be punished. For a player to lose to a foe who has more pieces on the board is not a great loss. To yield to a superior position, regardless of the pieces in play, is not considered an honorless loss. While the game's aim is to eliminate all the opposition's pieces, playing to that point is considered ill-mannered and even barbaric. Usually, one player finds themselves out-maneuvered and surrenders, though some rely on chance to turn their fortune around and achieve victory. Playing to a standstill, having both players' forces balanced, is considered the greatest victory of them all and shows not only skill, but restraint and discipline.
 
 \pagebreakNum
 
 <a id="treasures"></a>
 
 ## Treasures
-The Warcraft universe has many treasures, ranging from items infused with magic (such as named weapons and the Hearthstone), to armor sets that grant features when used together, to enhancements and epic boons. The creation of infused items is elaborated in Chapter 7 under Infusion Kits. 
+The Warcraft universe has many treasures, ranging from items infused with magic (such as named weapons and the Hearthstone), to armor sets that grant features when used together, to enhancements and epic boons. The creation of infused items is elaborated in Chapter 7 under Infusion Kits.
 
 ### Infused Items
 
@@ -12005,7 +12005,7 @@ You may attune yourself to the book and keep as a spellbook, in which case all n
 #### Brainsplinter
 **Weapon (dagger), epic (requires attunement)**
 <br>
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
 When striking a spellcaster, the dagger’s damage lingers and disrupts concentration (DC 10 or half damage as normal) for 1d4 rounds after being hit. If hit again, the counter resets. Activating this quality costs a bonus action, and is a strike effect.
 
@@ -12014,11 +12014,11 @@ When striking a spellcaster, the dagger’s damage lingers and disrupts concentr
 <br>
 You gain +5 to alchemy crafting rolls made with this cauldron for making batches of potions.
 
-Also, this cauldron can hold the materials to craft up to 20 potions. By turning a dial, the cauldron creates a compartment that can host different potions. 
+Also, this cauldron can hold the materials to craft up to 20 potions. By turning a dial, the cauldron creates a compartment that can host different potions.
 
-The cauldron can have a total of four chambers (5 potions each), and you can craft all such potions in parallel. If some potions are of higher rarity than others, any potions that mature during your crafting time can be removed (or replaced) without affecting your crafting process. 
+The cauldron can have a total of four chambers (5 potions each), and you can craft all such potions in parallel. If some potions are of higher rarity than others, any potions that mature during your crafting time can be removed (or replaced) without affecting your crafting process.
 
-Also, if your crafting roll exceeds the DC by 5 or more, you get 20% extra potions. 
+Also, if your crafting roll exceeds the DC by 5 or more, you get 20% extra potions.
 
 #### Cauldron of Light
 **Wondrous item, common**
@@ -12030,19 +12030,19 @@ Also, while this cauldron is at full capacity (5 potions), and you succeed on cr
 #### Cauldron of the Mad Alchemist
 **Wondrous item, uncommon**
 <br>
-You gain +3 to alchemy crafting rolls made with this cauldron for making batches of potions. 
+You gain +3 to alchemy crafting rolls made with this cauldron for making batches of potions.
 
-Also, while this cauldron is at full capacity (5 potions), you get 1 normal potion whenever you attempt cauldron experimentation. 
+Also, while this cauldron is at full capacity (5 potions), you get 1 normal potion whenever you attempt cauldron experimentation.
 
-If your potion would explode as a result of miscibility from cauldron experimentation, the cauldron absorbs the explosion, and temporarily becomes a normal cauldron for 1d10 days. 
+If your potion would explode as a result of miscibility from cauldron experimentation, the cauldron absorbs the explosion, and temporarily becomes a normal cauldron for 1d10 days.
 
 \pagebreakNum
 
-Also, if your crafting roll exceeds the DC by 5 or more, you get 20% extra potions. 
+Also, if your crafting roll exceeds the DC by 5 or more, you get 20% extra potions.
 
 #### Cauldron Ladle of Wacky Experimentation
 **Wondrous item, rare**
-When this ladle is used during crafting experimentation, you can roll for miscibility an additional time if the previous two miscibility results are dissatisfactory. If the roll that stems from this ladle is Explosion!, the ladle temporarily becomes a normal ladle for 1d4 days and absorbs the explosion. 
+When this ladle is used during crafting experimentation, you can roll for miscibility an additional time if the previous two miscibility results are dissatisfactory. If the roll that stems from this ladle is Explosion!, the ladle temporarily becomes a normal ladle for 1d4 days and absorbs the explosion.
 
 If the ladle is used to apply a matured potion (such as pouring it on the ladle and applying it to yourself or another) while under the effects of another potion, you can choose one of the following results:
 * **Un-Wackily Be Stable.** Consume the potion and ignore miscibility
@@ -12054,9 +12054,9 @@ If the ladle is used to apply a matured potion (such as pouring it on the ladle 
 You gain +1 to attack and damage rolls made with this magic weapon.
 
 While wielding this spiked chain, you may use your Intelligence for attack and damage rolls with the spiked chains instead of Strength. Also, if you are a spellcaster with the mage spell list, you gain the following benefits:
-* **Death Magic.** You may add the following spells to your mage spell list: death coil, death pact, desecration, drain life, death ward, and elemental tongue (cold only). 
+* **Death Magic.** You may add the following spells to your mage spell list: death coil, death pact, desecration, drain life, death ward, and elemental tongue (cold only).
 * **Cold Focus.** You can perform somatic components of spells while you use this weapon in both hands. This weapon counts as a spellcasting focus for your mage spells.
-* **Intuitive Use.** You gain proficiency with spiked chains. 
+* **Intuitive Use.** You gain proficiency with spiked chains.
 ___
 Mages and wizards sworn to the Lich King that manage to achieve lichdom are wrapped with these seemingly mundane chains. However, once a lich awakens the first time after achieving lichdom, the chains hover around its arms, becoming a powerful weapon.
 
@@ -12068,11 +12068,11 @@ This sphere of green glass is inlaid with a golden base, and may be pointed at a
 #### Dawn's Edge
 **Weapon (battleaxe), rare**
 <br>
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-The battleaxe has 3 charges. While using it, you can use an action and expend 1 charge to cast the daylight spell (centered on the battleaxe), or a bonus action to ignore the damage resistance of an undead or fiendish creature for 1 minute per charge expended. You may also cast the detect evil and good spell as a bonus action by expending 1 charge (the range increases to 60 feet). 
+The battleaxe has 3 charges. While using it, you can use an action and expend 1 charge to cast the daylight spell (centered on the battleaxe), or a bonus action to ignore the damage resistance of an undead or fiendish creature for 1 minute per charge expended. You may also cast the detect evil and good spell as a bonus action by expending 1 charge (the range increases to 60 feet).
 
-The battleaxe regains all charges by the next dawn. 
+The battleaxe regains all charges by the next dawn.
 
 #### Demonic Figurine
 **Wondrous item, legendary**
@@ -12082,25 +12082,25 @@ This onyx figurine is told of in legends as powerful artifacts send by the Burni
 #### Doomhammer
 **Weapon (warhammer), uncommon (greater attunement)**
 <br>
-Beyond the bonuses of the weapon upon attunement (see Greater Attunement), this weapon is treated as a thrown weapon (20/60 feet). Also, the elemental tongue spell costs instead 2 less point of manas. 
+Beyond the bonuses of the weapon upon attunement (see Greater Attunement), this weapon is treated as a thrown weapon (20/60 feet). Also, the elemental tongue spell costs instead 2 less point of manas.
 
-If you cannot cast the spell, it can be cast two times (spell level 1) before uses are replenished at dawn. 
+If you cannot cast the spell, it can be cast two times (spell level 1) before uses are replenished at dawn.
 
 The Doomhammer is a powerful enormous hammer that was crafted long ago in a pool of elemental lava on the orc homeworld of Draenor. It is a namesake relic passed down from father to son, and was given to Thrall as a testament of faith and honor during the salvation of the orcs. Although the hilt of the hammer has been replaced, the actual hammerhead itself, crafted of elementally-treated black granite, has endured as a testament of the crafter's skill.
 
 #### Embrace of the Twisting Nether
 **Armor (chainmail), rare (requires attunement)**
 <br>
-You gain a +1 bonus to AC while you wear this magic armor. 
+You gain a +1 bonus to AC while you wear this magic armor.
 
 By speaking the command word, you become ethereal (as if subject to the banishment spell). The banishment spell remains for full duration (one minute) unless the command word is spoken to cancel it. If the command word is not spoken and the duration of one minute passes, you are banished to the Twisting Nether, the realm of demons and chaotic energy. This property of the armor can't be used again until the next dawn.
 
 #### Fearbreaker
 **Weapon (mace or tauren totem), epic (requires attunement)**
 <br>
-You gain +2 to attack and damage rolls made with this magic weapon. 
+You gain +2 to attack and damage rolls made with this magic weapon.
 
-When attuned to and wielding this weapon, you may cast the fear ward spell, treating the mace as the totem. Once used, this cannot be used again until the next dawn. 
+When attuned to and wielding this weapon, you may cast the fear ward spell, treating the mace as the totem. Once used, this cannot be used again until the next dawn.
 
 #### Felo'melorn
 **Weapon (longsword), legendary (requires attunement)**
@@ -12115,20 +12115,20 @@ This sword has 3 charges. While attuned to it, you can expend 1 charge and cast 
 <br>
 *Special.* Felo'melorn can always be remade when destroyed, and gains an additional charge if destroyed by a foe and reforged by who was attuned to it. It can have a maximum number of charges equal to 6.
 
-If the blade itself is used to kill who it is attuned to, it loses all extra charges and returns to its original number of charges. 
+If the blade itself is used to kill who it is attuned to, it loses all extra charges and returns to its original number of charges.
 
-Flamestrike in common, Felo’melorn is an ancient Highborne runeblade once wielded by Dath'Remar Sunstrider, even before the War of the Ancients. It is rumored to have once been his favored weapon, and over many generations was passed down through the Sunstrider dynasty. During the Third War, Anasterian Sunstrider wielded the sword in battle against Arthas Menethil, but Frostmourne severed the blade and he was defeated. Later, Kael'thas Sunstrider, last of the Sunstrider line, recovered it and had it reforged, with ‘magic, hatred and a burning need of revenge.’ 
+Flamestrike in common, Felo’melorn is an ancient Highborne runeblade once wielded by Dath'Remar Sunstrider, even before the War of the Ancients. It is rumored to have once been his favored weapon, and over many generations was passed down through the Sunstrider dynasty. During the Third War, Anasterian Sunstrider wielded the sword in battle against Arthas Menethil, but Frostmourne severed the blade and he was defeated. Later, Kael'thas Sunstrider, last of the Sunstrider line, recovered it and had it reforged, with ‘magic, hatred and a burning need of revenge.’
 
 #### Gorehowl
 **Weapon (greataxe), legendary (requires attunement)**
 <br>
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
-You may swing the axe as an action to cast the Fear spell. Furthermore, once attuned to this axe, you may choose to gain one of the following talents: 
-* Brutal Critical 
+You may swing the axe as an action to cast the Fear spell. Furthermore, once attuned to this axe, you may choose to gain one of the following talents:
+* Brutal Critical
 * Weapon Mastery
 ___
-Gorehowl, the axe of Hellscream, has a heavy blade that is notched and stained, with sharp, wicked curves. Small holes dot the blade near the handle; when the wielder swings the axe, air whistles through these holes. The sound keens over the battlefield, magically strengthened and imbued with otherworldly power. Gorehowl is one of Azeroth's most feared and notorious weapons. 
+Gorehowl, the axe of Hellscream, has a heavy blade that is notched and stained, with sharp, wicked curves. Small holes dot the blade near the handle; when the wielder swings the axe, air whistles through these holes. The sound keens over the battlefield, magically strengthened and imbued with otherworldly power. Gorehowl is one of Azeroth's most feared and notorious weapons.
 #### Great Fel Blade
 **Weapon (two-bladed sword), rare (requires attunement)**
 <br>
@@ -12141,18 +12141,18 @@ Furthermore, if you are a fiend or wield fel magic, you deal extra 7 (2d6) damag
 #### Hammer of the Titans
 **Weapon (greathammer), rare**
 <br>
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-The greathammer may be swung hard at the ground as an action. All creatures within 10 feet suffer the damage of a normal attack and must pass a Strength saving throw of 15 or fall prone. 
+The greathammer may be swung hard at the ground as an action. All creatures within 10 feet suffer the damage of a normal attack and must pass a Strength saving throw of 15 or fall prone.
 
 #### Hearthstone
 **Wondrous item, rare**
 <br>
-A user may have only one hearthstone at any given time, and it is attuned as a Teleport Circle. Requiring 3 actions (object 
+A user may have only one hearthstone at any given time, and it is attuned as a Teleport Circle. Requiring 3 actions (object
 
 interaction) to activate, the hearthstone teleports the user to where they last called home. When used, it takes a day to recharge. An adventurer may alter his hearthstone’s location to any indoor building he has spent more than 24 hours in, which replaces the teleport circle’s location.
 
-This stone is given to every adventurer who leaves his city. 
+This stone is given to every adventurer who leaves his city.
 
 #### Horn of Stormwind
 **Wondrous item, rare**
@@ -12162,33 +12162,33 @@ This lion-emblazed horn can be blown as a bonus action to cast the devotion aura
 #### Jaina's Locket
 **Wondrous item, rare (requires attunement)**
 <br>
-You may use this locket to cast the teleport spell, but only to a destination inside the borders of Dalaran. The locket treats Dalaran as a place with 'permanent circle' familiarity for the purposes of the teleport spell, and if no specific location is specified in Dalaran, it teleports the user directly to the Central Square, under the statue of Archmage Antonidas. 
+You may use this locket to cast the teleport spell, but only to a destination inside the borders of Dalaran. The locket treats Dalaran as a place with 'permanent circle' familiarity for the purposes of the teleport spell, and if no specific location is specified in Dalaran, it teleports the user directly to the Central Square, under the statue of Archmage Antonidas.
 Other magical lockets like Jaina's Locket exist, usually providing one-way teleportation to a specific city or region.
 
 #### Light's Vengeance
 **Weapon (greathammer), uncommon (greater attunement)**
 <br>
-Beyond the bonuses of the weapon upon attunement (see Greater Attunement), whenever you use this weapon for a Crusader's Strike, you may choose to grant yourself resistance to any one damage type for until the end of your turn in the next round. 
+Beyond the bonuses of the weapon upon attunement (see Greater Attunement), whenever you use this weapon for a Crusader's Strike, you may choose to grant yourself resistance to any one damage type for until the end of your turn in the next round.
 
-This greathammer with a marble-white head and mahogany shaft is infused with holy magic and consecrated to be carried by paladins of the Order of the Silver Hand. It has the potential to grow stronger with the wielder. 
+This greathammer with a marble-white head and mahogany shaft is infused with holy magic and consecrated to be carried by paladins of the Order of the Silver Hand. It has the potential to grow stronger with the wielder.
 
 #### Mana Blade
 **Weapon (any sword), rare**
 <br>
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon may cast the mana burn spell. Once used, this property cannot be used again until the next dawn. 
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. This weapon may cast the mana burn spell. Once used, this property cannot be used again until the next dawn.
 
-This blade can also mana burn as a bonus action as a strike effect. 
+This blade can also mana burn as a bonus action as a strike effect.
 
 Mana blades can also take the form of a warglaive (if taking the form of a scimitar).
 
 #### Mana Stone
 **Wondrous item, rare**
 <br>
-This cerulean-blue semi-solid stone is nearly translucent, and shines with an internal blue light. While the mana stone is in the possession of a character with a mana pool, their passive regeneration increases by 50% (round down). 
+This cerulean-blue semi-solid stone is nearly translucent, and shines with an internal blue light. While the mana stone is in the possession of a character with a mana pool, their passive regeneration increases by 50% (round down).
 
-A character who benefitted from the stone for at least four hours can crush it, and absorbing the latent energies. This restores mana as if the user rested for four hours. 
+A character who benefitted from the stone for at least four hours can crush it, and absorbing the latent energies. This restores mana as if the user rested for four hours.
 
-These stones are said to be shards of enchanted runestones that are dipped in mana fountains, but such rumors are unsubstantiated, as the secret of creation is in the elusive hands of the most talented infusionists. This item is not treated as a consumable for the purposes of crafting. 
+These stones are said to be shards of enchanted runestones that are dipped in mana fountains, but such rumors are unsubstantiated, as the secret of creation is in the elusive hands of the most talented infusionists. This item is not treated as a consumable for the purposes of crafting.
 
 Like mana potions, consuming the mana stone does not count against the normal limit of mana restorative abilities of once per hour.
 
@@ -12212,55 +12212,55 @@ The common version of the wand deals one dice of damage (1d6 fire, cold, lightni
 #### Orkenblade
 **Weapon (longsword), rare (requires attunement)**
 <br>
-You gain +1 to attack and damage rolls made with this magic weapon. 
+You gain +1 to attack and damage rolls made with this magic weapon.
 
-When attuned to and wielding this weapon, you gain the Favored Enemy talent, as a hunter of your level, but must choose orcs as your favored foe. 
+When attuned to and wielding this weapon, you gain the Favored Enemy talent, as a hunter of your level, but must choose orcs as your favored foe.
 
 #### Phantom Blade
 **Weapon (longsword), rare**
 <br>
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-Upon a successful attack against a creature, you may declare that the weapons’ phantom touch ability activates as a bonus action. If phantom touch takes place, the targeted creature is subject to a faerie fire spell (centered on the creature only) for one minute. If affected once, the creature is immune against further uses for 24 hours. 
+Upon a successful attack against a creature, you may declare that the weapons’ phantom touch ability activates as a bonus action. If phantom touch takes place, the targeted creature is subject to a faerie fire spell (centered on the creature only) for one minute. If affected once, the creature is immune against further uses for 24 hours.
 
 #### Philosopher's Stone
 **Wondrous item, rare (requires attunement)**
 <br>
-While attuned to this stone, two different ability scores of your choice increases by 1 (maximum 18). If you are an Alchemist with the Inurement ability, all your potions cost 2 less Crafting Points. 
+While attuned to this stone, two different ability scores of your choice increases by 1 (maximum 18). If you are an Alchemist with the Inurement ability, all your potions cost 2 less Crafting Points.
 
-A philosopher's stone is required for the transmute material spell. Creating this stone requires proficiency in Alchemist’s Supplies. 
+A philosopher's stone is required for the transmute material spell. Creating this stone requires proficiency in Alchemist’s Supplies.
 
 #### Prismatic Blade
 **Weapon (longsword), rare (requires attunement)**
 <br>
-You gain +1 to attack and damage rolls while using this magic weapon. While wielding this longsword, you can add your Agility modifier to attack and damage rolls instead of your Strength modifier. 
+You gain +1 to attack and damage rolls while using this magic weapon. While wielding this longsword, you can add your Agility modifier to attack and damage rolls instead of your Strength modifier.
 
 If you are wielding this sword and not benefiting from a shield, add a +2 bonus to your AC.
 
-This magic weapon has 4 charges, regaining 1d4 charges daily at dawn. It may have one of the following abilities. 
-* **Augment.** With an action, you may cast the enhance ability spell. This can affect anything touching the blade (including yourself or any ally you touch). This costs 1 charge. 
+This magic weapon has 4 charges, regaining 1d4 charges daily at dawn. It may have one of the following abilities.
+* **Augment.** With an action, you may cast the enhance ability spell. This can affect anything touching the blade (including yourself or any ally you touch). This costs 1 charge.
 * **Guard.** With an action, you can cast the power word: shield spell. This can affect anything touching the blade (including yourself or an ally you touch). This costs 1 charge.
-* **Weave.** With an action, you may cast the prismatic spray spell. This costs 4 charges. 
-* **Unweave.** You may cast the dispel magic spell as part of drawing the blade (free action), or with an action if it is already drawn. This spell is limited to touch range, however, and can affect anything touching the blade (including yourself, an ally you touch, or any spell targeting you). This costs 2 charges. The spell’s level is equal to 4 if the rarity is Rare, 6 if Epic, and 8 if Legendary. 
+* **Weave.** With an action, you may cast the prismatic spray spell. This costs 4 charges.
+* **Unweave.** You may cast the dispel magic spell as part of drawing the blade (free action), or with an action if it is already drawn. This spell is limited to touch range, however, and can affect anything touching the blade (including yourself, an ally you touch, or any spell targeting you). This costs 2 charges. The spell’s level is equal to 4 if the rarity is Rare, 6 if Epic, and 8 if Legendary.
 ___
-There are many Prismatic Blades. Three of the best known are Quel'Serrar, Quel’Zaram, and Quel'delar. All such blades are ancient, forged by dragons long ago and gifted to the kaldorei to aid them in the War of the Ancients. 
+There are many Prismatic Blades. Three of the best known are Quel'Serrar, Quel’Zaram, and Quel'delar. All such blades are ancient, forged by dragons long ago and gifted to the kaldorei to aid them in the War of the Ancients.
 
 Currently, most remain dull and forgotten, though it can be re-forged by heating in dragon-fire, and being quenched in dragon blood (which gives it the reputation of being a dragon-slaying blade).
 
 A dulled Prismatic Blade has 0 charges, but otherwise acts otherwise same way.
 
-The greater the rarity of the prismatic blade, the more abilities it may have. 
+The greater the rarity of the prismatic blade, the more abilities it may have.
 
-Epic blades (such as Quel’Zaram) has three abilities, and has a +2 bonus to attack and damage. 
+Epic blades (such as Quel’Zaram) has three abilities, and has a +2 bonus to attack and damage.
 
 ##### Secrets of the Prismatic Blades
 **Awakening and Reforging**
 <br>
 "What I offer to you now is one such blade, unfired, unheated, untreated - the most raw and basic form. Now you merely need to find a dragon that will willing enchant the blade…"
 
-A dulled Prismatic Blade must be re-ignited to act in its full capacity. 
+A dulled Prismatic Blade must be re-ignited to act in its full capacity.
 
-When subject to a true dragon's breath weapon by itself (such as by being in the area of the breath weapon and not being wielded, tricking a dragon to breathe upon it, or leaving it in the mouth of a dying dragon), there is a chance the blade is re-enchanted. This depends on the age of the dragon. On a failed enchantment, the dragon cannot try again until it advances to the next age category. 
+When subject to a true dragon's breath weapon by itself (such as by being in the area of the breath weapon and not being wielded, tricking a dragon to breathe upon it, or leaving it in the mouth of a dying dragon), there is a chance the blade is re-enchanted. This depends on the age of the dragon. On a failed enchantment, the dragon cannot try again until it advances to the next age category.
 
 | Age | Chance of Enchantment |
 |:---:|:-----------:|
@@ -12271,21 +12271,21 @@ When subject to a true dragon's breath weapon by itself (such as by being in the
 ___
 **Merging**
 <br>
-Prismatic blades can be merged together in very rare instances, such as the blades Shalla'tor and Ellemayne merging into Shalamayne. 
+Prismatic blades can be merged together in very rare instances, such as the blades Shalla'tor and Ellemayne merging into Shalamayne.
 
 If a character manages to merge two prismatic blades, the blade turns into a greatsword (such as Quel’Zaram), and occupies only one attunement slot. The rarity of the merged blade is one step higher than the average of the two, and gains a +1 additional bonus to attack and damage.
 
-Shalla’tor and Ellemayne are act as normal Prismatic Blades, but are Epic in quality and have a +2 bonus to attack and damage. They have the Augment, Guard, and Unweave abilities. 
+Shalla’tor and Ellemayne are act as normal Prismatic Blades, but are Epic in quality and have a +2 bonus to attack and damage. They have the Augment, Guard, and Unweave abilities.
 
 \pagebreakNum
 
-By merging together, Shalamayne becomes legendary rarity, has a +3 bonus to attack and damage rolls, and its Unweave ability functions as spell level 8. 
+By merging together, Shalamayne becomes legendary rarity, has a +3 bonus to attack and damage rolls, and its Unweave ability functions as spell level 8.
 
 #### Puzzle Box of Yogg-Saron
 **Wondrous item, epic (requires attunement)**
 <br>
-This cube of metallic-like material is actually a puzzle box. Its sides can be manipulated by pushing and twisting, though it is unknown of anyone managed to solve it. 
-The user may attempt a DC 25 Intelligence check to begin cracking the puzzle box. Upon each success, the bearer of the box gains an additional ability as they make significant advancement to opening the puzzle-box. The user should record successes and failures simultaneously. 
+This cube of metallic-like material is actually a puzzle box. Its sides can be manipulated by pushing and twisting, though it is unknown of anyone managed to solve it.
+The user may attempt a DC 25 Intelligence check to begin cracking the puzzle box. Upon each success, the bearer of the box gains an additional ability as they make significant advancement to opening the puzzle-box. The user should record successes and failures simultaneously.
 
 ##### Successes Ability
 
@@ -12299,13 +12299,13 @@ The user may attempt a DC 25 Intelligence check to begin cracking the puzzle box
 | 6	| Gain immunity to Confusion effects, and has a permanent tongues effect | 
 ___
 ##### Failures Ability
-You gain a madness level, with a Spirit DC of 25 to negate. 
+You gain a madness level, with a Spirit DC of 25 to negate.
 
-Also, instead of having to choose a coping mechanism and being bound to it, you can instead take a -1 penalty to your Spirit score and gain a +2 bonus to future rolls to use the puzzle box. This stacks to a maximum of -5 penalty to your Spirit score and +10 to your Intelligence rolls at level 5 of madness. 
+Also, instead of having to choose a coping mechanism and being bound to it, you can instead take a -1 penalty to your Spirit score and gain a +2 bonus to future rolls to use the puzzle box. This stacks to a maximum of -5 penalty to your Spirit score and +10 to your Intelligence rolls at level 5 of madness.
 
 If you gained more than three levels of madness from the puzzle box, you also have disadvantage to all saving throws versus illusions and effects that deal psychic damage.
 
-Whenever attempting to solve the puzzle-box, the user hears one of the below quotes in their mind (as telepathy, choose randomly). 
+Whenever attempting to solve the puzzle-box, the user hears one of the below quotes in their mind (as telepathy, choose randomly).
 
 | | |
 |:---:|:-----------:| 
@@ -12332,31 +12332,31 @@ Whenever attempting to solve the puzzle-box, the user hears one of the below quo
 | 19 | Beneath the shadow of the darkened spire, there is no light, no mercy, only void, and the chaos within. | 
 | 20 | You will all be alone in the end. | 
 
-#### Quilen Statuette 
+#### Quilen Statuette
 **Wondrous item, rare**
 <br>
 You can use an action to hold the statuette aloft and speak the command word. Doing so conjures a Quilen, as if you had cast the conjure construct spell (spell level 5). The statuette can't be used this way again until the next dawn.
 
-This statuette, carved during the brief reign of Mogu emperor Kang of Pandaria, was part of an experiment to bind Quilen servants in small stones. This experiment was abandoned as the Quilen thus bound were greatly diminished in power and thus deemed unworthy. 
+This statuette, carved during the brief reign of Mogu emperor Kang of Pandaria, was part of an experiment to bind Quilen servants in small stones. This experiment was abandoned as the Quilen thus bound were greatly diminished in power and thus deemed unworthy.
 
 #### Relic of Power
 **Wondrous item, uncommon (requires attunement)**
 <br>
-Relics are items that hold minor abilities that strengthen specific spells the relic is attuned to. Relics can always double spellbooks or similar manuals (such as totems, idols, etc.). Relics must be carried to convey their bonus. 
-* **Bones Relic.** The earth shield spell remains for double the normal duration. 
+Relics are items that hold minor abilities that strengthen specific spells the relic is attuned to. Relics can always double spellbooks or similar manuals (such as totems, idols, etc.). Relics must be carried to convey their bonus.
+* **Bones Relic.** The earth shield spell remains for double the normal duration.
 * **Corpses Relic.** The corpse explosion spell costs 2 less mana points, and does not affect you or your allies.
 * **Cosmic Relic.** The moonfire and sunfire spells cost 2 less mana points.
 * **Despair Relic.** The rune array spell costs 2 less mana points.
 * **Divinity Relic.** The flash of light spell costs 2 less mana points.
 * **Claw Relic.** You may add your Spirit modifier to damage rolls with strike spells on the druid spell list
-* **Crying Wind Relic.** The carrion swarm spell costs 2 less mana points. 
-* **Eternal Rest Relic.** The consecration spell costs 2 less mana points, and restrains fiends and undead who fail a Stamina saving throw for until the beginning of your turn in the next round. 
-* **Guarded Evil Relic.** The death coil spell grants temporary hit points equal to your spellcasting ability modifier to whoever it heals for one hour. 
-* **Grace Relic.** The dispel magic spell has advantage to dispel necromancy and conjuration spells. Whenever it succeeds, you gain temporary hit points equal to your spellcasting ability modifier. 
+* **Crying Wind Relic.** The carrion swarm spell costs 2 less mana points.
+* **Eternal Rest Relic.** The consecration spell costs 2 less mana points, and restrains fiends and undead who fail a Stamina saving throw for until the beginning of your turn in the next round.
+* **Guarded Evil Relic.** The death coil spell grants temporary hit points equal to your spellcasting ability modifier to whoever it heals for one hour.
+* **Grace Relic.** The dispel magic spell has advantage to dispel necromancy and conjuration spells. Whenever it succeeds, you gain temporary hit points equal to your spellcasting ability modifier.
 * **Health Relic.** The rejuvenation spell costs 2 less mana points.
 * **Hope Relic.** The seal array spell costs 2 less mana points.
 
-\pagebreakNum 
+\pagebreakNum
 
 * **Impact Relic.** The elemental shock spell costs 2 less mana points.
 * **Inner Passion Relic.** The holy fire spell costs 2 less mana points.
@@ -12370,62 +12370,62 @@ Relics are items that hold minor abilities that strengthen specific spells the r
 * **Walking Dead Relic.** The conjure undead spell retains telepathic communication up to ten times the normal distance.
 * **Wracking Relic.** The holy nova and exorcism spells cost 2 less mana point.
 
-#### Royal Sword of Stormwind 
+#### Royal Sword of Stormwind
 **Weapon (greatsword), epic (requires attunement)**
 <br>
-You gain +3 to attack and damage rolls made with this magic weapon. 
+You gain +3 to attack and damage rolls made with this magic weapon.
 
-Once attuned to this greatsword, you may gain the Inspiring Leader feat (regardless of your actual Charisma score). A creature can benefit from the temporary hit points granted by this feat twice before a short rest. 
+Once attuned to this greatsword, you may gain the Inspiring Leader feat (regardless of your actual Charisma score). A creature can benefit from the temporary hit points granted by this feat twice before a short rest.
 
-This blade had only one bearer—the general of Stormwind, who was the Lion of Azeroth, Sir Anduin Lothar. The blade was broken during his climactic battle against Orgrim Doomahammer, and the pieces of the blade were then carried by his second-in-command, the paladin Turalyon, who still retains the pieces. 
+This blade had only one bearer—the general of Stormwind, who was the Lion of Azeroth, Sir Anduin Lothar. The blade was broken during his climactic battle against Orgrim Doomahammer, and the pieces of the blade were then carried by his second-in-command, the paladin Turalyon, who still retains the pieces.
 
 #### Runespear
 Weapon (halberd), epic (requires attunement)
-You gain +2 to attack and damage rolls made with this magic weapon. 
+You gain +2 to attack and damage rolls made with this magic weapon.
 
-While attuned to this weapon, you may increase your Stamina score by 2 (maximum 22). 
+While attuned to this weapon, you may increase your Stamina score by 2 (maximum 22).
 
-This halberd was wielded by the chief of Bloodhoof Tauren, and remains as a symbol of their tenacity and will. 
+This halberd was wielded by the chief of Bloodhoof Tauren, and remains as a symbol of their tenacity and will.
 
 #### Sageblade
 **Weapon (any sword), rare (requires attunement)**
 <br>
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-While wielding this sword, you may use your Intelligence or Charisma for attack and damage rolls with the sageblade instead of Strength or Agility. You may also gain the benefit of the Spell Strike feat for up to three times. Once used three times, the spell strike property can’t be used again until the next dawn. 
+While wielding this sword, you may use your Intelligence or Charisma for attack and damage rolls with the sageblade instead of Strength or Agility. You may also gain the benefit of the Spell Strike feat for up to three times. Once used three times, the spell strike property can’t be used again until the next dawn.
 
 #### Saronite Mindcrusher
 **Weapon (mace), rare**
 <br>
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
-As a bonus action, you can declare a mind-crushing strike. On a successful hit, you deal 1 point of mana burn for every 4 points of damage you deal. For every 4 points of mana burn you deal, the target takes 1 point of arcane damage. 
+As a bonus action, you can declare a mind-crushing strike. On a successful hit, you deal 1 point of mana burn for every 4 points of damage you deal. For every 4 points of mana burn you deal, the target takes 1 point of arcane damage.
 
-This otherwise acts as the mana burn spell. This is a strike effect. 
+This otherwise acts as the mana burn spell. This is a strike effect.
 
-This otherwise acts as the mana burn spell. 
+This otherwise acts as the mana burn spell.
 
-After you make this strike up to three times, you cannot use it again until the next sundown. 
+After you make this strike up to three times, you cannot use it again until the next sundown.
 
 #### Scimitar of the Sirocco
 **Weapon (scimitar), epic (requires attunement)**
 <br>
-You gain a +2 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
-It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn. 
-* **Flame.** While wielding this weapon, you may brandish it at any area within 100 feet, causing a column of fire to rise up, as per the flame strike spell. 
-* **Scorch Strike.** When you hit with a melee attack using the scimitar, you can cause the target to take an extra 2d6 fire damage. This is a strike effect that costs a bonus action. 
-* **Searing Blitz.** Before you attack with the scimitar, you may declare a searing blitz. Until you end your turn, you gain +2 to AC versus attacks of opportunity, and leave a trail of lingering flame behind you whenever you move. This trail can have a maximum length of half your speed, acts as normal fire, and deals 1d6 fire damage to creatures moving through it. It remains for one minute, and is 5-feet wide and rises 5-feet high. 
+It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
+* **Flame.** While wielding this weapon, you may brandish it at any area within 100 feet, causing a column of fire to rise up, as per the flame strike spell.
+* **Scorch Strike.** When you hit with a melee attack using the scimitar, you can cause the target to take an extra 2d6 fire damage. This is a strike effect that costs a bonus action.
+* **Searing Blitz.** Before you attack with the scimitar, you may declare a searing blitz. Until you end your turn, you gain +2 to AC versus attacks of opportunity, and leave a trail of lingering flame behind you whenever you move. This trail can have a maximum length of half your speed, acts as normal fire, and deals 1d6 fire damage to creatures moving through it. It remains for one minute, and is 5-feet wide and rises 5-feet high.
 
 #### Spell Shield Amulet
 **Wondrous item, uncommon**
 <br>
-You can cast the counterspell spell, but the spell you choose must include you as a target. Once used, it cannot be used again until the next dawn. 
+You can cast the counterspell spell, but the spell you choose must include you as a target. Once used, it cannot be used again until the next dawn.
 
 #### Spiritual Essence
 **Wondrous item, rarity varies**
 <br>
-A translucent substance that is yielding to the touch, spiritual essence stores the soul-power of a creature. The essence is so pure, that any other soul can absorb it. 
+A translucent substance that is yielding to the touch, spiritual essence stores the soul-power of a creature. The essence is so pure, that any other soul can absorb it.
 
 Spiritual essence can be consumed to add experience points equal to 1/2 the target's total experience points value (if possessing class levels), or their XP appropriate to their challenge (if a monster).
 
@@ -12442,7 +12442,7 @@ For this purpose, if Gul'dan is a 20th level warlock, then his Spirit Essence wi
 #### Staff of Sorcerer-Thane Thaurissan
 **Weapon (staff), epic (requires attunement by a druid, mage, shaman, or warlock)**
 <br>
-You have resistance to fire damage while you hold this magic staff. If you already have resistance, you are immune to fire damage. 
+You have resistance to fire damage while you hold this magic staff. If you already have resistance, you are immune to fire damage.
 
 The staff has 10 Charges. While holding it, you can use an action to expend 1 or more of its Charges to cast one of the following Spells from it, using your spell save DC: burning hands (1 charge), fireball (3 charges), or wall of fire (4 charges).
 
@@ -12450,28 +12450,28 @@ The staff regains 1d6 + 4 expended Charges daily at dawn. If you expend the last
 
 Sorcerer-Thane Thaurissan was the leader of the Dark Iron dwarves during the War of the Three Hammers. When he lost Ironforge to the Bronzebeard clan, Thaurissan retreated to the Redridge Mountains and founded a city in his name. In a desperate attempt to defeat his enemies, Thaurissan accidentally summoned the demigod Ragnaros, which resulted in the sorcerer-thane's immediate death and the formation of the volcanic peak of Blackrock Mountain.
 
-#### Sulfuras, Hand of Ragnaros 
+#### Sulfuras, Hand of Ragnaros
 **Weapon (maul), legendary (requires attunement)**
 <br>
-You gain a +3 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
 It also has the following additional properties. When one of these properties is used, it can't be used again until the next dawn.
-* **Pyroblast.** You may cast the pyroblast spell (while concentrating, the hammer increases in brightness). 
+* **Pyroblast.** You may cast the pyroblast spell (while concentrating, the hammer increases in brightness).
 * **Immolation Aura.** You may cast the immolation aura spell (spell level 5). This does not require concentration, and continues until its full duration ends.
-* **Elemental Tongue.** You may cast the elemental tongue (Fire) at spell level 3. 
+* **Elemental Tongue.** You may cast the elemental tongue (Fire) at spell level 3.
 ___
-This can be created by obtaining the Eye of Sulfuras, a Sulfuron ingot, and the smithing plans that show the hammer’s internal construction with the Sulfuron Hammer, and passing a DC 20 Intelligence check with smith’s tools. 
+This can be created by obtaining the Eye of Sulfuras, a Sulfuron ingot, and the smithing plans that show the hammer’s internal construction with the Sulfuron Hammer, and passing a DC 20 Intelligence check with smith’s tools.
 
 #### Sulfuron Hammer
 Weapon (maul), epic (requires attunement)
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
 This weapon can be perfected into Sulfuras, Hand of Ragnaros, a legendary weapon (see above).
-	
-#### Sunstrider Longbow 
+
+#### Sunstrider Longbow
 **Weapon (longbow), legendary (requires attunement)**
 <br>
-You gain +3 to attack and damage rolls made with this magic weapon. 
+You gain +3 to attack and damage rolls made with this magic weapon.
 
 This longbow has 6 charges. While attuned to it, you can expend 1 charge and cast any one of the following spells as a shot spell:
 * Black arrow (2 charges)
@@ -12486,35 +12486,35 @@ Dath'Remar Sunstrider, the ancestor of Kael'thas Sunstrider, owned this bow in a
 #### The Planar Edge
 **Weapon (battleaxe), epic (requires attunement)**
 <br>
-You gain a +1 bonus to attack and damage rolls made with this magic weapon. 
+You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 While wielding it, you can use it to cast the gate spell as an action, and it remains open for 2d4 rounds. This property of the battleaxe can't be used again until the next dawn.
 
 #### Tiriosh, Nightmare of Ages
 **Weapon (dagger), epic (requires attunement)**
 <br>
-You gain +2 to attack and damage rolls made with this magic weapon. 
+You gain +2 to attack and damage rolls made with this magic weapon.
 
-With a bonus action, the dagger can split into two identical ones with the same statistics, so long as they are held by you. 
-Once attuned to this dagger, you gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Agility modifier. You also reduce any fall damage you take by 25 points of damage (minimum 0). 
+With a bonus action, the dagger can split into two identical ones with the same statistics, so long as they are held by you.
+Once attuned to this dagger, you gain the ability to climb faster than normal; climbing no longer costs you extra movement. In addition, when you make a running jump, the distance you cover increases by a number of feet equal to your Agility modifier. You also reduce any fall damage you take by 25 points of damage (minimum 0).
 
 This dagger looks like a monstrous fang. When twisted in a specific way, it breaks into two identical thinner blades. If one dagger is more than 30 feet away from another, the one furthest to you disappears, and re-appears bonded to the first dagger.
 
-#### Trol'kalar 
+#### Trol'kalar
 **Weapon (longsword), rare (requires attunement)**
 <br>
-You gain +1 attack and damage rolls made with this magic weapon. 
+You gain +1 attack and damage rolls made with this magic weapon.
 
-Once attuned to this longsword, it may be used to apply the Mortal Strike warrior ability. If you already have this ability, the longsword deals one additional dice of damage against any creature that has regeneration or the rapid regeneration feature (such as trolls). 
+Once attuned to this longsword, it may be used to apply the Mortal Strike warrior ability. If you already have this ability, the longsword deals one additional dice of damage against any creature that has regeneration or the rapid regeneration feature (such as trolls).
 
-The dread sword known as the Trol'kalar (troll slayer, in the ancient tongue), was first known to be wielded by Strom's most capable warlord, Lord Ignaeus Trollbane, during the Troll Wars. 
+The dread sword known as the Trol'kalar (troll slayer, in the ancient tongue), was first known to be wielded by Strom's most capable warlord, Lord Ignaeus Trollbane, during the Troll Wars.
 
 After the war and with the departure of Thoradin's ruling descendants the Trollbane family ascended to the throne. The Trol'kalar image changed by also becoming a true emblem of power in that region, being rightly wielded only by the direct descendants of Lord Ignaeus as a symbol of rulership over the glorious Kingdom of Stromgarde.
 
-#### Truesilver Champion 
+#### Truesilver Champion
 **Weapon (greatsword), rare (requires attunement)**
 <br>
-You gain a +2 bonus to attack and damage rolls with this magic weapon. While holding this weapon, you may utter the inscription upon the blade, granting you 15 temporary hit points. Once this feature is used, it cannot be used again until the next dawn. 
+You gain a +2 bonus to attack and damage rolls with this magic weapon. While holding this weapon, you may utter the inscription upon the blade, granting you 15 temporary hit points. Once this feature is used, it cannot be used again until the next dawn.
 
 Truesilver acts as if a silvered weapon.
 
@@ -12523,7 +12523,7 @@ Truesilver acts as if a silvered weapon.
 #### Twin Blades of Azzinoth
 **Weapon (warglaive), rarity varies (greater attunement)**
 <br>
-Beyond the bonuses of the weapon upon attunement (see Greater Attunement), whenever you cast the mage armor spell, you gain 1 additional point of AC. 
+Beyond the bonuses of the weapon upon attunement (see Greater Attunement), whenever you cast the mage armor spell, you gain 1 additional point of AC.
 
 Furthermore, upon a successful attack against a creature, you may declare that the weapons’ mana burn ability activates as a bonus action as a strike effect. Once used, this property cannot be used again until the next dawn. The spell level of the mana burn spell depends on the current rarity of the weapon.
 
@@ -12534,25 +12534,25 @@ Furthermore, upon a successful attack against a creature, you may declare that t
 | Epic | 8 (3d4 + 1) | 
 | Legendary | 11 (4d4 + 1) | 
 ___
-The most well-known twin-blade is that that once belonged to the doom guard Azzinoth, whose blades were claimed by Illidan Stormrage. Twin-blades are warglaives employed by demonic felguards, and are specifically created to increase in power with the demon. As demon hunters often count as demons, twin-blades can increase in power in the hands of demon hunters as well. 
+The most well-known twin-blade is that that once belonged to the doom guard Azzinoth, whose blades were claimed by Illidan Stormrage. Twin-blades are warglaives employed by demonic felguards, and are specifically created to increase in power with the demon. As demon hunters often count as demons, twin-blades can increase in power in the hands of demon hunters as well.
 
 #### Val’Anyr, Hammer of Ancient Kings
 **Weapon (mace), epic**
 <br>
-You gain +2 to attack and damage rolls made with this magic weapon. 
+You gain +2 to attack and damage rolls made with this magic weapon.
 
-You may the power word: shield spell as a bonus action, but only at a range of touch, or to a target of a healing spell you cast. Once this feature is used three times, it cannot be used again until the next dawn. 
+You may the power word: shield spell as a bonus action, but only at a range of touch, or to a target of a healing spell you cast. Once this feature is used three times, it cannot be used again until the next dawn.
 
-#### Verdant Sphere 
+#### Verdant Sphere
 **Wondrous item, rarity varies (requires attunement)**
 <br>
-Verdant spheres are mana stones attuned to ley lines to the point of drawing power from them. Many types of verdant spheres exist, each with different powers drawn upon the ley line's attunements. Legend has it the orb siphons a portion of the essence of every evil outsider slain by its owner. The orb draws on the essence of these demons for its own powers, the spirits writhing in torment within it for all eternity. The truth of the matter, however, is that there are simply powerful arcane tools, sometimes known as mooncrystals in Quel’Thalas. The Blood Mage Prince Kael'thas Sunstrider is known to have the largest collection on Verdant Spheres, possessing the Attunement, Fire, and Demonic Drain spheres. 
+Verdant spheres are mana stones attuned to ley lines to the point of drawing power from them. Many types of verdant spheres exist, each with different powers drawn upon the ley line's attunements. Legend has it the orb siphons a portion of the essence of every evil outsider slain by its owner. The orb draws on the essence of these demons for its own powers, the spirits writhing in torment within it for all eternity. The truth of the matter, however, is that there are simply powerful arcane tools, sometimes known as mooncrystals in Quel’Thalas. The Blood Mage Prince Kael'thas Sunstrider is known to have the largest collection on Verdant Spheres, possessing the Attunement, Fire, and Demonic Drain spheres.
 
 When inactive, they appear to be fist-sized orbs of opaque glass. When activated by a caster's command, they burst into flame of a color attuned to the user and hover above their heads. Some casters prefer to disguise them behind an illusion, however, or keep them inactive until needed. When you use an action to toss one of these spheres into the air, the sphere orbits your head at a distance of 1d3 feet and confers a benefit to you. Thereafter, another creature must use an action to grasp or net the stone to separate it from you, either by making a successful attack roll against AC 24 or a successful DC 24 Agility (Acrobatics) check. You can use an action to seize and stow the stone, ending its effect.
 
 \columnbreak
 
-A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head and shoulders, and is thus only subject to being damaged when it is specifically targeted. 
+A stone has AC 24, 10 hit points, and resistance to all damage. It is considered to be an object that is being worn while it orbits your head and shoulders, and is thus only subject to being damaged when it is specifically targeted.
 
 ##### Absorption (Epic)
 You can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see and targeting only you.
@@ -12563,13 +12563,13 @@ Once the stone has canceled 20 levels of spells, it burns out and loses its magi
 Your Agility score increases by 2, to a maximum of 20.
 
 ##### Attunement (Epic)
-You can attune yourself to two other infused items. This sphere itself does not require attunement. 
+You can attune yourself to two other infused items. This sphere itself does not require attunement.
 
 ##### Awareness (Rare)
 You can't be surprised.
 
 ##### Demonic Drain (Rare)
-Draining mana from demons grants double the normal mana amount possible. 
+Draining mana from demons grants double the normal mana amount possible.
 
 ##### Fortitude (Epic)
 Your Stamina score increases by 2, to a maximum of 20.
@@ -12606,7 +12606,7 @@ You regain 15 hit points at the end of each hour, provided that you have at leas
 ##### Reserve (Rare)
 This sphere spells cast into it, holding them until you use them. It can store up to 3 levels worth of spells at a time. When found, it contains 1d4 - 1 levels of stored spells chosen by the DM.
 
-Any creature can cast a spell of 1st through 3rd level into the sphere by touching it as the spell is cast. The spell has no effect, other than to be stored in the sphere. If the sphere can't hold the spell, the spell is expended without effect. The level of the spell determines how much space it uses. 
+Any creature can cast a spell of 1st through 3rd level into the sphere by touching it as the spell is cast. The spell has no effect, other than to be stored in the sphere. If the sphere can't hold the spell, the spell is expended without effect. The level of the spell determines how much space it uses.
 
 This uses the spell’s level, save DC, attack bonus, and spellcasting ability of the original caster, but is otherwise treated as if you cast the spell. The spell cast from the sphere is no longer stored in it, freeing up space.
 
@@ -12619,22 +12619,22 @@ You don't need to eat or drink.
 #### Voodoo Doll
 **Wondrous item, rare (requires attunement by any spellcaster who can cast Speak with Dead)**
 <br>
-A voodoo doll seems innocent, but it is actually a house of a Hexer spirit. Hexer spirits bound to a voodoo doll are servitors to whoever is attuned to the doll, serving them in return for favors. 
+A voodoo doll seems innocent, but it is actually a house of a Hexer spirit. Hexer spirits bound to a voodoo doll are servitors to whoever is attuned to the doll, serving them in return for favors.
 
-A voodoo doll may be attuned with a target with one hour of contact with a remaining body part or piece (such as a finger, hair, or fingernail). So long as the target does not take the measures to end the bond (such as by replacing the finger or removing a hand, cutting all their hair, or clipping all their fingernails, as determined by the DM), the Hexer spirit is always aware of where the target is, as if under the effects of a locate creature spell. 
+A voodoo doll may be attuned with a target with one hour of contact with a remaining body part or piece (such as a finger, hair, or fingernail). So long as the target does not take the measures to end the bond (such as by replacing the finger or removing a hand, cutting all their hair, or clipping all their fingernails, as determined by the DM), the Hexer spirit is always aware of where the target is, as if under the effects of a locate creature spell.
 
-The Hexer spirit can be allowed to leave the voodoo doll to use its Carry Voodoo power, which allows the owner of the doll to cast a spell for the Hexer to carry, or harm the doll and order the hexer spirit to use its Withering Touch ability on the target (usually until they die, or the victim is at the point where the witch doctor wants them). 
+The Hexer spirit can be allowed to leave the voodoo doll to use its Carry Voodoo power, which allows the owner of the doll to cast a spell for the Hexer to carry, or harm the doll and order the hexer spirit to use its Withering Touch ability on the target (usually until they die, or the victim is at the point where the witch doctor wants them).
 
 The DM has the Hexer Spirit’s statistics (Monster Guide).
 
 #### Warden’s Cloak
 Wondrous item, rare (requires attunement)
-Specially constructed for the night elves' wardens, these green velvet cloaks bear a fringe of deadly, razor-sharp blades along the hem, resembling the wings of an owl. While wearing it, you gain the following benefits: 
+Specially constructed for the night elves' wardens, these green velvet cloaks bear a fringe of deadly, razor-sharp blades along the hem, resembling the wings of an owl. While wearing it, you gain the following benefits:
 * You gain a +1 bonus to AC.
-* You ignore damage by falling, as if under the effects of the feather fall spell. 
+* You ignore damage by falling, as if under the effects of the feather fall spell.
 * You may conjure two daggers from the cloak’s folds. This does not cost an action, but the daggers remain until the end of your turn, afterwards they disappear.
 ___
-Wardens who don this cloak are usually talented with knife-throwing (taking the fan of knives talent). 
+Wardens who don this cloak are usually talented with knife-throwing (taking the fan of knives talent).
 
 #### Wisp Amulet
 **Wondrous item, rare**
@@ -12649,12 +12649,12 @@ The wearer of this amulet may transform into a wisp for up to 1 minute. This is 
 #### Anathema and Benediction
 **Weapon (staff), artifact (requires attunement)**
 <br>
-This staff can be wielded as a magical quarterstaff that grants a +3 to attack and damage rolls made with it. 
+This staff can be wielded as a magical quarterstaff that grants a +3 to attack and damage rolls made with it.
 
-The staff has 50 charges. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the ancient wood that keeps the Anathema and Benediction heads away from one another crumble, and the two gravitate towards one another, before clashing, and disappearing. On a 20, the staff regains 1d6 charges. After one year of disappearing, the staff re-forms elsewhere in Azeroth with full charges. 
+The staff has 50 charges. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the ancient wood that keeps the Anathema and Benediction heads away from one another crumble, and the two gravitate towards one another, before clashing, and disappearing. On a 20, the staff regains 1d6 charges. After one year of disappearing, the staff re-forms elsewhere in Azeroth with full charges.
 
 ##### Strike of the Cursed and Blessed
-When you hit with a melee attack using the staff and use 1 charge, you can expend 1 charge to cause one of the two opposing heads to strike. If choosing Anathema, the staff deals an extra 2d8 shadow damage to any target it hits. If choosing Benediction, the staff instead deals 2d8 holy damage to any target it hits. This is a strike effect and requires a bonus action to activate as normal. 
+When you hit with a melee attack using the staff and use 1 charge, you can expend 1 charge to cause one of the two opposing heads to strike. If choosing Anathema, the staff deals an extra 2d8 shadow damage to any target it hits. If choosing Benediction, the staff instead deals 2d8 holy damage to any target it hits. This is a strike effect and requires a bonus action to activate as normal.
 
 ##### Channel Divinity
 You can use 3 charges to regain a use of your channel divinity ability (if you have it). This can be used once until the next dawn.
@@ -12672,41 +12672,41 @@ While holding this staff, you can use an action to expend 1 or more of its charg
 * protection from evil and good (1 charge)
 * hallow/unhallow.
 
-#### Ashbringer 
+#### Ashbringer
 **Weapon (greatsword), artifact (requires attunement)**
 <br>
-This sword can be wielded as a magic greatsword that grants a +3 to attack and damage rolls made with it. Any undead destroyed by this sword is burnt to ash, utterly destroying the corpse. The weapon’s additional damage is treated as fire or holy damage (whichever is most beneficial). 
+This sword can be wielded as a magic greatsword that grants a +3 to attack and damage rolls made with it. Any undead destroyed by this sword is burnt to ash, utterly destroying the corpse. The weapon’s additional damage is treated as fire or holy damage (whichever is most beneficial).
 
 ##### Ashen Strike
-If this blade slays an undead spellcaster who has bonded (or animated) undead, the spells are instantaneously dispelled, dispelling the bonds (setting them loose) or dispelling the animation spell (if the creature is not bound). If this blade slays any creature, the corpse (if any) cannot be used to animate undead. 
+If this blade slays an undead spellcaster who has bonded (or animated) undead, the spells are instantaneously dispelled, dispelling the bonds (setting them loose) or dispelling the animation spell (if the creature is not bound). If this blade slays any creature, the corpse (if any) cannot be used to animate undead.
 
 ##### Light-Blessed Sight
-While attuned to this blade, you have the benefits of true seeing against undead, but only to the range of 30 feet. 
+While attuned to this blade, you have the benefits of true seeing against undead, but only to the range of 30 feet.
 ___
-Forged by King Magni Bronzebeard in grief over his brother’s death in during the Second War out of a Light-infused crystal, Ashbringer has a storied history. Its last wielder was the paladin Highlord Mograine. 
+Forged by King Magni Bronzebeard in grief over his brother’s death in during the Second War out of a Light-infused crystal, Ashbringer has a storied history. Its last wielder was the paladin Highlord Mograine.
 
-Although it succeeded in containing the Scourge's efforts to spread south throughout the Eastern Kingdoms, its true strength can possibly rival that of Frostmourne. 
+Although it succeeded in containing the Scourge's efforts to spread south throughout the Eastern Kingdoms, its true strength can possibly rival that of Frostmourne.
 
-#### Atiesh, Greatstaff of the Guardian 
+#### Atiesh, Greatstaff of the Guardian
 **Weapon (staff), artifact (requires attunement)**
 <br>
 This staff can be wielded as a magical quarterstaff that grants a +3 to attack and damage rolls made with it. If attuned to Atiesh, you may use an action to summon it to your possession, regardless of where it currently is (this acts as a plane shift spell).
 
-The staff has 50 charges. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff temporarily loses its powers for until the next dawn and becomes a +1 magical quarterstaff. 
+The staff has 50 charges. It regains 4d6 + 2 expended charges daily at dawn. If you expend the last charge, roll a d20. On a 1, the staff temporarily loses its powers for until the next dawn and becomes a +1 magical quarterstaff.
 
 ##### Guardian Magic
-While attuned to the artifact, any spell you cast is treated as heightened by one level for no cost (up to 9th level), and you gain advantage to all dealings with outsiders, fey, undead, and elementals. 
+While attuned to the artifact, any spell you cast is treated as heightened by one level for no cost (up to 9th level), and you gain advantage to all dealings with outsiders, fey, undead, and elementals.
 
 ##### Spells
 While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: fear (3 charges), gate (9 charges; opens to anywhere, or Karazhan if unspecified), glyph of warding (can heighten to any level; 1 charge per level), phantom steed (3 charges), plane shift (7 charges), polymorph (4 charges), private sanctum (heightened to 6th level; 6 charges)
 
 ##### Watchers
-While attuned to this artifact, ravens are drawn to you and often remain close, observing and warning you of any dangers they can notice. 
+While attuned to this artifact, ravens are drawn to you and often remain close, observing and warning you of any dangers they can notice.
 
 ##### Destroying the Staff
-The only way to destroy the staff is either to have it cloven in two by a Titan’s weapon, affected by the elemental attacks of the four Elemental Lords of Azeroth for one entire day, being consumed by an Old God for one hour, or being targeted with an archdemon’s wish spell. The destruction of the staff breaks it into forty-two pieces (the head, tail, and forty shards), and curses it to be bound with a powerful demon (Atiesh, the Hand of Sargeras; an Eredar Warlock). If the staff’s pieces are ever brought together again, the demon arises to kill the collector and retrieve the staff to his demon master. 
+The only way to destroy the staff is either to have it cloven in two by a Titan’s weapon, affected by the elemental attacks of the four Elemental Lords of Azeroth for one entire day, being consumed by an Old God for one hour, or being targeted with an archdemon’s wish spell. The destruction of the staff breaks it into forty-two pieces (the head, tail, and forty shards), and curses it to be bound with a powerful demon (Atiesh, the Hand of Sargeras; an Eredar Warlock). If the staff’s pieces are ever brought together again, the demon arises to kill the collector and retrieve the staff to his demon master.
 ___
-Atiesh, Greatstaff of the Guardian is a powerful staff passed down through the line of the Guardians of Tirisfal up until and including Medivh, the last Guardian. It is currently wielded by Medivh's former apprentice, Khadgar. The staff was born from the "seed of hate" and grants its wielder "power unending". It was passed down by each Guardian of Tirisfal to its successor. This ancient wooden staff has a red sash tied to the head, on which a raven was sculpted. 
+Atiesh, Greatstaff of the Guardian is a powerful staff passed down through the line of the Guardians of Tirisfal up until and including Medivh, the last Guardian. It is currently wielded by Medivh's former apprentice, Khadgar. The staff was born from the "seed of hate" and grants its wielder "power unending". It was passed down by each Guardian of Tirisfal to its successor. This ancient wooden staff has a red sash tied to the head, on which a raven was sculpted.
 
 \pagebreakNum
 
@@ -12715,50 +12715,50 @@ Atiesh, Greatstaff of the Guardian is a powerful staff passed down through the l
 <br>
 This greatsword can be wielded as a magical greatsword that grants a +3 to attack and damage rolls made with it. It scores a critical hit on a roll of 19 or 20, and deals an extra 2d10 slashing damage to undead.
 
-If the sword isn't bathed in blood within 1 minute of being drawn from its scabbard or 1 hour after awakening from a rest of any kind (if attuned), its wielder must make a DC 15 Charisma saving throw. On a successful save, the wielder takes 3d6 psychic damage. On a failed save, the wielder is dominated by the Lich King (either via the spirit of Ner’Zhul or by the blade’s own consciousness which serves it), as if by the dominate spell. The spell effect ends when the sword's demand is met, and the spell’s demand is usually either to spill innocent blood or move the wielder a step closer to being aligned with the Lich King’s will. 
+If the sword isn't bathed in blood within 1 minute of being drawn from its scabbard or 1 hour after awakening from a rest of any kind (if attuned), its wielder must make a DC 15 Charisma saving throw. On a successful save, the wielder takes 3d6 psychic damage. On a failed save, the wielder is dominated by the Lich King (either via the spirit of Ner’Zhul or by the blade’s own consciousness which serves it), as if by the dominate spell. The spell effect ends when the sword's demand is met, and the spell’s demand is usually either to spill innocent blood or move the wielder a step closer to being aligned with the Lich King’s will.
 
-Soul Stealer. The sword traps the souls of the dead. You gain the Blood Death Knight’s Blood Strike ability. If this strike reduces the target to 0 hit points, it also steals the soul of the target, and retains it in the blade (as the essence seal spell heightened to level 10, or CR 20). The sword can contain up to 200 total CR in the blade. You have advantage to any roll to keep the souls imprisoned in the sword. 
+Soul Stealer. The sword traps the souls of the dead. You gain the Blood Death Knight’s Blood Strike ability. If this strike reduces the target to 0 hit points, it also steals the soul of the target, and retains it in the blade (as the essence seal spell heightened to level 10, or CR 20). The sword can contain up to 200 total CR in the blade. You have advantage to any roll to keep the souls imprisoned in the sword.
 
-While attuned to the artifact, any necromancy or abjuration spell you cast is treated as heightened by one level (up to 9th level), and you gain advantage to all Charisma rolls to deal with undead. 
+While attuned to the artifact, any necromancy or abjuration spell you cast is treated as heightened by one level (up to 9th level), and you gain advantage to all Charisma rolls to deal with undead.
 
 ##### Spells
-While the sword is on your person, you can use an action to cast one of the following spells (saving throw 18) from it: dominate undead (level 5), death coil (level 5), or finger of death. Once you use the sword to cast a spell, you can't cast that spell again from it until the next midnight. You can also cast speak with dead at will on any corpse or use the spell to speak to any soul trapped in the blade. 
+While the sword is on your person, you can use an action to cast one of the following spells (saving throw 18) from it: dominate undead (level 5), death coil (level 5), or finger of death. Once you use the sword to cast a spell, you can't cast that spell again from it until the next midnight. You can also cast speak with dead at will on any corpse or use the spell to speak to any soul trapped in the blade.
 
 ##### Telepathic Speech
-While the sword is on your person, you have a telepathic bond with the Lich King, and he is able to target you for any enchantment or necromancy spells (such as dominate person, possession, or conjure undead). If you are the Lich King, your telepathic bond extends to anyone who willingly serves you (including enslaved and animated undead). 
+While the sword is on your person, you have a telepathic bond with the Lich King, and he is able to target you for any enchantment or necromancy spells (such as dominate person, possession, or conjure undead). If you are the Lich King, your telepathic bond extends to anyone who willingly serves you (including enslaved and animated undead).
 
 ##### Sentience
 Frostmourne is a sentient lawful evil weapon with an Intelligence of 15, a Spirit of 13, and a Charisma of 16. It has hearing and darkvision out to a range of 120 feet.
 
 ##### Personality
-The sword's purpose is to serve the Lich King wholly and fully. Killing the enemies of the scourge (members of the Alliance or Horde, followers of the Holy Light, and the Burning Legion if the Lich King wills it), serving the Cult of the Damned, and slaying servants of good all help fulfill this goal. 
+The sword's purpose is to serve the Lich King wholly and fully. Killing the enemies of the scourge (members of the Alliance or Horde, followers of the Holy Light, and the Burning Legion if the Lich King wills it), serving the Cult of the Damned, and slaying servants of good all help fulfill this goal.
 ##### Destroying the Sword
-The sword is destroyed should the Lich King himself be destroyed by fel or holy magic, and if it is targeted with a wish spell and a Charisma check contested with the Charisma of the sword. 
+The sword is destroyed should the Lich King himself be destroyed by fel or holy magic, and if it is targeted with a wish spell and a Charisma check contested with the Charisma of the sword.
 
 The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the spell is wasted. If the sword loses the contest, it is destroyed.
 ___
 Frostmourne is a powerful blade crafted by demons on the orders of Archimonde, bound with Ner’Zhul’s spirit into a shard of ice, and then hurled as a comet onto the highest peak of Icecrown, Azeroth’s Roof of the World. Its greatest (and only) wielder was Prince Arthas, now known as the Lich King after his mental union with Ner’Zhul. Frostmourne, as much as the Lich King, is the ruler of Northrend.
 
-This blue-gray runeblade has a steel skull fixed into the guard, and a tough leather grip, and the runes across the width of the sword give hints of the thousands of tortured souls imprisoned in the wicked soul-stealing blade. The relic of the master of the dead, it holds great power over them. 
+This blue-gray runeblade has a steel skull fixed into the guard, and a tough leather grip, and the runes across the width of the sword give hints of the thousands of tortured souls imprisoned in the wicked soul-stealing blade. The relic of the master of the dead, it holds great power over them.
 #### Frostmourne Reforged: Shadowmourne
 **Daughter Blade of Frostmourne**
 <br>
-The shards of a destroyed Frostmourne can be used to forge Shadowmourne. 
+The shards of a destroyed Frostmourne can be used to forge Shadowmourne.
 
 Shadowmourne can take the form of a greatsword, longsword, greathammer, or greataxe. Its rarity decreases to Legendary (and thus can be destroyed without special conditions), its personality changes to follow the crafter’s, and loses the following features: Telepathic Speech and Soul Stealer, but retains all other features (bonus to attack and damage, spells, sentience, and magical weapon status).
 
-#### Thoridal, the Stars’ Fury 
+#### Thoridal, the Stars’ Fury
 **Weapon (longbow), artifact (requires attunement)**
 <br>
-This bow can be wielded as a magic longbow that grants a +3 to attack and damage rolls made with it. 
+This bow can be wielded as a magic longbow that grants a +3 to attack and damage rolls made with it.
 
-Thoridal can generate its own spectral arrows when used to attack, or can use normal arrows. 
+Thoridal can generate its own spectral arrows when used to attack, or can use normal arrows.
 
 ##### Arcane Arrows
-When you expend an arrow to attack with Thoridal, it deals an additional 1d8 arcane damage on a hit, even when the arrow has its own special effect (such as an Arrow of Slaying). 
+When you expend an arrow to attack with Thoridal, it deals an additional 1d8 arcane damage on a hit, even when the arrow has its own special effect (such as an Arrow of Slaying).
 
 ##### Spectral Arrows
-If you do not use a projectile, the bow creates its own spectral ammunition. The attack deals extra damage equal to your Charisma modifier on a hit, and half the damage dealt is arcane damage. Spectral arrows are white and translucent, and whoever sees it in flight at first believes it is a shooting star. 
+If you do not use a projectile, the bow creates its own spectral ammunition. The attack deals extra damage equal to your Charisma modifier on a hit, and half the damage dealt is arcane damage. Spectral arrows are white and translucent, and whoever sees it in flight at first believes it is a shooting star.
 
 ##### Arrowsmith
 Whoever is attuned to Thoridal can craft magical arrows as if they were infusionists (using their own proficiency bonus for Infusion), though the arrows are designed to be used exclusively by the bow.
@@ -12774,11 +12774,11 @@ You have +3 to attack and damage rolls with this magic weapon.
 
 While attuned to this sword, you can cast the absorb elements spell at will, but only against lightning and thunder damage as a 7th level spell. The sword has 8 charges. You can spend charges to manifest one of the following effects:
 * **Discharge (2 charges).** You cast the lightning bolt spell, heightened to 7th level.
-* **Lightning Rod (1 charge).** You can choose a point within 10 feet of you. Any effect that deals lightning damage and includes the point you chosen allows you to absorb elements and reduce the damage dealt by the effect by the amount you absorbed, even to other targets. 
+* **Lightning Rod (1 charge).** You can choose a point within 10 feet of you. Any effect that deals lightning damage and includes the point you chosen allows you to absorb elements and reduce the damage dealt by the effect by the amount you absorbed, even to other targets.
 ___
 The sword replenishes 1d4+2 charges every dawn.
 ___
-Thunderfury, Blessed Blade of the Windseeker is the legendary sword once wielded by Thunderaan, Prince of Air. The prince, son of Al'Akir the Windlord, was attacked by Ragnaros the Firelord, in an attempt to heighten the already impressive power that the fire elemental held. 
+Thunderfury, Blessed Blade of the Windseeker is the legendary sword once wielded by Thunderaan, Prince of Air. The prince, son of Al'Akir the Windlord, was attacked by Ragnaros the Firelord, in an attempt to heighten the already impressive power that the fire elemental held.
 
 Ragnaros succeeded; however, Thunderaan's power could not be completely taken into his form. What remained of Thunderaan was placed in a talisman of elemental binding, which was broken into two pieces. The pieces were then given to the Firelord's two lieutenants, Baron Geddon and Garr, respectively the left and right halves. These two halves are known as the Bindings of the Windseeker.
 
@@ -12787,49 +12787,49 @@ Ragnaros succeeded; however, Thunderaan's power could not be completely taken in
 <a id="armorsets"></a>
 
 ### Armor Sets
-Armor sets are found as treasure, although they can be crafted. In case of crafting, the character must be able to craft a full set (at the highest rarity) to make an armor set. 
+Armor sets are found as treasure, although they can be crafted. In case of crafting, the character must be able to craft a full set (at the highest rarity) to make an armor set.
 
-For example, a druid who wishes to craft the Cenarion Raiment must possess the materials and ability to craft Epic armor (the rarity of the entire set). 
+For example, a druid who wishes to craft the Cenarion Raiment must possess the materials and ability to craft Epic armor (the rarity of the entire set).
 
-A single armor set counts as one item for the purposes of attunement. 
+A single armor set counts as one item for the purposes of attunement.
 
 #### Avatar Raiment Armor
 **Armor (cloth), variant (requires attunement), pieces (Vestment and cowl, gloves, mantle, arm wraps)**
 <br>
-* *Uncommon.* If possessing one set piece, you may add your spellcasting ability modifier again to any amount of hit points restored by flash of light or flash of shadow spells. This also applies to the amount of damage the spell would deal if targeting an undead or fiend. 
+* *Uncommon.* If possessing one set piece, you may add your spellcasting ability modifier again to any amount of hit points restored by flash of light or flash of shadow spells. This also applies to the amount of damage the spell would deal if targeting an undead or fiend.
 * *Rare.* If possessing two to three set pieces, you may use a bonus action to Dash, but only to approach a wounded or unconscious ally.
 * *Epic.* If possessing all set pieces, whenever you heal or damage a target with a healing spell who has less than quarter their maximum hit points, your healing spells heal or deal 25% extra in hit points. This applies once per spell. This can stack with similar abilities.
 ___
-This white and gold armor set is suffused with great divine power, abjuring the wearer’s face from view into a benevolent (or malevolent) shadow. 
+This white and gold armor set is suffused with great divine power, abjuring the wearer’s face from view into a benevolent (or malevolent) shadow.
 
 #### Blackened Defias Armor
 **Armor (leather), variant (requires attunement), pieces (Armor, gloves, boot, belt)**
-* *Uncommon.* If possessing one set piece, dim light doesn’t impose disadvantage on your Spirit (Perception) checks relying on sight. 
+* *Uncommon.* If possessing one set piece, dim light doesn’t impose disadvantage on your Spirit (Perception) checks relying on sight.
 * *Rare.* If possessing two to three set pieces, climbing doesn’t halve your speed, and you can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
-* *Epic.* If possessing all set pieces, you may cast the fade spell at will, or the invisibility spell three times before the spell-weaving power of the armor is expended, replenishing after the next sundown. 
+* *Epic.* If possessing all set pieces, you may cast the fade spell at will, or the invisibility spell three times before the spell-weaving power of the armor is expended, replenishing after the next sundown.
 ___
 Commonly worn by commanders of the Defias Brotherhood, this suit of dark armor is ideal camouflage for skulking rogues. The Defias set is a suit of black leather armor that completely covers the wearer’s body, save for her fingers and face – the latter is usually hidden behind one of the brotherhood’s trademark red scarves.
 
 #### Cenarion Raiment
 **Armor (studded leather), variant (requires attunement), pieces (Vestments, helm, bracers, belt)**
-* *Uncommon.* If possessing one set piece, other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you. 
-* *Rare.* If possessing two to three set pieces, you may use the druid’s wild shape ability as a 2nd level druid. If you already have the wild shape ability, you may use wild shape one more time per rest while wearing the armor, or gain one Blessed Beast feral wild shape option to benefit from one wild shape attempt (chosen once attuned to the armor). 
-* *Epic.* If possessing all set pieces, the horns of the raiment remain in wild shape, granting you a natural attack that deals 2d6 damage at medium size. Before going into a wild shape, you can designate three spells to be cast upon your horns, which can then either be discharged as per the Spell Strike feat on the target of your natural attack or be cast by touching the target with your horns. 
+* *Uncommon.* If possessing one set piece, other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
+* *Rare.* If possessing two to three set pieces, you may use the druid’s wild shape ability as a 2nd level druid. If you already have the wild shape ability, you may use wild shape one more time per rest while wearing the armor, or gain one Blessed Beast feral wild shape option to benefit from one wild shape attempt (chosen once attuned to the armor).
+* *Epic.* If possessing all set pieces, the horns of the raiment remain in wild shape, granting you a natural attack that deals 2d6 damage at medium size. Before going into a wild shape, you can designate three spells to be cast upon your horns, which can then either be discharged as per the Spell Strike feat on the target of your natural attack or be cast by touching the target with your horns.
 ___
 Created in Moonglade by the druids of the Cenarion Circle, the Cenarion raiment is worn by some of its most powerful champions as they strive to protect and preserve nature against the unnatural forces that threaten it. The Cenarion raiment features a thick brown leather robe covered in leaves and other symbols of nature – most prominently the sticks and leaves protruding from the wearer’s shoulders and the antlers resting upon his head.
 
 #### Destroyer Armor
 **Armor (plate), variant (requires attunement), pieces (breastplate, great helm, girdle, gauntlets)**
-* *Uncommon.* If possessing one set piece, whenever you deal or suffer a critical hit, you are hasted (as the spell of the same name) for until the end of your turn in the next round. 
+* *Uncommon.* If possessing one set piece, whenever you deal or suffer a critical hit, you are hasted (as the spell of the same name) for until the end of your turn in the next round.
 * *Rare.* If possessing two to three set pieces, whenever you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature. If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack’s damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 * *Epic.* If possessing all set pieces, whenever you suffer a critical hit, it turns into a normal hit. You still gain the haste effect (as the bonus at Uncommon quality). You also gain the Aggressive talent if you don't already have it. If you do, you can gain one talent of your choice so long you wear the armor.
 ___
-Worn by great mercenary captains, this plate of gold, rust-red, and pale blue armor casts an ominous shadow. 
+Worn by great mercenary captains, this plate of gold, rust-red, and pale blue armor casts an ominous shadow.
 
 #### Dragonstalker Armor
 **Armor (studded leather), variant (requires attunement), pieces (beastplate, helm, legguards, bracers)**
-* *Uncommon.* If you score a critical hit on a ranged attack, you are hasted (as the spell) for until the beginning of your turn in the next round. If you have a bonded companion, it is similarly hasted. 
-* *Rare.* If possessing two to three set pieces, you gain an accuracy die when you successfully score a hit with a hunter [strike] spell (even if only using infused ammunition). An accuracy dice can be spent to increase your attack roll result by 1d4, reduce the mana cost of a hunter [strike] by the same amount, or be added to a roll to use a firearm or crossbow to avoid a malfunction. You cannot have more than 3 accuracy dice at a given time. Unused accuracy dice are lost after 1 hour. 
+* *Uncommon.* If you score a critical hit on a ranged attack, you are hasted (as the spell) for until the beginning of your turn in the next round. If you have a bonded companion, it is similarly hasted.
+* *Rare.* If possessing two to three set pieces, you gain an accuracy die when you successfully score a hit with a hunter [strike] spell (even if only using infused ammunition). An accuracy dice can be spent to increase your attack roll result by 1d4, reduce the mana cost of a hunter [strike] by the same amount, or be added to a roll to use a firearm or crossbow to avoid a malfunction. You cannot have more than 3 accuracy dice at a given time. Unused accuracy dice are lost after 1 hour.
 
 \pagebreakNum
 
@@ -12837,59 +12837,59 @@ Worn by great mercenary captains, this plate of gold, rust-red, and pale blue ar
 ___
 Woven from the scales and leather of wyrms and dragons, this armor set is usually golden or red, but can be any color (depending on the dragonflight origin). Most sets were made during the Second War, and from the Red Dragonflight.
 ___
-*Special.* Other armor sets exist in the world of Azeroth, keyed to other creature types. Such sets act similarly, but change the target of the favored enemy talent to another creature type. Such as rarer than normal sets, however. 
+*Special.* Other armor sets exist in the world of Azeroth, keyed to other creature types. Such sets act similarly, but change the target of the favored enemy talent to another creature type. Such as rarer than normal sets, however.
 
-#### Magister Regalia 
+#### Magister Regalia
 **Armor (cloth), variant (requires attunement), pieces (Robe, crown, mantle, bindings)**
 * *Uncommon.* If possessing one set piece, your spell save DC and spell attack bonus each increase by 2.
-* *Rare.* If possessing two to three set pieces, your base Armor Class is 15 + your Agility modifier. Although altering your AC, using the set does not count as if you are armored. 
+* *Rare.* If possessing two to three set pieces, your base Armor Class is 15 + your Agility modifier. Although altering your AC, using the set does not count as if you are armored.
 * *Epic.* If possessing all set pieces, you have advantage on saving throws against spells and other magical effects.
-These enchanted vestments were originally fashioned by the master craftsmen of the Kirin Tor, the reigning magical council of Dalaran before the Third War. Only Dalaran's most elite archmagi are deemed worthy to don this astonishing attire.
+  These enchanted vestments were originally fashioned by the master craftsmen of the Kirin Tor, the reigning magical council of Dalaran before the Third War. Only Dalaran's most elite archmagi are deemed worthy to don this astonishing attire.
 ___
-The Regalia itself is crafted of fine crimson silk, purple velvet, and gold cord. Its belt has emeralds within, and the robes are set with a single emerald above the heart. Within the flared sleeves lies space for small pouches of spell components. To retrieve and manipulate these spell components, the gloves are open-fingered. 
+The Regalia itself is crafted of fine crimson silk, purple velvet, and gold cord. Its belt has emeralds within, and the robes are set with a single emerald above the heart. Within the flared sleeves lies space for small pouches of spell components. To retrieve and manipulate these spell components, the gloves are open-fingered.
 
 #### Judgment Armor
 **Armor (plate), variant (requires attunement), pieces (Plate, crown, bindings, belt)**
 * *Uncommon.* If possessing one set piece, you have a +5 bonus to your passive Spirit (Perception) and passive Intelligence (Investigation) scores.
-* *Rare.* If possessing two to three set pieces, you may cast the bless or aid spells up to three times (total of both spells) before the power of the armor is expended, replenishing on the next dawn. If you already have the spell readied, you may instead cast the spell for half normal cost so long as you wear the armor. 
-* *Epic.* If possessing all set pieces, you may cast the arcane armor spell up to three times before the power of the armor is expended, replenishing after the next sundown. The spell is heightened to 6th level and remains for one hour. You also have the constant benefits of the bless and aid (3rd-level; or +10 to your maximum hit points) spells active. The benefit of the aid spell replenishes itself upon a short rest. 
+* *Rare.* If possessing two to three set pieces, you may cast the bless or aid spells up to three times (total of both spells) before the power of the armor is expended, replenishing on the next dawn. If you already have the spell readied, you may instead cast the spell for half normal cost so long as you wear the armor.
+* *Epic.* If possessing all set pieces, you may cast the arcane armor spell up to three times before the power of the armor is expended, replenishing after the next sundown. The spell is heightened to 6th level and remains for one hour. You also have the constant benefits of the bless and aid (3rd-level; or +10 to your maximum hit points) spells active. The benefit of the aid spell replenishes itself upon a short rest.
 ___
-Though the Silver Hand is a noble establishment, there comes a time when pleasantries must end and justice must be done. The commanding, faceless aspect of justice and judgement is represented by this armor, which is worn by paladins acting as inquisitors and executioners as they deliver sentence upon the enemy. 
+Though the Silver Hand is a noble establishment, there comes a time when pleasantries must end and justice must be done. The commanding, faceless aspect of justice and judgement is represented by this armor, which is worn by paladins acting as inquisitors and executioners as they deliver sentence upon the enemy.
 
 Clad in black, red, and gold, paladins in this full-body armor cut an imposing figure. The armor is a combination of both cloth and leather for easier movement as well as metal plates to protect vital areas. Each piece is ornately detailed with icons and imagery that represent justice.
 
 #### Plagueheart Raiment
 **Armor (cloth), variant (requires attunement), pieces (Robe, circlet and mask, gloves, sandals)**
 * *Uncommon.* If possessing one set piece, your spells that requires you to make an attack roll (including sigil spells) have their ranges doubled.
-* *Rare.* If possessing two to three set pieces, and can add the necrotic aura spell to your spell list, so long as you wear the armor. 
-* *Epic.* If possessing all set pieces, you have the constant effects of darkvision and demon skin (3rd-level; or 9 temporary hit points) spells. You also no longer need to breathe. The temporary hit points from demon skin replenish upon a short rest. 
+* *Rare.* If possessing two to three set pieces, and can add the necrotic aura spell to your spell list, so long as you wear the armor.
+* *Epic.* If possessing all set pieces, you have the constant effects of darkvision and demon skin (3rd-level; or 9 temporary hit points) spells. You also no longer need to breathe. The temporary hit points from demon skin replenish upon a short rest.
 ___
-Originally designed by Burning Legion mad scientists, this colorful set is known to be worn by agents of the Legion who deal with biological and chemical warfare, as well as living members of the Cult of the Damned that need protection from the Scourge’s plague. While designed as protective gear, as a result of its origins, the gear collects and stores plagues within itself, offering these plagues as an added level of defense. 
+Originally designed by Burning Legion mad scientists, this colorful set is known to be worn by agents of the Legion who deal with biological and chemical warfare, as well as living members of the Cult of the Damned that need protection from the Scourge’s plague. While designed as protective gear, as a result of its origins, the gear collects and stores plagues within itself, offering these plagues as an added level of defense.
 
-This unusual, chaotic-looking armor features patterns of black, orange, yellow, and bright green. Curved spines protrude from the shoulders, and the wearer’s face is obscured by a strange, bug-eyed mask. 
+This unusual, chaotic-looking armor features patterns of black, orange, yellow, and bright green. Curved spines protrude from the shoulders, and the wearer’s face is obscured by a strange, bug-eyed mask.
 
 #### Robes of the Violet Citadel
 **Armor (cloth), variant (requires attunement), pieces (Robe, skullcap or hood, gloves, boots)**
 * *Uncommon.* You have advantage on Stamina saving throws that you make to maintain your concentration on a spell when you take damage.
-* *Rare.* If possessing two to three set pieces, you have the constant benefits of mage armor, and you gain 10 temporary hit points at the beginning of every day. 
-* *Epic.* If possessing all set pieces, you always have the following spells prepared: blizzard (at 3rd level), blink step (at 2nd level) and conjure elemental (choose one elemental, spell is 3rd level). Furthermore, you may cast such spells for no cost. You may cast these spells a total of three times before the spell-weaving capabilities of the robes is exhausted until the next dawn. 
+* *Rare.* If possessing two to three set pieces, you have the constant benefits of mage armor, and you gain 10 temporary hit points at the beginning of every day.
+* *Epic.* If possessing all set pieces, you always have the following spells prepared: blizzard (at 3rd level), blink step (at 2nd level) and conjure elemental (choose one elemental, spell is 3rd level). Furthermore, you may cast such spells for no cost. You may cast these spells a total of three times before the spell-weaving capabilities of the robes is exhausted until the next dawn.
 ___
-The robes of the magi of the Magical Kingdom of Dalaran are scholars, rulers, and forces that fight evils such as the Burning Legion, the Scourge, and even renegade mages within their own ranks. The Robes of the Violet Citadel are suffused with magical powers that support and protect the magi that earned the right to wear them. 
+The robes of the magi of the Magical Kingdom of Dalaran are scholars, rulers, and forces that fight evils such as the Burning Legion, the Scourge, and even renegade mages within their own ranks. The Robes of the Violet Citadel are suffused with magical powers that support and protect the magi that earned the right to wear them.
 
-These violet robes are threaded with gold and blue that have high collars, and a black skullcap lined with silver thread (or a wide hood for female magi). 
+These violet robes are threaded with gold and blue that have high collars, and a black skullcap lined with silver thread (or a wide hood for female magi).
 
 #### Silver Hand Blessed Plate
 **Armor (plate), variant (requires attunement), pieces (Plate, gauntlets, greaves, belt)**
 
 \pagebreakNum
 
-* *Uncommon.* If possessing one set piece, you gain 15 temporary hit points at the beginning of every day. These temporary hit points may only be used to reduce damage to your maximum hit points (such as by the draining attacks of undead), and do not apply against normal damage. 
-* *Rare.* If possessing two or three set pieces, you add the sunbeam spell to your spell list. It is always prepared so long as you wear the armor. If you cannot cast spells, or cannot cast the sunbeam spell yet, you can instead cast it once before a short rest. 
-* *Epic.* If possessing all set pieces, when you heal a creature with a holy light spell or with your Lay on Hands feature, a radiant burst of light protects them. Hostile creatures within 5 feet of a creature healed by this spell must make an Agility saving throw or be blinded for 1 round. If the hostile creatures are fiends or undead, they may instead take holy damage equal to double the spell’s level or one-quarter of the number of hit points your target regained (your choice for either). 
+* *Uncommon.* If possessing one set piece, you gain 15 temporary hit points at the beginning of every day. These temporary hit points may only be used to reduce damage to your maximum hit points (such as by the draining attacks of undead), and do not apply against normal damage.
+* *Rare.* If possessing two or three set pieces, you add the sunbeam spell to your spell list. It is always prepared so long as you wear the armor. If you cannot cast spells, or cannot cast the sunbeam spell yet, you can instead cast it once before a short rest.
+* *Epic.* If possessing all set pieces, when you heal a creature with a holy light spell or with your Lay on Hands feature, a radiant burst of light protects them. Hostile creatures within 5 feet of a creature healed by this spell must make an Agility saving throw or be blinded for 1 round. If the hostile creatures are fiends or undead, they may instead take holy damage equal to double the spell’s level or one-quarter of the number of hit points your target regained (your choice for either).
 ___
-This set of armor is worn by the Knights of the Silver Hand in battle, this armor is blessed by the Holy Light to aid the righteous men and women of the Order against evil influences. 
+This set of armor is worn by the Knights of the Silver Hand in battle, this armor is blessed by the Holy Light to aid the righteous men and women of the Order against evil influences.
 
-Made of steel and silver and gold, and mantled with a blue cloak on one shoulder, the knights of the order fight with the full righteous cause of the Holy Light. 
+Made of steel and silver and gold, and mantled with a blue cloak on one shoulder, the knights of the order fight with the full righteous cause of the Holy Light.
 
 <a id="epicboons"></a>
 <br>
@@ -12897,10 +12897,10 @@ Made of steel and silver and gold, and mantled with a blue cloak on one shoulder
 The Warcraft universe has its own share of epic boons.
 
 #### Boon of Alien Technology
-Your effective proficiency bonus for Engineer’s Tools increases by 1. This does not stack with other proficiency-increasing effects. This can allow you to access a rarity grade 1 point higher than normal, or apply 1 EP worth for no cost. 
+Your effective proficiency bonus for Engineer’s Tools increases by 1. This does not stack with other proficiency-increasing effects. This can allow you to access a rarity grade 1 point higher than normal, or apply 1 EP worth for no cost.
 
 #### Boon of Grand Sorcery
-Your caster level increases by 1. 
+Your caster level increases by 1.
 
 #### Boon of True Celerity
 Your mana pool increases by 5 points, provided you have an active mana pool.
@@ -12908,14 +12908,14 @@ Your mana pool increases by 5 points, provided you have an active mana pool.
 \pagebreakNum
 
 ## Skill or Tool Products
-The products below are created by skill or tool use, except infusion (which is detailed under treasures above). 
+The products below are created by skill or tool use, except infusion (which is detailed under treasures above).
 
-For all rules regarding the construction of engineering and alchemy equipment, see Chapter 7 below. 
+For all rules regarding the construction of engineering and alchemy equipment, see Chapter 7 below.
 
 <a id="alchemypotions"></a>
 
-### Alchemy: Potions 
-All potions (regardless of form) weigh 1 pound (unless the container is heavier), and can be used by imbibing or pouring on a creature or object (whichever applies better). Potions are described in more detail in Chapter 7 under Alchemist’s Supplies. 
+### Alchemy: Potions
+All potions (regardless of form) weigh 1 pound (unless the container is heavier), and can be used by imbibing or pouring on a creature or object (whichever applies better). Potions are described in more detail in Chapter 7 under Alchemist’s Supplies.
 <br><br>
 <div class="classTable">
 
@@ -12924,27 +12924,27 @@ Most potions are based off spells, which cast the spell upon being consumed or u
 
 | Name | Rarity | Spell (Spell Level) |
 |:-|:-|:-|
-| Alarm Stick | Uncommon | Alarm (1st level) | 
-| Alchemist’s Acid | Common | Acid splash (Cantrip) | 
-| Alchemist’s Fire | Common | Fire bolt (Cantrip) | 
-| Alchemist’s Frost | Common | Frost bolt (Cantrip) | 
-| Antimagic Potion | Rare | Globe of invulnerability (4th level) | 
-| Elemental Armor Icon | Uncommon | Elemental armor (1st level) | 
+| Alarm Stick | Uncommon | Alarm (1st level) |
+| Alchemist’s Acid | Common | Acid splash (Cantrip) |
+| Alchemist’s Fire | Common | Fire bolt (Cantrip) |
+| Alchemist’s Frost | Common | Frost bolt (Cantrip) |
+| Antimagic Potion | Rare | Globe of invulnerability (4th level) |
+| Elemental Armor Icon | Uncommon | Elemental armor (1st level) |
 | False Life Spray | Uncommon | False life (1st level) |
-| Healing Potion | Uncommon | Holy light (1st level) | 
-| Healing Potion, Major | Uncommon | Holy light (2nd level) | 
-| Healing Potion, Greater | Rare | Holy light (3rd level) | 
-| Heroism Pill | Uncommon | Heroism (1st level) | 
-| Life Potion | Rare | Revivify (3rd level) | 
-| Light Stick | Common | Light (Cantrip) | 
-| Mind Scream Spray | Common | Vicious mockery (Cantrip) | 
-| Mutant Slash Potion | Uncommon | Conjure Strike (1st level) | 
-| Mutation Potion | Uncommon | Mutate (1st level) | 
-| Noxious Fumes | Common | Poison Spray (Cantrip) | 
-| Rejuvenation Pill | Uncommon | Rejuvenation (1st level) | 
-| Skill Extract | Uncommon | Shift Skill (1st level) | 
-| Sparing Potion | Common | Spare the dying (cantrip) | 
-| Smoke Bomb | Uncommon | Fog cloud (1st level) | 
+| Healing Potion | Uncommon | Holy light (1st level) |
+| Healing Potion, Major | Uncommon | Holy light (2nd level) |
+| Healing Potion, Greater | Rare | Holy light (3rd level) |
+| Heroism Pill | Uncommon | Heroism (1st level) |
+| Life Potion | Rare | Revivify (3rd level) |
+| Light Stick | Common | Light (Cantrip) |
+| Mind Scream Spray | Common | Vicious mockery (Cantrip) |
+| Mutant Slash Potion | Uncommon | Conjure Strike (1st level) |
+| Mutation Potion | Uncommon | Mutate (1st level) |
+| Noxious Fumes | Common | Poison Spray (Cantrip) |
+| Rejuvenation Pill | Uncommon | Rejuvenation (1st level) |
+| Skill Extract | Uncommon | Shift Skill (1st level) |
+| Sparing Potion | Common | Spare the dying (cantrip) |
+| Smoke Bomb | Uncommon | Fog cloud (1st level) |
 
 </div>
 
@@ -12954,37 +12954,37 @@ Most potions are based off spells, which cast the spell upon being consumed or u
 By using this potion, you become mentally aware of any creature of a size of Tiny or larger entering a 20-foot cube. Your awareness reaches up to 1 mile. The imbiber can designate creatures that do not trigger the alarm.
 
 ##### Alchemist’s Acid
-By using this potion, up to two creatures or objects within 5 feet of one another take 1d6 acid damage. 
+By using this potion, up to two creatures or objects within 5 feet of one another take 1d6 acid damage.
 
 ##### Alchemist’s Fire
-By using this potion, the creature or object takes 1d10 fire damage. If an object is unattended and flammable, it catches on fire. 
+By using this potion, the creature or object takes 1d10 fire damage. If an object is unattended and flammable, it catches on fire.
 
 ##### Alchemist’s Frost
 By using this potion, the creature or object takes 1d8 points of cold damage and suffers the chilled condition for one round.
 
 ##### Antimagic Potion
-By using this potion, a barrier arises on the creature and up to 10 feet from it, blocking spells with a spell level of 3 or less. This remains for one minute. 
+By using this potion, a barrier arises on the creature and up to 10 feet from it, blocking spells with a spell level of 3 or less. This remains for one minute.
 
 ##### Elemental Armor Icon
-By using this potion, a protective sheet of the elements surrounds the target, acting as the elemental armor spell for up to 1 hour or until the spell’s benefit is consumed (whichever comes first). 
+By using this potion, a protective sheet of the elements surrounds the target, acting as the elemental armor spell for up to 1 hour or until the spell’s benefit is consumed (whichever comes first).
 
 ##### False Life Spray
-By using this potion, the character gains 1d4 + 4 temporary hit points that remain for one hour. 
+By using this potion, the character gains 1d4 + 4 temporary hit points that remain for one hour.
 
 ##### Healing Potion
-By using this potion, character regains 1d8 + 4 hit points (if living), or takes 1d8 + 4 holy damage (if undead or fiend). 
+By using this potion, character regains 1d8 + 4 hit points (if living), or takes 1d8 + 4 holy damage (if undead or fiend).
 
 ##### Heroism Pill
 TODO
 
 ##### Life Potion
-By using this potion, the creature is revived to life and restored to 1 hit point. This must be used within a minute of death, and does not work against creatures that died of old age, and cannot restore body parts. 
+By using this potion, the creature is revived to life and restored to 1 hit point. This must be used within a minute of death, and does not work against creatures that died of old age, and cannot restore body parts.
 
 ##### Light Stick
 By using this potion, a bright glow emits, shining brightly for 20 feet, and dimly for 20 feet beyond that. This remains for 1 hour.
 
 ##### Mind Scream Spray
-By using this potion, the creature takes 1d4 psychic damage, and suffers disadvantage to their next attack. 
+By using this potion, the creature takes 1d4 psychic damage, and suffers disadvantage to their next attack.
 
 ##### Mutant Slash Potion
 By using this potion, you manifest a monster’s slash or attack from a creature of CR 1 or lower. The attack can be any attack it can make, but so long as it costs an action to make. The creature must be one of the creature types on the alchemist’s conjure and bind list (such as an ooze’s pseudopod or an elemental’s slam attack).
@@ -12992,136 +12992,136 @@ By using this potion, you manifest a monster’s slash or attack from a creature
 \pagebreakNum
 
 ##### Mutation Potion
-By using this potion, the character gains one mutation from the mutate spell. This remains for ten minutes. 
+By using this potion, the character gains one mutation from the mutate spell. This remains for ten minutes.
 
 ##### Noxious Fumes
-By using this potion, the target takes 1d12 poison damage if they fail a Stamina saving throw. 
+By using this potion, the target takes 1d12 poison damage if they fail a Stamina saving throw.
 
 ##### Rejuvenation Pill
-By using this potion, the creature regains 1d4 hit points. This acts exactly as the rejuvenation sigil spell. If they fail their check, the pill’s effects end prematurely. 
+By using this potion, the creature regains 1d4 hit points. This acts exactly as the rejuvenation sigil spell. If they fail their check, the pill’s effects end prematurely.
 
 ##### Skill Extract
 By using this potion, the creature’s skill becomes greater, gaining a bonus to a single skill check.
-* **Minor.** Common, +2 
+* **Minor.** Common, +2
 * **Moderate.** Uncommon, +3
 * **Greater.** Rare, +4
 * **Supreme.** Epic, +5
 * **Legendary.** Legendary, +6
 
 ##### Sparing Potion
-By splashing this potion on a dying creature, they become stable. This has no effect on undead or constructs. 
+By splashing this potion on a dying creature, they become stable. This has no effect on undead or constructs.
 
 ##### Smoke Bomb
-By using this potion, a 20-foot-radius sphere of fog arises from the point of use. The sphere spreads around corners, and its area is heavily obscured. It lasts for 1d6 x 10 minutes (30 minutes) or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. The rarity can be treated as if the spell’s level is ½ by reducing the sphere’s radius to 5 feet. 
+By using this potion, a 20-foot-radius sphere of fog arises from the point of use. The sphere spreads around corners, and its area is heavily obscured. It lasts for 1d6 x 10 minutes (30 minutes) or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it. The rarity can be treated as if the spell’s level is ½ by reducing the sphere’s radius to 5 feet.
 <br><br>
 <div class="classTable">
 
 #### Special Potions
-Most potions are based on spells as described in Chapter 7. Some potions diverge from this rule, however, and cover areas that are beyond the strength of spells, such as providing rest. Often times, such potions have their own prices instead of conforming to the Item Creation Complexity and Cost Table on Chapter 7. 
+Most potions are based on spells as described in Chapter 7. Some potions diverge from this rule, however, and cover areas that are beyond the strength of spells, such as providing rest. Often times, such potions have their own prices instead of conforming to the Item Creation Complexity and Cost Table on Chapter 7.
 
-The DCs described under each potion are the default, but any creature with the Alchemy ability can increase the DC to be equal to their potion DCs. 
+The DCs described under each potion are the default, but any creature with the Alchemy ability can increase the DC to be equal to their potion DCs.
 
 | Name | Rarity | Effect |
 |:-|:-|:-|
-| Acid Neutralizer | Common | Reduce acid damage by 1d6 + 3 once/round | 
-| Antiodor | Common | Suppresses odor and scent | 
-| Antitoxin (or antiplague) | Common | Advantage vs. poisons (or plagues) | 
-| Crackle Powder | Common | When stepped on, creates loud crack | 
-| Crystallized Air | Uncommon | Provides 1 hour of breathable air | 
-| Dark Light Powder | Common | Seen only with darkvision | 
+| Acid Neutralizer | Common | Reduce acid damage by 1d6 + 3 once/round |
+| Antiodor | Common | Suppresses odor and scent |
+| Antitoxin (or antiplague) | Common | Advantage vs. poisons (or plagues) |
+| Crackle Powder | Common | When stepped on, creates loud crack |
+| Crystallized Air | Uncommon | Provides 1 hour of breathable air |
+| Dark Light Powder | Common | Seen only with darkvision |
 
 | | | |
 |:-|:-|:-|
 | Defoliant | Common | Destroys plant life and weakens plant-type creatures |
-| Flash Powder | Common | Causes blindness, can repeat saving throw 1/round | 
-| Gunpowder | Uncommon (12 gp) | Fuel for explosives, can burn for 1d6/pound | 
-| Holy Water | Common | Deals 2d6 points of holy damage to fiends and undead | 
-| Mana Potion | Varies | Restores mana points as if you rested | 
-| Phlogiston | Uncommon (10 gp) | Fuel for combustion engines, provides more charges | 
-| Rest, Potion of | Rare | Provides an hour’s worth of rest and relaxation | 
-| Rest, Potion of Greater | Legendary | Provides a full long rest worth of rest and relaxation | 
-| Youth, Potion | Varies | Can reduce (or increase) current age | 
+| Flash Powder | Common | Causes blindness, can repeat saving throw 1/round |
+| Gunpowder | Uncommon (12 gp) | Fuel for explosives, can burn for 1d6/pound |
+| Holy Water | Common | Deals 2d6 points of holy damage to fiends and undead |
+| Mana Potion | Varies | Restores mana points as if you rested |
+| Phlogiston | Uncommon (10 gp) | Fuel for combustion engines, provides more charges |
+| Rest, Potion of | Rare | Provides an hour’s worth of rest and relaxation |
+| Rest, Potion of Greater | Legendary | Provides a full long rest worth of rest and relaxation |
+| Youth, Potion | Varies | Can reduce (or increase) current age |
 
 </div>
 
 ##### Acid Neutralizer
-This lotion can treat an object or a creature. When subject to acid damage, the creature reduces the damage by a number equal to 1d6 + 3 points. This applies once per round. The acid neutralizer remains until 1 hour passes per dose applied. 
+This lotion can treat an object or a creature. When subject to acid damage, the creature reduces the damage by a number equal to 1d6 + 3 points. This applies once per round. The acid neutralizer remains until 1 hour passes per dose applied.
 
-##### Antiodor 
-This lotion can treat an object or a creature. When treated, the target’s odor is muffled and neutralized. The creature does not have a normal scent until the lotion fades after 1 hour, or after the creature gains (or excretes) a scent (such as if sweating after running or touching a perfumed object). 
+##### Antiodor
+This lotion can treat an object or a creature. When treated, the target’s odor is muffled and neutralized. The creature does not have a normal scent until the lotion fades after 1 hour, or after the creature gains (or excretes) a scent (such as if sweating after running or touching a perfumed object).
 
-This lotion is often employed by rogues who anticipate opposition against creatures with strong olfactory senses, such as bloodhounds or wolves. 
+This lotion is often employed by rogues who anticipate opposition against creatures with strong olfactory senses, such as bloodhounds or wolves.
 
 ##### Antitoxin (or Antiplague)
-This vial of antitoxin gives the imbiber advantage to any saving throw against poison for 1 hour. It confers no benefit to undead or constructs. 
+This vial of antitoxin gives the imbiber advantage to any saving throw against poison for 1 hour. It confers no benefit to undead or constructs.
 
 Some antitoxins only function against plagues. These are known as antiplagues instead, but provide the same benefit.
 
 ##### Crackle Powder
-This alchemical powder creates a loud crackling noise, like a snapping branch, whenever it is jostled or struck. A dose of the powder covers a 10-foot-radius area with an action, and imposes disadvantage on Agility (Stealth) checks. 
+This alchemical powder creates a loud crackling noise, like a snapping branch, whenever it is jostled or struck. A dose of the powder covers a 10-foot-radius area with an action, and imposes disadvantage on Agility (Stealth) checks.
 
 The powder remains active for 4 hours.
 
 ##### Crystallized Air
-This alchemical item crystallizes breathable air. When consumed, the potion grants 1 hours’ worth of breath in one dosage. Crystallized air is waterproof if unused, but spoils when the creature otherwise opens their mouth or allows new air entry into the body (such as by breathing normally or talking). 
+This alchemical item crystallizes breathable air. When consumed, the potion grants 1 hours’ worth of breath in one dosage. Crystallized air is waterproof if unused, but spoils when the creature otherwise opens their mouth or allows new air entry into the body (such as by breathing normally or talking).
 
 \pagebreakNum
 
 ##### Dark Light Powder
-The gray powder has no special quality when seen in normal light, but glows brightly when viewed in darkvision, despite the surrounding light level. 
+The gray powder has no special quality when seen in normal light, but glows brightly when viewed in darkvision, despite the surrounding light level.
 
 Each dose contains enough powder for a reasonably lengthy sentence or a moderately-large drawing.
 
 ##### Defoliant
-This vile liquid has a muddy brown hue and smells of rotten plant life. Contained in one potion flask is enough defoliant to remove plant life from one 5-foot square. 
+This vile liquid has a muddy brown hue and smells of rotten plant life. Contained in one potion flask is enough defoliant to remove plant life from one 5-foot square.
 
-Light vegetation (anything but trees) dies within 1 hour of exposure, leaving behind scarred and sterile soil (as if blighted). 
+Light vegetation (anything but trees) dies within 1 hour of exposure, leaving behind scarred and sterile soil (as if blighted).
 
 Medium vegetation (anything but massive trees) dies in 2 hours and can be cleared at a rate of 1 hour per 5-foot square.
 
 Large vegetation (including trees) can usually survive a single dose of defoliant, but the dose scars a 5-foot portion of the tree. If it can scar one-half the tree, the tree rots from within and dies.
 
-If targeting a plant creature, this potion harms them, reducing the plant creature’s maximum hit points by 1d4 + 1, halved on a successful Stamina saving throw. This can stack for each application. 
+If targeting a plant creature, this potion harms them, reducing the plant creature’s maximum hit points by 1d4 + 1, halved on a successful Stamina saving throw. This can stack for each application.
 
-An area affected by defoliant can be cleared by a creature proficient in Alchemist’s Supplies or an Herbalist’s Kit. It takes 10 minutes to clear a 5-foot square of defoliant. 
+An area affected by defoliant can be cleared by a creature proficient in Alchemist’s Supplies or an Herbalist’s Kit. It takes 10 minutes to clear a 5-foot square of defoliant.
 
 ##### Flash Powder
-This pinch of powder is a mixture of proto-gunpowder and alchemical flares. It can be thrown at a range of 30/60 ft. Creatures 5 feet away from the point of impact are blinded on a failed Agility saving throw against a DC of 10. If thrown further than 30 feet, creatures have advantage to the saving throw. A creature can repeat the saving throw at the end of its turn every round. 
+This pinch of powder is a mixture of proto-gunpowder and alchemical flares. It can be thrown at a range of 30/60 ft. Creatures 5 feet away from the point of impact are blinded on a failed Agility saving throw against a DC of 10. If thrown further than 30 feet, creatures have advantage to the saving throw. A creature can repeat the saving throw at the end of its turn every round.
 
 Alchemists, rogues, and hunters often use this cheap product as a distraction to hide or for a quick combat advantage if they have the Flash Bomber talent.
 
 Unlike most potions, flash powder also counts as an explosive, and can be crafted by those proficient with Engineer’s Tools, and can’t be consumed by an alchemical engine.
 
 ##### Gunpowder (12 gp)
-This potent combustible powder is the fuel for most firearms and explosives, and some combustion engines. Unlike most uncommon alchemical products, gunpowder costs 12 gp per pound in most stores, and costs 6 gp to craft if not a specialist. 
+This potent combustible powder is the fuel for most firearms and explosives, and some combustion engines. Unlike most uncommon alchemical products, gunpowder costs 12 gp per pound in most stores, and costs 6 gp to craft if not a specialist.
 
-When set aflame gunpowder combusts and deals 1d6 fire damage to each creature in 10 feet per 1 pound of mass (up to 10d6 points of fire damage). Setting an ounce of gunpowder causes it to burn brightly, shedding bright light in 30 feet for 1 round, and dim light in the same radius for another round, before extinguishing. A creature in the area of effect can attempt a DC 10 Agility saving throw to half the damage taken. 
+When set aflame gunpowder combusts and deals 1d6 fire damage to each creature in 10 feet per 1 pound of mass (up to 10d6 points of fire damage). Setting an ounce of gunpowder causes it to burn brightly, shedding bright light in 30 feet for 1 round, and dim light in the same radius for another round, before extinguishing. A creature in the area of effect can attempt a DC 10 Agility saving throw to half the damage taken.
 
-If set aflame in a container, gunpowder instead deals the damage in concussive damage, and its radius increases by 10 feet for every pound of mass. 
+If set aflame in a container, gunpowder instead deals the damage in concussive damage, and its radius increases by 10 feet for every pound of mass.
 
 Unlike most potions, gunpowder also counts as an explosive, and can be crafted by those proficient with Engineer’s Tools, and can’t be consumed by an alchemical engine.
 
 ##### Holy Water
-As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon or as a potion (if you are proficient in alchemy). If the target is a fiend or undead, it takes 2d6 points of holy damage, or takes disadvantage to their next saving throw within 1 hour (your choice). 
+As an action, you can splash the contents of this flask onto a creature within 5 feet of you or throw it up to 20 feet, shattering it on impact. In either case, make a ranged attack against a target creature, treating the holy water as an improvised weapon or as a potion (if you are proficient in alchemy). If the target is a fiend or undead, it takes 2d6 points of holy damage, or takes disadvantage to their next saving throw within 1 hour (your choice).
 
-Holy water can also free corpses from the Scourge’s taint or the Undead Plague if a flask is spent on a creature, preventing it from being reanimated, a discovery made by priestesses of Elune. 
+Holy water can also free corpses from the Scourge’s taint or the Undead Plague if a flask is spent on a creature, preventing it from being reanimated, a discovery made by priestesses of Elune.
 
-A priest, paladin, or shaman may create holy water (or elemental water if a shaman) without using alchemy by performing a special ritual. 
+A priest, paladin, or shaman may create holy water (or elemental water if a shaman) without using alchemy by performing a special ritual.
 
-The ritual takes costs the same in time and materials as a potion (in powdered silver or herbs) and requires the caster to spend mana equal to a 1st level spell. 
+The ritual takes costs the same in time and materials as a potion (in powdered silver or herbs) and requires the caster to spend mana equal to a 1st level spell.
 
 ##### Mana Potion
-By imbibing this blue potion, a spellcaster’s mental fog is cleared as their mind is flooded with a torrent of raw power. By drinking a mana potion, the character regains mana points. 
-* **Minor (Uncommon).** You regain mana as if you rested for 1 hour. 
-* **Moderate (Rare).** You regain mana as if you rested for 2 hours. 
+By imbibing this blue potion, a spellcaster’s mental fog is cleared as their mind is flooded with a torrent of raw power. By drinking a mana potion, the character regains mana points.
+* **Minor (Uncommon).** You regain mana as if you rested for 1 hour.
+* **Moderate (Rare).** You regain mana as if you rested for 2 hours.
 * **Greater (Legendary).** You regain mana as if you rested for 3 hours.
 ___
-Mana potions are specifically exempt from the mana restoration limit of 1 per hour, but still run the risk of miscibility if used in succession. 
+Mana potions are specifically exempt from the mana restoration limit of 1 per hour, but still run the risk of miscibility if used in succession.
 
 Side effects may include dry mouth, nausea, vomiting, water retention, painful rectal itch, hallucination, dementia, psychosis, coma, death, and halitosis. Magic is not for everyone. Consult your doctor before.
 
 ##### Phlogiston (10 gp)
-This unusually potent combustible is perfect fuel for most combustion engines. 
+This unusually potent combustible is perfect fuel for most combustion engines.
 
 Unlike most uncommon alchemical products, phlogiston costs 10 gp in fire-based and oily materials in most stores, and costs 5 gp to craft.
 
@@ -13142,18 +13142,18 @@ When you drink this potion, your physical age is reduced by 2d10% in years. You 
 
 When created, the potion of youth can be instead a potion of aging, in which case it increases your physical age instead of decreasing it. If the physical age is increased beyond your maximum age, you die of old age. Whenever this potion is used, there is a cumulative 10% chance that the potion inverts the intended result.
 
-For instance, an aging wizard that used 3 potions of youth (for 30% chance to invert) could consume another potion of youth but increase their age by 2d10% years. 
+For instance, an aging wizard that used 3 potions of youth (for 30% chance to invert) could consume another potion of youth but increase their age by 2d10% years.
 
 The potion’s strength is affected by its rarity
 
 | Rarity  | Age |
 |:-:|:-:|
-| Rare | 1d10% | 
-| Epic | 2d10% | 
-| Legendary	| 3d10% | 
-| Artifact*	| 100% (at any point desired) | 
+| Rare | 1d10% |
+| Epic | 2d10% |
+| Legendary	| 3d10% |
+| Artifact*	| 100% (at any point desired) |
 
-If an artifact, an inversion causes instant death of old age. 
+If an artifact, an inversion causes instant death of old age.
 
 \pagebreakNum
 
@@ -13167,41 +13167,41 @@ Engineering devices are described in full detail in Chapter 7 under Engineer’s
 <a id="engineeringcreatures"></a>
 
 #### Creatures
-With engineering, one can create battle-suits, mechanical guardians, and other creatures for attack or defense. 
+With engineering, one can create battle-suits, mechanical guardians, and other creatures for attack or defense.
 
 For more details on creatures and their rules, refer to Chapter 7 under Engineer’s Tools.
 
 | Creature | Rarity | Challenge | Properties |
 |:-|:-|:-:|:-|
-| Battle Chicken | Rare | 4 | Engine (mechanical) | 
-| Blade Barrel | Common | 1/4 | Engine (combustion) | 
-| Clockwork Goblin | Common | 1/2 | Engine (mechanical) | 
-| Clockwork Pest | Common | 1/4 | Engine (mechanical) | 
-| Combat Armor, Gnomish | Uncommon | 1 | Engine (steam) | 
-| Combat Armor, Gnomish Mk 2 | Rare | 4 | Engine (steam) | 
-| Crowd Pummeler 9-60 | Rare | 4 | Engine (mana) | 
-| Crowd Disruptor 5000 | Legendary | 7 | Engine (mana) | 
-| Explosive Sheep | Common | 1/4 | Engine (combustion) | 
-| Gyrocopter, Dwarven | Uncommon | 1 | Engine (combustion) | 
-| Gyrocopter, Grand Alliance | Rare | 4 | Engine (combustion) | 
-| Harvest Golem Watcher | Uncommon | 2 | Engine (mechanical), golem (optional) | 
-| Harvest Golem Reaper | Epic | 5 | Engine (mechanical), golem (optional) | 
-| Meat Wagon | Uncommon | 2 | Engine (soul) | 
-| Mechanostrider | Common | 1/4 | Engine (steam) | 
-| Nightborne Construct | Legendary | 8 | Engine (mana) | 
-| Night Elf Glaive Thrower | Uncommon | 3 | Engine (mechanical) | 
-| Orc Demolisher | Uncommon | 3 | Engine (mechanical) | 
-| Shredder | Uncommon | 2 | Engine (steam) | 
-| Siege Engine, Dwarven | Rare | 4 | Engine (combustion) | 
-| Siege Engine, Grand Alliance | Legendary | 8 | Engine (combustion) | 
-| Submarine, Dwarven | Uncommon | 1 | Engine (combustion) | 
-| Submarine, Grand Alliance | Rare | 4 | Engine (combustion) | 
-| Super-Shredder | Epic | 6 | Engine (steam) | 
-| Rip Tire | Common | 1/4 | Engine (combustion) | 
-| Turbo-Trike | Common | 1/2 | Engine (combustion) | 
-| Turret, Gnomish | Common | 1/4 | Engine (combustion) | 
-| Turret, Automated Flame | Uncommon | 2 | Engine (combustion) | 
-| Warframe Battlesuit | Rare | 3 | Engine (mana) | 
+| Battle Chicken | Rare | 4 | Engine (mechanical) |
+| Blade Barrel | Common | 1/4 | Engine (combustion) |
+| Clockwork Goblin | Common | 1/2 | Engine (mechanical) |
+| Clockwork Pest | Common | 1/4 | Engine (mechanical) |
+| Combat Armor, Gnomish | Uncommon | 1 | Engine (steam) |
+| Combat Armor, Gnomish Mk 2 | Rare | 4 | Engine (steam) |
+| Crowd Pummeler 9-60 | Rare | 4 | Engine (mana) |
+| Crowd Disruptor 5000 | Legendary | 7 | Engine (mana) |
+| Explosive Sheep | Common | 1/4 | Engine (combustion) |
+| Gyrocopter, Dwarven | Uncommon | 1 | Engine (combustion) |
+| Gyrocopter, Grand Alliance | Rare | 4 | Engine (combustion) |
+| Harvest Golem Watcher | Uncommon | 2 | Engine (mechanical), golem (optional) |
+| Harvest Golem Reaper | Epic | 5 | Engine (mechanical), golem (optional) |
+| Meat Wagon | Uncommon | 2 | Engine (soul) |
+| Mechanostrider | Common | 1/4 | Engine (steam) |
+| Nightborne Construct | Legendary | 8 | Engine (mana) |
+| Night Elf Glaive Thrower | Uncommon | 3 | Engine (mechanical) |
+| Orc Demolisher | Uncommon | 3 | Engine (mechanical) |
+| Shredder | Uncommon | 2 | Engine (steam) |
+| Siege Engine, Dwarven | Rare | 4 | Engine (combustion) |
+| Siege Engine, Grand Alliance | Legendary | 8 | Engine (combustion) |
+| Submarine, Dwarven | Uncommon | 1 | Engine (combustion) |
+| Submarine, Grand Alliance | Rare | 4 | Engine (combustion) |
+| Super-Shredder | Epic | 6 | Engine (steam) |
+| Rip Tire | Common | 1/4 | Engine (combustion) |
+| Turbo-Trike | Common | 1/2 | Engine (combustion) |
+| Turret, Gnomish | Common | 1/4 | Engine (combustion) |
+| Turret, Automated Flame | Uncommon | 2 | Engine (combustion) |
+| Warframe Battlesuit | Rare | 3 | Engine (mana) |
 | Warframe Titan | Epic | 6 | Engine (mana) |
 
 </div>
@@ -13225,38 +13225,38 @@ Stores sell bombs, mines, and rockets as if the designer’s Intelligence modifi
 
 | Name | Rarity | Damage | Properties |
 |:-|:-|:-:|:-|
-| Bomb, Arcane<sup>M</sup> | Legendary | 5d6 | 5 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (mana burn), weakened (4) | 
-| Bomb, Big One | Artifact | 11d6 | 6 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) | 
-| Bomb, Big Daddy | Legendary | 7d6 | 5 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) | 
-| Bomb, Big Iron | Uncommon | 5d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere | 
-| Bomb, Cobalt | Rare | 7d6 | 3 lb., bomb, thrown (range 30/60), 10’ sphere | 
-| Bomb, Fire | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fire bolt spell), weakened | 
-| Bomb, Flash | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (vicious mockery spell), weakened | 
-| Bomb, F.R.I.E.D | Artifact | 7d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fireball spell), weakened (6) | 
-| Bomb, Iron | Common | 3d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere | 
-| Bomb, Shock | Rare | 6d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (shocking grasp spell), weakened | 
-| Bomb, Smoke | Uncommon | 5d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fog cloud spell), weakened | 
-| Bomb, Stun | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (thunderwave spell), weakened | 
-| Grenade, Adamantine | Epic | 8d6 | 4 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened | 
-| Grenade, Hand | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened | 
-| Grenade, Heavy | Uncommon | 4d6 | 2 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened | 
-| Grenade, Plague Spreader | Rare | 4d6 | 3 lb., bomb, 10’ sphere, special effect (poison spray spell, level 5; 2d12 poison damage), weakened (3) | 
-| Mortar Shell | Common | 3d8 | 4 lb., enlarged bomb, thrown (range 30/60), 20’ sphere, widened (large) | 
+| Bomb, Arcane<sup>M</sup> | Legendary | 5d6 | 5 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (mana burn), weakened (4) |
+| Bomb, Big One | Artifact | 11d6 | 6 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) |
+| Bomb, Big Daddy | Legendary | 7d6 | 5 lb., bomb, thrown (range 30/60), 30’ sphere, widened x2, weakened (2) |
+| Bomb, Big Iron | Uncommon | 5d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere |
+| Bomb, Cobalt | Rare | 7d6 | 3 lb., bomb, thrown (range 30/60), 10’ sphere |
+| Bomb, Fire | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fire bolt spell), weakened |
+| Bomb, Flash | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (vicious mockery spell), weakened |
+| Bomb, F.R.I.E.D | Artifact | 7d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fireball spell), weakened (6) |
+| Bomb, Iron | Common | 3d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere |
+| Bomb, Shock | Rare | 6d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (shocking grasp spell), weakened |
+| Bomb, Smoke | Uncommon | 5d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (fog cloud spell), weakened |
+| Bomb, Stun | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 10’ sphere, special effect (thunderwave spell), weakened |
+| Grenade, Adamantine | Epic | 8d6 | 4 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened |
+| Grenade, Hand | Common | 2d6 | 2 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened |
+| Grenade, Heavy | Uncommon | 4d6 | 2 lb., bomb, thrown (range 30/60), 20’ sphere, widened, weakened |
+| Grenade, Plague Spreader | Rare | 4d6 | 3 lb., bomb, 10’ sphere, special effect (poison spray spell, level 5; 2d12 poison damage), weakened (3) |
+| Mortar Shell | Common | 3d8 | 4 lb., enlarged bomb, thrown (range 30/60), 20’ sphere, widened (large) |
 
 #### Mines
 
 | Name | Rarity | Damage | Properties |
 |:-|:-|:-:|:-|
-| Mine, Arcane<sup>M</sup> | Rare | 6d6 | 3 lb., mine, 10’ sphere, special effect (arcane damage), weakened | 
-| Mine, Blasting | Uncommon | 3d6 | 2 lb., mine, 10’ sphere, special effect (thunderwave spell), weakened (2) | 
-| Mine, Breach Charge | Common | 3d6 | 2 lb., mine, 5’ sphere, focused, reliable device (MR 0) | 
-| Mine, Dazing | Uncommon | 4d6 | 2 lb., mine, 10’ sphere, firework, weakened | 
-| Mine, Fel Iron | Epic | 8d6 | 4 lb., mine, 10’ sphere, reliable device (MR 1-2), weakened | 
+| Mine, Arcane<sup>M</sup> | Rare | 6d6 | 3 lb., mine, 10’ sphere, special effect (arcane damage), weakened |
+| Mine, Blasting | Uncommon | 3d6 | 2 lb., mine, 10’ sphere, special effect (thunderwave spell), weakened (2) |
+| Mine, Breach Charge | Common | 3d6 | 2 lb., mine, 5’ sphere, focused, reliable device (MR 0) |
+| Mine, Dazing | Uncommon | 4d6 | 2 lb., mine, 10’ sphere, firework, weakened |
+| Mine, Fel Iron | Epic | 8d6 | 4 lb., mine, 10’ sphere, reliable device (MR 1-2), weakened |
 | Mine, Goblin Land | Rare | 7d6 | 3 lb., mine, 20’ sphere, unreliable device (MR 1-5), widened |  
-| Mine, Iron | Common | 3d6 | 2 lb., mine, 10’ sphere | 
-| Mine, Sapper | Rare | 5d6 | 3 lb., mine, 10’ sphere, sapper, reliable device (MR 1), weakened | 
-| Mine, Sapper Charge 2,000 | Legendary | 10d6 | 5 lb., mine, 10’ sphere, sapper, reliable device (MR 1-2), weakened | 
-| Mine, Sea | Rare | 7d6 | 3 lb., mine, 10’ sphere, sapper, water (only) | 
+| Mine, Iron | Common | 3d6 | 2 lb., mine, 10’ sphere |
+| Mine, Sapper | Rare | 5d6 | 3 lb., mine, 10’ sphere, sapper, reliable device (MR 1), weakened |
+| Mine, Sapper Charge 2,000 | Legendary | 10d6 | 5 lb., mine, 10’ sphere, sapper, reliable device (MR 1-2), weakened |
+| Mine, Sea | Rare | 7d6 | 3 lb., mine, 10’ sphere, sapper, water (only) |
 
 </div>
 
@@ -13268,17 +13268,17 @@ Stores sell bombs, mines, and rockets as if the designer’s Intelligence modifi
 
 | Name | Rarity | Damage | Properties |
 |:-|:-|:-:|:-|
-| Land Shark | Rare | 7d6 | 4 lb., rocket (range 60/120), 10’ sphere, earth (only) | 
-| Rocket, Iron | Common | 3d6 | 2 lb., rocket (range 60/120), 10’ sphere | 
-| Rocket, Dark Iron | Uncommon | 5d6 | 2 lb., rocket (range 60/120), 10’ sphere | 
-| Rocket, Mecha-Blast | Epic | 9d6 | 4 lb., rocket (range 60/120), 10’ sphere | 
-| Rocket, Fel Iron | Rare | 7d6 | 3 lb., rocket (range 60/120), 10’ sphere | 
-| Rocket, Fire | Common | 4d6 | 2 lb., rocket, 10’ sphere, firework, weakened | 
-| Rocket, Grand | Legendary | 10d6 | 5 lb., rocket (range 60/120), 10’ sphere, reliable device (MR 1-3), weakened | 
-| Rocket, Siege | Epic | 9d8 | 10 lb., enlarged rocket, 20’ sphere, sapper, widened (large) | 
-| Rocket, Torpedo | Rare | 7d6 | 4 lb., rocket (range 60/120), 10’ sphere, water (only) | 
+| Land Shark | Rare | 7d6 | 4 lb., rocket (range 60/120), 10’ sphere, earth (only) |
+| Rocket, Iron | Common | 3d6 | 2 lb., rocket (range 60/120), 10’ sphere |
+| Rocket, Dark Iron | Uncommon | 5d6 | 2 lb., rocket (range 60/120), 10’ sphere |
+| Rocket, Mecha-Blast | Epic | 9d6 | 4 lb., rocket (range 60/120), 10’ sphere |
+| Rocket, Fel Iron | Rare | 7d6 | 3 lb., rocket (range 60/120), 10’ sphere |
+| Rocket, Fire | Common | 4d6 | 2 lb., rocket, 10’ sphere, firework, weakened |
+| Rocket, Grand | Legendary | 10d6 | 5 lb., rocket (range 60/120), 10’ sphere, reliable device (MR 1-3), weakened |
+| Rocket, Siege | Epic | 9d8 | 10 lb., enlarged rocket, 20’ sphere, sapper, widened (large) |
+| Rocket, Torpedo | Rare | 7d6 | 4 lb., rocket (range 60/120), 10’ sphere, water (only) |
 ___
-M These explosives use mana engines. 
+M These explosives use mana engines.
 
 </div>
 
@@ -13399,10 +13399,10 @@ TODO
 #### Firearms and Crossbows
 All firearms use combustion engines, while all crossbows use mechanical engines. Due to the properties of both weapons, adding fuel (or reloading) follows simpler mechanisms; firearms need 2 ounces of gunpowder regardless of rarity for every shot, and crossbows require 1 action to reload.
 
-Special modifications and size increases alter actions reloaded. 
+Special modifications and size increases alter actions reloaded.
 
-Firearms and crossbows with special fuel sources are marked with asterisk (*). 
-For more details on firearms and modified crossbows, and their rules, refer to Chapter 7 under Engineer’s Tools. 
+Firearms and crossbows with special fuel sources are marked with asterisk (*).
+For more details on firearms and modified crossbows, and their rules, refer to Chapter 7 under Engineer’s Tools.
 
 </div>
 
@@ -13410,32 +13410,32 @@ For more details on firearms and modified crossbows, and their rules, refer to C
 
 | Name | Rarity | Damage/Capacity | Properties |
 |:-|:-|:-:|:-|
-| Blunderbuss, Long Muzzle | Uncommon | 3d8/2 | 15 lb., heavy, two-handed (range 200/800) | 
-| Blunderbuss, Scattershot | Uncommon | 2d8/2 | 15 lb., heavy, two-handed (range 200/800), scattershot 20 ft., weakened | 
-| Boomstick | Common | 2d6/2 | 10 lb., medium (range 150/600) | 
-| Cannon, Hand | Epic | 4d6/4 | 10 lb., medium (range 75/300), blaster, sniper, weakened | 
-| Cannon, Field | Legendary | 11d6/1 | 225 lb., heavy++ (range 800/3,200), reload (5 actions), sniper, weakened | 
-| Cannon, Siege | Rare | 8d6/1 | 225 lb., heavy++ (range 400/1,600), sapper, reload (5 actions) | 
-| Captain’s Diplomacy | Rare | 4d8/3 | 15 lb., heavy, two-handed (range 50/200), blaster | 
-| Crossbow, Auto | Uncommon | 1d10/4 | 18 lb., heavy, two-handed (range 100/400), capacity increase, weakened | 
-| Crossbow, Air | Common | 1d8/1 | 5 lb., medium, two-handed (range 40/160), shortened, silencer | 
-| Crossbow, Great Ballista | Rare | 6d6/2 | 90 lb., heavy+ (150/600), reload (2 actions) | 
-| Crossbow, Bloodseeker | Epic | 4d8/3 | 7 lb., medium, two-handed (range 80/320), bayonet (shortsword) | 
+| Blunderbuss, Long Muzzle | Uncommon | 3d8/2 | 15 lb., heavy, two-handed (range 200/800) |
+| Blunderbuss, Scattershot | Uncommon | 2d8/2 | 15 lb., heavy, two-handed (range 200/800), scattershot 20 ft., weakened |
+| Boomstick | Common | 2d6/2 | 10 lb., medium (range 150/600) |
+| Cannon, Hand | Epic | 4d6/4 | 10 lb., medium (range 75/300), blaster, sniper, weakened |
+| Cannon, Field | Legendary | 11d6/1 | 225 lb., heavy++ (range 800/3,200), reload (5 actions), sniper, weakened |
+| Cannon, Siege | Rare | 8d6/1 | 225 lb., heavy++ (range 400/1,600), sapper, reload (5 actions) |
+| Captain’s Diplomacy | Rare | 4d8/3 | 15 lb., heavy, two-handed (range 50/200), blaster |
+| Crossbow, Auto | Uncommon | 1d10/4 | 18 lb., heavy, two-handed (range 100/400), capacity increase, weakened |
+| Crossbow, Air | Common | 1d8/1 | 5 lb., medium, two-handed (range 40/160), shortened, silencer |
+| Crossbow, Great Ballista | Rare | 6d6/2 | 90 lb., heavy+ (150/600), reload (2 actions) |
+| Crossbow, Bloodseeker | Epic | 4d8/3 | 7 lb., medium, two-handed (range 80/320), bayonet (shortsword) |
 | Crossbow, Exorcist’s | Uncommon | 1d6/4 | 3 lb., light (range 30/120), capacity increase, weakened |
-| Crossbow, Fal’inrush | Epic | 3d6/3 | 4 lb., light (range 60/240), bayonet (dagger), sniper, weakened | 
-| Crossbow, Hand of Argus | Uncommon | 1d10/1 | 5 lb., heavy, two-handed (range 25/100), blaster | 
-| Crossbow, Legionkiller | Legendary | 5d10/4 | 18 lb., heavy, two-handed (range 100/400) | 
-| Crossbow, Stone Shatterer | Rare | 3d6/2 | 3 lb., light (range 60/240), extended reload (2 actions), sniper | 
-| Crossbow, Throat Needler | Rare | 3d8/5 | 5 lb., medium, two-handed (range 80/320), capacity increase, extended reload (2 actions) | 
+| Crossbow, Fal’inrush | Epic | 3d6/3 | 4 lb., light (range 60/240), bayonet (dagger), sniper, weakened |
+| Crossbow, Hand of Argus | Uncommon | 1d10/1 | 5 lb., heavy, two-handed (range 25/100), blaster |
+| Crossbow, Legionkiller | Legendary | 5d10/4 | 18 lb., heavy, two-handed (range 100/400) |
+| Crossbow, Stone Shatterer | Rare | 3d6/2 | 3 lb., light (range 60/240), extended reload (2 actions), sniper |
+| Crossbow, Throat Needler | Rare | 3d8/5 | 5 lb., medium, two-handed (range 80/320), capacity increase, extended reload (2 actions) |
 | Giant’s Bane | Legendary | 6d8/5 | 15 lb., heavy, two-handed (range 200/800) |
-| Grapeshotter | Legendary | 6d8/5 | 17 lb., heavy, two-handed (range 200/800), bayonet (warhammer) | 
-| Minigun | Epic | 4d10/6 | 90 lb., heavy+ (range 200/800), automatic 100 ft., capacity increase, reload (3 actions), shortened, weakened | 
-| Musket, Anvilmar | Common | 2d6/5 | 10 lb., medium (range 75/300), capacity increase, shortened | 
-| Musket, Farwatch | Uncommon | 3d6/5 | 10 lb., medium (range 75/300), capacity increase, shortened | 
-| Musket, Fel Iron | Epic | 4d6/7 | 10 lb., medium (range 75/300), capacity increase, shortened | 
-| Nesingwary Double Barrel | Legendary | 6d8/2 | 15 lb., heavy, two-handed (range 50/200), blaster, capacity reduce, silencer | 
-| Rifle, Assault | Rare | 3d8/6 | 15 lb., heavy, two-handed (range 200/800), capacity increase, weakened | 
-| Rifle, Dark Iron | Uncommon | 2d8/5 | 15 lb., heavy, two-handed (range 200/800), capacity increase, weakened | 
+| Grapeshotter | Legendary | 6d8/5 | 17 lb., heavy, two-handed (range 200/800), bayonet (warhammer) |
+| Minigun | Epic | 4d10/6 | 90 lb., heavy+ (range 200/800), automatic 100 ft., capacity increase, reload (3 actions), shortened, weakened |
+| Musket, Anvilmar | Common | 2d6/5 | 10 lb., medium (range 75/300), capacity increase, shortened |
+| Musket, Farwatch | Uncommon | 3d6/5 | 10 lb., medium (range 75/300), capacity increase, shortened |
+| Musket, Fel Iron | Epic | 4d6/7 | 10 lb., medium (range 75/300), capacity increase, shortened |
+| Nesingwary Double Barrel | Legendary | 6d8/2 | 15 lb., heavy, two-handed (range 50/200), blaster, capacity reduce, silencer |
+| Rifle, Assault | Rare | 3d8/6 | 15 lb., heavy, two-handed (range 200/800), capacity increase, weakened |
+| Rifle, Dark Iron | Uncommon | 2d8/5 | 15 lb., heavy, two-handed (range 200/800), capacity increase, weakened |
 
 </div>
 
@@ -13445,37 +13445,37 @@ For more details on firearms and modified crossbows, and their rules, refer to C
 
 | Name | Rarity | Damage/Capacity | Properties |
 |:-|:-|:-:|:-|
-| Rifle, Deadshot | Legendary | 5d8/5 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-3), weakened | 
-| Rifle, Crystalshot | Epic | 4d8/4 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-2), weakened | 
-| Rifle, Hunting | Common | 1d8/2 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 0), weakened | 
-| Rifle, Long | Epic | 5d8/1 | 15 lb., heavy, two-handed (range 400/1,600), capacity reduce, sniper | 
-| Rifle, Sniper | Legendary | 6d8/2 | 15 lb., heavy, two-handed (range 400/1,600), capacity reduce, extended reload (2 actions), sniper, silenced | 
-| Pistol, Arcanite1 | Epic | 5d4/4 | 5 lb., light (range 100/400) | 
-| Pistol, Flintlock | Common | 2d4/2 | 5 lb., light (range 100/400) | 
-| Pistol, Iron | Common | 2d4/2 | 5 lb., light (range 50/200), reliable device (MR 0), shortened | 
-| Pistol, Pirate’s | Uncommon | 3d4/2 | 5 lb., light (range 100/400) | 
-| Pistol, Snub Revolver | Rare | 3d4/6 | 5 lb., light (range 50/200), capacity increase, reliable device (MR 1), shortened, weakened | 
-| Ship, Naaru Cannon<sup>M</sup> | Rare | 8d6/1 | 225 lb., heavy++ (range 400/1,600), reload (5 actions) | 
-| Ship, Swivel Cannon | Uncommon | 6d6/2 | 90 lb., heavy+ (range 300/1,200), reload (2 actions) | 
-| Shotgun, Combat | Epic | 5d6/4 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ | 
-| Shotgun, Warden’s | Rare | 4d6/3 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ | 
-| Shotgun, Zombie | Uncommon | 3d6/2 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ | 
-| Titanstrike | Artifact | 6d8/6 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-4), weakened | 
+| Rifle, Deadshot | Legendary | 5d8/5 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-3), weakened |
+| Rifle, Crystalshot | Epic | 4d8/4 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-2), weakened |
+| Rifle, Hunting | Common | 1d8/2 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 0), weakened |
+| Rifle, Long | Epic | 5d8/1 | 15 lb., heavy, two-handed (range 400/1,600), capacity reduce, sniper |
+| Rifle, Sniper | Legendary | 6d8/2 | 15 lb., heavy, two-handed (range 400/1,600), capacity reduce, extended reload (2 actions), sniper, silenced |
+| Pistol, Arcanite1 | Epic | 5d4/4 | 5 lb., light (range 100/400) |
+| Pistol, Flintlock | Common | 2d4/2 | 5 lb., light (range 100/400) |
+| Pistol, Iron | Common | 2d4/2 | 5 lb., light (range 50/200), reliable device (MR 0), shortened |
+| Pistol, Pirate’s | Uncommon | 3d4/2 | 5 lb., light (range 100/400) |
+| Pistol, Snub Revolver | Rare | 3d4/6 | 5 lb., light (range 50/200), capacity increase, reliable device (MR 1), shortened, weakened |
+| Ship, Naaru Cannon<sup>M</sup> | Rare | 8d6/1 | 225 lb., heavy++ (range 400/1,600), reload (5 actions) |
+| Ship, Swivel Cannon | Uncommon | 6d6/2 | 90 lb., heavy+ (range 300/1,200), reload (2 actions) |
+| Shotgun, Combat | Epic | 5d6/4 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ |
+| Shotgun, Warden’s | Rare | 4d6/3 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ |
+| Shotgun, Zombie | Uncommon | 3d6/2 | 10 lb., medium (range 150/600), blaster, extended reload (2 actions), scattershot 15’ |
+| Titanstrike | Artifact | 6d8/6 | 15 lb., heavy, two-handed (range 200/800), reliable device (MR 1-4), weakened |
 ___
-M These firearms use mana engines. 
+M These firearms use mana engines.
 ___
-Some weapons have a special bayonet type. This costs the same cost as the extra weapon, and adds to the total cost and weight. 
+Some weapons have a special bayonet type. This costs the same cost as the extra weapon, and adds to the total cost and weight.
 
 </div>
 
 ##### Blunderbuss, Long Muzzle
-A heavy and powerful firearm favored by richer dwarves, the long muzzle blunderbuss is a heavy hitter with great history on the battlefield and a revered position in a dwarven household. 
+A heavy and powerful firearm favored by richer dwarves, the long muzzle blunderbuss is a heavy hitter with great history on the battlefield and a revered position in a dwarven household.
 
 ##### Blunderbuss, Scattershot
-An easier-to-use blunderbuss, the scattershot blunderbuss can be altered to shoot a cone of bullets in a 15-foot cone, dealing 2d8 damage, with an Agility save to half. As scattershot blunderbusses do not require attack rolls, they do not require proficiency to use, and can be used while adjacent to an enemy without penalty. 
+An easier-to-use blunderbuss, the scattershot blunderbuss can be altered to shoot a cone of bullets in a 15-foot cone, dealing 2d8 damage, with an Agility save to half. As scattershot blunderbusses do not require attack rolls, they do not require proficiency to use, and can be used while adjacent to an enemy without penalty.
 
 ##### Boomstick
-Known as a favored dwarven weapon, boomsticks are intricately designed with special markings to denote the company, issue date, and a small piece of war advice in dwarven. 
+Known as a favored dwarven weapon, boomsticks are intricately designed with special markings to denote the company, issue date, and a small piece of war advice in dwarven.
 
 \columnbreak
 
@@ -13492,14 +13492,14 @@ This huge-sized piece of artillery can blast through walls like paper (dealing d
 TODO
 
 ##### Crossbow, Auto
-This crossbow acts as a heavy crossbow that deals 1d10 piercing damage. This does not have the loading quality. 
+This crossbow acts as a heavy crossbow that deals 1d10 piercing damage. This does not have the loading quality.
 
 ##### Crossbow, Air
-This crossbow acts as a light crossbow that deals 1d8 piercing damage. It is silent when shot. 
+This crossbow acts as a light crossbow that deals 1d8 piercing damage. It is silent when shot.
 
 \pagebreakNum
 
-Gun, Machine This gun deals 3d8 piercing damage to any number of creatures standing in a 5-foot wide line 30 feet away. This requires an Agility save to half damage. Machine guns do not require training to use. 
+Gun, Machine This gun deals 3d8 piercing damage to any number of creatures standing in a 5-foot wide line 30 feet away. This requires an Agility save to half damage. Machine guns do not require training to use.
 
 ##### Crossbow, Great Ballista
 TODO
@@ -13562,16 +13562,16 @@ TODO
 TODO
 
 ##### Rifle, Long
-Favored of the iconic dwarven sniper, longrifles have great range, great damage, and great practical use. They are however expensive, and difficult to deploy ideally. 
+Favored of the iconic dwarven sniper, longrifles have great range, great damage, and great practical use. They are however expensive, and difficult to deploy ideally.
 
 ##### Rifle, Sniper
-A powerful and long-range precision silenced weapon, the sniper rifle is not touched by those without experience. 
+A powerful and long-range precision silenced weapon, the sniper rifle is not touched by those without experience.
 
 ##### Pistol, Arcanite<sup>1</sup>
 TODO
 
 ##### Pistol, Flintlock
-Known as a good backup weapon, the flintlock pistol does not deal a lot of damage compared to its heavier counterparts, but both can be used easily (as they are light weapons). 
+Known as a good backup weapon, the flintlock pistol does not deal a lot of damage compared to its heavier counterparts, but both can be used easily (as they are light weapons).
 
 ##### Pistol, Iron
 TODO
@@ -13580,7 +13580,7 @@ TODO
 TODO
 
 ##### Pistol, Snub Revolver
-A great backup weapon, the revolver balances good damage with a great ammunition reserve. Very reliable. 
+A great backup weapon, the revolver balances good damage with a great ammunition reserve. Very reliable.
 
 ##### Ship, Naaru Cannon<sup>M</sup>
 TODO
@@ -13602,23 +13602,23 @@ TODO
 <a id="engineeringammunition"></a>
 
 #### Ammunition
-Engineered ammunition is similar to infused ammunition (see Treasures), but follows some differences in rules (See Chapter 7). Below are a number of special engineered ammunition. Ammunition costs as a consumable of the listed rarity. 
+Engineered ammunition is similar to infused ammunition (see Treasures), but follows some differences in rules (See Chapter 7). Below are a number of special engineered ammunition. Ammunition costs as a consumable of the listed rarity.
 
 <div class="classTable wide">
 
 | Ammunition | Rarity | Effect | Properties |
 |:-|:-|:-:|:-|
-| Atomizing Shot | Epic  | Disintegrate (6th) | Ammunition deals extra 10d6 + 40 arcane damage, disintegrating the target if reduced to 0 hit points, as per the disintegrate spell | 
-| Buckshot | Common | Scattershot (+1 EP) | Ammunition is modified with a single-use scattershot modification | 
-| Blasting Shot | Common | Reliable, Siege (+1 EP) | Ammunition deals double damage to objects, half to creatures, and the malfunction rate is reduced by 2 (minimum 0) | 
+| Atomizing Shot | Epic  | Disintegrate (6th) | Ammunition deals extra 10d6 + 40 arcane damage, disintegrating the target if reduced to 0 hit points, as per the disintegrate spell |
+| Buckshot | Common | Scattershot (+1 EP) | Ammunition is modified with a single-use scattershot modification |
+| Blasting Shot | Common | Reliable, Siege (+1 EP) | Ammunition deals double damage to objects, half to creatures, and the malfunction rate is reduced by 2 (minimum 0) |
 | Cursed Bullet | Rare | Bestow Curse (3rd) | Ammunition curses as per the hold spell |  
-| Frost Shot | Common | Frostbolt (cantrip) | Ammunition deals 1d8 extra cold damage, and the target is chilled for 1 round | 
-| Holy Bullet | Uncommon | Guiding Bolt (1st) | Ammunition deals 4d6 extra holy damage, and the next attack against the target has advantage (as per guiding bolt) | 
-| Incendiary Shot | Common | Firebolt (cantrip) | Ammunition deals 1d10 extra fire damage. Objects are set on fire | 
+| Frost Shot | Common | Frostbolt (cantrip) | Ammunition deals 1d8 extra cold damage, and the target is chilled for 1 round |
+| Holy Bullet | Uncommon | Guiding Bolt (1st) | Ammunition deals 4d6 extra holy damage, and the next attack against the target has advantage (as per guiding bolt) |
+| Incendiary Shot | Common | Firebolt (cantrip) | Ammunition deals 1d10 extra fire damage. Objects are set on fire |
 | Paralyzing Shot | Uncommon | Hold (Person) (2nd) | Ammunition paralyzes as per the hold spell |  
-| Razor Shot | Common | Automatic Fire (+1 EP) | Ammunition is modified with a single-use automatic fire modification | 
-| Shock Shell | Common | Shocking Grasp (cantrip) | Ammunition deals 1d8 extra lightning damage. You have advantage to the attack if the target is wearing metal armor | 
-| Water Shot | Common | Water (+1 EP) | Ammunition can be used underwater | 
+| Razor Shot | Common | Automatic Fire (+1 EP) | Ammunition is modified with a single-use automatic fire modification |
+| Shock Shell | Common | Shocking Grasp (cantrip) | Ammunition deals 1d8 extra lightning damage. You have advantage to the attack if the target is wearing metal armor |
+| Water Shot | Common | Water (+1 EP) | Ammunition can be used underwater |
 
 </div>
 
@@ -13660,7 +13660,7 @@ TODO
 <a id="engineeringgadgets"></a>
 
 #### Gadgets
-With gadget technology, a user can replicate the use of several spells. This requires special fuel sources, and follows the rules described in Chapter 7. 
+With gadget technology, a user can replicate the use of several spells. This requires special fuel sources, and follows the rules described in Chapter 7.
 
 For more details on gadgets and their rules, refer to Chapter 7 under Engineer’s Tools.
 
@@ -13668,30 +13668,30 @@ For more details on gadgets and their rules, refer to Chapter 7 under Engineer�
 
 | Name | Rarity | Spell (Spell Level) | Properties |
 |:-|:-|:-:|:-|
-| Acid Gun | Common | Acid Splash (cantrip) | 10 lb., one-handed, medium, engine (alchemical) | 
-| Air Recycler | Uncommon | Water Breathing (4th) | 10 lb., one-handed, medium, engine (alchemical, mana: any, or mechanical) | 
-| Antimagic Ray Gun | Uncommon | Mana Burn (2nd) | 10 lb., one-handed, medium, engine (mana: any, or soul: any spellcaster or mana elementals) | 
-| Antimagic Ray Gun, Improved | Epic | Mana Burn (6th) | 10 lb., one-handed, medium, engine (mana: any, or soul: any spellcaster) | 
-| Army Knife | Common | Prestidigation (cantrip) | 5 lb., one-handed, light, engine (mechanical or steam), size reduced (MF 1, long cooldown) | 
-| Atmospheric Override Box | Legendary | Control Weather (8th) | 15 lb., two-handed, heavy, engine (mana: any or soul: elemental), size increased (focused device) | 
-| Atomizer | Epic | Disintegrate (6th) | 10 lb., one-handed, medium, engine (mana: any) | 
-| Auto-Factory | Rare | Conjure Construct: Clockwork Goblin (4th) | 75 lb., two-handed, heavy+, engine (combustion or steam), size increased II (quick use, reliable device, MR 1) | 
-| Buzz Box | Rare | Sending (3rd) | 15 lb., two-handed, heavy, engine (mana: arcane or mechanical), size increased (reliable device, MR 1) | 
+| Acid Gun | Common | Acid Splash (cantrip) | 10 lb., one-handed, medium, engine (alchemical) |
+| Air Recycler | Uncommon | Water Breathing (4th) | 10 lb., one-handed, medium, engine (alchemical, mana: any, or mechanical) |
+| Antimagic Ray Gun | Uncommon | Mana Burn (2nd) | 10 lb., one-handed, medium, engine (mana: any, or soul: any spellcaster or mana elementals) |
+| Antimagic Ray Gun, Improved | Epic | Mana Burn (6th) | 10 lb., one-handed, medium, engine (mana: any, or soul: any spellcaster) |
+| Army Knife | Common | Prestidigation (cantrip) | 5 lb., one-handed, light, engine (mechanical or steam), size reduced (MF 1, long cooldown) |
+| Atmospheric Override Box | Legendary | Control Weather (8th) | 15 lb., two-handed, heavy, engine (mana: any or soul: elemental), size increased (focused device) |
+| Atomizer | Epic | Disintegrate (6th) | 10 lb., one-handed, medium, engine (mana: any) |
+| Auto-Factory | Rare | Conjure Construct: Clockwork Goblin (4th) | 75 lb., two-handed, heavy+, engine (combustion or steam), size increased II (quick use, reliable device, MR 1) |
+| Buzz Box | Rare | Sending (3rd) | 15 lb., two-handed, heavy, engine (mana: arcane or mechanical), size increased (reliable device, MR 1) |
 | Castle-in-a-Box | Legendary | Mighty Fortress (8th) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane), size increased (reliable device; MR 1-3) |
-| Cloaking Device | Uncommon | Invisibility (2nd) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane), size increased (focused device) | 
+| Cloaking Device | Uncommon | Invisibility (2nd) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane), size increased (focused device) |
 | Cloaking Device, Greater | Rare | Greater Invisibility (4th) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane), size increased (focused device) |
-| Companion Constructor | Rare | Find Steed, Greater (4th) | 10 lb., one-handed, medium, engine (mana: any) | 
-| Death Ray<sup>1</sup> | Legendary | Finger of Death (7th) | 10 lb., one-handed, medium, engine (electrical, mana: arcane, or soul: any) | 
-| Detector | Uncommon | Alarm (1st) | 5 lb., one-handed, light, engine (mechanical) | 
-| Dropout Simulator | Legendary | Feeblemind (8th) | 5 lb., one-handed, light, engine (electrical, mana: arcane, or soul: any) | 
-| Cosmically-attuned 8-Ball | Artifact | Foresight (9th) | 10 lb., one-handed, light, engine (mana: arcane, or soul: elemental) | 
-| Extraplanar Shifter | Legendary | Plane Shift (7th) | 10 lb., one-handed, medium, engine (mana: arcane) | 
-| Factory-Me-Up | Rare | Fabricate (4th) | 10 lb., one-handed, medium, engine (electrical, mechanical, or steam) | 
-| Flamethrower, or Dragon Gun | Uncommon | Burning Hands (1st) | 15 lb., two-handed, heavy, engine (alchemical, combustion, soul: elemental, or steam), size increased (quick-use) | 
-| Flashlight | Common | Light (cantrip) | 5 lb., one-handed, light, engine (alchemical, electrical, or soul: elemental), size reduced (MF 1, low charge; 3 charges) | 
-| Fog Machine | Uncommon | Fog Cloud (1st) | 10 lb., one-handed, medium, engine (alchemical, electrical, soul: elemental, or steam) | 
-| Force Reflective Disk | Rare | Counterspell (3rd) | 5 lb., one-handed, light, engine (electrical or mana: any), size reduced (MF 1, low charge; 3 charges) | 
-| Force Generator | Uncommon | Barrier Ward (1st) | 5 lb., one-handed, light, engine (electrical or mana: any) | 
+| Companion Constructor | Rare | Find Steed, Greater (4th) | 10 lb., one-handed, medium, engine (mana: any) |
+| Death Ray<sup>1</sup> | Legendary | Finger of Death (7th) | 10 lb., one-handed, medium, engine (electrical, mana: arcane, or soul: any) |
+| Detector | Uncommon | Alarm (1st) | 5 lb., one-handed, light, engine (mechanical) |
+| Dropout Simulator | Legendary | Feeblemind (8th) | 5 lb., one-handed, light, engine (electrical, mana: arcane, or soul: any) |
+| Cosmically-attuned 8-Ball | Artifact | Foresight (9th) | 10 lb., one-handed, light, engine (mana: arcane, or soul: elemental) |
+| Extraplanar Shifter | Legendary | Plane Shift (7th) | 10 lb., one-handed, medium, engine (mana: arcane) |
+| Factory-Me-Up | Rare | Fabricate (4th) | 10 lb., one-handed, medium, engine (electrical, mechanical, or steam) |
+| Flamethrower, or Dragon Gun | Uncommon | Burning Hands (1st) | 15 lb., two-handed, heavy, engine (alchemical, combustion, soul: elemental, or steam), size increased (quick-use) |
+| Flashlight | Common | Light (cantrip) | 5 lb., one-handed, light, engine (alchemical, electrical, or soul: elemental), size reduced (MF 1, low charge; 3 charges) |
+| Fog Machine | Uncommon | Fog Cloud (1st) | 10 lb., one-handed, medium, engine (alchemical, electrical, soul: elemental, or steam) |
+| Force Reflective Disk | Rare | Counterspell (3rd) | 5 lb., one-handed, light, engine (electrical or mana: any), size reduced (MF 1, low charge; 3 charges) |
+| Force Generator | Uncommon | Barrier Ward (1st) | 5 lb., one-handed, light, engine (electrical or mana: any) |
 | Frost-Me-Up | Rare | Ice Block (4th) | 10 lb., one-handed, medium, engine (electrical, mana: any, or soul: elemental) |
 
 </div>
@@ -13702,34 +13702,34 @@ For more details on gadgets and their rules, refer to Chapter 7 under Engineer�
 
 | Name | Rarity | Spell (Spell Level) | Properties |
 |:-|:-|:-:|:-|
-| Frost Gun | Uncommon | Freezing Sphere (2nd) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane, or soul: elemental) | 
-| Glitterbox Surprise | Uncommon | Faerie Fire (1st) | 10 lb., one-handed, medium, engine (alchemical, mechanical or mana: arcane) | 
-| Goblin Glider Kit | Uncommon | Conjure Construct: Goblin Glider (1st) | 10 lb., one-handed, medium, engine (mechanical) | 
-| Gravity Well | Legendary | Reverse Gravity (7th) | 10 lb., one-handed, medium, engine (electrical, mana: arcane, or soul: any) | 
-| Hologram Generator | Uncommon | Silent Image | 5 lb., one-handed, light, engine (electrical) | 
-| Hologram Generator, Greater | Rare | Major Image (3rd) | 5 lb., one-handed, light, engine (electrical) | 
-| Ice Cannon | Uncommon | Ice Knife (2nd) | 10 lb., one-handed, medium, engine (electrical, or soul: elemental) | 
-| Jumper Cables | Rare | Revivify (3rd) | 10 lb., one-handed, medium, engine (electrical or soul: living creature) | 
-| Launcher, Caltrops | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion, mechanical, or steam) | 
-| Launcher, Cluster Rockets | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) | 
-| Launcher, Rocket | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) | 
-| Launcher, Trap | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) | 
-| Lifeforce Transposer | Rare | Life Transference (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (reliable device; MR 1) | 
-| Light Absorber | Rare | Darkness (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (focused device) | 
-| Light Generator | Rare | Daylight (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (focused device) | 
+| Frost Gun | Uncommon | Freezing Sphere (2nd) | 10 lb., one-handed, medium, engine (alchemical or mana: arcane, or soul: elemental) |
+| Glitterbox Surprise | Uncommon | Faerie Fire (1st) | 10 lb., one-handed, medium, engine (alchemical, mechanical or mana: arcane) |
+| Goblin Glider Kit | Uncommon | Conjure Construct: Goblin Glider (1st) | 10 lb., one-handed, medium, engine (mechanical) |
+| Gravity Well | Legendary | Reverse Gravity (7th) | 10 lb., one-handed, medium, engine (electrical, mana: arcane, or soul: any) |
+| Hologram Generator | Uncommon | Silent Image | 5 lb., one-handed, light, engine (electrical) |
+| Hologram Generator, Greater | Rare | Major Image (3rd) | 5 lb., one-handed, light, engine (electrical) |
+| Ice Cannon | Uncommon | Ice Knife (2nd) | 10 lb., one-handed, medium, engine (electrical, or soul: elemental) |
+| Jumper Cables | Rare | Revivify (3rd) | 10 lb., one-handed, medium, engine (electrical or soul: living creature) |
+| Launcher, Caltrops | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion, mechanical, or steam) |
+| Launcher, Cluster Rockets | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) |
+| Launcher, Rocket | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) |
+| Launcher, Trap | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion or steam) |
+| Lifeforce Transposer | Rare | Life Transference (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (reliable device; MR 1) |
+| Light Absorber | Rare | Darkness (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (focused device) |
+| Light Generator | Rare | Daylight (3rd) | 10 lb., one-handed, medium, engine (mechanical), size increased (focused device) |
 | Locator | Uncommon | Locate Object (2nd) | 5 lb., one-handed, light, engine (mechanical or mana: any) |
-| Localized Tornado Generator | Legendary | Whirlwind (7th) | 10 lb., one-handed, heavy, engine (mana: druid or soul: elemental), size increased (focused device) | 
-| Meteors-R-Us | Artifact | Meteor Swarm (9th) | 10 lb., one-handed, medium, engine (combustion or soul: elemental) | 
-| Mind Scattering Cap | Rare | Confusion (4th) | 5 lb., one-handed, light, engine (mechanical, or soul: any) | 
-| Mini Volcano | Legendary | Incendiary Cloud (8th) | 15 lb., two-handed, heavy, engine (alchemical or soul: elemental), size increased (focused device) | 
-| Mirage Generator | Legendary | Mirage Arcane (7th) | 10 lb., one-handed, medium, engine (alchemical or mana: any), size increased (focused device) | 
-| Mortar | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion, mechanical, or steam) | 
-| Noise Canceller Box | Uncommon | Silence (2nd) | 5 lb., one-handed, light, engine (electrical) | 
-| Neuralyzer | Epic | Modify Memory (4th) | 5 lb., one-handed, light, engine (electrical) | 
-| OOBE Simulator | Artifact | Astral Projection (9th) | 10 lb., one-handed, medium, engine (electrical, mana: any, or soul: any) | 
-| Personal Gravity Suppressor | Uncommon | Feather Fall (1st) | 10 lb., one-handed, medium, engine (electrical or mechanical) | 
-| Pulley Gun | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (mechanical, or steam) | | Plague-Spreading Box | Rare | Stinking Cloud (3rd) | 15 lb., two-handed, heavy, engine (alchemical or soul: any), size increased (reliable device, MR 1) | 
-| Re-combobulator | Rare | Dispel Magic (3rd) | 5 lb., one-handed, light, engine (mana: any) | 
+| Localized Tornado Generator | Legendary | Whirlwind (7th) | 10 lb., one-handed, heavy, engine (mana: druid or soul: elemental), size increased (focused device) |
+| Meteors-R-Us | Artifact | Meteor Swarm (9th) | 10 lb., one-handed, medium, engine (combustion or soul: elemental) |
+| Mind Scattering Cap | Rare | Confusion (4th) | 5 lb., one-handed, light, engine (mechanical, or soul: any) |
+| Mini Volcano | Legendary | Incendiary Cloud (8th) | 15 lb., two-handed, heavy, engine (alchemical or soul: elemental), size increased (focused device) |
+| Mirage Generator | Legendary | Mirage Arcane (7th) | 10 lb., one-handed, medium, engine (alchemical or mana: any), size increased (focused device) |
+| Mortar | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (combustion, mechanical, or steam) |
+| Noise Canceller Box | Uncommon | Silence (2nd) | 5 lb., one-handed, light, engine (electrical) |
+| Neuralyzer | Epic | Modify Memory (4th) | 5 lb., one-handed, light, engine (electrical) |
+| OOBE Simulator | Artifact | Astral Projection (9th) | 10 lb., one-handed, medium, engine (electrical, mana: any, or soul: any) |
+| Personal Gravity Suppressor | Uncommon | Feather Fall (1st) | 10 lb., one-handed, medium, engine (electrical or mechanical) |
+| Pulley Gun | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (mechanical, or steam) | | Plague-Spreading Box | Rare | Stinking Cloud (3rd) | 15 lb., two-handed, heavy, engine (alchemical or soul: any), size increased (reliable device, MR 1) |
+| Re-combobulator | Rare | Dispel Magic (3rd) | 5 lb., one-handed, light, engine (mana: any) |
 
 </div>
 
@@ -13739,25 +13739,25 @@ For more details on gadgets and their rules, refer to Chapter 7 under Engineer�
 
 | Name | Rarity | Spell (Spell Level) | Properties |
 |:-|:-|:-:|:-|
-| Reflective Pole | Uncommon  | Absorb Elements (1st) | 10 lb., one-handed, medium, engine (electrical), size increased (quick use) | 
-| Reflective Pole, Supreme | Epic | Absorb Elements (5th) | 10 lb., one-handed, medium, engine (electrical), size increased (quick use) | 
-| Remote, Mind | Uncommon | Charm Person (1st) | 5 lb., one-handed, light, engine (mechanical, mana: any, soul: any) | 
-| Remote | Uncommon | Command (Constructs only) (1st) | 5 lb., one-handed, light, engine (electrical) | 
-| Rocket Boots | Rare | Fly (3rd) | 10 lb., one-handed, medium, engine (combustion or steam) | 
-| Shieldtronic Shield | Uncommon | Shield (1st) | 5 lb., one-handed, light, engine (mana, soul: any) | | Snowmaster 9,000 | Rare | Blizzard (3rd) | 10 lb., one-handed, medium, engine (alchemical, mana: any, or soul: elemental) | 
-| Spring Boots | Uncommon | Jump (1st) | 5 lb., one-handed, light, engine (mechanical), size reduced (low charge; 3 charges) | 
-| Sonic Gun | Uncommon | Thunderwave (1st) | 10 lb., one-handed, medium, engine (mechanical) | 
-| Star-in-a-Box | Legendary | Sunburst (8th) | 10 lb., one-handed, medium, engine (mana: any or soul: any) | 
-| Stopwatch | Artifact | Time Stop (9th) | 5 lb., one-handed, light, engine (soul: celestial or fiend), size reduced (low charge; 3 charges) | 
-| Sun Gun | Rare | Sunbeam (3rd) | 10 lb., one-handed, medium, engine (alchemical, mana: any, mechanical, or soul: living creature or elemental) | 
-| Target Dummy | Uncommon | Compelled Duel (1st) | 10 lb., one-handed, medium, engine (mechanical or steam) | 
-| Tectonic Destabilizer | Legendary | Earthquake (8th) | 75 lb., two-handed, heavy+, engine (mechanical or soul: elemental), size increased II (quick use, focused device) | 
-| Teleportation Pad | Epic | Teleportation Circle (5th) | 75 lb., two-handed, heavy+, engine (mechanical), size increased II (quick use, reliable device, MR 1) | 
-| Titan Terra-former | Epic | Move Earth (6th) | 15 lb., two-handed, heavy, engine (mana: arcane or soul: elemental), size increased (focused device) | 
-| Universal Translator | Rare | Tongues (3rd) | 5 lb., one-handed, light, engine (mana: any or soul: elemental) | 
-| Water Gun | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (mechanical or soul: elemental) | 
-| World Enlarger | Uncommon | Reduce Person (1st) | 10 lb., one-handed, medium, engine (electrical) | 
-| Wormhole Generator | Legendary | Teleport (7th) | 10 lb., one-handed, medium, engine (electrical or mana: any) | 
+| Reflective Pole | Uncommon  | Absorb Elements (1st) | 10 lb., one-handed, medium, engine (electrical), size increased (quick use) |
+| Reflective Pole, Supreme | Epic | Absorb Elements (5th) | 10 lb., one-handed, medium, engine (electrical), size increased (quick use) |
+| Remote, Mind | Uncommon | Charm Person (1st) | 5 lb., one-handed, light, engine (mechanical, mana: any, soul: any) |
+| Remote | Uncommon | Command (Constructs only) (1st) | 5 lb., one-handed, light, engine (electrical) |
+| Rocket Boots | Rare | Fly (3rd) | 10 lb., one-handed, medium, engine (combustion or steam) |
+| Shieldtronic Shield | Uncommon | Shield (1st) | 5 lb., one-handed, light, engine (mana, soul: any) | | Snowmaster 9,000 | Rare | Blizzard (3rd) | 10 lb., one-handed, medium, engine (alchemical, mana: any, or soul: elemental) |
+| Spring Boots | Uncommon | Jump (1st) | 5 lb., one-handed, light, engine (mechanical), size reduced (low charge; 3 charges) |
+| Sonic Gun | Uncommon | Thunderwave (1st) | 10 lb., one-handed, medium, engine (mechanical) |
+| Star-in-a-Box | Legendary | Sunburst (8th) | 10 lb., one-handed, medium, engine (mana: any or soul: any) |
+| Stopwatch | Artifact | Time Stop (9th) | 5 lb., one-handed, light, engine (soul: celestial or fiend), size reduced (low charge; 3 charges) |
+| Sun Gun | Rare | Sunbeam (3rd) | 10 lb., one-handed, medium, engine (alchemical, mana: any, mechanical, or soul: living creature or elemental) |
+| Target Dummy | Uncommon | Compelled Duel (1st) | 10 lb., one-handed, medium, engine (mechanical or steam) |
+| Tectonic Destabilizer | Legendary | Earthquake (8th) | 75 lb., two-handed, heavy+, engine (mechanical or soul: elemental), size increased II (quick use, focused device) |
+| Teleportation Pad | Epic | Teleportation Circle (5th) | 75 lb., two-handed, heavy+, engine (mechanical), size increased II (quick use, reliable device, MR 1) |
+| Titan Terra-former | Epic | Move Earth (6th) | 15 lb., two-handed, heavy, engine (mana: arcane or soul: elemental), size increased (focused device) |
+| Universal Translator | Rare | Tongues (3rd) | 5 lb., one-handed, light, engine (mana: any or soul: elemental) |
+| Water Gun | Uncommon | Catapult (1st) | 10 lb., one-handed, medium, engine (mechanical or soul: elemental) |
+| World Enlarger | Uncommon | Reduce Person (1st) | 10 lb., one-handed, medium, engine (electrical) |
+| Wormhole Generator | Legendary | Teleport (7th) | 10 lb., one-handed, medium, engine (electrical or mana: any) |
 
 </div>
 
@@ -13765,10 +13765,10 @@ For more details on gadgets and their rules, refer to Chapter 7 under Engineer�
 TODO
 
 ##### Air Recycler
-This cylinder provides air, as the water breathing spell. 
+This cylinder provides air, as the water breathing spell.
 
 ##### Antimagic Ray Gun
-When used, this wand-like gun shoots a purple anti-magic ray, as the mana burn spell. Elementals required for the anti-magic ray device are pure mana elementals (such as mana wyrms and arcane elementals), and souls must be of spellcasters. The improved gadget replicates a higher-level mana burn spell. 
+When used, this wand-like gun shoots a purple anti-magic ray, as the mana burn spell. Elementals required for the anti-magic ray device are pure mana elementals (such as mana wyrms and arcane elementals), and souls must be of spellcasters. The improved gadget replicates a higher-level mana burn spell.
 
 ##### Antimagic Ray Gun, Improved
 TODO
@@ -13776,7 +13776,7 @@ TODO
 \columnbreak
 
 ##### Army Knife
-When used, this device summons all tools an adventurer needs, such as a hammer, a pair of scissors, etc., just short of Alchemy, Engineering, Infusion, and Poisoning tools, and includes 60 feet of spider-silk rope. It may also deal damage as a normal dagger. 
+When used, this device summons all tools an adventurer needs, such as a hammer, a pair of scissors, etc., just short of Alchemy, Engineering, Infusion, and Poisoning tools, and includes 60 feet of spider-silk rope. It may also deal damage as a normal dagger.
 
 ##### Atmospheric Override Box
 TODO
@@ -13805,10 +13805,10 @@ TODO
 TODO
 
 ##### Death Ray
-If using the electrical engine, does not zombify the target, but instead blows them up (as per the corpse explosion spell). 
+If using the electrical engine, does not zombify the target, but instead blows them up (as per the corpse explosion spell).
 
 ##### Detector
-This eye-like gadget can sense creatures that approach within 20 feet of its position whenever a creature of the size Tiny or larger enters. The detector, once activated, remains active for 2d4 hours, and has a chance to malfunction at the end of each hour. The detector may either let out an audible alarm that can be heard clearly within 60 feet, or send a single mental ping to the one who set it up. 
+This eye-like gadget can sense creatures that approach within 20 feet of its position whenever a creature of the size Tiny or larger enters. The detector, once activated, remains active for 2d4 hours, and has a chance to malfunction at the end of each hour. The detector may either let out an audible alarm that can be heard clearly within 60 feet, or send a single mental ping to the one who set it up.
 
 ##### Dropout Simulator
 TODO
@@ -13819,42 +13819,42 @@ TODO
 ##### Factory-Me-Up
 
 ##### Flamethrower (Dragon Gun)
-When used, this gadget casts the burning hands spell. When made by goblins, flamethrowers are instead known as dragon guns, with the modifications changed from quick-use to unreliable (MR 1-4) and becoming smaller (light) and 5 lbs. in mass. 
+When used, this gadget casts the burning hands spell. When made by goblins, flamethrowers are instead known as dragon guns, with the modifications changed from quick-use to unreliable (MR 1-4) and becoming smaller (light) and 5 lbs. in mass.
 
 ##### Flashlight
-The flashlight can be aimed and activated with an action. If no malfunction occurs, it emits a 20-foor radius glow of bright light, and emits 20 feet of dim light after that. If directed, it turns instead into a cone with a range of 60 feet of bright light, and 60 feet of dim light afterwards. 
+The flashlight can be aimed and activated with an action. If no malfunction occurs, it emits a 20-foor radius glow of bright light, and emits 20 feet of dim light after that. If directed, it turns instead into a cone with a range of 60 feet of bright light, and 60 feet of dim light afterwards.
 
 \columnbreak
 
 ##### Fog Machine
-When used, this box creates a billowing sphere-shaped cloud of fog that spreads on a 20-foot radius. The area is heavily obscured, and it remains for a up to 2d4% x 10 minutes or until a moderate or stronger wind disperses it (10 mph+). The cloud of fog is centered on the fog machine, or can be shot out as a large cloud to appear in another area 120 feet away. 
+When used, this box creates a billowing sphere-shaped cloud of fog that spreads on a 20-foot radius. The area is heavily obscured, and it remains for a up to 2d4% x 10 minutes or until a moderate or stronger wind disperses it (10 mph+). The cloud of fog is centered on the fog machine, or can be shot out as a large cloud to appear in another area 120 feet away.
 
 ##### Force Reflective Disk
-This device, based off the re-combobulator, can redirect scattered magical energies back to its source, cancelling the spell. 
+This device, based off the re-combobulator, can redirect scattered magical energies back to its source, cancelling the spell.
 
 ##### Frost-Me-Up
-This harness creates a powerful shield of ice to protect you, as per the ice block spell. 
+This harness creates a powerful shield of ice to protect you, as per the ice block spell.
 
 ##### Frost Gun
 The frost gun can be used with an action, creating a brilliant blue freezing ray up to 30 feet away that creates a 10-foot radius explosion of frozen air to emit from the location of the ray's impact. All creatures hit by the ray or in the explosion's radius must succeed on a Stamina saving throw or else take 4d8 points of cold damage, or half of that on a successful saving throw. If the ray or the radius strikes or includes a body of water or a liquid with similar freezing points, the ray freezes the liquid within its active radius to a depth of 6 inches for 1 minute. Creatures that were swimming or that were in the water at the moment must succeed on an additional Strength saving throw as an action against the DC of the device or be restrained. After 1 minute of being conjured, the ice shatters.
 
 ##### Glitterbox Surprise
-Employed by enterprising goblins to counter porch-thieves, a glitterbox surprise casts the faerie fire spell. 
+Employed by enterprising goblins to counter porch-thieves, a glitterbox surprise casts the faerie fire spell.
 
 ##### Goblin Glider Kit
-When deployed, the goblin glider kit creates a goblin glider, as the creature of the same name. Unlike most gadgets, the goblin glider kit can also be used as a reaction. 
+When deployed, the goblin glider kit creates a goblin glider, as the creature of the same name. Unlike most gadgets, the goblin glider kit can also be used as a reaction.
 
 ##### Hologram Generator
-This device, based on Naaru technology, can create holograms and light-manipulated images as per the silent image spell. 
+This device, based on Naaru technology, can create holograms and light-manipulated images as per the silent image spell.
 
 ##### Hologram Generator, Greater
-Based on the Hologram Generator, this improved version can create speaking holograms. 
+Based on the Hologram Generator, this improved version can create speaking holograms.
 
 ##### Ice Cannon
 TODO
 
 ##### Jumper Cables
-This pack may be hooked up with any creature that died within one minute. If activated without an issue, the creature is revived, and returned to life with 1 hit point and no mana. This cannot return a creature that died of old age. This gadget requires 300 gold pieces’ worth of focus crystals per use of activation. 
+This pack may be hooked up with any creature that died within one minute. If activated without an issue, the creature is revived, and returned to life with 1 hit point and no mana. This cannot return a creature that died of old age. This gadget requires 300 gold pieces’ worth of focus crystals per use of activation.
 
 \pagebreakNum
 
@@ -13862,13 +13862,13 @@ This pack may be hooked up with any creature that died within one minute. If act
 When used, this box releases four bags of caltrops into the air to fall over an area within 30 feet, filling a 10-foot square area. Any creature that enters the area must succeed on a DC 15 Agility saving throw or stop moving and take 1 piercing damage. Until the creature regains at least 1 hit point, its walking speed is reduced by 10 feet. A creature moving through the area at half speed doesn't need to make the saving throw. Once used, this can be refilled with replacement caltrops. There is a 75% chance that a used bag of caltrops can be used again.
 
 ##### Launcher, Cluster Rockets
-This heavy machine is typically set on the floor before the user. When loaded with up to four explosives, it launches them all within their normal range with a single action. This applies to all explosives. A cluster launcher adds 1d6 concussive damage to each explosive used. This otherwise follows rules for the rocket launcher gadget. 
+This heavy machine is typically set on the floor before the user. When loaded with up to four explosives, it launches them all within their normal range with a single action. This applies to all explosives. A cluster launcher adds 1d6 concussive damage to each explosive used. This otherwise follows rules for the rocket launcher gadget.
 
 ##### Launcher, Rocket
-This heavy machine is typically set on the user’s shoulder. When loaded with an explosive in bomb or rocket form, it launches it further than its normal range, increasing its original range by 90 feet. This applies to the maximum range it can launch. On impact, any explosive deals an additional 2d6 concussive damage atop the normal damage. If the explosive is in mine form, it can be planted at that range instead of exploding. 
+This heavy machine is typically set on the user’s shoulder. When loaded with an explosive in bomb or rocket form, it launches it further than its normal range, increasing its original range by 90 feet. This applies to the maximum range it can launch. On impact, any explosive deals an additional 2d6 concussive damage atop the normal damage. If the explosive is in mine form, it can be planted at that range instead of exploding.
 
 ##### Launcher, Trap
-This heavy machine can lob a trap to up to 90 feet, priming the trap on the point of impact. 
+This heavy machine can lob a trap to up to 90 feet, priming the trap on the point of impact.
 
 ##### Lifeforce Transposer
 TODO
@@ -13898,25 +13898,25 @@ TODO
 TODO
 
 ##### Mortar
-This heavy machine is typically set on the floor. When loaded with an explosive in bomb form, it launches it further than a normal creature could, for an arc up to 90 extra feet away, and 30 feet high. On the 5-foot square area of impact, the bomb lands with a stronger explosion, adding 2d6 extra concussive damage. A mortar may be loaded with up to eight pints of oil, and may be used again after 1d4 rounds. The explosive no longer allows advantage on the saving throw for long range use. 
+This heavy machine is typically set on the floor. When loaded with an explosive in bomb form, it launches it further than a normal creature could, for an arc up to 90 extra feet away, and 30 feet high. On the 5-foot square area of impact, the bomb lands with a stronger explosion, adding 2d6 extra concussive damage. A mortar may be loaded with up to eight pints of oil, and may be used again after 1d4 rounds. The explosive no longer allows advantage on the saving throw for long range use.
 
 ##### Noise Canceller Box
-This device instantly counters any noise with active noise control, creating counter-waves to remove any semblance of sound and replicating the silence spell. 
+This device instantly counters any noise with active noise control, creating counter-waves to remove any semblance of sound and replicating the silence spell.
 
 ##### Neuralyzer
-This small device, when targeting a creature, can cause neural manipulation as per the modify memory spell. 
+This small device, when targeting a creature, can cause neural manipulation as per the modify memory spell.
 
 ##### OOBE Simulator
-This device puts you and the allies you choose into an Out of Body Experience, as per the astral projection spell. 
+This device puts you and the allies you choose into an Out of Body Experience, as per the astral projection spell.
 
 ##### Personal Gravity Suppressor
 TODO
 
-##### Pulley Gun 
-This hand-cannon can shoot one to two ropes at opposite ends. Each rope has a hook at its end, and each extends to up to 90 feet per action of use. If the hooks target an object, they attach to it, and can carry up to 140 pounds of weight. If the hook targets a creature, they take 3d8 piercing damage, and the hooks are destroyed. A pulley gun has a wheel for transport along the ropes, and allows for movement at a rate of 60 feet per round either up or down the ropes’ ends. A pulley gun that shoots one rope but can be used twice is known as a mechanical grappling hook. 
+##### Pulley Gun
+This hand-cannon can shoot one to two ropes at opposite ends. Each rope has a hook at its end, and each extends to up to 90 feet per action of use. If the hooks target an object, they attach to it, and can carry up to 140 pounds of weight. If the hook targets a creature, they take 3d8 piercing damage, and the hooks are destroyed. A pulley gun has a wheel for transport along the ropes, and allows for movement at a rate of 60 feet per round either up or down the ropes’ ends. A pulley gun that shoots one rope but can be used twice is known as a mechanical grappling hook.
 
 ##### Re-combobulator
-This device can scatter magical energies, replicating the dispel magic spell. 
+This device can scatter magical energies, replicating the dispel magic spell.
 
 ##### Reflective Pole
 The reflective pole is a 2-foot long, 8-inch thick cylinder that is usually strapped to the back of the user, and is attached to a winding mechanism near the user's hand. The cylinder can be deployed as a reaction when the user takes elemental damage, unfurling and countering the elemental damage with a sheet of specially-treated and reinforced glass. The user gains resistance to the elemental damage, and the next time the user hits with a melee attack on the next turn, the reflective pole reflects 1d6 points of the absorbed damage to the target of the user's attack. The character must be able to use their hands or similar limbs to deploy the pole.
@@ -13925,21 +13925,21 @@ The reflective pole is a 2-foot long, 8-inch thick cylinder that is usually stra
 TODO
 
 ##### Remote, Mind
-This strange-looking hat has a hypnotic pattern attached to it. When the gadget is active, the mind remote can focus on any person within 30 feet, casting the charm person spell. 
+This strange-looking hat has a hypnotic pattern attached to it. When the gadget is active, the mind remote can focus on any person within 30 feet, casting the charm person spell.
 
 \pagebreakNum
 
 ##### Remote
-This small machine can activate any mine, gadget, or construct that is keyed to it. Keying a technological device to a remote takes one minute and a DC 10 Intelligence check with Engineer’s Tools. If the check resulted in a 20, the keying is instead 1 action. Using a remote is a bonus action on the creature’s round, or a reaction outside their round. A remote can activate any device it is bonded to as long as both of them are within 150 feet of each other. This effect can penetrate barriers, but 2 feet of rock, 2 inches of common metal, or a thin sheet of lead blocks it. It tied to an explosive that normally explodes on impact, it can hold the explosive until the remote is used (effectively, the bomb is waiting for the signal). 
+This small machine can activate any mine, gadget, or construct that is keyed to it. Keying a technological device to a remote takes one minute and a DC 10 Intelligence check with Engineer’s Tools. If the check resulted in a 20, the keying is instead 1 action. Using a remote is a bonus action on the creature’s round, or a reaction outside their round. A remote can activate any device it is bonded to as long as both of them are within 150 feet of each other. This effect can penetrate barriers, but 2 feet of rock, 2 inches of common metal, or a thin sheet of lead blocks it. It tied to an explosive that normally explodes on impact, it can hold the explosive until the remote is used (effectively, the bomb is waiting for the signal).
 
 ##### Rocket Boots
-These heavy boots strapped with a small backpack may be activated with an action. For each use, it gives the user a flying speed of 60 feet, usable for one minute. At the end of the duration, the user falls unless they are on solid ground. 
+These heavy boots strapped with a small backpack may be activated with an action. For each use, it gives the user a flying speed of 60 feet, usable for one minute. At the end of the duration, the user falls unless they are on solid ground.
 
 ##### Shieldtronic Shield
-This harnessed device can spring out with a powerful repelling barrier, increasing your AC as per the shield spell. 
+This harnessed device can spring out with a powerful repelling barrier, increasing your AC as per the shield spell.
 
 ##### Spring Boots
-Once activated, this pair of springy boots triples your jumping distance for 1 minute. 
+Once activated, this pair of springy boots triples your jumping distance for 1 minute.
 
 ##### Sonic Gun
 TODO
@@ -13948,37 +13948,37 @@ TODO
 Once activated, this box releases a miniature sphere of energy that bursts forth with the power of a star, casting the sunburst spell.
 
 ##### Stopwatch
-Theorized to be either based on ancient titan technology or by chaos energies manipulating the timestream, this rather large stopwatch can literally freeze time, as per the time stop spell. 
+Theorized to be either based on ancient titan technology or by chaos energies manipulating the timestream, this rather large stopwatch can literally freeze time, as per the time stop spell.
 
 ##### Sun Gun
-The sun-gun can be focused and used with an action, casting the sunbeam spell. 
+The sun-gun can be focused and used with an action, casting the sunbeam spell.
 
 ##### Target Dummy
-This target dummy is fueled with sufficient chaos energy (or perhaps simply looks frustrating) that it can distract hostile creatures, casting the compelled duel spell on them. 
+This target dummy is fueled with sufficient chaos energy (or perhaps simply looks frustrating) that it can distract hostile creatures, casting the compelled duel spell on them.
 
 ##### Tectonic Destabilizer
-Expanded upon the Titan Terra-Former, the tectonic destabilizer causes earthquakes and fissures to emerge from the ground when activated, casting the earthquake spell. 
+Expanded upon the Titan Terra-Former, the tectonic destabilizer causes earthquakes and fissures to emerge from the ground when activated, casting the earthquake spell.
 
 ##### Teleportation Pad
-Used by enterprising goblins, the teleportation pad can teleport its user to any other teleportation pad or teleportation circle, so long as the sequence is known. Most teleportation pads have a ‘public’ and ‘private’ pad sequence lists, with some destinations reserved for more trusted travelers. 
+Used by enterprising goblins, the teleportation pad can teleport its user to any other teleportation pad or teleportation circle, so long as the sequence is known. Most teleportation pads have a ‘public’ and ‘private’ pad sequence lists, with some destinations reserved for more trusted travelers.
 
 ##### Titan Terraformer
 Developed from prototypes of ancient titan technology, this device can manipulate earth, sand, or clay as the move earth spell so long as it is active.
 
 ##### Universal Translator
-This remote-like device can instantly decipher spoken speech to whoever is holding it. Moreover, when you speak, any creature that knows at least one language and can hear you understands what you say. The device operates for 1 hour. 
+This remote-like device can instantly decipher spoken speech to whoever is holding it. Moreover, when you speak, any creature that knows at least one language and can hear you understands what you say. The device operates for 1 hour.
 
-##### Water Gun 
+##### Water Gun
 The water pump is a 2-foot long, 8-inch thick cylinder that can hold up to 3 gallons of any liquid (or 16 quarts). The water pump can be used with an action to release one quart of liquid in a line up to 90 feet away, stopping at impact with the first object. The target must succeed on an Agility saving throw or else take 1d8 bludgeoning damage on a failed save and a secondary effect depending on the liquid. A successful save halves the initial damage and negates the secondary effect.
 * *Oil.* If the liquid is oil or another flammable liquid, the user may use a bonus action to set the liquid on fire as it is released (necessitating another malfunction check), setting the liquid is set aflame (regardless of malfunction). Targets who failed their save take 1d6 fire damage and are ignited until they extinguish the flame with an action and a successful Agility save (taking an additional 1d6 points of damage per round until they pass a DC equal to the gadget's DC).
 * *Water.* If the liquid is water, attack also extinguishes flames. Fire-based creatures or those vulnerable to water take double damage from this and do not employ any resistances towards this damage.
 * *Water, Contaminated.* If the liquid is a contaminated water or liquid (such as sewage water), the target must also save versus any contact, injury, or ingested poison or disease that is carried by the water. If using sewage water, the target is most likely to be contaminated by Crypt Fever, Filth Fever, Slimy Doom, and Blinding Sickness (see Contagion for details, duration 7 days), although other diseases or poisons may be built into the waters.
 
 ##### World Enlarger
-This phenomenally powerful gadget enlarges the whole world for a single target. When used, it casts the reduce person. 
+This phenomenally powerful gadget enlarges the whole world for a single target. When used, it casts the reduce person.
 
 ##### Wormhole Generator
-Tearing a space in dimensions is a breeze with the Wormhole Generator, allowing you and any creatures touching the generator to teleport as the teleport spell. 
+Tearing a space in dimensions is a breeze with the Wormhole Generator, allowing you and any creatures touching the generator to teleport as the teleport spell.
 
 \pagebreakNum
 
@@ -13987,24 +13987,24 @@ Tearing a space in dimensions is a breeze with the Wormhole Generator, allowing 
 <div class="classTable wide">
 
 #### Strike Gadgets
-Strike gadgets are usually attached to melee weapons, allowing the user to manifest a strike effect on a hit. 
+Strike gadgets are usually attached to melee weapons, allowing the user to manifest a strike effect on a hit.
 
-| Name (Weapon) | Rarity | Spell (Spell Level) | Properties | 
+| Name (Weapon) | Rarity | Spell (Spell Level) | Properties |
 |:-|:-|:-|:-|
-| Buzz Saw (Shortsword) | Common | Swipe and Shred (cantrip) | +2 lb., strike, engine (combustion, electrical, mechanical, or steam) | 
-| Dimensional Core (Any) | Epic | Banishing Smite (5th) | +2 lb., strike, engine (electrical, mana: any, or soul: any) | 
-| Flashing Core (Any) | Rare | Blinding Smite (3rd) | +2 lb., strike, engine (combustion or electrical) | 
-| Resonating Spark (Battleaxe) | Uncommon | Branding Smite (2nd) | +2 lb., strike, engine (combustion, electrical, or mechanical) | 
-| Steam Hammer (Warhammer) | Uncommon | Thunderous Smite (2nd) | +2 lb., strike, engine (combustion, mechanical, or steam) | 
-| White-Hot Core (Any) | Uncommon | Searing Smite (1st) | +2 lb., strike, engine (combustion, electrical, or steam) | 
+| Buzz Saw (Shortsword) | Common | Swipe and Shred (cantrip) | +2 lb., strike, engine (combustion, electrical, mechanical, or steam) |
+| Dimensional Core (Any) | Epic | Banishing Smite (5th) | +2 lb., strike, engine (electrical, mana: any, or soul: any) |
+| Flashing Core (Any) | Rare | Blinding Smite (3rd) | +2 lb., strike, engine (combustion or electrical) |
+| Resonating Spark (Battleaxe) | Uncommon | Branding Smite (2nd) | +2 lb., strike, engine (combustion, electrical, or mechanical) |
+| Steam Hammer (Warhammer) | Uncommon | Thunderous Smite (2nd) | +2 lb., strike, engine (combustion, mechanical, or steam) |
+| White-Hot Core (Any) | Uncommon | Searing Smite (1st) | +2 lb., strike, engine (combustion, electrical, or steam) |
 
 </div>
 
 ##### Buzz Saw
-This shortsword has a thick cross-hatch with slowly grinding gears and a toothed blade. If using a charge, the buzz saw blade deals extra slashing damage equal to 1d6, and the target has disadvantage to attack rolls for one round. This otherwise replicates the Druid’s swipe and shred spell. 
+This shortsword has a thick cross-hatch with slowly grinding gears and a toothed blade. If using a charge, the buzz saw blade deals extra slashing damage equal to 1d6, and the target has disadvantage to attack rolls for one round. This otherwise replicates the Druid’s swipe and shred spell.
 
 ##### Dimensional Core
-This core gadget can replicate the banishing smite spell, dimensionally exiling the target hit. 
+This core gadget can replicate the banishing smite spell, dimensionally exiling the target hit.
 
 ##### Flashing Core
 TODO
@@ -14013,26 +14013,26 @@ TODO
 TODO
 
 ##### Steam Hammer
-Usually used by dwarven tinkers, this warhammer replicates the thunderous smite spell, dealing extra damage and has a chance of pushing away the target and knocking them prone. 
+Usually used by dwarven tinkers, this warhammer replicates the thunderous smite spell, dealing extra damage and has a chance of pushing away the target and knocking them prone.
 
 ##### White-Hot Core
-This core gadget replicates the searing smite spell, becoming white-hot or radiating a shimmer of heat that transfers to the target of the attack. 
+This core gadget replicates the searing smite spell, becoming white-hot or radiating a shimmer of heat that transfers to the target of the attack.
 
 <div class="classTable wide">
 
 #### Trap Gadgets
 Traps are often-hostile gadgets that perform a single use (and are thus priced as consumables). They can be deployed and primed with an action, and they become active after being primed by one round. Whenever a creature moves to 10 feet or closer to a trap, it triggers and discharges its effect. The DCs are equal to that of a device.
 
-Once used, fixing a trap costs half the time and gold to make them. 
+Once used, fixing a trap costs half the time and gold to make them.
 
-| Name (Weapon) | Rarity | Spell (Spell Level) | Properties | 
+| Name (Weapon) | Rarity | Spell (Spell Level) | Properties |
 |:-|:-|:-|:-|
-| Freezing Trap | Common | Special (see below) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or soul: elemental) | 
-| Crippling Trap | Epic | Cripple (3rd) | 5 lb., one-handed, medium, engine (mana: any, mechanical, or soul: any) | 
-| Immolation Trap | Uncommon | Immolate (1st) | 5 lb., one-handed, medium, engine (alchemical, combustion or soul: elemental) | 
-| Oil Slick Trap | Common | Special (see below) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or steam) | 
-| Toxic Gas Trap | Epic | Cloudkill (5th) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or soul: undead) | 
-| Wagon Clamp | Common | Special (see below) | 5 lb., one-handed, medium, engine (mechanical or steam) | 
+| Freezing Trap | Common | Special (see below) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or soul: elemental) |
+| Crippling Trap | Epic | Cripple (3rd) | 5 lb., one-handed, medium, engine (mana: any, mechanical, or soul: any) |
+| Immolation Trap | Uncommon | Immolate (1st) | 5 lb., one-handed, medium, engine (alchemical, combustion or soul: elemental) |
+| Oil Slick Trap | Common | Special (see below) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or steam) |
+| Toxic Gas Trap | Epic | Cloudkill (5th) | 5 lb., one-handed, medium, engine (alchemical, mechanical, or soul: undead) |
+| Wagon Clamp | Common | Special (see below) | 5 lb., one-handed, medium, engine (mechanical or steam) |
 
 </div>
 
@@ -14044,16 +14044,16 @@ This trap unleashes a powerful debilitating effect on the triggering creature fo
 If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. At the end of each of the target’s turns, it can make a Stamina saving throw against the effect. On a success, the cripple effect ends.
 
 ##### Freezing Trap
-This trap unleashes a super-compressed blast of cold that freezes the triggering creature for 1 minute, and deals 1d8 cold damage. A successful Stamina save halves the damage dealt, and reduces the condition for one round. A creature may use its action to break the ice. 
+This trap unleashes a super-compressed blast of cold that freezes the triggering creature for 1 minute, and deals 1d8 cold damage. A successful Stamina save halves the damage dealt, and reduces the condition for one round. A creature may use its action to break the ice.
 
 ##### Oil Slick Trap
-This trap spews slippery oil in a 10-foot radius, rendering it into difficult terrain for 1 minute. Each creature that either enters the area, is within the radius when the trap is triggered, or ends their turn in the area must make an Agility save or fall prone. 
+This trap spews slippery oil in a 10-foot radius, rendering it into difficult terrain for 1 minute. Each creature that either enters the area, is within the radius when the trap is triggered, or ends their turn in the area must make an Agility save or fall prone.
 
 ##### Immolation Trap
-This trap burns the triggering creature, replicating the immolate sigil spell, with the sigil roll being replaced with the attack bonus (Intelligence plus proficiency in Engineer’s Tools). 
+This trap burns the triggering creature, replicating the immolate sigil spell, with the sigil roll being replaced with the attack bonus (Intelligence plus proficiency in Engineer’s Tools).
 
 ##### Toxic Gas Trap
-This trap releases a cloud of toxic fumes, replicating the cloudkill spell. 
+This trap releases a cloud of toxic fumes, replicating the cloudkill spell.
 
 ##### Wagon Clamp
 This trap clamps down on the triggering creature or vehicle for one minute, dealing 1d8 piercing damage to the wheel (possibly breaking it). While captured, the target is restrained. A successful Stamina saving throw by the vehicle or creature halves the damage dealt and reduces the restraint for one round. A creature may use its action to open the clamp. Most wooden wheels have 5 (2d4) hit points. This is usually used to destroy vehicle wheels, but can be employed as bear traps.
@@ -14063,45 +14063,45 @@ This trap clamps down on the triggering creature or vehicle for one minute, deal
 <a id="infusionkit"></a>
 
 ### Infusion Kit
-With the Infusion Kit, you can create magical items (as listed under Treasures above) or custom inscribed items (as described in Chapter 7 below). 
+With the Infusion Kit, you can create magical items (as listed under Treasures above) or custom inscribed items (as described in Chapter 7 below).
 
 #### Infused Items
 
 ##### Adamantine Breastplate
 **Armor (breastplate), legendary (requires attunement)**
 <br>
-You gain a +1 bonus to AC while you wear this magic armor. 
+You gain a +1 bonus to AC while you wear this magic armor.
 
 While wearing this armor, you have resistance to nonmagical damage. You can use an action to make yourself immune to nonmagical damage for 3 minutes. Furthermore, any critical hit you suffer while wearing it turns into a normal hit.
 
-Objects made of adamantite or arcanite have an AC of 23, are immune to nonmagical weapon damage and are resistant to arcane damage, and have 30 hit points. 
+Objects made of adamantite or arcanite have an AC of 23, are immune to nonmagical weapon damage and are resistant to arcane damage, and have 30 hit points.
 ___
 *Creation.* Material adamantine (uncommon); greater weapon resistance (legendary)
 
 ##### Adamantine +1 Sword of the Monkey
 **Weapon (longsword), epic (requires attunement)**
 <br>
-You have +2 to attack and damage with this magical weapon. This sword deals double damage to objects, has an AC of 23, is immune to nonmagical weapon damage, and has 30 hit points. Furthermore, while attuned to, it increases your Agility and Stamina scores by 1 each (maximum 20). 
+You have +2 to attack and damage with this magical weapon. This sword deals double damage to objects, has an AC of 23, is immune to nonmagical weapon damage, and has 30 hit points. Furthermore, while attuned to, it increases your Agility and Stamina scores by 1 each (maximum 20).
 ___
 *Creation.* Material adamantine (uncommon); ability enhancement (rare); deep +1 (1 step for free, 1 step to epic)
 
 ##### Elementium Warhammer
 **Weapon (Warhammer), epic**
 <br>
-You have +2 to attack and damage rolls when using this weapon, and the weapon deals 1d6 extra points of fire damage on a hit. 
+You have +2 to attack and damage rolls when using this weapon, and the weapon deals 1d6 extra points of fire damage on a hit.
 
-This weapon has an AC of 23, is immune to nonmagical weapon damage and elemental damage (acid, cold, fire, and lightning), is resistant to arcane damage, and have 30 hit points. 
+This weapon has an AC of 23, is immune to nonmagical weapon damage and elemental damage (acid, cold, fire, and lightning), is resistant to arcane damage, and have 30 hit points.
 ___
-*Special.* Unlike most epic weapons, the cost of crafting this warhammer is reduced by 75% due to the resonance between the Elementium metal and the Elemental Damage infusion (due to alignment between the two powers). 
+*Special.* Unlike most epic weapons, the cost of crafting this warhammer is reduced by 75% due to the resonance between the Elementium metal and the Elemental Damage infusion (due to alignment between the two powers).
 ___
 *Creation.* Material elementium (rare); deep infusion (1 step for free, 1 step to epic)
 
 ##### Lightforged +1 Breastplate of Greater Fel Resistance
 **Armor (Breastplate), Legendary (requires attunement)**
 <br>
-You have a +1 bonus to AC while wearing this armor. While attuned to this armor, you also have resistance to fel damage. This armor sheds regular light in a radius of 10 feet, is immune to fel damage, resistant to nonmagical weapon damage, and has 20 hit points. If used or worn, this armor suppresses fel addiction. 
+You have a +1 bonus to AC while wearing this armor. While attuned to this armor, you also have resistance to fel damage. This armor sheds regular light in a radius of 10 feet, is immune to fel damage, resistant to nonmagical weapon damage, and has 20 hit points. If used or worn, this armor suppresses fel addiction.
 ___
-*Special.* Unlike most Legendary armors, the cost of crafting this breastplate is reduced by 75% due to the resonance between the Lightforged metal and the fel resistance infusion (due to diametrical opposition between the two powers). 
+*Special.* Unlike most Legendary armors, the cost of crafting this breastplate is reduced by 75% due to the resonance between the Lightforged metal and the fel resistance infusion (due to diametrical opposition between the two powers).
 ___
 *Creation.* Material lightforged iron (uncommon); deep infusion +1 (rare); greater fel resistance (legendary)
 
@@ -14122,83 +14122,83 @@ A character may use these tools to identify gemlike magical objects, or pass a D
 #### Poisoners Kit - Poisons and Plagues
 Poisons can be weaponized and employed in battle, usually by holding them in containers and releasing them to form clouds (if inhaled), coating them with weapons (if injury), or any other method as detailed under the poisoner’s kit (see below).
 
-| Name | Rarity | Vector | Properties | 
+| Name | Rarity | Vector | Properties |
 |:-|:-|:-|:-|
-| Crippling Poison | Uncommon | Injury | Inflicts the Poisoned condition and slows as per the slow spell. | 
-| Crypt Fever Disease | Common | Contact | Inflicts -2 penalty vs disease and poisons, and the target suffers 2 additional points of damage from diseases and poisons. | 
-| Exhumed Corpse Fumes | Common | Inhaled | Deals 2d6 poison damage and inflicts the Poisoned condition. | 
-| Mind-Numbing Poison | Uncommon | Injury | Deals 2d4 psychic damage and inflicts the Distracted condition. | 
-| Paralytic Poison | Uncommon | Injury | Inflicts the Poisoned condition and paralyzes as per the hold spell. | 
+| Crippling Poison | Uncommon | Injury | Inflicts the Poisoned condition and slows as per the slow spell. |
+| Crypt Fever Disease | Common | Contact | Inflicts -2 penalty vs disease and poisons, and the target suffers 2 additional points of damage from diseases and poisons. |
+| Exhumed Corpse Fumes | Common | Inhaled | Deals 2d6 poison damage and inflicts the Poisoned condition. |
+| Mind-Numbing Poison | Uncommon | Injury | Deals 2d4 psychic damage and inflicts the Distracted condition. |
+| Paralytic Poison | Uncommon | Injury | Inflicts the Poisoned condition and paralyzes as per the hold spell. |
 | Serpent Venom | Uncommon | Injury | Deals 3d6 poison damage. |  
 | Shadow Wound Poison | Rare | Injury | Inflicts the Poisoned condition and halves all healing. |  
-| Truth Serum | Uncommon | Ingested | Affects the target as per the zone of truth spell. | 
-| Undead Plague | Rare | Ingested | Reduces the target’s maximum hit points and raises them an undead upon death. | 
+| Truth Serum | Uncommon | Ingested | Affects the target as per the zone of truth spell. |
+| Undead Plague | Rare | Ingested | Reduces the target’s maximum hit points and raises them an undead upon death. |
 
 </div>
 
 ##### Crippling Poison
-A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 minute. The Poisoned creature is slowed as the spell of the same name. On a successful saving throw (made only once per turn), the poison ends. 
+A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 minute. The Poisoned creature is slowed as the spell of the same name. On a successful saving throw (made only once per turn), the poison ends.
 
-This is a magical manufactured poison, created by mixing deathweed (a natural herb) and essence of pain (a magical component derived from blood of weak demons). 
+This is a magical manufactured poison, created by mixing deathweed (a natural herb) and essence of pain (a magical component derived from blood of weak demons).
 
 ##### Crypt Fever Disease
-Any creature that is affected by this disease suffers a weakened immune system, and must succeed on a DC 13 Stamina saving throw against disease or become poisoned until this disease is cured. 
+Any creature that is affected by this disease suffers a weakened immune system, and must succeed on a DC 13 Stamina saving throw against disease or become poisoned until this disease is cured.
 
-So long as the creature is poisoned, they a -2 penalty to all saving throws against disease and poison effects, and suffers two additional points of poison damage if inflicted by any disease or poison. 
+So long as the creature is poisoned, they a -2 penalty to all saving throws against disease and poison effects, and suffers two additional points of poison damage if inflicted by any disease or poison.
 
 Symptoms manifest 2d4 hours after infection and include fever and coughing, and while in the grips of this disease, victims’ skins pale.
 
-Any creature comes into touch contact with an infected creature once they begin showing their symptoms must make a DC 8 Stamina saving throw or also become infected with this disease. Once a creature succeeds on this save, it is immune to being infected from that particular infected creature for 24 hours. 
+Any creature comes into touch contact with an infected creature once they begin showing their symptoms must make a DC 8 Stamina saving throw or also become infected with this disease. Once a creature succeeds on this save, it is immune to being infected from that particular infected creature for 24 hours.
 
-At the end of each long rest, an infected creature can make a DC 13 Stamina saving throw. On a successful save, the penalty to saving throws and additional poison damage taken is reduced by 1 point. When the effect drops to 0, the creature recovers from the disease. 
+At the end of each long rest, an infected creature can make a DC 13 Stamina saving throw. On a successful save, the penalty to saving throws and additional poison damage taken is reduced by 1 point. When the effect drops to 0, the creature recovers from the disease.
 
 \columnbreak
 
 ##### Exhumed Corpse Fumes
 A creature subjected to this poison must succeed on a Stamina saving throw or take 7 (2d6) poison damage. At the beginning of their turn every round the poison remains active, the character takes 7 (2d6) poison damage again, and is treated as if poisoned until the beginning of their turn the next round. On a successful saving throw, the poison ends.
 
-This is a magical manufactured poison, created by mixing deathweed (a natural herb) and essence of death (a magical component derived from the corpses of burnt undead). 
+This is a magical manufactured poison, created by mixing deathweed (a natural herb) and essence of death (a magical component derived from the corpses of burnt undead).
 
 ##### Mind-Numbing Poison
 A creature subjected to this poison must succeed on a Stamina saving throw or take 5 (2d4) psychic damage. At the beginning of every round the poison remains active, the character takes 5 (2d4) psychic damage again, and is distracted. The DC of the distraction is 10 + ½ the damage dealt by this poison. On a successful saving throw, the poison ends.
 
 ##### Paralytic Poison
-A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 minute. The Poisoned creature is paralyzed as the hold spell. On a successful saving throw (made only once per turn), the poison ends. 
+A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 minute. The Poisoned creature is paralyzed as the hold spell. On a successful saving throw (made only once per turn), the poison ends.
 
-This is a magical manufactured poison, created by mixing deathweed (a natural herb) and dust of decay (a magical component derived from cremated undead). 
+This is a magical manufactured poison, created by mixing deathweed (a natural herb) and dust of decay (a magical component derived from cremated undead).
 
 ##### Serpent Venom
-A creature subjected to this poison must succeed on a Stamina saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. 
+A creature subjected to this poison must succeed on a Stamina saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-This is a mundane natural poison, created from drawing poison from a snake’s venom sacs. The rarity affects the venom’s power. 
+This is a mundane natural poison, created from drawing poison from a snake’s venom sacs. The rarity affects the venom’s power.
 
 \pagebreakNum
 
-| Rarity | Damage | 
+| Rarity | Damage |
 |:-:|:-:|
-| Uncommon | 3d6 | 
-| Rare | 5d6 | 
-| Epic | 7d6 | 
-| Legendary | 9d6 | 
+| Uncommon | 3d6 |
+| Rare | 5d6 |
+| Epic | 7d6 |
+| Legendary | 9d6 |
 
 ##### Shadow Wound Poison
-A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 hour. The Poisoned creature recovers only one-half the normal amount of healing from spells and effects that restore hit points. This includes regeneration and similar effects, doubling the duration between healing (alternatively, halving the healing gained). 
+A creature subjected to this poison must succeed on a Stamina saving throw or become poisoned for 1 hour. The Poisoned creature recovers only one-half the normal amount of healing from spells and effects that restore hit points. This includes regeneration and similar effects, doubling the duration between healing (alternatively, halving the healing gained).
 
 ##### Truth Serum
 A creature subjected to this poison must succeed on a DC 11 Stamina saving throw or become poisoned for 1 hour. The Poisoned creature can't knowingly speak a lie, as if under the effect of a Zone of Truth spell.
 
-This is a magical manufactured poison, created by mixing peacebloom (a natural herb) and essence of mana (a magical component derived from blood of spellcasters). 
+This is a magical manufactured poison, created by mixing peacebloom (a natural herb) and essence of mana (a magical component derived from blood of spellcasters).
 
-##### Undead Plague 
-Any creature that is affected by this disease must succeed on a DC 15 Stamina saving throw against disease or become poisoned until the disease is cured. 
+##### Undead Plague
+Any creature that is affected by this disease must succeed on a DC 15 Stamina saving throw against disease or become poisoned until the disease is cured.
 
-Every 24 hours that elapse while poisoned, the target must repeat the saving throw, reducing its hit point maximum by 5 (2d4) on a failure. This is considered a poison effect, and resistance against poison halves the reduction. The disease cannot reduce the target’s maximum hit points below 1, but if the creature dies and the disease remains uncured, it rises as an undead creature bound to the service of the Lich King as if the bind spell was cast on within 1 hour, so long as it is not revived or resurrected. If targeted with an conjure undead spell, the duration becomes instantaneous. If the corpse is targeted with a flask of holy water, the creature does not raise as an undead after death. 
+Every 24 hours that elapse while poisoned, the target must repeat the saving throw, reducing its hit point maximum by 5 (2d4) on a failure. This is considered a poison effect, and resistance against poison halves the reduction. The disease cannot reduce the target’s maximum hit points below 1, but if the creature dies and the disease remains uncured, it rises as an undead creature bound to the service of the Lich King as if the bind spell was cast on within 1 hour, so long as it is not revived or resurrected. If targeted with an conjure undead spell, the duration becomes instantaneous. If the corpse is targeted with a flask of holy water, the creature does not raise as an undead after death.
 
-If succeeding on three saving throws, the disease becomes latent, but does not fade away. So long as the disease remains, the reduction to maximum hit points cannot be removed, and it can be awakened again by another dose of the plague. This disease, despite being ingested, corrupts the air and earth it affects, affecting any exposed food with the plague. When particles of the plague fall on the earth, strange fungus grows, giving a hint to the disease’s origin. This land is considered blighted (as per the hallow/unhallow spell, although the land is not also unhallowed). 
+If succeeding on three saving throws, the disease becomes latent, but does not fade away. So long as the disease remains, the reduction to maximum hit points cannot be removed, and it can be awakened again by another dose of the plague. This disease, despite being ingested, corrupts the air and earth it affects, affecting any exposed food with the plague. When particles of the plague fall on the earth, strange fungus grows, giving a hint to the disease’s origin. This land is considered blighted (as per the hallow/unhallow spell, although the land is not also unhallowed).
 
-The plague can be suppressed with the lesser restoration spell or a restoration spell, and the reduction to maximum hit points can also be removed with the greater restoration spell, but the plague cannot be cured save by a wish spell or the divine intervention ability (if it opposes that of the semi-divine Lich King). 
+The plague can be suppressed with the lesser restoration spell or a restoration spell, and the reduction to maximum hit points can also be removed with the greater restoration spell, but the plague cannot be cured save by a wish spell or the divine intervention ability (if it opposes that of the semi-divine Lich King).
 
-This is a magical manufactured disease, created by an unknown fungus and suffused with necromantic magic. So far, only the Cult of the Damned (or those who infiltrated its alchemist and necromancer ranks) know how to make it. 
+This is a magical manufactured disease, created by an unknown fungus and suffused with necromantic magic. So far, only the Cult of the Damned (or those who infiltrated its alchemist and necromancer ranks) know how to make it.
 
 \pagebreakNum
 
@@ -14207,18 +14207,18 @@ This is a magical manufactured disease, created by an unknown fungus and suffuse
 <a id="customization"></a>
 
 ## Multiclassing
-Multiclassing in Warcraft works as in core 5e. 
+Multiclassing in Warcraft works as in core 5e.
 
 There are many instances in lore where a character has training in two distinct classes (such as the legendary paladin Uther Lightbringer, who, having trained as a knight, adding the experience of a priest before being called a paladin). Multiclassing is a viable tool to replicate special classes, concepts, or characters who seem to have abilities from several classes.
 
-For instance, the night elven Wardens and high elven Farstriders seem to be both rogues and hunters. 
+For instance, the night elven Wardens and high elven Farstriders seem to be both rogues and hunters.
 
-Tauren chieftains also seem to be both warriors with minor affinity to shamanism. 
+Tauren chieftains also seem to be both warriors with minor affinity to shamanism.
 
-Demon hunters may also augment their tracking abilities by taking a level in hunter, just as enhancement shamans may augment their martial power by taking a level in warrior and choosing specific talents. 
+Demon hunters may also augment their tracking abilities by taking a level in hunter, just as enhancement shamans may augment their martial power by taking a level in warrior and choosing specific talents.
 
 ## Changing Classes
-Several classes intersect in theme with others. A character may change their class to another one near them after accomplishing a quest and undergoing character development. 
+Several classes intersect in theme with others. A character may change their class to another one near them after accomplishing a quest and undergoing character development.
 
 | Old Class  | New Class |
 |:---:|:-----------:|
@@ -14227,15 +14227,15 @@ Several classes intersect in theme with others. A character may change their cla
 | Shaman and Mage | Warlock | 
 
 ### Attribute Change
-Changing from a casting class to another with a different spellcasting ability score also affects the creature’s mental abilities. 
+Changing from a casting class to another with a different spellcasting ability score also affects the creature’s mental abilities.
 
 If you have different spellcasting ability scores, you may move up to 4 ability score points from the old class’s spellcasting ability score to the new class’s spellcasting ability score. The old attribute cannot end up lower than 8, or higher than 18 (before applying increases from race, class, feats, etc.). The ability score total that can be changed is 4 (or one-half the character’s total level from the old class, whichever is higher)
 
-For example, turning from a shaman to a warlock, for instance, drains Spirit and bolsters Charisma as fel magic suffuses the shaman’s being. If the shaman (16 Spirit, 12 Charisma) chooses to start turning her back on the elements and kneeling to the Burning Legion, her journey to becoming a Warlock begins, moving up to 4 points from Spirit to Charisma (for a total of 12 Spirit, 16 Charisma). If the shaman was level 20, she can move up to 10 points instead (10 Spirit, 18 Charisma, as Charisma cannot be higher than 18 before modifications are applied). 
+For example, turning from a shaman to a warlock, for instance, drains Spirit and bolsters Charisma as fel magic suffuses the shaman’s being. If the shaman (16 Spirit, 12 Charisma) chooses to start turning her back on the elements and kneeling to the Burning Legion, her journey to becoming a Warlock begins, moving up to 4 points from Spirit to Charisma (for a total of 12 Spirit, 16 Charisma). If the shaman was level 20, she can move up to 10 points instead (10 Spirit, 18 Charisma, as Charisma cannot be higher than 18 before modifications are applied).
 
-Changing from a class to another in downtime is also viable, as is changing a talent chosen or a general decision (such as feat taken, fighting style, archetype, etc.). 
+Changing from a class to another in downtime is also viable, as is changing a talent chosen or a general decision (such as feat taken, fighting style, archetype, etc.).
 
-This is resolved as normal downtime training to learn a new language or training with a set of tools (takes 250 days, and costs 1 gp per day), although the DM may reduce the time to train dramatically with a quest or event (subject to shared adjudication). 
+This is resolved as normal downtime training to learn a new language or training with a set of tools (takes 250 days, and costs 1 gp per day), although the DM may reduce the time to train dramatically with a quest or event (subject to shared adjudication).
 
 ## Feats
 
@@ -14244,14 +14244,14 @@ This is resolved as normal downtime training to learn a new language or training
 ___
 **Strike feats**
 <br>
-These are effects that modify a successful attack roll and cost a bonus action. If a strike effect calls for a saving throw, the DC is equal to 8 + proficiency bonus + Strength (or Agility if using a finesse or light weapon). 
+These are effects that modify a successful attack roll and cost a bonus action. If a strike effect calls for a saving throw, the DC is equal to 8 + proficiency bonus + Strength (or Agility if using a finesse or light weapon).
 
 ##### Alchemical Aptitude
 **Prerequisites: Intelligence 13 or higher.**
 <br>
-You gain proficiency in Alchemist’s Supplies, and the Alchemy ability (with an effective caster level of 1). 
+You gain proficiency in Alchemist’s Supplies, and the Alchemy ability (with an effective caster level of 1).
 
-You gain three potion recipes from the Alchemist spell lists, and can store them in an alchemist’s formula book, and scribe them in any language you know. 
+You gain three potion recipes from the Alchemist spell lists, and can store them in an alchemist’s formula book, and scribe them in any language you know.
 
 Hunters and Rogues often choose from the following: Alchemists acid, alchemist’s fire, alchemist’s frost, false life potion, healing potion, poison spray potion, rejuvenation potion (sometimes known as a crimson vial) or smoke bomb.
 
@@ -14259,42 +14259,42 @@ Warriors often choose from the following: Alchemists acid, alchemist’s fire, a
 
 Undead characters often take potions of death coil as healing potions instead.
 
-##### Attuned Spell 
+##### Attuned Spell
 **Prerequisite: Access to 1st level spells**
 <br>
-You attune your spellcasting capabilities to a small number of specific spells, and are much more capable in casting them, at the cost of your flexibility in choosing which spells you can cast. You can choose up to three spells, and each of them are cast for 2 less mana points (minimum 1). You can change these spells by retraining (treating your spellcaster level as the relevant level). 
+You attune your spellcasting capabilities to a small number of specific spells, and are much more capable in casting them, at the cost of your flexibility in choosing which spells you can cast. You can choose up to three spells, and each of them are cast for 2 less mana points (minimum 1). You can change these spells by retraining (treating your spellcaster level as the relevant level).
 
-You cannot attune to any spell that is a minor spell for you (see Chapter 10), a spell that has ‘mana’ in its name or affects mana points (such as mana burn, drain mana or mana shield), one whose mana cost is lesser than those of comparable level (such as strike and stance spells, or shadow bolt), or a spell that relies on, casts, or replicates another spell (such as conjure strike, glyph of warding, or wish). 
+You cannot attune to any spell that is a minor spell for you (see Chapter 10), a spell that has ‘mana’ in its name or affects mana points (such as mana burn, drain mana or mana shield), one whose mana cost is lesser than those of comparable level (such as strike and stance spells, or shadow bolt), or a spell that relies on, casts, or replicates another spell (such as conjure strike, glyph of warding, or wish).
 
-This feat is sometimes known as spell mastery or favored spell, and is historically one of the reasons human spellcasters were able to compete with non-human spellcasters with few iconic spells. 
+This feat is sometimes known as spell mastery or favored spell, and is historically one of the reasons human spellcasters were able to compete with non-human spellcasters with few iconic spells.
 
-Despite the name of this ability, this does not consume attunement slots and do not count as attuned items. 
+Despite the name of this ability, this does not consume attunement slots and do not count as attuned items.
 
 ##### Brew Mastery
 **Prerequisites: Ki**
 <br>
-You gain proficiency in brewer supplies. 
+You gain proficiency in brewer supplies.
 
-Also, if you have the Ki feature, you may imbue a pint of drink (alcohol, tea, or any other brew) with a measure of your Ki, reducing your current and maximum Ki pool by the amount of points you use. 
+Also, if you have the Ki feature, you may imbue a pint of drink (alcohol, tea, or any other brew) with a measure of your Ki, reducing your current and maximum Ki pool by the amount of points you use.
 
 The drink is suffused with your power, and confers a benefit to whoever drinks it. Drinking a brew is a bonus action, and grants one of the below benefits for eight hours, until they take a long rest, or until they make use of three uses of the effect (whichever comes first). After the drink is consumed, your Ki maximum is restored to normal (and can
 
 \pagebreakNum
 
-rest to regain the lost Ki). A creature cannot benefit from more than one brew at any given time, and cannot benefit if they do not require drink or food to stay alive, or if they cannot reasonably process drinks. The brew can also be force-consumed with a melee unarmed attack or as part of a grapple check. 
+rest to regain the lost Ki). A creature cannot benefit from more than one brew at any given time, and cannot benefit if they do not require drink or food to stay alive, or if they cannot reasonably process drinks. The brew can also be force-consumed with a melee unarmed attack or as part of a grapple check.
 
-You gain two brew recipe upon gaining this feat, and may learn more by finding recipes throughout the world or by training. 
+You gain two brew recipe upon gaining this feat, and may learn more by finding recipes throughout the world or by training.
 * Fortifying Brew (1 Ki point). All creatures who drink this brew increase their maximum hit points by 1 per monk level (max is equal to double the imbiber’s original hit points). If the character later suffers from a reduction to maximum hit points, it is reduced from the benefit of Fortifying Brew first. This benefit ends if the creature is reduced to 0 hit points. This does not stack with aid spell.
-* Elusive Brew (1 Ki point). All creatures who drink this brew can use a reaction to perform the Dodge action. Each reaction is a single use. 
+* Elusive Brew (1 Ki point). All creatures who drink this brew can use a reaction to perform the Dodge action. Each reaction is a single use.
 * Dizzying Haze (1 Ki point). All creatures who drink this brew suffer from light obstruction to perception, and lose 10 feet of speed for one minute. The creature can make a Stamina saving throw to negate the obstruction to vision and negate the reduction to speed. If targeted with a fire spell or effect, the creature suffers from the burning condition, but takes 1d4 points of fire damage instead of 1d6. The target can attempt an Agility saving throw against your ki DC to avoid suffering the burning condition. Unlike most brews, the benefit of this brew can be used once.
-* Mana Tea (2 Ki). All creatures who drink this brew can regain 2 Ki, or 2 points of mana. As normal mana regeneration effects, this effect has a cooldown of an hour (even if used for Ki). Unlike most brews, the benefits of this brew can be used once. 
-* Thunder Focus Tea (2 Ki). All creatures who drink this brew reduce the mana or Ki cost for area-of-effect and multi-target spells by 1 point (minimum 1 mana, minimum 0 Ki). Each reduction is one use. 
-* Tigereye Brew (1 Ki). All creatures who drink this brew can add their Spirit bonus to melee weapon damage rolls. Each application is one use. 
-* Ki Guard Brew (2 Ki). All creatures who drink this brew take 2 less points of damage from weapon attack rolls. This is an aura bonus. Each reduction is one use. 
+* Mana Tea (2 Ki). All creatures who drink this brew can regain 2 Ki, or 2 points of mana. As normal mana regeneration effects, this effect has a cooldown of an hour (even if used for Ki). Unlike most brews, the benefits of this brew can be used once.
+* Thunder Focus Tea (2 Ki). All creatures who drink this brew reduce the mana or Ki cost for area-of-effect and multi-target spells by 1 point (minimum 1 mana, minimum 0 Ki). Each reduction is one use.
+* Tigereye Brew (1 Ki). All creatures who drink this brew can add their Spirit bonus to melee weapon damage rolls. Each application is one use.
+* Ki Guard Brew (2 Ki). All creatures who drink this brew take 2 less points of damage from weapon attack rolls. This is an aura bonus. Each reduction is one use.
 ___
 You may brew and imbue as much drinks as your Ki allows, though the ki dissipates naturally over the course of three days. This is considered a ki feature, and has the same DC to resist.
 
-##### Fel Suffusion 
+##### Fel Suffusion
 **Prerequisites: Access to 1st level spells and either the ability to cast spells that deal fel damage or having mana siphoned a fiend**
 <br>
 As a bonus action, you can suffuse the invasive corruption of fel magic into your spells. When a spell you cast is enhanced this way, you can ignore the spell resistance feature, or treat your spell’s level as if two spell levels higher for the purposes of spell immunities, dispel, and other variables. You can use this feat a number of times equal to your Spellcasting ability modifier. All uses are replenished after a long rest. You can regain one use if you perform mana siphon (mana vampirism) upon a fiend. You cannot suffuse spells that do (or can) deal holy damage.
@@ -14304,11 +14304,11 @@ As a bonus action, you can suffuse the invasive corruption of fel magic into you
 ##### Fiendish Fury
 **Prerequisite: The ability to cast the berserker frenzy spell or benefitting from it at least once.**
 <br>
-When under the effects of the berserker frenzy spell, your anger manifests in an aura of fel flame, dealing 1d4 fel damage to creatures that start their turn adjacent to you. 
+When under the effects of the berserker frenzy spell, your anger manifests in an aura of fel flame, dealing 1d4 fel damage to creatures that start their turn adjacent to you.
 
-As a strike effect, you may also add this damage to your melee weapon attacks once per turn. If you are reduced to 0 hit points while raging in this case, you may instead be reduced to 1 hit point and gain one level of exhaustion. The level of exhaustion is added 1 minute after you end your rage. If you would be killed, you instead gain three levels of exhaustion. 
+As a strike effect, you may also add this damage to your melee weapon attacks once per turn. If you are reduced to 0 hit points while raging in this case, you may instead be reduced to 1 hit point and gain one level of exhaustion. The level of exhaustion is added 1 minute after you end your rage. If you would be killed, you instead gain three levels of exhaustion.
 
-You can continue to stack levels of exhaustion this way, in which case they all apply once your rage ends (unless otherwise mitigated by some other means). 
+You can continue to stack levels of exhaustion this way, in which case they all apply once your rage ends (unless otherwise mitigated by some other means).
 
 ##### Infusionist
 **Prerequisite: Four or more caster levels, Intelligence 15 or higher**
@@ -14318,16 +14318,16 @@ You gain proficiency with the infusion skill and can make infused items.
 ##### Magical Suffusion
 **Prerequisite: Ability to cast arcane or divine spells, access to cantrips**
 <br>
-You gain increased proficiency with cantrips. Your cantrips count as if you are 4 levels higher to determine the damage dealt with them. 
+You gain increased proficiency with cantrips. Your cantrips count as if you are 4 levels higher to determine the damage dealt with them.
 
-You prepare one additional cantrip (total is your proficiency bonus + 1). Furthermore, cantrips never cost mana for you. 
+You prepare one additional cantrip (total is your proficiency bonus + 1). Furthermore, cantrips never cost mana for you.
 
 ##### Multiclass Synergy
 **Prerequisites: At least two levels in two different classes**
 <br>
-You can unerringly mix disciplines you are proficient with. Choose two classes you have at least two levels in. Each two levels from one class counts as one effective level to the other for the purposes of improving existing abilities that scale on class level (such as Second Wind, Sneak Attack, and Martial Arts). This includes the Spellcasting feature, where you can add caster levels from different classes (therefore, 1 full caster level from the mage class, and ½ a caster level from the hunter class). If you are a spellcaster who multiclasses with a non-spellcasting class, count one-half the other class’s level as an increase to your caster level (treating it as if it provided 0.5 caster levels). 
+You can unerringly mix disciplines you are proficient with. Choose two classes you have at least two levels in. Each two levels from one class counts as one effective level to the other for the purposes of improving existing abilities that scale on class level (such as Second Wind, Sneak Attack, and Martial Arts). This includes the Spellcasting feature, where you can add caster levels from different classes (therefore, 1 full caster level from the mage class, and ½ a caster level from the hunter class). If you are a spellcaster who multiclasses with a non-spellcasting class, count one-half the other class’s level as an increase to your caster level (treating it as if it provided 0.5 caster levels).
 
-This does not grant access to new abilities, nor stack with existing improvements from multiclassing. You may choose improved progression, however, when counting your effective caster level. 
+This does not grant access to new abilities, nor stack with existing improvements from multiclassing. You may choose improved progression, however, when counting your effective caster level.
 
 For this purpose, Talents, Archetype features, ability score improvements, and improvements to Extra Attack are treated as new features, and cannot be gained by synergy.
 
@@ -14338,36 +14338,36 @@ For instance, the Warrior's Second Wind heals 1d10 + your warrior level when use
 ##### Mystic Blast
 **Prerequisite: Ability to cast arcane or divine spells**
 <br>
-You gain the ability to unleash latent magic as a ranged or touch attack. As an Action, you can unleash a Mystic Blast, which can be at a range of Touch or up to 20 feet (plus 10 feet per maximum spell level accessible, up to 110 feet at 9th level). 
+You gain the ability to unleash latent magic as a ranged or touch attack. As an Action, you can unleash a Mystic Blast, which can be at a range of Touch or up to 20 feet (plus 10 feet per maximum spell level accessible, up to 110 feet at 9th level).
 
 Upon a successful attack roll, the blast deals 1d6 points of damage, chosen from the following: acid, cold, lightning, or fire. For every spell level you access, this deals an extra 1d6 (up to 9d6 at 9th level)
 
 You may alternatively choose one of the following magic damage types (arcane, fel, holy, psychic, thunder, or shadow) for your Mystic Blast, but you must have a spell with such descriptors prepared, and it deals 1d4 damage instead (up to 9d4 at 9th level).
 
-This does not cost mana, and can be done at will as a supernatural ability, so long as you have at least 1 mana point in reserve for each dice of damage. 
+This does not cost mana, and can be done at will as a supernatural ability, so long as you have at least 1 mana point in reserve for each dice of damage.
 
 If you are exhausted from low mana, you cannot make use of this ability unless you are no longer exhausted.
 
-This counts as a spell for the purposes of the Spell Strike feat. 
+This counts as a spell for the purposes of the Spell Strike feat.
 
-This feat can be taken multiple times. 
+This feat can be taken multiple times.
 ___
 **Mystic Blast Augmentations**
 <br>
-Whenever the feat is possessed more than once (such as by taking the feat more than once, having an ability that would give you Mystic Blast, etc.), you gain a Mystic Blast augmentation chosen from the list below. You can have multiple augmentations. 
+Whenever the feat is possessed more than once (such as by taking the feat more than once, having an ability that would give you Mystic Blast, etc.), you gain a Mystic Blast augmentation chosen from the list below. You can have multiple augmentations.
 * *Attuned.* Your Mystic Blast can be used as an Attack action, but only once per turn. If taken again, this allows one extra attack action to be turned into a Mystic Blast.
-Empowered. Your Mystic Blast deals 50% extra damage. This can stack. 
-Innate. Your Mystic Blast requires no mana in reserve (but still cannot be used when exhausted from low mana). 
+  Empowered. Your Mystic Blast deals 50% extra damage. This can stack.
+  Innate. Your Mystic Blast requires no mana in reserve (but still cannot be used when exhausted from low mana).
 * *Maneuvering.* A single target of your Mystic Blast is subject to a Shove attempt (using your Spell Attack roll as the contested roll). If taken twice, this both pushes and knocks prone on a successful roll. The distance pushed is equal to 5 feet per three spell levels accessed (minimum 5 feet, maximum 15 feet).
-* *Reacting.* When targeted by a Mystic Blast or ability that deals the same damage type as of your Mystic Blast, you can use Mystic Blast as a reaction against the source that targeted you. If you desire, the damage from your Mystic Blast can reduce the damage you would have taken from the ability. If this reduces the damage to 0, you retain use of your reaction and have not spent it. 
-* *Splitting.* Your Mystic Blast can spread its damage across multiple targets. You can freely split the damage (in any amount you wish) between up to one target per spell level accessed, so long as the targets are within 30 feet of one another. If taken again, this doubles the splitting range. 
+* *Reacting.* When targeted by a Mystic Blast or ability that deals the same damage type as of your Mystic Blast, you can use Mystic Blast as a reaction against the source that targeted you. If you desire, the damage from your Mystic Blast can reduce the damage you would have taken from the ability. If this reduces the damage to 0, you retain use of your reaction and have not spent it.
+* *Splitting.* Your Mystic Blast can spread its damage across multiple targets. You can freely split the damage (in any amount you wish) between up to one target per spell level accessed, so long as the targets are within 30 feet of one another. If taken again, this doubles the splitting range.
 
 ##### Improved Regeneration
 **Prerequisite: Troll, Stamina of 13 or higher**
 <br>
-You increase your Stamina score by 1, to a maximum of 20. 
+You increase your Stamina score by 1, to a maximum of 20.
 
-You regain 1 hit point at the end of each hour, provided you have at least 1 hit point remaining. 
+You regain 1 hit point at the end of each hour, provided you have at least 1 hit point remaining.
 
 You regenerate lost limbs in three days instead of one week, unless they were taken willingly (such as to escape bonds), or if they are cauterized.
 
@@ -14378,69 +14378,69 @@ Your link to the ancients increases in strength. The ancients grant their blessi
 
 You may Dash as a bonus action when you are not in bright light.
 
-Your Shadowmeld ability instead grants you concealment. This requires you to remain in the same circumstances that allow Shadowmeld, and cannot be used twice in the same minute. 
+Your Shadowmeld ability instead grants you concealment. This requires you to remain in the same circumstances that allow Shadowmeld, and cannot be used twice in the same minute.
 
-You may invoke the blessings of the ancients to cast the disguise self spell once per short rest. This can be invoked only in a place where your Shadowmeld could be used, but can be maintained when leaving such areas. 
+You may invoke the blessings of the ancients to cast the disguise self spell once per short rest. This can be invoked only in a place where your Shadowmeld could be used, but can be maintained when leaving such areas.
 
 ##### Spell Strike [Strike]
-When you make a melee or ranged weapon attack, you may use a bonus action to apply the effects of a direct-target spell to the struck creature. The spell targets the creature struck, and cannot target anyone else, such as you, an area, or an adjacent creature. The creature is still entitled a saving throw if the spell allows it, but if the spell targets AC, the effect does not call for another roll. 
+When you make a melee or ranged weapon attack, you may use a bonus action to apply the effects of a direct-target spell to the struck creature. The spell targets the creature struck, and cannot target anyone else, such as you, an area, or an adjacent creature. The creature is still entitled a saving throw if the spell allows it, but if the spell targets AC, the effect does not call for another roll.
 
-This is declared before the strike is made, and a spell that is designated to discharge is lost harmlessly if the attack fails. The range of the spell increases to become the range of the attack (a shocking grasp spell cast through a spell strike via an arrow will deal damage normally if the hit lands). 
+This is declared before the strike is made, and a spell that is designated to discharge is lost harmlessly if the attack fails. The range of the spell increases to become the range of the attack (a shocking grasp spell cast through a spell strike via an arrow will deal damage normally if the hit lands).
 
 The extra spell damage is not increased if the attack is a critical hit.
 
-This feat cannot be applied to a strike spell. 
+This feat cannot be applied to a strike spell.
 
 ##### Spell Stance [Stance]
-As a bonus action, you may enter a spell stance. As part of entering this stance, you may cast a spell on yourself, so long as the spell’s original casting time is equal to one action or is shorter. 
+As a bonus action, you may enter a spell stance. As part of entering this stance, you may cast a spell on yourself, so long as the spell’s original casting time is equal to one action or is shorter.
 
-So long as you remain in the spell stance, the spell remains active, up to its normal duration or ending parameters. 
+So long as you remain in the spell stance, the spell remains active, up to its normal duration or ending parameters.
 
-The spell requires the normal mana cost or resources, and must be a spell that can target you or a touched creature. If the spell is an instantaneous spell, you may cast it on yourself again as a bonus action in the next round so long as you remain in the stance. 
+The spell requires the normal mana cost or resources, and must be a spell that can target you or a touched creature. If the spell is an instantaneous spell, you may cast it on yourself again as a bonus action in the next round so long as you remain in the stance.
 
-Only you benefit from the spell woven into the stance, even if the spell was originally an area spell or a spell that affects multiple targets (in which case you are the only available target). If you enter a different stance, all the benefits of the spell stance end prematurely (as if the duration ended or as if you lost concentration, whichever appropriate). 
+Only you benefit from the spell woven into the stance, even if the spell was originally an area spell or a spell that affects multiple targets (in which case you are the only available target). If you enter a different stance, all the benefits of the spell stance end prematurely (as if the duration ended or as if you lost concentration, whichever appropriate).
 
-Examples for such uses are the holy light spell to heal yourself, the blade ward spell to ward off weapon strikes, or the general ‘buff spells’ such as see invisibility, haste, tongues, or shield of faith. 
+Examples for such uses are the holy light spell to heal yourself, the blade ward spell to ward off weapon strikes, or the general ‘buff spells’ such as see invisibility, haste, tongues, or shield of faith.
 
 ##### Titan-Born
 **Prerequisites: Dwarf race**
 <br>
 Your link to the ancient earthen and your titanic progenitors increases in strength. Your skin is no longer strictly flesh, but acts as if malleable and flexible metal or stone. You gain the following abilities.
 
-You may use your Stoneform ability up to three times before a rest. 
+You may use your Stoneform ability up to three times before a rest.
 
 \pagebreakNum
 
 You are immune to the petrified condition, and can hold your breath up to 15 minutes.
 
-You know the mold earth cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast thunderwave as a 1st level spell. When you reach 5th level, you can also cast the earthen grasp spell as a 2nd level spell. 
+You know the mold earth cantrip and can cast it normally (caster level equal to your character level). When you reach 3rd level, you can also cast thunderwave as a 1st level spell. When you reach 5th level, you can also cast the earthen grasp spell as a 2nd level spell.
 
 Charisma is your spellcasting ability for these spells, and you use your mana pool for these abilities (even if you are not normally a spellcaster). While you use such abilities (and after using them for one hour), your skin glows a pale blue. If you can already cast such spells (and have a sufficiently high caster level), they are always prepared for free.
 ___
-*Special.* If you are a Dark Iron Dwarf, you can choose to forgo the thunderwave and earthen grasp spells to the hellish rebuke and flaming sphere spells, respectively. 
+*Special.* If you are a Dark Iron Dwarf, you can choose to forgo the thunderwave and earthen grasp spells to the hellish rebuke and flaming sphere spells, respectively.
 
 ##### Wolf-Born
 **Prerequisites: Worgen race**
 <br>
 Your inner wolf manifests in a more pronounced way, and are able to take control of the curse.
 
-You gain a +1 bonus to your Strength and +1 bonus to your Agility scores. 
+You gain a +1 bonus to your Strength and +1 bonus to your Agility scores.
 
-You increase your walking speed by 5 feet. 
+You increase your walking speed by 5 feet.
 
-Your Worgen Form racial ability has both the benefits of Embrace the Beast and Reject the Beast. 
+Your Worgen Form racial ability has both the benefits of Embrace the Beast and Reject the Beast.
 
 \pagebreakNum
 
 # Chapter 7: Using Ability Scores, Skills, and Tools
-To better facilitate and replicate the ability to craft, mine, and refine materials into weapons, there are a few changes to the skill system, by including Gathering and Refining skills. 
+To better facilitate and replicate the ability to craft, mine, and refine materials into weapons, there are a few changes to the skill system, by including Gathering and Refining skills.
 ___
 **Ability Proficiency and Expertise**
 <br>
-In this system, Expertise as a term compasses all instances where a character adds double their Proficiency Bonus to a check. 
+In this system, Expertise as a term compasses all instances where a character adds double their Proficiency Bonus to a check.
 
 ## Crafting
-Most crafting tools are also artisan tools, and require proficiency in the tools used, but some are given to or restricted by race, class, or feature only (the Engineer’s Tools and Infusion Kit). 
+Most crafting tools are also artisan tools, and require proficiency in the tools used, but some are given to or restricted by race, class, or feature only (the Engineer’s Tools and Infusion Kit).
 
 | Artisan Tool | Task Performed |
 |:---:|:-----------:|
@@ -14454,117 +14454,117 @@ Most crafting tools are also artisan tools, and require proficiency in the tools
 | Smithing Tools | Creates weapons, armor, and metallic trinkets | 
 | Tailoring Kit | Creates cloth-based items (such as clothes, boots, and hats) | 
 ___
-**I.** Proficiency in Alchemist’s Supplies can be improved with the Alchemy ability (see below). 
+**I.** Proficiency in Alchemist’s Supplies can be improved with the Alchemy ability (see below).
 <br>
-**R.** Proficiency in Engineer’s Tools and the Infusion Kit are restricted to abilities granting proficiency. 
+**R.** Proficiency in Engineer’s Tools and the Infusion Kit are restricted to abilities granting proficiency.
 
 
 ### Crafting Rules
-Crafting takes four components: 
-* Time roughly equivalent to the complexity of the end product. 
-* Raw materials equal to one-half that of the end product (round fractions down). 
-* Proficiency with the tools (or skill) relevant. 
-* Success on the Crafting check (if required by the DM). 
+Crafting takes four components:
+* Time roughly equivalent to the complexity of the end product.
+* Raw materials equal to one-half that of the end product (round fractions down).
+* Proficiency with the tools (or skill) relevant.
+* Success on the Crafting check (if required by the DM).
 ___
-At the end of the allotted crafting time, and if the check is successful, the user crafts the item in question. 
+At the end of the allotted crafting time, and if the check is successful, the user crafts the item in question.
 
-| Complexity Class | Example | Crafting Time | DC | 
+| Complexity Class | Example | Crafting Time | DC |
 |:-:|:-:|:-:|:-:|
-| Very Simple | Stick, Ball of Yarn | 10 minutes | 7 | 
-| Simple | Simple weapon | 1 hour | 10 | 
-| Moderate | Martial weapon, Light armor | 1 day | 13 | 
-| Complex | Medium armor, Lock | 1 week | 16 | 
-| Highly complex | Heavy armor, Construct | 2 weeks | 19 | 
+| Very Simple | Stick, Ball of Yarn | 10 minutes | 7 |
+| Simple | Simple weapon | 1 hour | 10 |
+| Moderate | Martial weapon, Light armor | 1 day | 13 |
+| Complex | Medium armor, Lock | 1 week | 16 |
+| Highly complex | Heavy armor, Construct | 2 weeks | 19 |
 ___
-Per stage above highly complex (or Highly Complex II, etc.), the time doubles per increment (1 month, 2 months, 3 months, etc.), although the DC does not increase. 
+Per stage above highly complex (or Highly Complex II, etc.), the time doubles per increment (1 month, 2 months, 3 months, etc.), although the DC does not increase.
 
-Crafting takes the specified time, cut down to the nearest ten minutes. Succeeding against the crafting DC by 10 points or more reduces the crafting time by half. 
+Crafting takes the specified time, cut down to the nearest ten minutes. Succeeding against the crafting DC by 10 points or more reduces the crafting time by half.
 
 For example, a rogue (if proficient with smith’s tools), can begin to forge a dagger (simple weapon) if she has access to all the tools she needs. As a simple complexity item, it would take her one hour if she has all the required materials and succeeds on a DC 10 Crafting check. If she rolls a natural 20 or gets a result equal to or higher than 20, it takes only 30 minutes.
 
 ## Discovery
-Making new spells, alchemical formulae, and blueprints for engineering are all highly complicated tasks. It takes downtime and money to research appropriate to formula itself. 
+Making new spells, alchemical formulae, and blueprints for engineering are all highly complicated tasks. It takes downtime and money to research appropriate to formula itself.
 ___
 **Downtime.** It takes 2 weeks per spell level, or 1 week per rarity step of the device.
 <br>
-**Money.** It takes 50 gp per spell level (if a spell, alchemical formula, or gadget), or 75 gp per rarity step of any device that is not a gadget (which uses the spell calculation instead). 
+**Money.** It takes 50 gp per spell level (if a spell, alchemical formula, or gadget), or 75 gp per rarity step of any device that is not a gadget (which uses the spell calculation instead).
 ___
 An infusion matrix may require the crafting cost of an item of the matrix’s quality in research reagents, or may require the destruction of such a matrix to extract knowledge of how to create it. The DM may impose additional requirements, such as requiring an elemental crystal for a flamethrower (elemental engine) or a blueprint of a normal vehicle to make a similar design.
 
-Instead of researching a new spell, a character can research a creature’s name to conjure it. This takes the same amount of time, and the character can only research a name of a creature they are of sufficient power to conjure (CR equal to highest-level spell). Other stronger names require subjecting yourself to the risks of a Call or by learning the information another way. 
+Instead of researching a new spell, a character can research a creature’s name to conjure it. This takes the same amount of time, and the character can only research a name of a creature they are of sufficient power to conjure (CR equal to highest-level spell). Other stronger names require subjecting yourself to the risks of a Call or by learning the information another way.
 
 \pagebreakNum
 
 <div class="classTable wide">
 
 ## Item Creation Complexity and Cost Table
-Items have cost to create in materials and gold, scaling with its quality or rarity. The below table includes the cost for material per quality, but is modified further per type of material (or crafting class, such as consumable, use-item, infused item, or creature). 
+Items have cost to create in materials and gold, scaling with its quality or rarity. The below table includes the cost for material per quality, but is modified further per type of material (or crafting class, such as consumable, use-item, infused item, or creature).
 
-For instance, a Common rarity consumable costs 20 gp to buy (unmodified base price), but a Common creature costs 500 gp (x25 due to being a creature). 
+For instance, a Common rarity consumable costs 20 gp to buy (unmodified base price), but a Common creature costs 500 gp (x25 due to being a creature).
 
-Item quality usually also scales with complexity, but only when specified in the description of the tool or product. 
+Item quality usually also scales with complexity, but only when specified in the description of the tool or product.
 
 | Item Quality | Proficiency | Spell Level: max CR<sup>2</sup> | Dice<sup>3</sup> |
 |:-:|:-:|:-:|:-:|
-| Common | +2/Apprentice | Cantrip: CR ¼ - ½ | 2/3 | 
-| Uncommon | +2/Apprentice | 1-2 | 3/5 | 
-| Rare | +3/Journeyman | 3-4 | 4/7 | 
-| Epic | +4/Expert | 5-6 | 5/9 | 
-| Legendary<sup>4</sup> | +5/Artisan | 7-8 | 6/11 | 
-| Artifact | +6/Master | 9+ | 7/13 | 
+| Common | +2/Apprentice | Cantrip: CR ¼ - ½ | 2/3 |
+| Uncommon | +2/Apprentice | 1-2 | 3/5 |
+| Rare | +3/Journeyman | 3-4 | 4/7 |
+| Epic | +4/Expert | 5-6 | 5/9 |
+| Legendary<sup>4</sup> | +5/Artisan | 7-8 | 6/11 |
+| Artifact | +6/Master | 9+ | 7/13 |
 
-| Class (gp) | Common | Uncommon | Rare | Epic | Legendary | Artifact | 
+| Class (gp) | Common | Uncommon | Rare | Epic | Legendary | Artifact |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Consumables | 20 | 80 | 320 | 1,280 | 5,120 | 20,480 | 
-| Use-Items | 200 | 800 | 3,200 | 12,800 | 51,200 | 204,800 | 
-| Infused Items	| 500 | 2,000 | 8,000 | 32,000 | 128,000 | 512,000 | 
-| Creatures | 500 | 2,000 | 8,000 | 32,000 | 128,000 | 512,000 | 
+| Consumables | 20 | 80 | 320 | 1,280 | 5,120 | 20,480 |
+| Use-Items | 200 | 800 | 3,200 | 12,800 | 51,200 | 204,800 |
+| Infused Items	| 500 | 2,000 | 8,000 | 32,000 | 128,000 | 512,000 |
+| Creatures | 500 | 2,000 | 8,000 | 32,000 | 128,000 | 512,000 |
 ___
-**1** This is the base cost of purchase with most vendors for an item (such as consumables) in gold pieces. An item’s cost can always be paid with raw or refined materials that are appropriate to the type of creation (such as the heart of a fire elemental for a flamethrower gadget). 
+**1** This is the base cost of purchase with most vendors for an item (such as consumables) in gold pieces. An item’s cost can always be paid with raw or refined materials that are appropriate to the type of creation (such as the heart of a fire elemental for a flamethrower gadget).
 <br>
-**2** This determines the spell levels and maximum CR of a creature-class item by item quality. The values of Maximum CR range between two numbers values; the lower one is 50% cheaper than the higher one. For instance, a Common ¼ creature is worth 125 gp in materials to craft, while ½ is 250. 
+**2** This determines the spell levels and maximum CR of a creature-class item by item quality. The values of Maximum CR range between two numbers values; the lower one is 50% cheaper than the higher one. For instance, a Common ¼ creature is worth 125 gp in materials to craft, while ½ is 250.
 <br>
-**3** Dice represents the number of base number of dice the item would deal in damage if made into a firearm (first number) and explosive (second). For instance, Uncommon firearms deal 3 dice of base damage, while Uncommon explosives deal 5 dice of base damage. Modified crossbows act as firearms, but deal 1 less dice in damage to offset their advantages. 
+**3** Dice represents the number of base number of dice the item would deal in damage if made into a firearm (first number) and explosive (second). For instance, Uncommon firearms deal 3 dice of base damage, while Uncommon explosives deal 5 dice of base damage. Modified crossbows act as firearms, but deal 1 less dice in damage to offset their advantages.
 <br>
-**4** Legendary and higher rarity items usually also require a quest to attune it to some magical source, such as the High Elven Sunwell, the Scourge's Frozen Throne, an elemental plane's core, or the Night Elves' World Tree. In the case of devices, this might rely on massive joined efforts by organizations (such as the Tinker’s Union of the Kezan goblins or one of the many tinkers guilds) or the employment of schematics derived from Titan technology. This is subject to the DM's discretion. Artifacts also usually require a lengthy quest that might alter the setting as a whole, and are usually infused by creatures of great power. The cost of larger objects increases the cost by 50% per size category. 
+**4** Legendary and higher rarity items usually also require a quest to attune it to some magical source, such as the High Elven Sunwell, the Scourge's Frozen Throne, an elemental plane's core, or the Night Elves' World Tree. In the case of devices, this might rely on massive joined efforts by organizations (such as the Tinker’s Union of the Kezan goblins or one of the many tinkers guilds) or the employment of schematics derived from Titan technology. This is subject to the DM's discretion. Artifacts also usually require a lengthy quest that might alter the setting as a whole, and are usually infused by creatures of great power. The cost of larger objects increases the cost by 50% per size category.
 
 </div>
 
 ### Crafting Classes
 There are four crafting classes, which modify the base price in the Item Creation Complexity Table.
-Consumables. This class includes any item that has one use and is unusable afterwards (such as potions, poisons, an engineered explosive, or an innovated item). The price of consumables is not modified and is equal to the value under Cost in the above table. Infused items that are consumables (such as infused ammunition and spell scrolls) have the cost of a consumable. 
+Consumables. This class includes any item that has one use and is unusable afterwards (such as potions, poisons, an engineered explosive, or an innovated item). The price of consumables is not modified and is equal to the value under Cost in the above table. Infused items that are consumables (such as infused ammunition and spell scrolls) have the cost of a consumable.
 
 * *Use-Items.* This class includes any gadget or device or weapon-like object created by alchemy or engineering, such as engineered firearms and modified crossbows. The price of use-items is x10 times the cost of a consumable of the same rarity.
 * *Infused Items.* This includes all wondrous items and infused weapons and armor, as well as other items created by Infusion Kits that do not fall under another class (such as consumables). The price of infused items is x25 times the cost of a consumable of the same rarity.
 * *Creatures.* This includes all creatures created by alchemy or engineering (such as golems, turrets, homunculi, etc.). The price of a creature is x25 times the cost of a consumable of the same rarity.
 
-For instance, purchasing a Common quality Alarm Stick costs 20 gp, while crafting it costs 10 gp in alchemical components and materials. If the character is a specialized crafter (such as a 2nd level Alchemist), crafting it costs 5 gp instead. 
+For instance, purchasing a Common quality Alarm Stick costs 20 gp, while crafting it costs 10 gp in alchemical components and materials. If the character is a specialized crafter (such as a 2nd level Alchemist), crafting it costs 5 gp instead.
 
-The Alchemist and Tinker class are specialized crafters. Upon gaining the Efficient Alchemy and Efficient Engineering features, respectively, they further reduce crafting costs to one-quarter rather than one-half buying price. 
+The Alchemist and Tinker class are specialized crafters. Upon gaining the Efficient Alchemy and Efficient Engineering features, respectively, they further reduce crafting costs to one-quarter rather than one-half buying price.
 
 \pagebreakNum
 
-For instance, purchasing a Common quality Alarm Stick costs 20 gp, while crafting it costs 10 gp in alchemical components and materials. If the character is a specialized crafter (such as a 2nd level Alchemist), crafting it costs 5 gp instead. 
+For instance, purchasing a Common quality Alarm Stick costs 20 gp, while crafting it costs 10 gp in alchemical components and materials. If the character is a specialized crafter (such as a 2nd level Alchemist), crafting it costs 5 gp instead.
 ___
-*Note.* If being proficient with Herbalism Kit, a character can still craft Potions of Healing (of all types), but the price is multiplied by 2 (for 40 gp purchase from an herbalist, 20 gp craft). 
+*Note.* If being proficient with Herbalism Kit, a character can still craft Potions of Healing (of all types), but the price is multiplied by 2 (for 40 gp purchase from an herbalist, 20 gp craft).
 This does not require the recipe for the Potion of Healing, but it is required if using Alchemist’s Supplies (even if also proficient with an Herbalism Kit).
 
 ## Tools: Gathering
-Due to the costs of crafting, few characters pay directly in raw materials and gp, especially those who are short on liquid wealth. For them, proficiency in gathering tools, harvesting nodes from monsters and locations (such as rare beasts and groves of natural materials), and scavenging materials from potions or devices they don’t need (or ones that are looted) is a cost-effective alternative. 
+Due to the costs of crafting, few characters pay directly in raw materials and gp, especially those who are short on liquid wealth. For them, proficiency in gathering tools, harvesting nodes from monsters and locations (such as rare beasts and groves of natural materials), and scavenging materials from potions or devices they don’t need (or ones that are looted) is a cost-effective alternative.
 
 For instance, a party of adventurers who defeat a harvest golem in Westfall might choose to deconstruct it if they have a tinker, so that the tinker can use its parts for devices that aid their quests. Coming across a cache of potions of dragons’ breath, an alchemist may decide to repurpose the potions and turn them into rejuvenation potions instead of paying the cost of potion creation.
 
 Any tool that allows for the collection or preservation of raw materials may be used to gather raw materials. These raw materials have a value that can be spent for crafting, such as alchemy (Alchemy Points), engineering (Engineering Points), Infusion (Infusion Points), or other crafting tools.
 
-| Artisan Tools | Task Performed | 
+| Artisan Tools | Task Performed |
 |:-:|:-:|
 | Mining tools | Collects metals, identifies metals and minerals, and general mining |  
-| Skinning tools | Collects hides, skins, and identifies quality of leather. |  
+| Skinning tools | Collects hides, skins, and identifies quality of leather. |
 
 ### Harvesting Nodes
 A DM is recommended to place minor and major nodes on the game map or reference it to important areas. As nodes, they usually attract attention of other characters and creatures, such as golems and spellcasters in places where infusion points are, and fey and druids where alchemical materials are. Most nodes take a day to harvest materials from. Multiple characters can harvest from the same node.
 
-Engineering materials (or appropriate base materials) can be drawn from mines or mining nodes, where kobolds, miners, and dwarves live, or are generated workshops. Nodes can be rewards for quests, and can be referenced in-character. 
+Engineering materials (or appropriate base materials) can be drawn from mines or mining nodes, where kobolds, miners, and dwarves live, or are generated workshops. Nodes can be rewards for quests, and can be referenced in-character.
 
 #### Node Size
 **Minor Node.** 250 gp of materials/day (two uses, rarely replenish)
@@ -14583,116 +14583,116 @@ ___
 
 Major nodes are usually sparse, rarely appearing more than five known instances. This includes the literal center of ley lines on a planet, a major mine system that accesses extremely rare metals, or the center of an ancient, magical forest blessed by the fey and gods. There is usually one major node per region. Major nodes are usually also seats of powers for major organizations, or are a battlefield for major powers to contest over.
 
-Examples are Tower of Karazhan, the Sunwell, the Tree of Eternity, Blackrock Spire, and the Maelstrom for Infusion Points. A DM may reward a crafting class with access to a node, such as a mage tower built atop a mana fountain. 
+Examples are Tower of Karazhan, the Sunwell, the Tree of Eternity, Blackrock Spire, and the Maelstrom for Infusion Points. A DM may reward a crafting class with access to a node, such as a mage tower built atop a mana fountain.
 
-For instance, a 1st level warrior proficient in mining tools, for example, can spend a day in a minor node (an iron mine), harvesting 250 gp worth of materials after working, which can be invested in making any iron-based weapon. 
+For instance, a 1st level warrior proficient in mining tools, for example, can spend a day in a minor node (an iron mine), harvesting 250 gp worth of materials after working, which can be invested in making any iron-based weapon.
 
 #### Monster Nodes
-Some monsters act as nodes. A monster that is harvested for a particular body part has the rest of its body parts damaged in the attempts to extract value. The time it takes to harvest is decided jointly between the DM and the player. 
+Some monsters act as nodes. A monster that is harvested for a particular body part has the rest of its body parts damaged in the attempts to extract value. The time it takes to harvest is decided jointly between the DM and the player.
 
 If harvesting a Consumable the monster naturally creates (such as a poison), one dose can be created per Hit Dice with no cost with a given success (if medium sized). A monster that can be harvested usually shows signs of it, and are described as such. A single monster of the below proficiency can provide materials for a number of items of the below listed quality. For each size category of difference, the dosage is a fraction smaller or doubled in quantity (a small venomous spider gives one-half a dose per Hit Dice, while a wyvern gives two doses per hit dice).
 
 #### Gathering Raw Materials on the Field
-This use allows the user to gather materials over time. This is markedly less efficient than extracting from a node. The user can spend one day of downtime in gathering. This does not include paying lifestyle expenses or upkeep (which must be paid normally). 
+This use allows the user to gather materials over time. This is markedly less efficient than extracting from a node. The user can spend one day of downtime in gathering. This does not include paying lifestyle expenses or upkeep (which must be paid normally).
 
-| Proficiency | Materials/day | Materials/week | 
+| Proficiency | Materials/day | Materials/week |
 |:-:|:-:|:-:|
-| +2 | 1 gp | 7 gp | 
+| +2 | 1 gp | 7 gp |
 | +3 | 7 gp | 50 gp |
-| +4 | 25 gp | 175 gp | 
-| +5 | 100 gp | 700 gp | 
-| +6 | 375 gp | 2,625 gp | 
+| +4 | 25 gp | 175 gp |
+| +5 | 100 gp | 700 gp |
+| +6 | 375 gp | 2,625 gp |
 
-The nature of the materials gathered are judged jointly by the DM and the harvester, who decide upon the materials (engineering, infusion, alchemy, etc.) you acquired, judging by the environment, resources, and skill used. 
+The nature of the materials gathered are judged jointly by the DM and the harvester, who decide upon the materials (engineering, infusion, alchemy, etc.) you acquired, judging by the environment, resources, and skill used.
 
 \pagebreakNum
 
-For instance, a 5th level druid proficient in an herbalism kit, for example, can spend a week on harvesting minerals from assorted herb locations or from small gardens, gaining 50 gp worth of alchemical materials (sufficient for crafting an uncommon potion; or 40 gp worth). 
+For instance, a 5th level druid proficient in an herbalism kit, for example, can spend a week on harvesting minerals from assorted herb locations or from small gardens, gaining 50 gp worth of alchemical materials (sufficient for crafting an uncommon potion; or 40 gp worth).
 
-If in an enchanted grove, this acts as a node instead (see Harvesting Nodes), and has much better yield. 
+If in an enchanted grove, this acts as a node instead (see Harvesting Nodes), and has much better yield.
 
 #### Harvester Proficiency
-If the harvester’s proficiency is less than the target monster’s proficiency, this requires a DC 20 ability check with the harvesting tool. On a failed check, half of all the potential materials are lost, and the character can make another attempt (each time halving, until it can provide only 1 gp worth of materials). 
+If the harvester’s proficiency is less than the target monster’s proficiency, this requires a DC 20 ability check with the harvesting tool. On a failed check, half of all the potential materials are lost, and the character can make another attempt (each time halving, until it can provide only 1 gp worth of materials).
 
-The materials drawn from a creature is equal to one-half the XP value of the creature in gold pieces. 
+The materials drawn from a creature is equal to one-half the XP value of the creature in gold pieces.
 
-For instance, a CR 15 Dragon yields 13,000 XP when defeated, which translates to 6,500 gp worth of draconic materials. That may cover the cost of one Legendary consumable (such as a 7th level Firestorm Potion called ‘Dragonwrath’) or 1/5th a Epic infused item. 
+For instance, a CR 15 Dragon yields 13,000 XP when defeated, which translates to 6,500 gp worth of draconic materials. That may cover the cost of one Legendary consumable (such as a 7th level Firestorm Potion called ‘Dragonwrath’) or 1/5th a Epic infused item.
 
-Alchemists and Tinkers also have a feature that would enhance the value of materials they would otherwise gain from harvesting (which would multiply the value by 3, or 150% of the XP value of the creature). 
+Alchemists and Tinkers also have a feature that would enhance the value of materials they would otherwise gain from harvesting (which would multiply the value by 3, or 150% of the XP value of the creature).
 
 #### Willing Harvest
 A creature may choose to donate their blood or replaceable body parts for the purposes of harvesting crafting materials, but can only donate up to 1/24th their normal material every month (or their full material value once every two years). Doing this on extended durations usually causes exhaustion or death (even if the creature is normally immune to exhaustion), subject to DM’s discretion.
 
-Should a CR 15 dragon decide to donate some of their blood every month, it would be equal to 270 gp worth of materials (1/48th their XP value), or 405 gp worth if administered by a specialist harvester. 
-Materials derived from dragons, for instance, can be usually used to create armor (from leather or bone), weapons (for bone weapons), alchemy mixtures (enchanted dragon blood), and fire-based infusions, while constructs’ materials can be used to create armor (from metallic plating), weapons, engineering devices (any), and infusion matrixes (if the construct had magical ability or a magical engine). 
+Should a CR 15 dragon decide to donate some of their blood every month, it would be equal to 270 gp worth of materials (1/48th their XP value), or 405 gp worth if administered by a specialist harvester.
+Materials derived from dragons, for instance, can be usually used to create armor (from leather or bone), weapons (for bone weapons), alchemy mixtures (enchanted dragon blood), and fire-based infusions, while constructs’ materials can be used to create armor (from metallic plating), weapons, engineering devices (any), and infusion matrixes (if the construct had magical ability or a magical engine).
 
-#### Scavenging or Dismantling 
+#### Scavenging or Dismantling
 A crafter can also harvest the materials from an item they destroy. The crafter gains 1/2 the crafting value of a dismantled item (or 1/4th the purchase value). The material is usually called diffusion dust (Infusion), dismantled scrap (Engineering), or deconstructed reagents (Alchemy).
 
-This process is a simple complexity task (1 hour). At the end of the duration, the item is destroyed, and the crafter gains half the value in materials invested to create it (usually related to similar items). 
+This process is a simple complexity task (1 hour). At the end of the duration, the item is destroyed, and the crafter gains half the value in materials invested to create it (usually related to similar items).
 ___
-**Infusion Drain.** Upon the destruction of a legendary item or artifact, it has a 50% chance of dropping infusion dust relevant, even if not intentionally diffused. Attuned items cannot be diffused unless their attuned character is slain, or when the attunement is willingly surrendered (does not require an action), unless the infusionist can succeed on 3 contested Spirit saving throws against the owner. This check can be done once per year against a single character. 
+**Infusion Drain.** Upon the destruction of a legendary item or artifact, it has a 50% chance of dropping infusion dust relevant, even if not intentionally diffused. Attuned items cannot be diffused unless their attuned character is slain, or when the attunement is willingly surrendered (does not require an action), unless the infusionist can succeed on 3 contested Spirit saving throws against the owner. This check can be done once per year against a single character.
 
-Disenchanting legendary or artifact items also usually requires a quest or a journey to where the item was created, subject to DM discretion, or the listed process of destruction (if available). 
+Disenchanting legendary or artifact items also usually requires a quest or a journey to where the item was created, subject to DM discretion, or the listed process of destruction (if available).
 
-## Tools: Production 
-Any tool that can create a product out of materials is classified as a production skill. The time it takes to make a product and the raw materials it takes depends on the cost of the item and its complexity. 
+## Tools: Production
+Any tool that can create a product out of materials is classified as a production skill. The time it takes to make a product and the raw materials it takes depends on the cost of the item and its complexity.
 
 This chapter details how to use production tools. The products themselves are found in Chapter 5: Equipment.
 
 ### Alchemist’s Supplies
-Having proficiency in Alchemist's Supplies allows you to craft magical potions that hold the power of a spell within them. 
+Having proficiency in Alchemist's Supplies allows you to craft magical potions that hold the power of a spell within them.
 
-Any character who has access to a spell and the Alchemy ability can craft potions of spells they have the formula of (such as spells scribed in spellbooks). The Alchemist class does not need to spend mana to prepare spells into potions, and have their own spell list for potions. 
+Any character who has access to a spell and the Alchemy ability can craft potions of spells they have the formula of (such as spells scribed in spellbooks). The Alchemist class does not need to spend mana to prepare spells into potions, and have their own spell list for potions.
 
-If you have neither a caster level nor the Alchemy feature, but have proficiency in Alchemist’s Supplies, you treat your caster level as 1, and access to one spell list you have or the Alchemist spell list (if you don’t have a spell list). 
+If you have neither a caster level nor the Alchemy feature, but have proficiency in Alchemist’s Supplies, you treat your caster level as 1, and access to one spell list you have or the Alchemist spell list (if you don’t have a spell list).
 
 You cannot make potions of level higher than 1st level.
 
 #### Brewing Potions
-Brewing a potion costs the same resources as casting the spell normally in material components (or mana, if required), and costs crafting materials (which can be either in herbs, harvested materials from monsters, or gold pieces in a settlement that can reasonably have the required materials). 
+Brewing a potion costs the same resources as casting the spell normally in material components (or mana, if required), and costs crafting materials (which can be either in herbs, harvested materials from monsters, or gold pieces in a settlement that can reasonably have the required materials).
 ___
-**Prerequisites.** Alchemy requires at least 1 level in a spellcasting class (or 1 level in the Alchemist class) and proficiency in the tools. 
+**Prerequisites.** Alchemy requires at least 1 level in a spellcasting class (or 1 level in the Alchemist class) and proficiency in the tools.
 ___
-**Activation.** A potion can be used with a Use Object action, such as drinking a bottle's contents, coating a spray on the user, or spreading an oil on an object or weapon. Normally, this requires a touch or the range of 5 ft. 
+**Activation.** A potion can be used with a Use Object action, such as drinking a bottle's contents, coating a spray on the user, or spreading an oil on an object or weapon. Normally, this requires a touch or the range of 5 ft.
 ___
 **Throwing a Potion** Potions can also be thrown to release their effect on impact, in which case they are a thrown improvised weapon at a range of 20/60 ft. If the spell originally affects an area, the potion affects the area as well. This either requires an attack roll (or spell attack roll) or a DC.
 ___
 **Spell Attack.** The character can add their proficiency bonus to attack if they are proficient in Alchemist's Supplies. For instance, the alchemist's fire potion stores the fire bolt cantrip, dealing 1d10 fire damage to the target it hits. This can be an attack roll (or spell attack, if possessing the Alchemy ability).
 ___
-**Spell save DC.** The potion’s DC is specified on creation. If the creator is a spellcaster or has the Alchemy ability, the DC is equal to the Spell save DC. 
+**Spell save DC.** The potion’s DC is specified on creation. If the creator is a spellcaster or has the Alchemy ability, the DC is equal to the Spell save DC.
 
-If thrown beyond its optimal range, the attack suffers disadvantage as normal (if a ranged attack), or the target has advantage on their saving throw (if a saving throw is required). 
+If thrown beyond its optimal range, the attack suffers disadvantage as normal (if a ranged attack), or the target has advantage on their saving throw (if a saving throw is required).
 
 \pagebreakNum
 
-**Spell Casting Time.** If the spell stored in the potion has a casting time more than 1 action, the spell begins manifesting after being used, and fully manifests after its original casting time would have been completed. 
+**Spell Casting Time.** If the spell stored in the potion has a casting time more than 1 action, the spell begins manifesting after being used, and fully manifests after its original casting time would have been completed.
 
-For instance, an imbibed resurrection potion activates after 1 hour (if the target still qualifies, due to a 1 hour casting time), while a conjure undead spell activates over 1 minute (regarding most conjured creatures). Potion miscibility applies normally if drinking a potion while another is in the process of manifestation. 
+For instance, an imbibed resurrection potion activates after 1 hour (if the target still qualifies, due to a 1 hour casting time), while a conjure undead spell activates over 1 minute (regarding most conjured creatures). Potion miscibility applies normally if drinking a potion while another is in the process of manifestation.
 ___
 **Concentration Spells.** Spells that normally require concentration by the caster instead require them by the imbiber, up to maximum duration.
 
-Concentration (partial) spells and channeled spells cannot be made into potions, but sigil spells can be, in which case they are rolled normally (as sigil rolls). 
+Concentration (partial) spells and channeled spells cannot be made into potions, but sigil spells can be, in which case they are rolled normally (as sigil rolls).
 
 #### Potion Forms
-Potions take different forms, such as bombs, medicine pills, lotions, spray bottles, sticks, or amulet-like icons that crumble to release their essence. 
+Potions take different forms, such as bombs, medicine pills, lotions, spray bottles, sticks, or amulet-like icons that crumble to release their essence.
 
-In all such circumstances, they act the same as potions so long as they weigh similarly, can be applied by the same action, and used at touch or thrown range as described above. Note that some abilities allow for quicker use of alchemical items. 
+In all such circumstances, they act the same as potions so long as they weigh similarly, can be applied by the same action, and used at touch or thrown range as described above. Note that some abilities allow for quicker use of alchemical items.
 ___
-**Creation.** See the Item Creation Complexity and Cost table under Skills. Potions are always Consumables. A potion’s complexity scales with its rarity, as below. 
+**Creation.** See the Item Creation Complexity and Cost table under Skills. Potions are always Consumables. A potion’s complexity scales with its rarity, as below.
 
 | Potion Rarity  | Complexity |
 |:-:|:-:|
-| Common | Very Simple | 
-| Uncommon | Simple | 
-| Rare | Moderate | 
-| Epic | Complex | 
-| Legendary | Highly Complex | 
-| Artifact | Highly Complex | 
+| Common | Very Simple |
+| Uncommon | Simple |
+| Rare | Moderate |
+| Epic | Complex |
+| Legendary | Highly Complex |
+| Artifact | Highly Complex |
 ___
-**Concentration Spells.** Spells that normally require concentration by the caster instead require them by the imbiber, up to maximum duration. 
+**Concentration Spells.** Spells that normally require concentration by the caster instead require them by the imbiber, up to maximum duration.
 ___
-**Mixing Potions.** Potions used in conjunction with one another have unpredictable effects. In the Warcraft universe, the potion miscibility rule is applied. When mixing potions, drinking several in succession, or having multiple potions layered in one vial, consumption or delivery (such as attacking with a potion vial, syringe, or bubble) counts as one potion. Roll for miscibility in this case. 
+**Mixing Potions.** Potions used in conjunction with one another have unpredictable effects. In the Warcraft universe, the potion miscibility rule is applied. When mixing potions, drinking several in succession, or having multiple potions layered in one vial, consumption or delivery (such as attacking with a potion vial, syringe, or bubble) counts as one potion. Roll for miscibility in this case.
 
 The strange ingredients used in creating potions can result in unpredictable interactions. If more than two are combined, roll again for each subsequent potion, combining the results, counting the old mixture as the first potion, and the newer one as the second potion. The effects are not immediately obvious, subject to DM discretion (such as getting the result of a 1 with normally volatile potions, causing an explosion).
 ___
@@ -14700,7 +14700,7 @@ ___
 
 An Herbalism Kit counts as if Alchemist’s Supplies, but you may choose up to two alchemical formulae to learn. These still must be written down (and usually stored in a book or notes). You are not counted as if proficient when
 
-it comes to other alchemical formulae and using potions for the purposes of potion DCs. You may not create potions higher than uncommon quality with an Herbalism Kit.  
+it comes to other alchemical formulae and using potions for the purposes of potion DCs. You may not create potions higher than uncommon quality with an Herbalism Kit.
 
 \pagebreakNum
 
@@ -14711,85 +14711,85 @@ A potion undergoes miscibility when it mixes with another potion. This can occur
 
 | <span>&nbsp;&nbsp;&nbsp;</span>d100<span>&nbsp;&nbsp;&nbsp;</span> | Result |
 |:-:|:-|
-| 1-5 | **Explosion.** The mixed potions cause an instantaneous alchemical explosion which deals 5d10 arcane damage to the target or imbiber, and 1d10 arcane damage 5 ft. away from the target or imbiber. The newer potion does not have an effect | 
-| 6-10 | **Toxicity.** The mixed potion becomes a poison of DM's choice, and no longer provides benefit. | 
-| 11-15 | **Minor Toxicity.** One potion works, the other becomes a poison of the DM's choice (target  has advantage to saves). | 
+| 1-5 | **Explosion.** The mixed potions cause an instantaneous alchemical explosion which deals 5d10 arcane damage to the target or imbiber, and 1d10 arcane damage 5 ft. away from the target or imbiber. The newer potion does not have an effect |
+| 6-10 | **Toxicity.** The mixed potion becomes a poison of DM's choice, and no longer provides benefit. |
+| 11-15 | **Minor Toxicity.** One potion works, the other becomes a poison of the DM's choice (target  has advantage to saves). |
 | 16-25 | **Cancellation.** Both potions in the mixture lose effect. |  
-| 26-35 | **Minor Sync.** Both potions in the mixture work, but their benefit and durations are halved; if can't be halved, has no effect. | 
+| 26-35 | **Minor Sync.** Both potions in the mixture work, but their benefit and durations are halved; if can't be halved, has no effect. |
 | 36-40 | **Minor Cancellation.** Only one potion works normally. |  
-| 41-70 | **Proper Sync.** Both potions in the mixture work normally. | 
-| 71-80 | **Birth from Chaos.** Both potions work normally, and the mixture also conjures a single random aberration, elemental, ooze, or homunculi (DM’s choice) rising from the potion (or puddle). The creature has a CR equal to the average spell level of both potions (or of the appropriate quality relative to rarity). It is allied to the imbiber, and disintegrates when reduced to 0 hit points. If one of the two potions was of a cantrip, it conjures a creature of CR ¼. This creature can be bound by the imbiber. | 
-| 81-90 | **Greater Sync.** Both potions in the mixture work, and have their numerical benefit and  maximum duration doubled; if they can't be doubled, the potion can be reused if salvaged with a successful DC 15 Intelligence check with Alchemist’s Supplies as an action. | 
-| 95-99 | **Superior Sync.** Both potions work, and the target can benefit from a third random potion of DM's choice. | 
-| 100 | **Augment.** One potion works and its duration becomes permanent. If the effect was instantaneous, such as a healing potion, this may cause an increase in maximum hit points, with the reverse happening if it dealt damage. At the DM’s discretion, this effect may be dispelled as an active spell effect or be suppressed with a potion which deals an opposite effect. A cantrip cannot gain this miscibility result, and instead reverts to Greater Sync. | 
+| 41-70 | **Proper Sync.** Both potions in the mixture work normally. |
+| 71-80 | **Birth from Chaos.** Both potions work normally, and the mixture also conjures a single random aberration, elemental, ooze, or homunculi (DM’s choice) rising from the potion (or puddle). The creature has a CR equal to the average spell level of both potions (or of the appropriate quality relative to rarity). It is allied to the imbiber, and disintegrates when reduced to 0 hit points. If one of the two potions was of a cantrip, it conjures a creature of CR ¼. This creature can be bound by the imbiber. |
+| 81-90 | **Greater Sync.** Both potions in the mixture work, and have their numerical benefit and  maximum duration doubled; if they can't be doubled, the potion can be reused if salvaged with a successful DC 15 Intelligence check with Alchemist’s Supplies as an action. |
+| 95-99 | **Superior Sync.** Both potions work, and the target can benefit from a third random potion of DM's choice. |
+| 100 | **Augment.** One potion works and its duration becomes permanent. If the effect was instantaneous, such as a healing potion, this may cause an increase in maximum hit points, with the reverse happening if it dealt damage. At the DM’s discretion, this effect may be dispelled as an active spell effect or be suppressed with a potion which deals an opposite effect. A cantrip cannot gain this miscibility result, and instead reverts to Greater Sync. |
 
 </div>
 
-#### Special Crafting: Cauldrons 
+#### Special Crafting: Cauldrons
 When choosing to brew or craft a potion, you may choose to instead brew them in larger batches than individual potion doses. This does not risk miscibility, as the potions are not in full form when being brewed.
 
-By doing so, you need a container of reasonable size and appropriate material to brew the potions in. This is not included in Alchemists’ Supplies. 
+By doing so, you need a container of reasonable size and appropriate material to brew the potions in. This is not included in Alchemists’ Supplies.
 
-A cauldron (see Adventuring Gear in Chapter 5) can hold up to 20 gallons, or enough materials for 5 potions (including the base liquid). 
+A cauldron (see Adventuring Gear in Chapter 5) can hold up to 20 gallons, or enough materials for 5 potions (including the base liquid).
 
-When creating a batch, you pay the resources for the number of potions you desire to craft. The crafting time is one-half the aggregate crafting time potions would normally require (considering their numbers). 
+When creating a batch, you pay the resources for the number of potions you desire to craft. The crafting time is one-half the aggregate crafting time potions would normally require (considering their numbers).
 
 For example, a priest proficient in Alchemy attempts to bless a basin filled with water to become holy water (common rarity), which is enough for 5 doses. He spends materials equal to 5 times the cost of crafting a single vial of holy water (or 50 gp in powdered silver and herbs), and it takes him 20 minutes (instead of 50 minutes) of prayer and inflection. If succeeding on the check by 14 points, the priest crafts it within 10 minutes (as described under normal
 
 crafting).
 ___
-**Experimentation.** You can experiment with potions in your batch. If you choose to do so, you gain half the yield (round down) of the potions you crafted. In return, you may roll an additional time for miscibility for each potion, and choose the better result. 
+**Experimentation.** You can experiment with potions in your batch. If you choose to do so, you gain half the yield (round down) of the potions you crafted. In return, you may roll an additional time for miscibility for each potion, and choose the better result.
 
-Special cauldrons and mixing ladles (see Infusion) provide a benefit for crafting in batches. 
+Special cauldrons and mixing ladles (see Infusion) provide a benefit for crafting in batches.
 
 #### Special Crafting: Transmuting Materials
-Alchemist’s Supplies (in conjunction with the power of spells or the Alchemy feature) can be used to transmute materials from one type to another, which requires the transmute material spell. 
+Alchemist’s Supplies (in conjunction with the power of spells or the Alchemy feature) can be used to transmute materials from one type to another, which requires the transmute material spell.
 
-Transmuting a mineral requires the original mineral and changes the original material into the target material, effectively going around usual material requirements (but altering size as appropriate). For instance, one can transmute alchemy materials from being fire-based to being water-based (allowing crafting different potions), or change 500 gp worth of iron into 500 gp worth of silver (turning a mound of iron into a silver rock). 
+Transmuting a mineral requires the original mineral and changes the original material into the target material, effectively going around usual material requirements (but altering size as appropriate). For instance, one can transmute alchemy materials from being fire-based to being water-based (allowing crafting different potions), or change 500 gp worth of iron into 500 gp worth of silver (turning a mound of iron into a silver rock).
 
 \pagebreakNum
 
 ### Engineer’s Tools
-Having proficiency in Engineer’s Tool allows you to craft technological devices. Such devices are non-magical items that are classified into one of four device types, according to general use and design: bombs, firearms, gadgets, and constructs. 
+Having proficiency in Engineer’s Tool allows you to craft technological devices. Such devices are non-magical items that are classified into one of four device types, according to general use and design: bombs, firearms, gadgets, and constructs.
 
-Devices have rarity similar to infused items, which affect its initial traits, powers, malfunction rate (or chance for the device to not function as intended), and cost. A device’s engineering rarity is independent from its infusion rarity (therefore, you can infuse a boomstick, which is a common-quality device with an uncommon-quality +1 infusion to be a +1 boomstick). 
+Devices have rarity similar to infused items, which affect its initial traits, powers, malfunction rate (or chance for the device to not function as intended), and cost. A device’s engineering rarity is independent from its infusion rarity (therefore, you can infuse a boomstick, which is a common-quality device with an uncommon-quality +1 infusion to be a +1 boomstick).
 
 #### Crafting Devices
-Crafting a device costs the resources listed in the Item Creation Complexity and Cost Table (modified per type; such as x10 the price for a use-item like a firearm, or x25 for a creature). This can be paid in crafting materials that are harvested or in gold pieces (or other coin) in a settlement that can reasonably have the required materials. 
+Crafting a device costs the resources listed in the Item Creation Complexity and Cost Table (modified per type; such as x10 the price for a use-item like a firearm, or x25 for a creature). This can be paid in crafting materials that are harvested or in gold pieces (or other coin) in a settlement that can reasonably have the required materials.
 ___
-**Creation.** Creating a new technological device has a couple of steps one must follow. 
+**Creation.** Creating a new technological device has a couple of steps one must follow.
 
 ##### Determine Rarity
 When you choose to create a new device, you must first determine the starting Rarity. This affects the base abilities of the device, such as damage dealt, firearm capacity, maximum spell level replicated, and malfunction rate. You must start from a rarity you can access by your Proficiency Bonus. For example, a medium firearm that Rare in rarity deals 4d6 points of damage on a successful attack, has the capacity of 4 bullets, and a malfunction rate of 1-3. It requires a minimum Proficiency Bonus of 3 (and is thus EP 3).
 
 ##### Apply Modifications (optional)
-Technological modifications affect the base abilities of devices, modifying the end rarity. There are many modifications, from the simple Reliable Device (lowers malfunction rating) to the more sophisticated Special Effect (which applies an additional spell effect on the target of the device). Each technological device class has its own modifications. 
+Technological modifications affect the base abilities of devices, modifying the end rarity. There are many modifications, from the simple Reliable Device (lowers malfunction rating) to the more sophisticated Special Effect (which applies an additional spell effect on the target of the device). Each technological device class has its own modifications.
 
-For instance, applying the Reliable Device modification to the above firearm lowers its malfunction rate by 2 points, but increases its rarity by 1 step. This can be counterbalanced with the Capacity modification, reducing rarity by 1 step and Capacity by 2 points. 
+For instance, applying the Reliable Device modification to the above firearm lowers its malfunction rate by 2 points, but increases its rarity by 1 step. This can be counterbalanced with the Capacity modification, reducing rarity by 1 step and Capacity by 2 points.
 
-If modified as such, the firearm remains Rare (or EP 3), deals 4d6 points of piercing damage on a hit, has the capacity of 2 bullets, and a malfunction rate of 1. 
+If modified as such, the firearm remains Rare (or EP 3), deals 4d6 points of piercing damage on a hit, has the capacity of 2 bullets, and a malfunction rate of 1.
 
 ##### Determine End Rarity
 After applying modifications, determine the end rarity, which will affect the final abilities of the device. See the Item Creation Complexity and Cost table under Skills for prices relative to rarity.
 
-In the above example, the end rarity of the device was unchanged (Rare). The firearm has less space for ammunition in the magazine (or could possibly be a double-barreled rifle), but is more reliable. 
+In the above example, the end rarity of the device was unchanged (Rare). The firearm has less space for ammunition in the magazine (or could possibly be a double-barreled rifle), but is more reliable.
 ___
-**Malfunction Rate (MR).** Devices can malfunction when used, with the chances of malfunctioning increasing with the complexity of the device. The malfunction rate (MR) is range from 1 (5%) to the invested EP or Rarity rank of the device (5% per point, minimum 10% for Common devices), and represents the chance for the device to malfunction when used.  Whenever you use a technological device, you must roll for a malfunction, which can determine if it works successfully (or if it suffers a mishap if it is already malfunctioning). 
+**Malfunction Rate (MR).** Devices can malfunction when used, with the chances of malfunctioning increasing with the complexity of the device. The malfunction rate (MR) is range from 1 (5%) to the invested EP or Rarity rank of the device (5% per point, minimum 10% for Common devices), and represents the chance for the device to malfunction when used.  Whenever you use a technological device, you must roll for a malfunction, which can determine if it works successfully (or if it suffers a mishap if it is already malfunctioning).
 
 | Rarity | MR (d20) | MR (%) |
-|:-:|:-:|:-:| 
-| Common | 1-2 | 10% | 
-| Uncommon | 1-2 | 10% | 
-| Rare | 1-3 | 15% | 
-| Epic | 1-4 | 20% | 
-| Legendary	| 1-5 | 25% | 
-| Artifact | 1-6 | 30% | 
+|:-:|:-:|:-:|
+| Common | 1-2 | 10% |
+| Uncommon | 1-2 | 10% |
+| Rare | 1-3 | 15% |
+| Epic | 1-4 | 20% |
+| Legendary	| 1-5 | 25% |
+| Artifact | 1-6 | 30% |
 
-You may roll a percentile roll or a d20 to check for malfunction (choose one), and if your device already has an attack roll (such as a gadget with a spell attack roll or a firearm), then your attack roll is also your malfunction check. 
+You may roll a percentile roll or a d20 to check for malfunction (choose one), and if your device already has an attack roll (such as a gadget with a spell attack roll or a firearm), then your attack roll is also your malfunction check.
 
-If you can roll multiple times (such as making multiple attacks or rolling with advantage or disadvantage), only the first roll is a test for malfunction. At any case, you roll only one malfunction check per round. 
+If you can roll multiple times (such as making multiple attacks or rolling with advantage or disadvantage), only the first roll is a test for malfunction. At any case, you roll only one malfunction check per round.
 
-Dedicated tinkers can lower their malfunction rates by certain modifications and by class features (such as by the Knack for It ability). When a device first malfunctions, it does not work as intended. If a malfunctioning device malfunctions again, however, it suffers a mishap instead (See Appendix A for details on malfunctions and mishaps). 
+Dedicated tinkers can lower their malfunction rates by certain modifications and by class features (such as by the Knack for It ability). When a device first malfunctions, it does not work as intended. If a malfunctioning device malfunctions again, however, it suffers a mishap instead (See Appendix A for details on malfunctions and mishaps).
 ___
 **Device save DC** = 8 + the designer’s Proficiency Bonus +
 
@@ -14802,80 +14802,80 @@ ___
 Generic devices (such as store-bought) treat their creator’s Intelligence modifier as +2. If you are using a firearm or explosive and you don’t have proficiency, do not add your Proficiency Bonus.
 
 ##### Using Technological Devices
-Devices can be used automatically if one knows how to use them (point and shoot, press a button, etc.) as an action, unless the device describes otherwise. Using a bomb or firearm is treated like using weapons of the same type, and are martial weapons. 
+Devices can be used automatically if one knows how to use them (point and shoot, press a button, etc.) as an action, unless the device describes otherwise. Using a bomb or firearm is treated like using weapons of the same type, and are martial weapons.
 
 Any creature proficient with martial weapons can also become proficient with firearms or explosives after one week of training. Not having proficiency with explosives also reduces the Device save DC (see above).
 
 \pagebreakNum
 
 | Device | Complexity | Cost |
-|:-:|:-:|:-:| 
-| Constructs | Very Complex | As CR (see Item Creation Complexity and Cost Table) | 
-| Explosives | Simple | As a consumable of the same rarity | 
-| Firearm | Moderate | As an item of the same rarity | 
-| Gadget | Varies* | As spells (see Item Creation Complexity and Cost Table) | 
+|:-:|:-:|:-:|
+| Constructs | Very Complex | As CR (see Item Creation Complexity and Cost Table) |
+| Explosives | Simple | As a consumable of the same rarity |
+| Firearm | Moderate | As an item of the same rarity |
+| Gadget | Varies* | As spells (see Item Creation Complexity and Cost Table) |
 ___
 <div>* See Gadgets below.</div>
 
-**Charges and Fuel.** A device’s Charge determines how many fuel units it takes for a single activation (a use for a gadget, attack with a firearm or explosive, or 1 hour of activation for a construct or engine). Charges depend on energy sources. By default, the energy source is mechanical (clockwork, springs, etc.). See Energy Sources below for reference. 
+**Charges and Fuel.** A device’s Charge determines how many fuel units it takes for a single activation (a use for a gadget, attack with a firearm or explosive, or 1 hour of activation for a construct or engine). Charges depend on energy sources. By default, the energy source is mechanical (clockwork, springs, etc.). See Energy Sources below for reference.
 
-**Technological Modifications.** Technological modifications can further customize technological devices. They cannot be used to access a higher-level spell or a higher-CR creature than what is limited by the creator’s level or Proficiency Bonus. If reducing the EP value of an explosive or firearm when it is Common, it instead removes 2 dice of damage (dealing 1d6 at Common quality). 
+**Technological Modifications.** Technological modifications can further customize technological devices. They cannot be used to access a higher-level spell or a higher-CR creature than what is limited by the creator’s level or Proficiency Bonus. If reducing the EP value of an explosive or firearm when it is Common, it instead removes 2 dice of damage (dealing 1d6 at Common quality).
 
-**Temporary Add-ons.** In some cases, a device might not need a permanent modification, and can serve as an independent add-on. Barrel adjustment can increase a firearm’s range, for example, and a portable silencer can reduce noise when on a stealth mission. Some modifications cannot be made into add-ons. 
+**Temporary Add-ons.** In some cases, a device might not need a permanent modification, and can serve as an independent add-on. Barrel adjustment can increase a firearm’s range, for example, and a portable silencer can reduce noise when on a stealth mission. Some modifications cannot be made into add-ons.
 
-An add-on alters a device without altering the device’s total engineering points (EP) or rarity. Installing an add-on takes 3 actions. If you are proficient with Engineer’s Tools, it costs only 1 action instead. 
+An add-on alters a device without altering the device’s total engineering points (EP) or rarity. Installing an add-on takes 3 actions. If you are proficient with Engineer’s Tools, it costs only 1 action instead.
 
-You can have one add-on at a device at a given time, and it costs equal to gadget of Common rarity. When a device malfunctions, the add-on suffers the condition as well automatically. 
+You can have one add-on at a device at a given time, and it costs equal to gadget of Common rarity. When a device malfunctions, the add-on suffers the condition as well automatically.
 
-For instance, the sniper gun has a pre-built silencer modification. Instead of the modification (which can reduce the total damage, capacity, or other base feature), the sniper rifle can benefit from a silencer add-on, if you are willing to run the problem of paying for the malfunction of two devices instead of one. 
+For instance, the sniper gun has a pre-built silencer modification. Instead of the modification (which can reduce the total damage, capacity, or other base feature), the sniper rifle can benefit from a silencer add-on, if you are willing to run the problem of paying for the malfunction of two devices instead of one.
 
 #### Creatures (Constructs)
 **Examples. Golems, Robots, Mecha and Vehicles**
 ___
-**Using Constructs.** Creatures created by engineering are overwhelmingly constructs. For this purpose, all mention of creatures will refer to constructs instead. Constructs require an Action (Use Object) to activate or deactivate. Once activated, the construct takes 1 minute to begin acting. A construct can be activated faster if modified (such as via a technological modification). If programmed to activate on an uncommon trigger (such as an intrusion or being hit), activation takes only one round instead. 
+**Using Constructs.** Creatures created by engineering are overwhelmingly constructs. For this purpose, all mention of creatures will refer to constructs instead. Constructs require an Action (Use Object) to activate or deactivate. Once activated, the construct takes 1 minute to begin acting. A construct can be activated faster if modified (such as via a technological modification). If programmed to activate on an uncommon trigger (such as an intrusion or being hit), activation takes only one round instead.
 
-Constructs act like creatures of the construct type. They obey those who hold control over them (or who drive them, if mecha and vehicles). Constructs have the capacity for ten charges (1 hour of activation per charge), consuming fuel units appropriate to the construct’s size and rarity per hour (see Fuel and Energy sources below). A construct’s properties and charges also depend on its energy source. 
+Constructs act like creatures of the construct type. They obey those who hold control over them (or who drive them, if mecha and vehicles). Constructs have the capacity for ten charges (1 hour of activation per charge), consuming fuel units appropriate to the construct’s size and rarity per hour (see Fuel and Energy sources below). A construct’s properties and charges also depend on its energy source.
 
-The construct may have a Challenge of equal to the value in the Item Creation Complexity and Cost Table, and may be custom-built from any construct in the Monster Guide. 
-Technological Modifications can modify the rarity for additional customization as well (such as water-proofing, adding movement types, or increased reliability). 
+The construct may have a Challenge of equal to the value in the Item Creation Complexity and Cost Table, and may be custom-built from any construct in the Monster Guide.
+Technological Modifications can modify the rarity for additional customization as well (such as water-proofing, adding movement types, or increased reliability).
 
 ##### Construct Behavior
-Constructs take orders when the user communicates it to them via touching and/or manipulating knobs/controls on them, or otherwise issuing a spoken command when adjacent to them. Constructs may be programmed to behave independently, or when controlled by the user (in the latter case, it is treated as a mount). In the case of independent behavior, commanding the construct requires knowing how the device was programmed (activation codes, hidden command word, etc.) to control it. A construct that is under a character’s control can be deactivated as described above. 
+Constructs take orders when the user communicates it to them via touching and/or manipulating knobs/controls on them, or otherwise issuing a spoken command when adjacent to them. Constructs may be programmed to behave independently, or when controlled by the user (in the latter case, it is treated as a mount). In the case of independent behavior, commanding the construct requires knowing how the device was programmed (activation codes, hidden command word, etc.) to control it. A construct that is under a character’s control can be deactivated as described above.
 
-The DC of any ability used by a construct is equal to 8 + the crafter’s proficiency bonus + the crafter’s Intelligence modifier (instead of being based off the construct’s Proficiency and ability scores). 
+The DC of any ability used by a construct is equal to 8 + the crafter’s proficiency bonus + the crafter’s Intelligence modifier (instead of being based off the construct’s Proficiency and ability scores).
 
 ##### Constructs and Drivers
-Constructs and vehicles may require drivers when controlled from within. It takes a Bonus Action and 5 ft. of movement to enter or leave a construct (besides the Action to start and the warming up time). A driver can control a construct or vehicle directly instead of their own character. When the user performs an Action or moves from within the construct, the Action is performed instead by the construct instead (using the construct’s Proficiency Bonus, Strength score, movement speed, and abilities) instead of that of the pilot’s own, except with ranged attacks, spellcasting, and skill checks (which use the driver’s bonuses, if they wish). 
-For example, a Dwarven siege engine driver can use his action to either shoot the siege engine’s cannons or peer out of the siege engine and shoot their personal rifle (leaving the siege engine without an Action). 
+Constructs and vehicles may require drivers when controlled from within. It takes a Bonus Action and 5 ft. of movement to enter or leave a construct (besides the Action to start and the warming up time). A driver can control a construct or vehicle directly instead of their own character. When the user performs an Action or moves from within the construct, the Action is performed instead by the construct instead (using the construct’s Proficiency Bonus, Strength score, movement speed, and abilities) instead of that of the pilot’s own, except with ranged attacks, spellcasting, and skill checks (which use the driver’s bonuses, if they wish).
+For example, a Dwarven siege engine driver can use his action to either shoot the siege engine’s cannons or peer out of the siege engine and shoot their personal rifle (leaving the siege engine without an Action).
 
 ##### Mecha
 A construct that can be entered is usually called a mecha. The mecha cannot be smaller than its user. If the construct is equal in size to the driver, it is called a suit, but otherwise follows the same rules.
 
-A user within a mecha or suit gains ¾ cover versus any attack from outside, but takes 1/4 the damage suffered by the mecha. If the damage cannot harm the mecha and bypasses it (such as psychic damage), it deals full damage to the user if the effect has line of sight and effect. 
+A user within a mecha or suit gains ¾ cover versus any attack from outside, but takes 1/4 the damage suffered by the mecha. If the damage cannot harm the mecha and bypasses it (such as psychic damage), it deals full damage to the user if the effect has line of sight and effect.
 The user does not benefit from any damage or condition resistances or immunities the mecha has, and may be targeted (though the user still benefits from 3/4 cover).
 
 ##### Vehicles
-Some siege weapons can’t normally move (and are designated by Push), and others require charges as mecha. Vehicles may deal siege damage or normal damage (declared during creation). Siege damage falls under normal categories of nonmagical slashing/bludgeoning, etc., but if designated as siege attacks, it deals double damage to structures, and half to creatures. 
+Some siege weapons can’t normally move (and are designated by Push), and others require charges as mecha. Vehicles may deal siege damage or normal damage (declared during creation). Siege damage falls under normal categories of nonmagical slashing/bludgeoning, etc., but if designated as siege attacks, it deals double damage to structures, and half to creatures.
 
 \pagebreakNum
 
 ##### Non-Construct Vehicles and Engines
-A vehicle with no inborn engineering mechanisms that warrant a challenge rating, such as ships or carts, are not considered constructs, but are considered objects instead. These may use the Vehicle Engine device (see below under Vehicles). 
+A vehicle with no inborn engineering mechanisms that warrant a challenge rating, such as ships or carts, are not considered constructs, but are considered objects instead. These may use the Vehicle Engine device (see below under Vehicles).
 
 ##### Healing Constructs
-Restoring hit points to a construct device is a task of moderate complexity, and restores 1d8 hit points + the character’s Intelligence or Agility modifier. Each instance of fixing a construct consumes 10 gp of engineering materials. 
+Restoring hit points to a construct device is a task of moderate complexity, and restores 1d8 hit points + the character’s Intelligence or Agility modifier. Each instance of fixing a construct consumes 10 gp of engineering materials.
 
 ##### Mounted Weapons on Constructs
 Constructs can be used to mount defensive gadgets, rockets, firearms, and other weapons. These modifications are external (and thus can be stolen, targeted, or sabotaged). The user (or any fellow riders) may make use of these resources as if the item is within reach so long as they are within the construct (such as mounting firearms for an ally to use). A construct can hold heavier weapons (one step above Heavy for each size), but must be immobilized (see Firearms).
 
-Firearms and gadgets on a vehicle or mech still require actions to reload, but if the vehicle has other occupants, they may instead use their actions to reload instead, leaving the shooter free to use the firearm constantly the next round. 
+Firearms and gadgets on a vehicle or mech still require actions to reload, but if the vehicle has other occupants, they may instead use their actions to reload instead, leaving the shooter free to use the firearm constantly the next round.
 
-If the driver is concentrating on a gadget with a Duration of Concentration, the construct can perform the concentration instead so long as the driver is within the device. 
+If the driver is concentrating on a gadget with a Duration of Concentration, the construct can perform the concentration instead so long as the driver is within the device.
 
 <div class="classTable wide">
 
 ##### Construct Modifications
-**Coated Interior (1 EP).** When activating a construct and being seated inside it (such as a mech or vehicle), the pilot gains 1d10 + 3 temporary hit points. This applies only to attacks that stem from outside the mech, and does not apply to arcane, holy, fel, shadow, or psychic damage. For each points of CR of the construct above 1, the bonus increases by another 5 temporary hit points. Once the pilot gains this bonus, he cannot gain it again until completing a short rest. 
+**Coated Interior (1 EP).** When activating a construct and being seated inside it (such as a mech or vehicle), the pilot gains 1d10 + 3 temporary hit points. This applies only to attacks that stem from outside the mech, and does not apply to arcane, holy, fel, shadow, or psychic damage. For each points of CR of the construct above 1, the bonus increases by another 5 temporary hit points. Once the pilot gains this bonus, he cannot gain it again until completing a short rest.
 ___
 **Efficient Fuel (1 EP).** The construct consumes one-quarter less fuel units than is normally required for a single charge.
 ___
@@ -14890,18 +14890,18 @@ ___
 | Proficiency | Speed (choose one speed type) |
 |:-:|:-:|
 | +2 | - |
-| +3 | 15 | 
-| +4 | 30 (Fly 15) | 
-| +5 | 60 (fly 30) | 
+| +3 | 15 |
+| +4 | 30 (Fly 15) |
+| +5 | 60 (fly 30) |
 | +6 | 90 (fly 60) |
 ___
-The engineer may reduce the existing land speed by 5 feet to add it to special movement, up to a minimum land speed of 0 feet. Fly requires a minimum rarity of Epic if it was not a base feature of the construct. | 
+The engineer may reduce the existing land speed by 5 feet to add it to special movement, up to a minimum land speed of 0 feet. Fly requires a minimum rarity of Epic if it was not a base feature of the construct. |
 
 </div>
 
 *Note.* Constructs have their own air supply if designed for air or underwater (or if specified so). This increases the cost of crafting by 10%, but allows enough breathable air 4 hours for a number of creatures equal to the construct’s size (double capacity per size modifier).
 
-For example, a Large submarine can hold enough air to allow a Large creature 4 hours of breath. If hosting a medium creature, it holds enough air for two medium creatures. If driven by one creature, it remains for 8 hours instead. 
+For example, a Large submarine can hold enough air to allow a Large creature 4 hours of breath. If hosting a medium creature, it holds enough air for two medium creatures. If driven by one creature, it remains for 8 hours instead.
 
 \pagebreakNum
 
@@ -14912,28 +14912,28 @@ ___
 ___
 **Bomb (or grenade).** Bombs are thrown as light thrown weapons with a range of 30/60 feet. They deal no damage on impact, but explode when their fuse determines it (at the end of the user’s turn, usually, see fuses below). A bomb that is thrown beyond optimal range provides advantage to saving throws to half damage. If you target a creature with the bomb as a ranged weapon attack and succeed on the attack roll, they do not get to roll to halve damage, and suffer the full damage. The creatures in the blast radius are still entitled saving throws as normal. If throwing a bomb on a target, the attack roll is the malfunction roll test, otherwise you must roll for malfunction as a separate d20 roll.
 ___
-**Mine.** Mines are explosive traps that explode when stepped on (unless modified with a fuse). A mine can be detected with a successful Spirit (Perception) check and disarmed with a successful Agility (Thieves’ Tools) check against the Device save DC, and is treated as a trap. The mine must pass a successful malfunction roll test. 
+**Mine.** Mines are explosive traps that explode when stepped on (unless modified with a fuse). A mine can be detected with a successful Spirit (Perception) check and disarmed with a successful Agility (Thieves’ Tools) check against the Device save DC, and is treated as a trap. The mine must pass a successful malfunction roll test.
 ___
-**Rocket.** Rockets are light ranged projectile weapons with a range of 60/120 feet that soar to the point of impact and then explode instantaneously. They deal no damage on impact, but explode when their fuse determines it (or upon impact, whichever applies). If modified with a fuse, the rocket instead embeds itself in the targeted area and explodes when the fuse determines it. A rocket that is launched beyond optimal range provides advantage to saving throws to half damage. If you target a creature with the rocket and succeed on the attack roll, they do not get to roll to halve damage, and suffer the full damage. The creatures in the blast radius are still entitled saving throws as normal. 
+**Rocket.** Rockets are light ranged projectile weapons with a range of 60/120 feet that soar to the point of impact and then explode instantaneously. They deal no damage on impact, but explode when their fuse determines it (or upon impact, whichever applies). If modified with a fuse, the rocket instead embeds itself in the targeted area and explodes when the fuse determines it. A rocket that is launched beyond optimal range provides advantage to saving throws to half damage. If you target a creature with the rocket and succeed on the attack roll, they do not get to roll to halve damage, and suffer the full damage. The creatures in the blast radius are still entitled saving throws as normal.
 
 When a rocket reaches its maximum range, it explodes regardless of whether it reached its target or not. If it misses its target, however, it continues along the path without guidance, usually exploding at some other point (such as at the maximum range or upon impact with a wall). If launching a rocket on a target, the attack roll is the malfunction roll test, otherwise you must roll for malfunction as a separate d20 roll.
 
-If an explosive of any type explodes near another one, they both set off, and the damage stacks (up to triple the highest amount of damage dice, and tripling the average area of effect, to no limit in area). 
+If an explosive of any type explodes near another one, they both set off, and the damage stacks (up to triple the highest amount of damage dice, and tripling the average area of effect, to no limit in area).
 
 Explosives deal dice in damage depending on their base Engineering Point investment (based on rarity), see the Item Creation Complexity and Cost Table.
 
-If you do not suffer disadvantage to range attacks from long distance, you do not suffer penalty for throwing bombs and rockets (such as by the sharpshooter feat, or by negating disadvantage to attack by having advantage or another feature). 
+If you do not suffer disadvantage to range attacks from long distance, you do not suffer penalty for throwing bombs and rockets (such as by the sharpshooter feat, or by negating disadvantage to attack by having advantage or another feature).
 ___
-**Explosives and Ammunition.** Ammunition such as arrows, crossbow bolts, or even bullets can be modified for explosives. This can represent anything from firearm explosive shells to a primitive attempt to tie a rocket to an arrow with a loose bit of string. When using ammunition explosives, your ranged attack roll is resolved with disadvantage on the attack due to the ammunition’s weight. If you treat this as a strike effect and spend a bonus action, you can ignore the disadvantage on attacks. 
+**Explosives and Ammunition.** Ammunition such as arrows, crossbow bolts, or even bullets can be modified for explosives. This can represent anything from firearm explosive shells to a primitive attempt to tie a rocket to an arrow with a loose bit of string. When using ammunition explosives, your ranged attack roll is resolved with disadvantage on the attack due to the ammunition’s weight. If you treat this as a strike effect and spend a bonus action, you can ignore the disadvantage on attacks.
 
-If the attack with the ammunition effect is a direct attack (attack roll), the explosion takes place on the target’s space (follow the rules for fuses if they apply). If the attack has a saving throw, the primary target is not entitled a saving throw against the explosion radius (unlike the creatures in its area of effect). 
+If the attack with the ammunition effect is a direct attack (attack roll), the explosion takes place on the target’s space (follow the rules for fuses if they apply). If the attack has a saving throw, the primary target is not entitled a saving throw against the explosion radius (unlike the creatures in its area of effect).
 
-A piece of ammunition that has an explosive is treated as infused ammunition (see infused ammunition in Chapter 5), and cannot be infused. 
+A piece of ammunition that has an explosive is treated as infused ammunition (see infused ammunition in Chapter 5), and cannot be infused.
 
-If an ammunition explosive misses, draw a line from yourself to the target. If the line stops at a creature that is one size category larger than the target (minimum Large) or cover (such as a wall or tree), the attack is resolved as if it hit. If the target is a creature, compare the attack roll versus the creature’s AC, otherwise it continues until it reaches the end of the maximum range of the weapon, and explodes at that point. 
+If an ammunition explosive misses, draw a line from yourself to the target. If the line stops at a creature that is one size category larger than the target (minimum Large) or cover (such as a wall or tree), the attack is resolved as if it hit. If the target is a creature, compare the attack roll versus the creature’s AC, otherwise it continues until it reaches the end of the maximum range of the weapon, and explodes at that point.
 ___
-**Plant Explosives.** Besides thrown, set, or launched, an explosive can be planted on targets with an Agility (Sleight of Hand) check contested to Spirit (Perception). The Sleight of Hand check is made with disadvantage if the fuse is instantaneous. 
-If the planting goes unnoticed, the target suffers disadvantage to their saving throw against the explosive when it detonates. 
+**Plant Explosives.** Besides thrown, set, or launched, an explosive can be planted on targets with an Agility (Sleight of Hand) check contested to Spirit (Perception). The Sleight of Hand check is made with disadvantage if the fuse is instantaneous.
+If the planting goes unnoticed, the target suffers disadvantage to their saving throw against the explosive when it detonates.
 ___
 **Explosives Size.** Explosives can be increased in size (to become equivalent to creature-sized). Assume normal explosives are Tiny-sized, and calculate each step to increase the damage dice as follows.
 ___
@@ -14943,15 +14943,15 @@ ___
 | d6 | d8 | d10  |2d6  |3d6  | 4d6 (and so on) |
 | Medium | Large | Huge | Gargantuan | - | - |
 
-Tiny explosives include hand grenades, rockets, or normal mines. Small explosives include rocket stands, large mines. Medium explosives include explosive totems, a mounted rocket, or an anti-vehicle mine. 
+Tiny explosives include hand grenades, rockets, or normal mines. Small explosives include rocket stands, large mines. Medium explosives include explosive totems, a mounted rocket, or an anti-vehicle mine.
 
-If increased in size, all rolls to use bombs and rockets have disadvantage if the one using them does not use a specialized device (such as a rocket stand, mortar, or mine-launcher). Anything larger than the first size increase (or Bomb+/Mine+/Rocket+) must be deployed through other means (such as being planted into walls, thrown by catapults, used by an equal-sized construct, dropped off zeppelins, or by a dedicated vehicle to serve as a rocket-stand). 
+If increased in size, all rolls to use bombs and rockets have disadvantage if the one using them does not use a specialized device (such as a rocket stand, mortar, or mine-launcher). Anything larger than the first size increase (or Bomb+/Mine+/Rocket+) must be deployed through other means (such as being planted into walls, thrown by catapults, used by an equal-sized construct, dropped off zeppelins, or by a dedicated vehicle to serve as a rocket-stand).
 
-Increasing size also multiplies the final crafting cost and weight by 2 per size category (x2 if Small, x3 if Medium, etc.). 
+Increasing size also multiplies the final crafting cost and weight by 2 per size category (x2 if Small, x3 if Medium, etc.).
 
-Furthermore, each size category increase also applies the Widened Explosion modification for no cost. 
+Furthermore, each size category increase also applies the Widened Explosion modification for no cost.
 ___
-**Explosive Fuses.** Depending on the fuse of an explosive, they can explode on various times from being triggered (usually at the end of its user’s turn). 
+**Explosive Fuses.** Depending on the fuse of an explosive, they can explode on various times from being triggered (usually at the end of its user’s turn).
 
 \pagebreakNum
 
@@ -14961,30 +14961,30 @@ ___
 ___
 **Long fuse.** The explosive explodes after one minute.
 ___
-A character may also make fuses that are predesigned to explode after a specific number of rounds (determined at the time of crafting). Changing a fuse costs a bonus action and access to Engineer’s Tools. 
+A character may also make fuses that are predesigned to explode after a specific number of rounds (determined at the time of crafting). Changing a fuse costs a bonus action and access to Engineer’s Tools.
 
-Fuses can modify explosives in other forms as well as in bomb form, such as a mine exploding a few minutes after being stepped over (that would collapse a cave’s mouth after a minute of an intruder enters), or a rocket head that would scatter defenders, only to explode after they return to manning their posts (secure in the belief that the rocket malfunctioned). 
+Fuses can modify explosives in other forms as well as in bomb form, such as a mine exploding a few minutes after being stepped over (that would collapse a cave’s mouth after a minute of an intruder enters), or a rocket head that would scatter defenders, only to explode after they return to manning their posts (secure in the belief that the rocket malfunctioned).
 
 <div class="classTable wide">
 
 ##### Explosive Modifications
 **Careful Explosion (1 EP).** The explosive’s (any type) damage can be controlled. It can exclude a number of 5-foot squares equal to double the EP invested + your intelligence modifier, and can be designated by the user when the bomb explodes.
 ___
-**Earth (1 or 0 EP, rockets only).** The rocket is outfitted with fast-moving drills, and can be launched to drill into the earth and explode under the target. If you have a remote keyed to the rocket, you can direct it to attack a target. If the target is standing on the ground, you have a +2 bonus to attack rolls to attack the target. If the target is aware and uses a reaction to jump, the bonus is negated (and the attack is made normally). This can cost no modification instead, and only work in the earth. 
+**Earth (1 or 0 EP, rockets only).** The rocket is outfitted with fast-moving drills, and can be launched to drill into the earth and explode under the target. If you have a remote keyed to the rocket, you can direct it to attack a target. If the target is standing on the ground, you have a +2 bonus to attack rolls to attack the target. If the target is aware and uses a reaction to jump, the bonus is negated (and the attack is made normally). This can cost no modification instead, and only work in the earth.
 ___
 **Firework (1 EP).** The explosive (any type) releases a sharp whistle and a ringing blast. A creature who fails their saving throw against this explosive must also roll a Stamina saving throw. Upon a failed save, roll 1d4 to see the effect.
 
-| Roll | Result | 
-| 1 | Target is blinded for 1 minute | 
-| 2	| Target is deafened for 1 minute | 
-| 3	| Target is blinded and deafened for 3 rounds | 
+| Roll | Result |
+| 1 | Target is blinded for 1 minute |
+| 2	| Target is deafened for 1 minute |
+| 3	| Target is blinded and deafened for 3 rounds |
 | 4	| Target loses their reaction for until the end of your turn in the next round |
 ___
 **Focused (-1 EP).** The explosive (any type) explosive radius halves per engineering point applied to the modification (5-foot square for explosives not modified by size). This modification is applied after all increases.
 ___
 **Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested. This can be applied in reverse, creating a more unreliable device (to benefit more from Superfunction).
 ___
-**Sapper (0 EP).** The explosive (any type) deals double damage to structures, but half to creatures (constructs are creatures for this purpose). 
+**Sapper (0 EP).** The explosive (any type) deals double damage to structures, but half to creatures (constructs are creatures for this purpose).
 ___
 **Solid Coating (1 EP).** The explosive has a solid coating. If a rocket or bomb, the explosive deals 1d8 extra bludgeoning, piercing, or slashing damage on impact. This is added to the explosive’s own damage, but only when targeting a creature’s AC (see Using Explosives above). This damage scales with the size of the device (as appropriate). Furthermore, the explosive does not explode prematurely from being damaged or mishandled, and only explodes as a result of malfunction, contact (if in mine form), sabotage, reaching maximum distance (if in rocket form), being launched (such as from a siege weapon cannon), or activation by the fuse (whichever applies).
 ___
@@ -14994,67 +14994,67 @@ ___
 ___
 **Weakened (-1 EP).** The device deals 1 less dice of damage. This is applied before accounting for size changes to damage dice.
 ___
-**Widened Explosion (1 EP).** The explosive (any type) explosive radius doubles. This can be applied multiple times. 
+**Widened Explosion (1 EP).** The explosive (any type) explosive radius doubles. This can be applied multiple times.
 
 </div>
 
-Note. Explosives cannot have add-ons. 
+Note. Explosives cannot have add-ons.
 
 \pagebreakNum
 
 #### Firearms
 **Examples. Heavy and medium rifles, boomstick, siege cannons, sniper rifles.**
-Using Firearms. Firearms are ranged ammunition weapons. They come in light, medium, and heavy varieties. 
+Using Firearms. Firearms are ranged ammunition weapons. They come in light, medium, and heavy varieties.
 
 The more complex firearms are, the more damage they inflict, dealing a number of damage dice depending on their base rarity (see the Item Creation Complexity and Cost Table). The damage dice and range of the weapon depend on the firearm’s size:
 ___
 **Light.** d4 damage/dice, range 100/400 ft., and the firearm has the light and finesse properties, and weighs 5 lbs.
 ___
-**Medium.** d6 damage/dice, range 150/600, and the firearm weighs 10 lbs. 
+**Medium.** d6 damage/dice, range 150/600, and the firearm weighs 10 lbs.
 ___
-**Heavy.** d8 damage/dice, range 200/800. The firearm has the heavy and two-handed properties, and weighs 15 lbs. 
+**Heavy.** d8 damage/dice, range 200/800. The firearm has the heavy and two-handed properties, and weighs 15 lbs.
 ___
-By default, bullets deal piercing damage, but the ammunition type can allow a firearm to deal other types (as described under Chapter 5). Attaching a bayonet to a firearm allows you to make melee attacks with it. Attacking with a firearm without a bayonet allows you to deal only its base damage with an attack roll (1d8 with a heavy firearm), but you do not add your proficiency bonus to the attack. 
+By default, bullets deal piercing damage, but the ammunition type can allow a firearm to deal other types (as described under Chapter 5). Attaching a bayonet to a firearm allows you to make melee attacks with it. Attacking with a firearm without a bayonet allows you to deal only its base damage with an attack roll (1d8 with a heavy firearm), but you do not add your proficiency bonus to the attack.
 
 ##### Firearm Capacity
-Despite requiring ammunition, firearms do not have the loading or ammunition weapon properties. Firearms (and specially modified crossbows) instead have the capacity weapon property. Capacity determines the number of attacks the firearm or crossbow can make before you must use an Action to reload. A firearm has capacity equal to 1 bullet per rarity grade (2 at Common rarity). Certain technological modifications can vastly influence bullet capacity (+3 or -3 per step), allowing for more (or less) attacks before you must reload. Some features use multiple bullets when used (such as scattershot or automatic shot), requiring a good capacity. 
+Despite requiring ammunition, firearms do not have the loading or ammunition weapon properties. Firearms (and specially modified crossbows) instead have the capacity weapon property. Capacity determines the number of attacks the firearm or crossbow can make before you must use an Action to reload. A firearm has capacity equal to 1 bullet per rarity grade (2 at Common rarity). Certain technological modifications can vastly influence bullet capacity (+3 or -3 per step), allowing for more (or less) attacks before you must reload. Some features use multiple bullets when used (such as scattershot or automatic shot), requiring a good capacity.
 
-As a technological device, firearms also require fuel per shot. When using gunpowder, firearms are very efficient, costing only 2 ounces (1/8th a pound) for a single shot, regardless of rarity. 
+As a technological device, firearms also require fuel per shot. When using gunpowder, firearms are very efficient, costing only 2 ounces (1/8th a pound) for a single shot, regardless of rarity.
 
-For example, a Common medium firearm deals 2d6 points of damage on a successful attack, and has a capacity of 2 bullets; while a Legendary light firearm deals 6d4 instead and has a capacity of 5 instead. 
+For example, a Common medium firearm deals 2d6 points of damage on a successful attack, and has a capacity of 2 bullets; while a Legendary light firearm deals 6d4 instead and has a capacity of 5 instead.
 
 ##### Crossbows
-Crossbows are similar to firearms in potential. Normal crossbows do not count as technological devices, however, unless they are modified by one with proficiency in Engineer’s Tools. 
+Crossbows are similar to firearms in potential. Normal crossbows do not count as technological devices, however, unless they are modified by one with proficiency in Engineer’s Tools.
 
-Despite crossbows allowing only a single attack and using mechanical (clockwork) engines, they can be modified from their base rarity. Their base statistics are below (starting with 1 dice of damage). 
+Despite crossbows allowing only a single attack and using mechanical (clockwork) engines, they can be modified from their base rarity. Their base statistics are below (starting with 1 dice of damage).
 ___
-**Light (originally Hand Crossbow).** 1d6 damage, range 30/120 ft., and the crossbow has the light and loading properties, costs 75 gp, and weighs 3 lbs. 
+**Light (originally Hand Crossbow).** 1d6 damage, range 30/120 ft., and the crossbow has the light and loading properties, costs 75 gp, and weighs 3 lbs.
 ___
 **Medium (originally Light Crossbow).** 1d8 damage, range 80/320 ft., and the crossbow has the loading and two-hand properties, costs 25 gp, and weighs 5 lbs.
 ___
-**Heavy (originally Heavy Crossbow).** 1d10 damage, range 100/400 ft., and the crossbow has the heavy, loading, and two-handed properties, costs 50 gp, and weighs 18 lbs. 
+**Heavy (originally Heavy Crossbow).** 1d10 damage, range 100/400 ft., and the crossbow has the heavy, loading, and two-handed properties, costs 50 gp, and weighs 18 lbs.
 ___
-By modifying crossbows, you can alter the number of damage dice the crossbow deals, its capacity (such as by adding a reload function), range, and other technological modifications. Choosing to do so, however, alters the crossbow too far from the original (efficient) designs, changing the components so much that you must treat them as technological devices in terms of cost as well. 
+By modifying crossbows, you can alter the number of damage dice the crossbow deals, its capacity (such as by adding a reload function), range, and other technological modifications. Choosing to do so, however, alters the crossbow too far from the original (efficient) designs, changing the components so much that you must treat them as technological devices in terms of cost as well.
 
-Crossbows start with 1 capacity (1 bolt) and 1 dice of damage at Common rarity (or 1 dice and 1 capacity below firearms). 
+Crossbows start with 1 capacity (1 bolt) and 1 dice of damage at Common rarity (or 1 dice and 1 capacity below firearms).
 
 If upgraded, crossbows gain the following traits:
 
-They lose the Loading property, and gain the mechanical (clockwork) engine. Instead of the normal requirements to load a mechanical engine, a crossbow requires an action to reload. If you have the Crossbow Expert feat, you can reload as a Bonus Action. Otherwise, treat crossbows as firearms for the purposes of reloading. 
+They lose the Loading property, and gain the mechanical (clockwork) engine. Instead of the normal requirements to load a mechanical engine, a crossbow requires an action to reload. If you have the Crossbow Expert feat, you can reload as a Bonus Action. Otherwise, treat crossbows as firearms for the purposes of reloading.
 
-The crossbow deals damage 1 dice less than firearms of the same rarity. For example, where a Legendary heavy firearm deals 6d8 damage, a Legendary heavy crossbow deals 5d10 instead. 
+The crossbow deals damage 1 dice less than firearms of the same rarity. For example, where a Legendary heavy firearm deals 6d8 damage, a Legendary heavy crossbow deals 5d10 instead.
 
 The crossbow gains 1 less Capacity than firearms of the same rarity, and can be modified with the Capacity modification (adding 2 extra bolt capacity per step).
 
 They gain the chance to malfunction. The malfunction rate is 1 point less than firearms of the same rarity (minimum 1).
 
-Crossbows retain their common ammunition type, silence, and capability for underwater use. 
+Crossbows retain their common ammunition type, silence, and capability for underwater use.
 
 ##### Special Attack: Touch-Blast Strike
-When making a melee attack with a firearm ready (such as fighting with a saber and then shooting, or stabbing with a bayonet and then firing), you may declare a touch-blast strike. In this case, you may use a bonus action to shoot the firearm, and you do not take disadvantage from shooting in melee. If the melee attack already successfully hit the target, the firearm attack is furthermore made with advantage. This is a special strike effect. 
+When making a melee attack with a firearm ready (such as fighting with a saber and then shooting, or stabbing with a bayonet and then firing), you may declare a touch-blast strike. In this case, you may use a bonus action to shoot the firearm, and you do not take disadvantage from shooting in melee. If the melee attack already successfully hit the target, the firearm attack is furthermore made with advantage. This is a special strike effect.
 
 ##### Firearm/Crossbow Sizes
-Firearms and crossbows can be increased in size from being useable by Medium creatures (to become equivalent to creature-sized or larger). This increases the damage and range of such weapons, at the expense of cost, reload/capacity, and weight. 
+Firearms and crossbows can be increased in size from being useable by Medium creatures (to become equivalent to creature-sized or larger). This increases the damage and range of such weapons, at the expense of cost, reload/capacity, and weight.
 ___
 **Damage**
 Assume normal weapons are Tiny-sized, and calculate each step to increase the damage dice as follows.
@@ -15065,7 +15065,7 @@ ___
 | d4 | d6 | d8 | d10 | 2d6 | 3d6 | +d6/step |
 ___
 **Range**
-The range of firearms increases by 50/200 feet per step. 
+The range of firearms increases by 50/200 feet per step.
 ___
 **Capacity.** The capacity of firearms is reduced by 1 per step (minimum 1) starting from Heavy. If modified with the scattershot or automatic fire modifications, it always has enough ammunition to make a single attack before requiring reload. For each missing capacity point, however, it requires another action to reload.
 
@@ -15074,14 +15074,14 @@ ___
 ___
 **Cost.** Increasing the size multiplies the crafting cost by 2 per step starting from Heavy.
 ___
-**Reload/Capacity.** For each step above Heavy, the device requires two additional actions to reload. If you can use a bonus action to reload (such as a being a sufficiently-trained gunner Tinker), you may use your action and bonus action to reload at an accelerated rate. 
+**Reload/Capacity.** For each step above Heavy, the device requires two additional actions to reload. If you can use a bonus action to reload (such as a being a sufficiently-trained gunner Tinker), you may use your action and bonus action to reload at an accelerated rate.
 ___
-**Weight.** Increasing the size multiplies the firearm’s weight by 6 per step (starting at 15 lbs. for heavy, 90 lbs. for Heavy+, 540 lbs. for Heavy++, 3,240 lbs. for Heavy+++, etc.). All rolls to attack with Heavy+ (and heavier) firearms and crossbows have disadvantage if the one making the roll does not use a stand (such as nailing it down or having it mounted). 
+**Weight.** Increasing the size multiplies the firearm’s weight by 6 per step (starting at 15 lbs. for heavy, 90 lbs. for Heavy+, 540 lbs. for Heavy++, 3,240 lbs. for Heavy+++, etc.). All rolls to attack with Heavy+ (and heavier) firearms and crossbows have disadvantage if the one making the roll does not use a stand (such as nailing it down or having it mounted).
 
-If mounted on a vehicle or creature (such as a steam tank, mech, or simple wheels), the vehicle must be grounded. Grounding a mount requires its full movement (reducing its movement to 0), and makes its movement 0 for until the start of the user’s turn in the next round (on which the user can move normally). 
+If mounted on a vehicle or creature (such as a steam tank, mech, or simple wheels), the vehicle must be grounded. Grounding a mount requires its full movement (reducing its movement to 0), and makes its movement 0 for until the start of the user’s turn in the next round (on which the user can move normally).
 ___
-For example, the Common medium boomstick has the following statistics: 
-* 2d6 damage, 10 lbs., 2 capacity, range 150/600 feet 
+For example, the Common medium boomstick has the following statistics:
+* 2d6 damage, 10 lbs., 2 capacity, range 150/600 feet
 
 ___
 It can be improved one step to heavy, changing as follows:
@@ -15099,17 +15099,17 @@ The 6 pounder cannon requires 3 actions to reload instead of one, and costs 3 ti
 ___
 **Capacity (+/- 1 EP).** The firearm alters its current ammo capacity by 3 points per EP modified. This can be made into an add-on (as a clip or magazine).
 ___
-**Blaster (+0 EP).** The firearm’s range is quartered, but whenever it successfully hits an enemy, you may choose one of two special effects: 
+**Blaster (+0 EP).** The firearm’s range is quartered, but whenever it successfully hits an enemy, you may choose one of two special effects:
 * You may deal one additional dice of damage of the firearm’s type.
-* You may push the target up to 5 feet per Rarity of the firearm (up to a maximum of 30 feet away from you). 
+* You may push the target up to 5 feet per Rarity of the firearm (up to a maximum of 30 feet away from you).
 ___
-*Special.* If applied to a weapon that has the automatic fire or scattershot modifications, the firearm’s range is not reduced, but the extra effect only applies to the area attacks, and only then if the target is within half the initial range (instead of reducing the current range). 
+*Special.* If applied to a weapon that has the automatic fire or scattershot modifications, the firearm’s range is not reduced, but the extra effect only applies to the area attacks, and only then if the target is within half the initial range (instead of reducing the current range).
 ___
 **Extended Reload (-1 EP).** This device has a less efficient reload mechanism. This requires 1 extra action to reload. This can be made into an add-on, but only to reduce the final rarity of another modification.
 ___
-**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested (minimum 0). This modification also does not increase the malfunction rating for modified EP, and thus lowers the chance of a Superfunction as well. 
+**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested (minimum 0). This modification also does not increase the malfunction rating for modified EP, and thus lowers the chance of a Superfunction as well.
 ___
-**Scattershot (1 EP).** The firearm can deal damage in a cone instead of a direct attack. This is treated as an area attack in a cone with a length of one-tenth the firearm’s initial range. Creatures in the area can attempt an Agility saving throw against the Device save DC to halve the damage. The firearm uses two pieces of ammunition when making an attack. You can make a normal or area attack with a firearm, but not both, in a given round. 
+**Scattershot (1 EP).** The firearm can deal damage in a cone instead of a direct attack. This is treated as an area attack in a cone with a length of one-tenth the firearm’s initial range. Creatures in the area can attempt an Agility saving throw against the Device save DC to halve the damage. The firearm uses two pieces of ammunition when making an attack. You can make a normal or area attack with a firearm, but not both, in a given round.
 ___
 **Silenced (1 EP).** The firearm’s sound is muffled, and imposes no penalty to the user’s Stealth check when used. This can be made into an add-on.
 ___
@@ -15119,72 +15119,72 @@ ___
 ___
 **Water (1 EP).** The firearm is waterproofed, and can function in water normally as well as in air-less environments regardless of engine. This reduces the firearm’s range by quarter, however. This can be made into an add-on.
 ___
-**Weakened (-1 EP).** The device deals 1 less base dice of damage. This is applied before accounting for size changes to damage dice. 
+**Weakened (-1 EP).** The device deals 1 less base dice of damage. This is applied before accounting for size changes to damage dice.
 
 </div>
 
 \pagebreakNum
 
-A firearm can also be modified with a bayonet (see Chapter 5). Some firearms come with special bayonet replacements, usually described in their entry. 
+A firearm can also be modified with a bayonet (see Chapter 5). Some firearms come with special bayonet replacements, usually described in their entry.
 
 ##### Modified Ammunition
 Ammunition can be modified as well. Modified ammunition includes buck shot (blaster), distance shot (sniper), chain shot (automatic fire), spread shots (scattershot modification), underwater shot (water modification), etc. Some modifications cannot be made into bullets, such as silenced (as the firearm is what makes the noise), subject to DM adjudication.
 
 Modified ammunition costs as much as a consumable with an EP value of 1 per point; hence an underwater scatter shot costs as much as an EP 2 consumable. A malfunction when using modified ammunition counts as if the firearm malfunctioned.
-	
+
 \pagebreakNum
 
 #### Gadgets
 **Examples. Mind remote, rocket boots, pulley gun, rocket launcher, and atomizer**
 
 ##### Using Gadgets
-These technological devices act like items that replicate spells. Using a gadget takes the same action it takes to cast the spell. 
+These technological devices act like items that replicate spells. Using a gadget takes the same action it takes to cast the spell.
 
-A gadget may replicate spell levels appropriate to its rarity (see the Item Creation Complexity and Cost Table). The rarer the gadget, the higher level spells it can replicate (or the better modifications it has). 
+A gadget may replicate spell levels appropriate to its rarity (see the Item Creation Complexity and Cost Table). The rarer the gadget, the higher level spells it can replicate (or the better modifications it has).
 
-Casting a spell through a gadget is not counted as a real spell, and thus is not subject to effects dependent on magic type, schools, and can be used against creatures that are immune to or resistant to magic. 
+Casting a spell through a gadget is not counted as a real spell, and thus is not subject to effects dependent on magic type, schools, and can be used against creatures that are immune to or resistant to magic.
 
 ##### Crafting Complexity
-Depending on rarity, the gadget has varying degrees of complexity in crafting. 
+Depending on rarity, the gadget has varying degrees of complexity in crafting.
 
-| Gadget Rarity | Crafting Complexity | 
+| Gadget Rarity | Crafting Complexity |
 |:-:|:-:|
-| Common | Very Simple | 
-| Uncommon | Simple | 
-| Rare | Moderate | 
-| Epic | Complex | 
+| Common | Very Simple |
+| Uncommon | Simple |
+| Rare | Moderate |
+| Epic | Complex |
 | Legendary | Highly Complex |
-| Artifact | Highly Complex |	
+| Artifact | Highly Complex |
 
 ##### Gadget Fuel
 Gadgets consume fuel upon being used (see fuel and energy sources below) commensurate with its rarity.
 
-Gadgets have the capacity for ten charges (1 use per charge), consuming fuel units appropriate to the gadget’s rarity per use (see Fuel and Energy sources below). When a device is too small to reasonably carry its fuel capacity (such as a light gadget that works with coal), you must attach the device to a fuel unit, which can be carried as a backpack). 
+Gadgets have the capacity for ten charges (1 use per charge), consuming fuel units appropriate to the gadget’s rarity per use (see Fuel and Energy sources below). When a device is too small to reasonably carry its fuel capacity (such as a light gadget that works with coal), you must attach the device to a fuel unit, which can be carried as a backpack).
 ___
-**Fuel Charge of Gadgets** = 1 fuel unit (if Common) or 2 fuel units (per rarity above Common) 
+**Fuel Charge of Gadgets** = 1 fuel unit (if Common) or 2 fuel units (per rarity above Common)
 ___
 For instance, a Rare (+3) gadget (such as the Buzz Box) consumes 6 fuel units for a single charge (2 fuel x rarity of 3). Its maximum charge capacity is 60.
 
 This is similar to the fuel consumption of constructs.
 
 ##### Gadget Cooldown
-After being used, a gadget must cool down for 1 minute before it can be used again. Devices begin their cooldown from the end of the device’s duration. 
+After being used, a gadget must cool down for 1 minute before it can be used again. Devices begin their cooldown from the end of the device’s duration.
 
-If the gadget replicates spell levels from 4-6, the device’s cooldown is 8 hours instead of 1 minute. 
+If the gadget replicates spell levels from 4-6, the device’s cooldown is 8 hours instead of 1 minute.
 
-If the gadget replicates spell levels from 7-9, the cooldown is 1 day instead of 8 hours. A gadgeteer can lessen these restrictions. 
+If the gadget replicates spell levels from 7-9, the cooldown is 1 day instead of 8 hours. A gadgeteer can lessen these restrictions.
 
 ##### Concentration Spells
-Gadgets that replicate spells with a Duration of Concentration must be manipulated constantly to keep the benefit (treat as if concentrating). It also requires the same check to maintain concentration. You must therefore be holding the device and focusing on continuing operation normally. 
+Gadgets that replicate spells with a Duration of Concentration must be manipulated constantly to keep the benefit (treat as if concentrating). It also requires the same check to maintain concentration. You must therefore be holding the device and focusing on continuing operation normally.
 
-A device can be manipulated with a touch (does not require an action) to end its effect early (as if ceasing to concentrate). 
+A device can be manipulated with a touch (does not require an action) to end its effect early (as if ceasing to concentrate).
 
-If you are in a construct like a mech or a vehicle and the gadget is mounted to it, you may allow the construct to maintain concentration instead (allowing you to activate another gadget and concentrate on it instead). If either the construct or you are attacked, however, a concentration check is required for both devices. 
+If you are in a construct like a mech or a vehicle and the gadget is mounted to it, you may allow the construct to maintain concentration instead (allowing you to activate another gadget and concentrate on it instead). If either the construct or you are attacked, however, a concentration check is required for both devices.
 
 ##### Gadget Sizes
-Gadgets come in three possible sizes; Light (useable one-handed, finesse, and weigh 5 lbs.), Medium (useable one-handed, 10 lbs.), and Heavy (useable two-handed, 15 lbs.). 
+Gadgets come in three possible sizes; Light (useable one-handed, finesse, and weigh 5 lbs.), Medium (useable one-handed, 10 lbs.), and Heavy (useable two-handed, 15 lbs.).
 
-By default, a gadget is Light in size (and is easily concealed), and is further modified by the spell it replicates and other variables. 
+By default, a gadget is Light in size (and is easily concealed), and is further modified by the spell it replicates and other variables.
 
 ##### Magic School
 The following magic schools render the gadget one step heavier: Conjuration, Evocation, Necromancy, and Transmutation.
@@ -15192,12 +15192,12 @@ The following magic schools render the gadget one step heavier: Conjuration, Evo
 ##### Modifications
 The gadget can gain one modification worth 1 EP. If already Heavy, the weight of the gadget becomes 75 lbs., and cannot be used if you moved in the same round. Furthermore, using it reduces your speed when used to 0.
 
-If the spell replicated by the gadget has a range or target of self or personal, or grants or affects movement speed (such as the fly, haste, or feather fall spells), the gadget must also be worn on a harness. A single harness can hold one gadget (which can be replaced with an Action). One cannot wear a harness and armor heavier than Light Armor at the same time, but an armor of that size (Light) can be modified to also be a harness. 
+If the spell replicated by the gadget has a range or target of self or personal, or grants or affects movement speed (such as the fly, haste, or feather fall spells), the gadget must also be worn on a harness. A single harness can hold one gadget (which can be replaced with an Action). One cannot wear a harness and armor heavier than Light Armor at the same time, but an armor of that size (Light) can be modified to also be a harness.
 
-If a spell is a touch spell that may also target other creatures, creating it as a harness increases the spell’s duration by 25% instead. 
+If a spell is a touch spell that may also target other creatures, creating it as a harness increases the spell’s duration by 25% instead.
 
 ##### Special Gadgets: Trap Gadgets
-Trap gadgets are priced as ‘consumable’ gadgets (despite the fact that they are not consumed on use). They trigger once the trap requirements are met (such as coming within 10 feet of them, touching the trap, triggering a remote gadget, or coming within sight if modified with the alarm gadget). A trap gadget triggers a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. The Spirit (Perception) DC to find the device, as well as the Agility (Thieves’ Tools) DC to disable the device is equal to the device’s DC. 
+Trap gadgets are priced as ‘consumable’ gadgets (despite the fact that they are not consumed on use). They trigger once the trap requirements are met (such as coming within 10 feet of them, touching the trap, triggering a remote gadget, or coming within sight if modified with the alarm gadget). A trap gadget triggers a creature goes somewhere or touches something that the trap’s creator wanted to protect. Common triggers include stepping on a pressure plate or a false section of floor, pulling a trip wire, turning a doorknob, and using the wrong key in a lock. The Spirit (Perception) DC to find the device, as well as the Agility (Thieves’ Tools) DC to disable the device is equal to the device’s DC.
 
 If the spell used in the device has a DC, refer to the Device save DC below. If it has an attack, refer to the Device attack modifier instead.
 ___
@@ -15212,70 +15212,70 @@ the designer’s Intelligence modifier
 \pagebreakNum
 
 ##### Special Gadgets: Strike Gadgets
-Gadgets that replicate strike (including shot) effects consume less power. Each fuel charge for such devices costs only one-quarter the normal fuel units for a single use. 
+Gadgets that replicate strike (including shot) effects consume less power. Each fuel charge for such devices costs only one-quarter the normal fuel units for a single use.
 
-If the gadget is for a strike effect, the gadget also includes the weapon to which the gadget is linked. For instance, the swipe and shred spell formed into a gadget may be linked to a shortsword (creating a buzz saw), or a greataxe (creating a chainsaw axe). A hit with the strike gadget can activate the swipe and shred spell as a strike effect (and bonus action). 
+If the gadget is for a strike effect, the gadget also includes the weapon to which the gadget is linked. For instance, the swipe and shred spell formed into a gadget may be linked to a shortsword (creating a buzz saw), or a greataxe (creating a chainsaw axe). A hit with the strike gadget can activate the swipe and shred spell as a strike effect (and bonus action).
 
-With such a device, you may make four attacks for a single charge the device’s rarity and size would normally require. A strike gadget adds +2 lb. to a weapon’s mass, and are sometimes called ‘cores’. 
+With such a device, you may make four attacks for a single charge the device’s rarity and size would normally require. A strike gadget adds +2 lb. to a weapon’s mass, and are sometimes called ‘cores’.
 
-A strike gadget can be prepared to be a trap gadget. For instance, the strike gadget can be prepared as a trap to strike if a creature comes within 10 feet of the device. 
+A strike gadget can be prepared to be a trap gadget. For instance, the strike gadget can be prepared as a trap to strike if a creature comes within 10 feet of the device.
 
 <div class="classTable wide">
 
 ##### Gadget Modifications
-**Focused Device (1 EP).** You have advantage to any check to maintain concentration on this gadget. 
+**Focused Device (1 EP).** You have advantage to any check to maintain concentration on this gadget.
 ___
 **Long Cooldown (-1 EP).** The gadget requires an hour to cool down instead of the normal duration. This cannot be used with quick use.
 ___
 **Low Charge (-1 EP).** The gadget can contain only fuel enough for three Charges, not ten. If taken again, it has enough fuel for 1 charge only. If hooked up to a backup fuel tank, it instead consumes three times the normal units for a single charge.
 ___
-**Quick Use (1 EP).** The gadget’s cooldown is 1d4 rounds instead of 1 minute. If applied twice, the gadget can be used again at the end of your turn in the next round. If applied to a device with a longer cooldown, it is reduced to 1 hour if it was 8 hours cooldown, and 8 hours if its cooldown was 1 day. 
+**Quick Use (1 EP).** The gadget’s cooldown is 1d4 rounds instead of 1 minute. If applied twice, the gadget can be used again at the end of your turn in the next round. If applied to a device with a longer cooldown, it is reduced to 1 hour if it was 8 hours cooldown, and 8 hours if its cooldown was 1 day.
 ___
-**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested. This modification also does not increase the malfunction rating. 
+**Reliable Device (1 EP).** The device’s function is controlled. Its malfunction rating is reduced by 2 points for each EP invested. This modification also does not increase the malfunction rating.
 ___
-**Small (1 EP).** The gadget is one size smaller (from medium to light, or heavy to medium), weighs appropriately, and its Malfunction Rate is reduced by 1 point. This does not affect fuel consumption, only mobility, carry capacity and ability to hide it. 
+**Small (1 EP).** The gadget is one size smaller (from medium to light, or heavy to medium), weighs appropriately, and its Malfunction Rate is reduced by 1 point. This does not affect fuel consumption, only mobility, carry capacity and ability to hide it.
 
 </div>
 
 #### Vehicles and Vehicle Engines
-Vehicles that move without their own power (such as being pushed or dragged by muscle or wind) are not constructs at all, and are treated as normal vehicles in the Dungeon Master’s Guide. Siege weapons that are not attached to constructs must also be driven this way. 
+Vehicles that move without their own power (such as being pushed or dragged by muscle or wind) are not constructs at all, and are treated as normal vehicles in the Dungeon Master’s Guide. Siege weapons that are not attached to constructs must also be driven this way.
 
-Vehicle engines are special technological devices that repeatedly perform a simple task, such as turning gears, raising and lowering levers, and other tasks that an unskilled laborer can perform. They are often used as the driving force behind vehicles such as boats and airships, allowing them to move without relying on muscle (oars), or current (water or wind current) at their normal speed. 
+Vehicle engines are special technological devices that repeatedly perform a simple task, such as turning gears, raising and lowering levers, and other tasks that an unskilled laborer can perform. They are often used as the driving force behind vehicles such as boats and airships, allowing them to move without relying on muscle (oars), or current (water or wind current) at their normal speed.
 ___
-*Special.* An engine cannot be used to provide more mechanical fuel units than the fuel units that are spent on its operation. 
+*Special.* An engine cannot be used to provide more mechanical fuel units than the fuel units that are spent on its operation.
 
 Engines have rarity and size, which allow it to move vehicles that are not battle-construct or mech. For example, an engine can move a steamship or airship, but not a siege engine (which is a construct). Constructs and mechs consume fuel appropriate for size and rarity, like engines, but do not require crew members to man (unlike constructs, which require one driver for all tasks). An engine cannot cover more than 75% of the required crew members in a vehicle.
 
-Engines have 1 less malfunction rating compared to other devices of the same rarity, and consume fuel on an hourly basis. 
+Engines have 1 less malfunction rating compared to other devices of the same rarity, and consume fuel on an hourly basis.
 
-The complexity of an engine is equal to that of a gadget of the same rarity. 
+The complexity of an engine is equal to that of a gadget of the same rarity.
 
 ##### Engine Rarity and Size
-Rarity affects the effective number of unskilled laborers or crew members the engine replaces, and size acts as a multiplier to the number of unskilled laborers. The engine consumes fuel appropriate to the rarity and size together. 
+Rarity affects the effective number of unskilled laborers or crew members the engine replaces, and size acts as a multiplier to the number of unskilled laborers. The engine consumes fuel appropriate to the rarity and size together.
 
-| Rarity | Fuel per Hour | Unskilled laborers/Crew Members | 
+| Rarity | Fuel per Hour | Unskilled laborers/Crew Members |
 |:-:|:-:|:-:|
-| Common | 1/4 | 1 | 
-| Uncommon | 1 | 5 | 
-| Rare | 2 | 15 | 
-| Epic | 3 | 30 | 
-| Legendary | 4 | 90 | 
-| Artifact | 5 | 270 | 
+| Common | 1/4 | 1 |
+| Uncommon | 1 | 5 |
+| Rare | 2 | 15 |
+| Epic | 3 | 30 |
+| Legendary | 4 | 90 |
+| Artifact | 5 | 270 |
 ___
-Engine sizes start at Medium size (x1), and increase in size category similar to creatures (x2 for total laborers at large), x3 at huge, etc.). 
+Engine sizes start at Medium size (x1), and increase in size category similar to creatures (x2 for total laborers at large), x3 at huge, etc.).
 
 With each size category of the engine above Medium, the total number of unskilled laborers double (x2 for large, x3 for huge, x4 for gargantuan), and with it the fuel cost.
 
 ##### Engine Fuel
-Engine fuel can also be used to activate gadgets on board of the vehicle (treat as a backup fuel tank). Devices that use the vehicle’s engine fuel increase their malfunction rating by 1 point if the engine types are different. 
+Engine fuel can also be used to activate gadgets on board of the vehicle (treat as a backup fuel tank). Devices that use the vehicle’s engine fuel increase their malfunction rating by 1 point if the engine types are different.
 
-You may spend 1 EP (improving its rarity and cost) to specifically enhance an engine's fuel consumption, reducing its fuel by 75% per step (round down), like the efficient fuel gadget modification. 
+You may spend 1 EP (improving its rarity and cost) to specifically enhance an engine's fuel consumption, reducing its fuel by 75% per step (round down), like the efficient fuel gadget modification.
 
 \pagebreakNum
 
-For example, a Huge (x3) Uncommon (1 base fuel) engine provides 15 laborers (size category of 3 times the base laborers of 5), enough to cover 75% of the crew members for a zeppelin (crew 20). Such engine costs 3 pints of oil per hour (1 base; x3 modifier), or 3 vials of phlogiston every 5 hours. If Rare in quality, it would be more efficient, having the same total labor crew but use only 1 vials of oil per hour, or 1 vial of phlogiston per 5 hours. 
+For example, a Huge (x3) Uncommon (1 base fuel) engine provides 15 laborers (size category of 3 times the base laborers of 5), enough to cover 75% of the crew members for a zeppelin (crew 20). Such engine costs 3 pints of oil per hour (1 base; x3 modifier), or 3 vials of phlogiston every 5 hours. If Rare in quality, it would be more efficient, having the same total labor crew but use only 1 vials of oil per hour, or 1 vial of phlogiston per 5 hours.
 
-A Large (x2) Rare (2 base fuel) can perform the work of 30 unskilled laborers, enough to cover 50% of the crew size of a juggernaut for 4 (2 base, x2 modifier) vials of phlogiston per hour (or 16 pounds of coal per hour). If increased to very rare for fuel consumption it consumes only 1 vial (or 4 pound of coal per hour). 
+A Large (x2) Rare (2 base fuel) can perform the work of 30 unskilled laborers, enough to cover 50% of the crew size of a juggernaut for 4 (2 base, x2 modifier) vials of phlogiston per hour (or 16 pounds of coal per hour). If increased to very rare for fuel consumption it consumes only 1 vial (or 4 pound of coal per hour).
 
 Examples of vehicles (with engines) are in chapter 8 (Vehicles).
 
@@ -15292,46 +15292,46 @@ ___
 
 Medium (+0 at Medium)
 ___
-For instance, a Common suit of Gnomish Combat Armor is Medium. It costs 1 fuel units per charge (1 due to Common rarity + 0 due to Medium size), while a Rare Huge Crowd Pummeler consumes 12 fuel units per charge (4 due to Rare rarity + 8 due to Huge size). Depending on the engine type, this might require clockwork, coal, mana, electricity, or even soul power. 
+For instance, a Common suit of Gnomish Combat Armor is Medium. It costs 1 fuel units per charge (1 due to Common rarity + 0 due to Medium size), while a Rare Huge Crowd Pummeler consumes 12 fuel units per charge (4 due to Rare rarity + 8 due to Huge size). Depending on the engine type, this might require clockwork, coal, mana, electricity, or even soul power.
 
-Gadgets always act as if they are Medium sized (no size modifier). 
+Gadgets always act as if they are Medium sized (no size modifier).
 
 ##### Fuel scales as follows
 For Common rarity, the device’s fuel charge is 1 fuel unit.
 
-For every step of rarity above Common, the device’s fuel charge is 2 fuel units. 
+For every step of rarity above Common, the device’s fuel charge is 2 fuel units.
 
 For every size above Medium, the device consumes 4 more fuel units for a single charge. The size of Small consumes half as less charges as Medium, down to ¼ the normal charges if Tiny (round down).
 
-Devices have enough capacity for fuel units as appropriate to their type; Gadgets and Creatures can have up to 10 charges and consumables only require 1 fuel charge. Firearms and crossbows can have enough fuel for their Capacity, but have different fueling systems (see the appropriate entry above). 
+Devices have enough capacity for fuel units as appropriate to their type; Gadgets and Creatures can have up to 10 charges and consumables only require 1 fuel charge. Firearms and crossbows can have enough fuel for their Capacity, but have different fueling systems (see the appropriate entry above).
 
-A construct and gadget can always have separate fuel containers, which expand its capacity to what it can hold (see Container Capacity in Chapter 5 of the Player’s Handbook). 
+A construct and gadget can always have separate fuel containers, which expand its capacity to what it can hold (see Container Capacity in Chapter 5 of the Player’s Handbook).
 
 ##### Fuel Units for Constructs
-| Rarity | Tiny | Small | Medium | Large | Huge | Gargantuan | 
+| Rarity | Tiny | Small | Medium | Large | Huge | Gargantuan |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Common | 1/4 | 1/2 | 1 | 4 | 8 | 16 | 
-| Uncommon | 1/2 | 1 | 2 | 6 | 10 | 18 | 
-| Rare | 1 | 2 | 4 | 8 | 12 | 20 | 
-| Epic | 1 | 3 | 6 | 10 | 14 | 22 | 
-| Legendary | 2 | 4 | 8 | 12 | 16 | 24 | 
-| Artifact | 2 | 5 | 10 | 14 | 18 | 26 | 
+| Common | 1/4 | 1/2 | 1 | 4 | 8 | 16 |
+| Uncommon | 1/2 | 1 | 2 | 6 | 10 | 18 |
+| Rare | 1 | 2 | 4 | 8 | 12 | 20 |
+| Epic | 1 | 3 | 6 | 10 | 14 | 22 |
+| Legendary | 2 | 4 | 8 | 12 | 16 | 24 |
+| Artifact | 2 | 5 | 10 | 14 | 18 | 26 |
 
 ##### Device Engine and Schools
-A device’s energy source determines how often it can recharge, how it malfunctions, and various other traits. If making a new device, the energy source is adjudicated between the player and DM, such as a DM allowing alchemical, combustion, and mechanical engines for firearms (alchemical fire-spitters, regular firearms, and augmented crossbows, respectively) but banning necromantic engines for the same task (if the technology hasn’t reached that level, or the tinker would have not yet conceivably known of the secrets of that energy source). 
+A device’s energy source determines how often it can recharge, how it malfunctions, and various other traits. If making a new device, the energy source is adjudicated between the player and DM, such as a DM allowing alchemical, combustion, and mechanical engines for firearms (alchemical fire-spitters, regular firearms, and augmented crossbows, respectively) but banning necromantic engines for the same task (if the technology hasn’t reached that level, or the tinker would have not yet conceivably known of the secrets of that energy source).
 
-For example, using a gadget to cast the mana burn spell is possible by using the arcane or alchemical engines, but not if combustion, mechanical, or steam engines. 
+For example, using a gadget to cast the mana burn spell is possible by using the arcane or alchemical engines, but not if combustion, mechanical, or steam engines.
 
-| Engine | School | 
+| Engine | School |
 |:-:|:-:|
-| Alchemy | These engines replicate all the spells on the Alchemist's spell list, as well as any ones that fit its theme of affecting objects and support effects. | 
-| Combustion | These engines replicate Evocation spells | 
-| Electric | These engines replicate Evocation spells, and most movement-affecting spells | 
-| Mana | These engines can replicate most spells with ‘mana’ in their name, as well as all spells from a single spell list (chosen when the engine is determined) | 
-| Mechanical | These engines replicate some Evocation and Illusion spells | 
-| Soul | Spells from the divination, conjuration, enchantment, and necromancy spells are replicated by soul engines | 
+| Alchemy | These engines replicate all the spells on the Alchemist's spell list, as well as any ones that fit its theme of affecting objects and support effects. |
+| Combustion | These engines replicate Evocation spells |
+| Electric | These engines replicate Evocation spells, and most movement-affecting spells |
+| Mana | These engines can replicate most spells with ‘mana’ in their name, as well as all spells from a single spell list (chosen when the engine is determined) |
+| Mechanical | These engines replicate some Evocation and Illusion spells |
+| Soul | Spells from the divination, conjuration, enchantment, and necromancy spells are replicated by soul engines |
 
-As an example, a mana engine built for a priest (such as Draenei crystalline technologies) may store holy power and release blasts of light, while a mana engine built for a warlock (such as Burning Legion technologies) can instead unleash bolts of fel power. 
+As an example, a mana engine built for a priest (such as Draenei crystalline technologies) may store holy power and release blasts of light, while a mana engine built for a warlock (such as Burning Legion technologies) can instead unleash bolts of fel power.
 
 The only devices that can replicate healing spells are with the alchemy, electric, mana, and soul engines.
 
@@ -15340,53 +15340,53 @@ The device is powered by alchemical powers. A single potion can provide fuel uni
 
 \pagebreakNum
 
-| Rarity | Fuel Units | 
+| Rarity | Fuel Units |
 |:-:|:-:|
-| Common | 10 | 
-| Uncommon | 25 | 
-| Rare | 50 | 
-| Epic | 75 | 
-| Legendary | 100 | 
+| Common | 10 |
+| Uncommon | 25 |
+| Rare | 50 |
+| Epic | 75 |
+| Legendary | 100 |
 
-Excess fuel units are wasted beyond the units needed for 10 charges. If the excess fuel exceeds double the maximum capacity of the device, the device instead gains a Superfunction (see the Tinker feature of the same name). If two different potions are mixed inside the tank, roll for miscibility as normal (the DM is to adjudicate the results appropriately). 
+Excess fuel units are wasted beyond the units needed for 10 charges. If the excess fuel exceeds double the maximum capacity of the device, the device instead gains a Superfunction (see the Tinker feature of the same name). If two different potions are mixed inside the tank, roll for miscibility as normal (the DM is to adjudicate the results appropriately).
 
 ##### Combustion (Oil/Gas/Powder)
-The device is powered by combustion of various fuels to provide a burst of energy. So long as fuel remains in the tank, the device can function. A single pint of gas or oil, or a pound of gunpowder can grant 1 fuel unit. A vial of phlogiston provides 5 fuel units. 
+The device is powered by combustion of various fuels to provide a burst of energy. So long as fuel remains in the tank, the device can function. A single pint of gas or oil, or a pound of gunpowder can grant 1 fuel unit. A vial of phlogiston provides 5 fuel units.
 
-For the purposes of energy sources, firearms and explosives use combustion, but use two ounces of gunpowder instead. You do not have to pay an additional cost with bombs, but must supply gunpowder and bullets (or pellets) for firearms. A device with the combustion engine gives as much sound as an explosive when it is used (usually muffled if inside a construct). Developed settlements familiar with firearms usually sell bullets and pellets already pre-packaged with gunpowder (increasing the cost of a bullet). 
+For the purposes of energy sources, firearms and explosives use combustion, but use two ounces of gunpowder instead. You do not have to pay an additional cost with bombs, but must supply gunpowder and bullets (or pellets) for firearms. A device with the combustion engine gives as much sound as an explosive when it is used (usually muffled if inside a construct). Developed settlements familiar with firearms usually sell bullets and pellets already pre-packaged with gunpowder (increasing the cost of a bullet).
 ___
-*Special.* Gunpowder is extremely efficient when it comes to firearms and explosives; a single fuel charge of a medium firearm or a single explosive consumes 2 ounces of gunpowder (or 1/8th a pound). This applies for light, medium, and heavy firearms of all rarities. When created for larger sizes, such as gnome-sized explosives, or cannons and ballistae (larger-than-normal firearms and crossbows, respectively), account for the changes appropriately (referring to the chart above). 
+*Special.* Gunpowder is extremely efficient when it comes to firearms and explosives; a single fuel charge of a medium firearm or a single explosive consumes 2 ounces of gunpowder (or 1/8th a pound). This applies for light, medium, and heavy firearms of all rarities. When created for larger sizes, such as gnome-sized explosives, or cannons and ballistae (larger-than-normal firearms and crossbows, respectively), account for the changes appropriately (referring to the chart above).
 
 ##### Electricity (Batteries)
-The device is powered by electrical energies. A single battery costs 50 gold, weighs one pound, and can store up to 5 fuel units. Batteries are tiny items coated with iron and made up of various materials. 
+The device is powered by electrical energies. A single battery costs 50 gold, weighs one pound, and can store up to 5 fuel units. Batteries are tiny items coated with iron and made up of various materials.
 
-A battery can be charged by lightning spells (in which case recharging it acts as a mana engine). For this purpose, the lightning spell’s base mana cost is transferred into charges for the device (before calculating reductions). If struck by lightning or a hazard that deals lightning damage that is not a spell, the device regains charges equal to one-tenth the damage the effect dealt. Granting an electrical engine more charges than its capacity automatically causes a malfunction. 
+A battery can be charged by lightning spells (in which case recharging it acts as a mana engine). For this purpose, the lightning spell’s base mana cost is transferred into charges for the device (before calculating reductions). If struck by lightning or a hazard that deals lightning damage that is not a spell, the device regains charges equal to one-tenth the damage the effect dealt. Granting an electrical engine more charges than its capacity automatically causes a malfunction.
 
 ##### Mana Engine (Mana)
-The device is powered by a combination of mana-focusing lenses and raw energies, and stores raw mana. 1 mana point provides 1 fuel unit. 
+The device is powered by a combination of mana-focusing lenses and raw energies, and stores raw mana. 1 mana point provides 1 fuel unit.
 
-A spellcaster who is keyed to the device and is of the appropriate spellcasting class or mana type can charge the device with their mana. 
+A spellcaster who is keyed to the device and is of the appropriate spellcasting class or mana type can charge the device with their mana.
 
-Mana can be invested by linking a caster’s mana-flow to the device as an Action, which begins feeding off their own mana reserves, refueling the device, effectively draining mana points until the caster cuts off the connection. Cutting off a connection does not require an action. 
+Mana can be invested by linking a caster’s mana-flow to the device as an Action, which begins feeding off their own mana reserves, refueling the device, effectively draining mana points until the caster cuts off the connection. Cutting off a connection does not require an action.
 
-After charging a device, the caster’s own mana circulation is corrupted, and requires a Stamina saving throw against a DC of 20. On a failed check, the character suffers the distracted condition until they complete a long rest, with a distraction DC of 20. 
+After charging a device, the caster’s own mana circulation is corrupted, and requires a Stamina saving throw against a DC of 20. On a failed check, the character suffers the distracted condition until they complete a long rest, with a distraction DC of 20.
 
-A device cannot feed off the mana signatures of two different spellcasters, and must expend all its mana first. Each mana engine is keyed to a certain mana type (such as that of the Mage, Priest, or Warlock) which determines which mana types the device requires. 
+A device cannot feed off the mana signatures of two different spellcasters, and must expend all its mana first. Each mana engine is keyed to a certain mana type (such as that of the Mage, Priest, or Warlock) which determines which mana types the device requires.
 
 ##### Mechanical (Clockwork/Springs)
-The device is powered by springs, gears, and clockwork mechanisms. 1 fuel unit is gained by winding the mechanism designated in the device or creature. It takes 1 hour of winding a device to grant it 1 mechanical fuel unit. If you are proficient with Engineer’s Tools or Tinker’s Tools, it takes 10 minutes instead, and grants 3 units. 
+The device is powered by springs, gears, and clockwork mechanisms. 1 fuel unit is gained by winding the mechanism designated in the device or creature. It takes 1 hour of winding a device to grant it 1 mechanical fuel unit. If you are proficient with Engineer’s Tools or Tinker’s Tools, it takes 10 minutes instead, and grants 3 units.
 
 If the device loses hit points and isn’t a construct, or isn’t used for 7 days, it loses 10% its maximum fuel units (minimum 1 unit).
 
-An exception is using mechanical engines for crossbows (modified firearms). Charging such devices adds the [reload] property to the device instead. Larger crossbows (ballistae) require an Action to reload (plus an additional Action per size above medium-sized), and no longer require proficiency to wind. 
+An exception is using mechanical engines for crossbows (modified firearms). Charging such devices adds the [reload] property to the device instead. Larger crossbows (ballistae) require an Action to reload (plus an additional Action per size above medium-sized), and no longer require proficiency to wind.
 ___
-*Special.* Explosives can be created using mechanical engines, but they deal only a type of physical damage (choose from Bludgeoning, Piercing, or Slashing), and deal the damage in d4 instead of d6. If a rocket, it has half the normal range. 
+*Special.* Explosives can be created using mechanical engines, but they deal only a type of physical damage (choose from Bludgeoning, Piercing, or Slashing), and deal the damage in d4 instead of d6. If a rocket, it has half the normal range.
 
-##### Variant Mechanical: Chaos Energy 
+##### Variant Mechanical: Chaos Energy
 Chaos energy is highly dangerous; some believe it actually is equivalent to arcane magic, although it can be harnessed by tinkers. Thought at first to be magical, as it can sometimes mimic the effects of arcane magic, chaos energy is purely mechanical in nature. Chaos energy is generated through the use of devices called chaos generators. A small box contains magnets, several differing kinds of metal, a bit of steam energy and a tiny golden core that vibrates at a high frequency when powered. Political maneuverings by wizards in Theramore have caused the ruling body to declare chaos generators unlawful, but the goblins and some gnomes still manage to research and develop new uses for chaos energy. The Horde hasn't outlawed the usage yet, as it is not arcane magic, but they are suspicious of it because of the similarities.
 
 ##### Soul (Spirits or Necromancy)
-This engine is powered by soul-magic. This can be keyed to any creature type except constructs (humanoids, beasts, undead, elementals, etc.) Once keyed, the soul engine requires a source of spirit power, or it can harvest spirit power as it functions. 
+This engine is powered by soul-magic. This can be keyed to any creature type except constructs (humanoids, beasts, undead, elementals, etc.) Once keyed, the soul engine requires a source of spirit power, or it can harvest spirit power as it functions.
 
 \pagebreakNum
 
@@ -15394,57 +15394,57 @@ This engine is powered by soul-magic. This can be keyed to any creature type exc
 
 At the end of a long rest (or 24 hours) of its last use, the entrapped spirits regain part of their power, restoring a number of fuel units to the device equal to one-quarter their total Challenge Rating(s).
 
-For example, five creature of CR 3 are entrapped with the essence seal spell is used as fuel for a Meat Wagon, providing 30 fuel units (enough to keep it functioning for 5 straight hours). After 24 hours of its last use, it regains 7 fuel units. 
+For example, five creature of CR 3 are entrapped with the essence seal spell is used as fuel for a Meat Wagon, providing 30 fuel units (enough to keep it functioning for 5 straight hours). After 24 hours of its last use, it regains 7 fuel units.
 ___
-**Spirit Power Reap.** If the device defeats or reduces the Hit Points of a creature of the same creature type as its engine (such as a flamethrower fueled by elemental spirits vaporizing a CR 4 water elemental), it regains a number of fuel units equal to half the target’s Challenge Rating (or 2). 
+**Spirit Power Reap.** If the device defeats or reduces the Hit Points of a creature of the same creature type as its engine (such as a flamethrower fueled by elemental spirits vaporizing a CR 4 water elemental), it regains a number of fuel units equal to half the target’s Challenge Rating (or 2).
 
-Gaining excess fuel above the device’s limit from defeating creatures has a 10% chance of causing a malfunction to the devices. 
+Gaining excess fuel above the device’s limit from defeating creatures has a 10% chance of causing a malfunction to the devices.
 
-The maximum number of fuel units the engine can store is equal to the Charges required for 10 uses of the device. 
+The maximum number of fuel units the engine can store is equal to the Charges required for 10 uses of the device.
 
 Most soul engines without a bound creature have a backup engine (usually mechanical or electricity). This has fuel enough for one charge.
 ___
-*Special.* Having multiple souls with conflicting interests may cause the device to malfunction if used against at least two souls’ wish two opposite courses of action. 
+*Special.* Having multiple souls with conflicting interests may cause the device to malfunction if used against at least two souls’ wish two opposite courses of action.
 
 Trapped spirits also often try to call upon creatures that can aid them, and typically pledge aid or reward for being released (though they are under no compulsion to actually fulfill their promise). Such spirits can also intercept attempts at Calling (see Chapter 10: Spellcasting) to be heard by psychically or spiritually-sensitive individuals, sometimes even offering them information of their master’s weaknesses. This often happens with elemental spirits, often calling to shamans who meditate nearby.
 
 ##### Steam (Coal)
-The device is powered by steam-power. 4 pounds of coal yield 1 fuel unit. 
+The device is powered by steam-power. 4 pounds of coal yield 1 fuel unit.
 
-A steam-powered device requires a small furnace (either within it, as a mecha or construct, or outside it if a gadget). 
+A steam-powered device requires a small furnace (either within it, as a mecha or construct, or outside it if a gadget).
 
 ##### Exterior Fuel Containers
-It is possible to hook a device using mana or electrical engines to fuel containers or outlets, such as wiring an electric jumper cable to a giant battery, or a mana device to a mana fountain, or even a waterwheel or windmill for mechanical devices. 
+It is possible to hook a device using mana or electrical engines to fuel containers or outlets, such as wiring an electric jumper cable to a giant battery, or a mana device to a mana fountain, or even a waterwheel or windmill for mechanical devices.
 
-In this case, the item gains 5 fuel units per hour of being hooked up. Overcharging beyond maximum capacity might cause a malfunction if not attended to. 
+In this case, the item gains 5 fuel units per hour of being hooked up. Overcharging beyond maximum capacity might cause a malfunction if not attended to.
 
 \pagebreakNum
 
 ### Infusion Kit
 The infusion skill allows for the infusion, diffusion, and manipulation of magical items via infusion dust. A magical item, when created, requires investing crafting: Infusion Dust (ID) to reach a level of rarity (from Common, Uncommon, Rare, Epic, Legendary, or Artifact).
 ___
-**Prerequisites.** Infusion requires at least 4 caster levels and an Intelligence of 15 or higher to become proficient with. You can use the Infusionist feat to gain proficiency with the Infusion Kit. 
+**Prerequisites.** Infusion requires at least 4 caster levels and an Intelligence of 15 or higher to become proficient with. You can use the Infusionist feat to gain proficiency with the Infusion Kit.
 
-| Infusion | Complexity | 
+| Infusion | Complexity |
 |:-:|:-:|
-| Common | Very Simple | 
-| Uncommon | Simple | 
-| Rare | Moderate | 
-| Epic | Complex | 
-| Legendary | Highly Complex | 
-| Artifact | Highly Complex | 
+| Common | Very Simple |
+| Uncommon | Simple |
+| Rare | Moderate |
+| Epic | Complex |
+| Legendary | Highly Complex |
+| Artifact | Highly Complex |
 ___
-An infusionist requires the formula for an infusion matrix, which can be discovered, rewarded, or found. Infusing an item costs the CP for an item of its complexity. If it is a consumable (such as a scroll), its cost is reduced as described above. Sometimes, infusion matrices are found in spellbooks. 
+An infusionist requires the formula for an infusion matrix, which can be discovered, rewarded, or found. Infusing an item costs the CP for an item of its complexity. If it is a consumable (such as a scroll), its cost is reduced as described above. Sometimes, infusion matrices are found in spellbooks.
 #### Greater Attunement Items
 Some items are known as ‘greater attunement’ items. These draw their power from the strength of their wielders, usually either due to requiring specific strength to unlock further powers, or by tying their own power with that of their wielder (see the below table). A character may only have one greater attuned item at any given time.
 
-When not attuned to any creature, they appear as uncommon quality, but their true potential for power can be sensed by any who identify them. 
+When not attuned to any creature, they appear as uncommon quality, but their true potential for power can be sensed by any who identify them.
 
-Crafting a greater attunement item can be done at Uncommon rarity, but require upgrading the rarity (and the associated price) as normal. If already accessing the highest rarity step (as appropriate for character level), creating a greater attunement item costs as the highest-level rarity. For monsters, use its Challenge Rating instead of character level. 
+Crafting a greater attunement item can be done at Uncommon rarity, but require upgrading the rarity (and the associated price) as normal. If already accessing the highest rarity step (as appropriate for character level), creating a greater attunement item costs as the highest-level rarity. For monsters, use its Challenge Rating instead of character level.
 
-| Character Level | Item Rarity | Effect | 
+| Character Level | Item Rarity | Effect |
 |:-:|:-:|:-:|
-| 1st | Uncommon | Item becomes a +1 weapon | 
+| 1st | Uncommon | Item becomes a +1 weapon |
 | 3rd |	Uncommon | Item becomes magical (if a weapon) |
 | 5th | Rare | Item becomes a +2 weapon or +1 armor |
 | 11th | Epic | Item becomes a +3 weapon or +2 armor |
@@ -15453,7 +15453,7 @@ ___
 Some greater attunement items have other effects on rarity instead of gaining a bonus to attack and damage rolls or AC.
 
 #### Conditional Rarity
-If crafting a greater attunement weapon and adding conditions for its improvement in rarity, the total cost of the item is reduced by 15%. This is subject to joint player-DM approval. 
+If crafting a greater attunement weapon and adding conditions for its improvement in rarity, the total cost of the item is reduced by 15%. This is subject to joint player-DM approval.
 
 #### Golems
 Golems can be created in conjunction with engineering. This requires a construct crafted with the golem modification, and is inert until suffused with the infusion skill. The matrix's rarity is relative to the creature's own.
@@ -15461,33 +15461,33 @@ Golems can be created in conjunction with engineering. This requires a construct
 For example, a harvester golem costs an additional 4,000 gp in infusion materials, but improves their mental ability scores and allows the device to function forever without fuel.
 
 #### Runeblades
-A death knight's runeblade rarity automatically increases with his level. Upon reaching 5th level, the blade becomes uncommon in quality, rare at level 10, etc. Upon reaching 20th level, the runeblade may reach Legendary quality if the Lich King allows it. Typically, the Lich King will elevate only one runeblade to legendary quality, with the chosen Death Knight being his champion until the blade is destroyed or the Death Knight disappoints him. 
+A death knight's runeblade rarity automatically increases with his level. Upon reaching 5th level, the blade becomes uncommon in quality, rare at level 10, etc. Upon reaching 20th level, the runeblade may reach Legendary quality if the Lich King allows it. Typically, the Lich King will elevate only one runeblade to legendary quality, with the chosen Death Knight being his champion until the blade is destroyed or the Death Knight disappoints him.
 
 #### Custom Infused Items
-Using infusion, you can craft custom infused items by mixing infusion matrices and enchanting normally-mundane items into masterpieces of work. First you must determine the base rarity of the infused item, and then add features to determine its ultimate rarity. 
+Using infusion, you can craft custom infused items by mixing infusion matrices and enchanting normally-mundane items into masterpieces of work. First you must determine the base rarity of the infused item, and then add features to determine its ultimate rarity.
 
 ##### Base Rarity
-This depends on the material. Most materials have a base rarity of common (no modification), but uncommon materials (such as adamantite or arcanite) have special features to account for their increased cost. 
+This depends on the material. Most materials have a base rarity of common (no modification), but uncommon materials (such as adamantite or arcanite) have special features to account for their increased cost.
 ___
 **Adamantite or Arcanite (Uncommon).** Objects made of adamantite or arcanite have an AC of 23, are immune to nonmagical weapon damage and are resistant to arcane damage, and have 30 hit points. If a weapon, it deals double damage to objects. If an armor, any critical hit you suffer while wearing it turns into a normal hit. Arcanite can be created by transmuting thorium and paying 50 gp in fire crystal materials for each pound of thorium, and casting the transmute material spell. Arcanite has the deep infusion for no cost.
 ___
-**Bloodstone (Uncommon).** Objects made of bloodstone reflect the dim red of mortals, despite holding fel blood within, and are immune to fel damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, Bloodstone weapons and armor suppress fel addiction. Furthermore, you reduce the cost of all fel or unholy infusions by reducing 75% of the item's crafting cost. 
+**Bloodstone (Uncommon).** Objects made of bloodstone reflect the dim red of mortals, despite holding fel blood within, and are immune to fel damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, Bloodstone weapons and armor suppress fel addiction. Furthermore, you reduce the cost of all fel or unholy infusions by reducing 75% of the item's crafting cost.
 ___
 **Dark Iron (Uncommon).** Objects made of dark iron have an AC of 18, are resistant to nonmagical weapon damage, and have 20 hit points. If a weapon, it deals double damage to objects. They also have the deep infusion for no cost.
 ___
-**Brightwood (Uncommon).** Objects made of Brightwood acts as steel or wood, whichever is best suited for the occasion; it does not rust nor conduct electricity as normal steel, and it does not easily burn nor rot as normal wood, and can hold an edge. Brightwood also naturally regrows; so long as it is in a temperate and relatively humid area, objects made of Brightwood regain 1 hit point every minute. 
+**Brightwood (Uncommon).** Objects made of Brightwood acts as steel or wood, whichever is best suited for the occasion; it does not rust nor conduct electricity as normal steel, and it does not easily burn nor rot as normal wood, and can hold an edge. Brightwood also naturally regrows; so long as it is in a temperate and relatively humid area, objects made of Brightwood regain 1 hit point every minute.
 
 \pagebreakNum
 
 **Elementium (Rare).** Has traits of Arcanite, and is also resistant to all elemental damage (acid, cold, fire, and lightning). Furthermore, weapons and armor made of elementium reduce the cost of all elemental infusions by reducing 75% off the item's crafting cost. An Elementium weapon or armor also either gains the Elemental Damage feature for no cost (choose the damage type) or the Attuned Resistance feature for no cost. Finally, it has 1 additional spell use or 2 charges (if infused with the Spell or Charged Infusion features, if the spells are elemental in nature).
 ___
-**Fel Iron (Uncommon).** Objects made of this mineral shed a fel glow in a radius of 10 feet, are immune to holy damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, fel iron weapons and armor sate fel addiction. Furthermore, you reduce the cost of all fel or unholy infusions by reducing 75% of the item's crafting cost. 
+**Fel Iron (Uncommon).** Objects made of this mineral shed a fel glow in a radius of 10 feet, are immune to holy damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, fel iron weapons and armor sate fel addiction. Furthermore, you reduce the cost of all fel or unholy infusions by reducing 75% of the item's crafting cost.
 ___
 **Iron or Steel (Common)**
 ___
-**Lightforged Iron (Uncommon).** Objects made of this mineral shed regular light in a radius of 10 feet, are immune to shadow damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, Lightforged weapons and armor suppress fel addiction. Furthermore, you reduce the cost of all light or holy infusions by reducing 75% of the item's crafting cost. 
+**Lightforged Iron (Uncommon).** Objects made of this mineral shed regular light in a radius of 10 feet, are immune to shadow damage, resistant to nonmagical weapon damage, and have 20 hit points. If used or worn, Lightforged weapons and armor suppress fel addiction. Furthermore, you reduce the cost of all light or holy infusions by reducing 75% of the item's crafting cost.
 ___
-**Mithril (Uncommon).** Objects made of mithral have half the weight of iron or steel but is just as hard, and does not rust, corrode, or tarnish. If a weapon, it is counted as if silver. If an armor, it can be worn under normal clothes if it is light or medium. If the armor normally imposes disadvantage on Agility (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't. If the item has a Deep Infusion, the final crafting cost of the item is reduced by 75%. 
+**Mithril (Uncommon).** Objects made of mithral have half the weight of iron or steel but is just as hard, and does not rust, corrode, or tarnish. If a weapon, it is counted as if silver. If an armor, it can be worn under normal clothes if it is light or medium. If the armor normally imposes disadvantage on Agility (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't. If the item has a Deep Infusion, the final crafting cost of the item is reduced by 75%.
 ___
 **Saronite (Rare).** Objects made of Saronite have an AC of 25 and 40 hit points, and are naturally magical. Objects made of Saronite are also immune to nonmagical weapons, resistant to magical weapon damage, and shadow, fel and lightning damage. When suffering holy or arcane damage, the object takes damage normally, and also deals half of the damage it took in a 15-foot area sphere centered on it (Spirit saving throw DC 15 to negate). Saronite is strong but brittle, and takes full damage from critical hits. Prolonged exposure to Saronite counts as a test of sanity (see Alternate Madness under Chapter 8). Saronite objects also have the deep infusion for no cost.
 ___
@@ -15503,68 +15503,68 @@ ___
 | Roll | Suffix | Strength | Agility | Stamina | Intelligence | Spirit | Charisma |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Tiger | ✓ | ✓ | - | - | - | - | 		
-| 2 | Bear | ✓ | - | ✓ | - | - | - | 
-| 3 | Gorilla | ✓ | - | - | ✓ | - | - | 
-| 4 | Boar | ✓ | - | - | - | ✓ | - | 
-| 5 | Dragon | ✓ | - | - | - | - | ✓ | 
-| 6 | Monkey | - | ✓ | ✓ | - | - | - | 
-| 7 | Falcon | - | ✓ | - | ✓ | - | - | 
-| 8 | Wolf | - | ✓ | - | - | ✓ | - | 
-| 9 | Badger | - | ✓ | - | - | - | ✓ | 
-| 10 | Eagle | - | - | ✓ | ✓ | - | - | 
-| 11 | Whale | - | - | ✓ | - | ✓ | - | 
-| 12 | Orca | - | - | ✓ | - | - | ✓ | 
-| 13 | Owl | - | - | - | ✓ | ✓ | - | 
-| 14 | Crow | - | - | - | ✓ | - | ✓ | 
-| 15 | Cat | - | - | - | - | ✓ | ✓ | 
-| 16-20 | Reroll and try again | 
+| 2 | Bear | ✓ | - | ✓ | - | - | - |
+| 3 | Gorilla | ✓ | - | - | ✓ | - | - |
+| 4 | Boar | ✓ | - | - | - | ✓ | - |
+| 5 | Dragon | ✓ | - | - | - | - | ✓ |
+| 6 | Monkey | - | ✓ | ✓ | - | - | - |
+| 7 | Falcon | - | ✓ | - | ✓ | - | - |
+| 8 | Wolf | - | ✓ | - | - | ✓ | - |
+| 9 | Badger | - | ✓ | - | - | - | ✓ |
+| 10 | Eagle | - | - | ✓ | ✓ | - | - |
+| 11 | Whale | - | - | ✓ | - | ✓ | - |
+| 12 | Orca | - | - | ✓ | - | - | ✓ |
+| 13 | Owl | - | - | - | ✓ | ✓ | - |
+| 14 | Crow | - | - | - | ✓ | - | ✓ |
+| 15 | Cat | - | - | - | - | ✓ | ✓ |
+| 16-20 | Reroll and try again |
 
 </div>
 
 \pagebreakNum
 
-**Attuned Resistance (+1 step, requires attunement, Armor only).** For one step, you may gain resistance to a chosen elemental or magic damage type for 1 hour when wearing this armor (chosen when choosing this feature). For two steps, the resistance is permanent. 
+**Attuned Resistance (+1 step, requires attunement, Armor only).** For one step, you may gain resistance to a chosen elemental or magic damage type for 1 hour when wearing this armor (chosen when choosing this feature). For two steps, the resistance is permanent.
 ___
-**Charged Infusion (+1 step, Any).** You can charge an item with inner power, allowing it to gain multiple spells and abilities, spending charges to fuel them. When making a charged infusion, the item’s base rarity changes to reflect the rarity in the below chart. If the base item was an unusual material (such as mithril), add one step to the final rarity of the item per rarity above Common of the base material. 
+**Charged Infusion (+1 step, Any).** You can charge an item with inner power, allowing it to gain multiple spells and abilities, spending charges to fuel them. When making a charged infusion, the item’s base rarity changes to reflect the rarity in the below chart. If the base item was an unusual material (such as mithril), add one step to the final rarity of the item per rarity above Common of the base material.
 
-When creating a charged infusion, you may choose spells and abilities to store in your weapon, which expend charges upon being used. You must be able to cast these spells. At the start of every dawn or dusk (your choice upon infusion), the item regains charges as appropriate to its rarity. You use your spell save DC and attack bonus for the ability DCs, or otherwise use the specified DCs. 
+When creating a charged infusion, you may choose spells and abilities to store in your weapon, which expend charges upon being used. You must be able to cast these spells. At the start of every dawn or dusk (your choice upon infusion), the item regains charges as appropriate to its rarity. You use your spell save DC and attack bonus for the ability DCs, or otherwise use the specified DCs.
 
-| Rarity (DC) | Spell levels | Max. charges (charges regained) | 
-|:-:|:-:|:-:| 
-| Common (12) | 3 | 5 (1d4) | 
-| Uncommon (13) | 5 | 10 (1d6) | 
-| Rare (14) | 7 | 10 (1d8 + 2) | 
-| Epic (15) | 10 | 10 (1d8 + 4) | 
-| Legendary (16) | 13 | 15 (1d8 + 4) | 
-| Artifact (17) | 16 | 20 (2d8 + 4) | 
+| Rarity (DC) | Spell levels | Max. charges (charges regained) |
+|:-:|:-:|:-:|
+| Common (12) | 3 | 5 (1d4) |
+| Uncommon (13) | 5 | 10 (1d6) |
+| Rare (14) | 7 | 10 (1d8 + 2) |
+| Epic (15) | 10 | 10 (1d8 + 4) |
+| Legendary (16) | 13 | 15 (1d8 + 4) |
+| Artifact (17) | 16 | 20 (2d8 + 4) |
 
-Each spell consumes 1 charge per spell level, and can be heightened to the maximum spell level appropriate for its rarity (see above). You can also inscribe cantrips (which cost ½ a spell level), but you cannot store a spell level without storing one at least two levels below it (for instance, storing a 6th level spell requires at least one 4th level spell, and one 2nd level spell). Once accessing a certain desired spell level, you can sacrifice access to lower spell levels and bind the item to the highest-level spell, refunds half the total spell levels of this infusion (in the above example, storing a 6th level spell costs 6 + 4 + 2 total spell levels, equivalent to 12 at Legendary rarity. Choosing to bind the 6th level spell counts the total spell levels spent as 6 instead of 12). This cannot reduce rarity below that appropriate to the original spell level before the refund (Legendary in this case). 
+Each spell consumes 1 charge per spell level, and can be heightened to the maximum spell level appropriate for its rarity (see above). You can also inscribe cantrips (which cost ½ a spell level), but you cannot store a spell level without storing one at least two levels below it (for instance, storing a 6th level spell requires at least one 4th level spell, and one 2nd level spell). Once accessing a certain desired spell level, you can sacrifice access to lower spell levels and bind the item to the highest-level spell, refunds half the total spell levels of this infusion (in the above example, storing a 6th level spell costs 6 + 4 + 2 total spell levels, equivalent to 12 at Legendary rarity. Choosing to bind the 6th level spell counts the total spell levels spent as 6 instead of 12). This cannot reduce rarity below that appropriate to the original spell level before the refund (Legendary in this case).
 
-If you expend the last charge on an inscribed item, roll 1d20. On a 1, the item is destroyed in a way appropriate to the type of the spells stored in it (becoming a mundane stick or twisted sword, melting, turning to ash, or disintegrating in display of power). If the item can only be destroyed in a specific way, it instead becomes inert until it is reinvigorated. The DM decides the method of invigoration, but it is usually similar in time and cost to the process of creation. 
+If you expend the last charge on an inscribed item, roll 1d20. On a 1, the item is destroyed in a way appropriate to the type of the spells stored in it (becoming a mundane stick or twisted sword, melting, turning to ash, or disintegrating in display of power). If the item can only be destroyed in a specific way, it instead becomes inert until it is reinvigorated. The DM decides the method of invigoration, but it is usually similar in time and cost to the process of creation.
 
-You may imbue an inscribed item with a special quality instead of adding spells. Each special quality can be purchased by spending spell levels as if they were inscribed. 
+You may imbue an inscribed item with a special quality instead of adding spells. Each special quality can be purchased by spending spell levels as if they were inscribed.
 ___
-**Aligned Infusion (2 spell levels per sub-school or archetype suite, or 4 for one magic school).** Choose one school of magic, or a sub-class of spell. You can channel mana from your surroundings as a bonus action before casting this spell, reducing the mana cost of spells of that type by one less mana point (minimum 1). You may choose evocation as a school or magic, for example, or choose fire, cold, or lightning spells, and spend a bonus action to reduce the mana cost of the spell by 1. You must use the item as the focus for this spell, and it becomes a spell focus for you. 
+**Aligned Infusion (2 spell levels per sub-school or archetype suite, or 4 for one magic school).** Choose one school of magic, or a sub-class of spell. You can channel mana from your surroundings as a bonus action before casting this spell, reducing the mana cost of spells of that type by one less mana point (minimum 1). You may choose evocation as a school or magic, for example, or choose fire, cold, or lightning spells, and spend a bonus action to reduce the mana cost of the spell by 1. You must use the item as the focus for this spell, and it becomes a spell focus for you.
 ___
-**Enhanced Infusion (2 spell levels).** The weapon becomes a magical one. If the rarity is uncommon, it has a +1 bonus to attack and damage (3 spell levels). If the rarity is rare, it has a +2 bonus (4 spell levels). If the rarity is epic, it has a +3 bonus (5 spell levels). This cannot be taken when the Deep Infusion feature is taken. 
+**Enhanced Infusion (2 spell levels).** The weapon becomes a magical one. If the rarity is uncommon, it has a +1 bonus to attack and damage (3 spell levels). If the rarity is rare, it has a +2 bonus (4 spell levels). If the rarity is epic, it has a +3 bonus (5 spell levels). This cannot be taken when the Deep Infusion feature is taken.
 ___
-**Guiding Infusion (1 spell level, requires Enhanced Infusion).** You may add the item’s bonus damage on attack and damage rolls to spell attack rolls. 
+**Guiding Infusion (1 spell level, requires Enhanced Infusion).** You may add the item’s bonus damage on attack and damage rolls to spell attack rolls.
 ___
 **Insightful Infusion (1 spell level).** If you notice an illusion spell, you can attempt Intelligence (Investigation) checks without spending an action, but only once per turn. This must be at least one illusion spell stored in the item.
 ___
-**Mana Storing (special).** The item can store a number of mana points equal to the maximum spell level it can store. Drawing from this pool does not cost an action, but it counts against the normal 1 hour limit of mana restoration effects. There must be at least one transmutation spell stored in the item. This special quality costs one-quarter of the number of spell levels of the item (round up). 
+**Mana Storing (special).** The item can store a number of mana points equal to the maximum spell level it can store. Drawing from this pool does not cost an action, but it counts against the normal 1 hour limit of mana restoration effects. There must be at least one transmutation spell stored in the item. This special quality costs one-quarter of the number of spell levels of the item (round up).
 ___
 **Reflective Infusion (1 spell level).** If you succeed on a save against a spell that targets only you, with or without the item's intervention, you can use your reaction to expend 1 charge from the item and turn the spell back on its caster as if you had cast the spell. There must be at least three abjuration spells stored in the item.
 ___
 **Resistant Infusion (2 spell levels)**. You gain resistance to one elemental damage type while holding the item. This cannot be taken when the Attuned Resistance feature is taken.
 ___
-**Smiting Infusion (4 spell levels).** When you hit with a melee attack using the item, you can expend up charges (up to the maximum spell level the weapon can store). For each charge you expend, the target takes an extra ld6 points of damage. The bonus damage is arcane. The item must be a staff or club (of any kind). 
+**Smiting Infusion (4 spell levels).** When you hit with a melee attack using the item, you can expend up charges (up to the maximum spell level the weapon can store). For each charge you expend, the target takes an extra ld6 points of damage. The bonus damage is arcane. The item must be a staff or club (of any kind).
 ___
 **Soothing Infusion (1 spell level).** If you fail a saving throw against an enchantment spell that targets only you, you can turn a failed save into a successful one. This must be at least one enchantment spell stored in the item.
 ___
 **Warding Infusion (2 spell levels, requires enhanced infusion).** You may add the item’s bonus damage on attack and damage rolls to your to Armor Class and saving throws. There must be at least one abjuration spell stored in the item. The item must be a staff or club.
 
-This infusion is usually chosen for staves. A DM may allow a spellcaster to gain the proficiency in infusion tools and the recipe for the purposes of making a single personalized inscribed staff (as inspiration, see Chapter 4). 
+This infusion is usually chosen for staves. A DM may allow a spellcaster to gain the proficiency in infusion tools and the recipe for the purposes of making a single personalized inscribed staff (as inspiration, see Chapter 4).
 
 \pagebreakNum
 
@@ -15572,44 +15572,44 @@ This infusion is usually chosen for staves. A DM may allow a spellcaster to gain
 ___
 **Deep Infusion (+1 step, Weapon, Shield, or Armor only).** For each step of rarity, add +1 to your Attack and Damage rolls with a weapon, or +1 to AC with an armor or shield, and the item is considered magical. This can be taken multiple times (each time adding +1 to a maximum of +3).
 ___
-**Elemental Damage (Flame, Freeze, Lightning, Corrosion; Weapon only).** For each step, add 1d6 points of fire, cold, lightning, or acid (choose one) damage on a hit (maximum 3d6 with three levels). You can choose multiple elements, including two opposing ones. 
+**Elemental Damage (Flame, Freeze, Lightning, Corrosion; Weapon only).** For each step, add 1d6 points of fire, cold, lightning, or acid (choose one) damage on a hit (maximum 3d6 with three levels). You can choose multiple elements, including two opposing ones.
 ___
 **Health Infusion  (+1 step, Armor only).** This armor is infused with protective warding enchantments. So long as you are wearing this armor (and attuned to it, if it requires attunement), you gain a +5 bonus to your maximum hit points. This can increase rarity multiple steps, each adding 5 extra hit points (maximum +25 hit points at Artifact rarity).
 ___
-**Magical Damage (Radiant, Demonic, Death, Mystic; Weapon only).** For each step, add 1d4 points of holy, fel, shadow, or arcane (choose one) damage on a hit (maximum 3d4 with three levels). You can choose multiple magic damages, including two opposing ones. 
+**Magical Damage (Radiant, Demonic, Death, Mystic; Weapon only).** For each step, add 1d4 points of holy, fel, shadow, or arcane (choose one) damage on a hit (maximum 3d4 with three levels). You can choose multiple magic damages, including two opposing ones.
 ___
 **Protection Ward (+1 step, Wonderous Item only).** This wondrous item (any item of clothing) is infused with wards of protection and resilience. So long as you are attuned to and are wearing this item, you gain a +1 bonus to AC and to all Saving Throws. You can be attuned to only one instance of Protection Ward. This infusion replaces the Cloak of Protection and the Ring of Protection wonderous items.
 ___
-**Ricochet Infusion (+1 step, Weapon only).** This infusion can be placed only on a melee or thrown weapon. If it does not normally have the thrown property, it becomes a thrown weapon 20/60 ft. When you make a ranged thrown attack with this weapon, it flies out and targets another creature within 30 feet from the original target, counting its current target as its point of attack for the purposes of range. This does not require successfully striking the first target, but does require an attack action for each target. When the weapon cannot make any more attacks (such as you running out of attack actions), it returns to your hand at the end of your turn in the same round. You can make an attack with a bonus weapon as if using two-weapon fighting if the weapon normally qualifies. The weapon can ricochet up to a maximum number of times equal to 1 per its end rarity (once if Uncommon, five times if Artifact, etc.), so long as you have the attacks to expend. Night elven priestesses of Elune often grant a Ricochet-infused weapon (usually a moonglaive) to huntresses who have served well and protected the lands of Ashenvale and the Priesthood of Elune. 
+**Ricochet Infusion (+1 step, Weapon only).** This infusion can be placed only on a melee or thrown weapon. If it does not normally have the thrown property, it becomes a thrown weapon 20/60 ft. When you make a ranged thrown attack with this weapon, it flies out and targets another creature within 30 feet from the original target, counting its current target as its point of attack for the purposes of range. This does not require successfully striking the first target, but does require an attack action for each target. When the weapon cannot make any more attacks (such as you running out of attack actions), it returns to your hand at the end of your turn in the same round. You can make an attack with a bonus weapon as if using two-weapon fighting if the weapon normally qualifies. The weapon can ricochet up to a maximum number of times equal to 1 per its end rarity (once if Uncommon, five times if Artifact, etc.), so long as you have the attacks to expend. Night elven priestesses of Elune often grant a Ricochet-infused weapon (usually a moonglaive) to huntresses who have served well and protected the lands of Ashenvale and the Priesthood of Elune.
 ___
-**Spell (+1 step, Any).** You imbue a single spell per rarity rank in the item, which can be invoked to cast the spell. The spell’s level is dependent on its quality (see the Item Creation Complexity and Cost Table). You can increase the number of lower-level spells cast by 3 if you sacrifice the spell one rank higher than it. 
+**Spell (+1 step, Any).** You imbue a single spell per rarity rank in the item, which can be invoked to cast the spell. The spell’s level is dependent on its quality (see the Item Creation Complexity and Cost Table). You can increase the number of lower-level spells cast by 3 if you sacrifice the spell one rank higher than it.
 
-For instance, a Legendary rarity item can cast 1 spell of level 7-8, 1 of levels 5-6, 1 of levels 3-4, and 1 of levels 1-2, or it can cast 4 of level 5-6, and 4 of levels 1-2. 
+For instance, a Legendary rarity item can cast 1 spell of level 7-8, 1 of levels 5-6, 1 of levels 3-4, and 1 of levels 1-2, or it can cast 4 of level 5-6, and 4 of levels 1-2.
 ___
-**Storm Infusion (+1 step, Weapon only).** This weapon deals +1 extra thunder damage per step of the weapon’s end rarity (+1 for Uncommon, +5 for Artifact). Furthermore, when thrown, the storm weapon returns at the same round, and may be used again with another attack action. Wildhammer shamans often grant their gryphon riders a Storm-infused weapon (usually a warhammer) upon proving their quality and protecting Aerie Peak. 
+**Storm Infusion (+1 step, Weapon only).** This weapon deals +1 extra thunder damage per step of the weapon’s end rarity (+1 for Uncommon, +5 for Artifact). Furthermore, when thrown, the storm weapon returns at the same round, and may be used again with another attack action. Wildhammer shamans often grant their gryphon riders a Storm-infused weapon (usually a warhammer) upon proving their quality and protecting Aerie Peak.
 ___
 **Weapon Resistance (adds attunement; +2 steps, Armor only).** You gain resistance to nonmagical damage while wearing this armor. You can use an action to make yourself immune to nonmagical damage for 1 minute. If taken again, this increases the immunity’s duration to 3 minutes (at 3 steps), again to 10 minutes (at 4 steps), and again to 1 hour (at 5 steps).
 
 ##### Single-Use Enhancements
-Temporary enhancements to weapons or ammunition can also be infused to contain a strike or shot effect if it is prepared specifically to hold it with an Infusion Kit. As this is infused with the ammunition itself, using it does not require a bonus action (but cannot be joined with another shot spell). 
+Temporary enhancements to weapons or ammunition can also be infused to contain a strike or shot effect if it is prepared specifically to hold it with an Infusion Kit. As this is infused with the ammunition itself, using it does not require a bonus action (but cannot be joined with another shot spell).
 
-Ammunition are treated as both consumables and ammunition (enchanting 20 pieces of ammunition costs one-half the normal cost of the same quality). Despite the names below, ammunition infusions can be used interchangeably between ammunition such as arrows, crossbow bolts, bullets, and more. Ammunition infusions fade after a successful hit, and can be reused if they missed. 
+Ammunition are treated as both consumables and ammunition (enchanting 20 pieces of ammunition costs one-half the normal cost of the same quality). Despite the names below, ammunition infusions can be used interchangeably between ammunition such as arrows, crossbow bolts, bullets, and more. Ammunition infusions fade after a successful hit, and can be reused if they missed.
 
-For the purposes of spellcasting ability rolls for strike effects, treat the bonus as +4. 
+For the purposes of spellcasting ability rolls for strike effects, treat the bonus as +4.
 
-Single use enhancements may be also stored into stones or gems, which can be sold by themselves, and used to confer the enchantment to a single weapon (or 20 pieces of ammunition) with an action. Once this is done, the weapon is enchanted for a single use, and the stone or gemstone loses the enchantment. 
+Single use enhancements may be also stored into stones or gems, which can be sold by themselves, and used to confer the enchantment to a single weapon (or 20 pieces of ammunition) with an action. Once this is done, the weapon is enchanted for a single use, and the stone or gemstone loses the enchantment.
 
-| Name | Rarity/EP | Spell (Spell Level) | 
+| Name | Rarity/EP | Spell (Spell Level) |
 |:-:|:-:|:-:|
-| Arcane | Uncommon | Shot Array (Arcane); or 1d4 arcane damage, dispel magic (1st level) | 
-| Black | Rare | Shot Array (Black); or 3d4 shadow damage, conjure undead I | 
-| Fire | Uncommon | Shot Array (Searing); or 1d6 fire damage | 
-| Sleep | Uncommon | Shot Array (Tranquilizing); or 5d8 hit points of sleep | 
+| Arcane | Uncommon | Shot Array (Arcane); or 1d4 arcane damage, dispel magic (1st level) |
+| Black | Rare | Shot Array (Black); or 3d4 shadow damage, conjure undead I |
+| Fire | Uncommon | Shot Array (Searing); or 1d6 fire damage |
+| Sleep | Uncommon | Shot Array (Tranquilizing); or 5d8 hit points of sleep |
 
 ##### Item Naming
-An item 
+An item
 Item names have three steps: Lesser, Greater, and Superior
-For example, an axe made of elementium with three steps of elemental damage (fire) is called an Axe of Superior Flame, or a Superior Elementium Axe of Fire, and deals 3d6 extra points of fire damage on a hit. 
+For example, an axe made of elementium with three steps of elemental damage (fire) is called an Axe of Superior Flame, or a Superior Elementium Axe of Fire, and deals 3d6 extra points of fire damage on a hit.
 
 \pagebreakNum
 
@@ -15627,13 +15627,13 @@ For example, an axe made of elementium with three steps of elemental damage (fir
 | 11 | Spell Infusion | - |
 | 12 | Storm Infusion | - |
 
-* Upon gaining a scaling infusion and having remaining infusion steps (marked by *), roll a d20. On a result of 5 or lower, increase the step of 
+* Upon gaining a scaling infusion and having remaining infusion steps (marked by *), roll a d20. On a result of 5 or lower, increase the step of
 
-For Uncommon-quality, roll once. Artifact rolls five times. 
+For Uncommon-quality, roll once. Artifact rolls five times.
 
-| | | 
-|:-:|:-:| 
-| 1 | Ability Enhancement | 
+| | |
+|:-:|:-:|
+| 1 | Ability Enhancement |
 | 2 | Attuned Resistance |
 | 3 | Charged Infusion |
 | 4 | Crusader |
@@ -15641,31 +15641,31 @@ For Uncommon-quality, roll once. Artifact rolls five times.
 | 6 | Elemental Damage |
 | 7 | Health-Enhancement |
 | 8 | Magical Damage |
-| 9 | Protection Ward | 
-| 10 | Ricochet Infusion | 
-| 11 | Spell | 
-| 12 | Storm Infusion | 
-| 13 | Weapon Resistance | 
+| 9 | Protection Ward |
+| 10 | Ricochet Infusion |
+| 11 | Spell |
+| 12 | Storm Infusion |
+| 13 | Weapon Resistance |
 
 ### Poisoner’s Kit
-A character proficient with a poisoner’s kit may gain immunity to any disease or poison they know how to create by subjecting themselves to it and surviving the ordeal. This requires three instances of surviving the poison or the disease, and no more than three times over the course of a year. A poison or disease must be recovered from naturally to count towards immunity. 
+A character proficient with a poisoner’s kit may gain immunity to any disease or poison they know how to create by subjecting themselves to it and surviving the ordeal. This requires three instances of surviving the poison or the disease, and no more than three times over the course of a year. A poison or disease must be recovered from naturally to count towards immunity.
 
-| | 
-|:-:|:-:| 
-| Rarity | Complexity | 
-| Common | Very Simple | 
-| Uncommon | Simple | 
-| Rare | Moderate | 
-| Epic | Complex | 
-| Legendary | Highly Complex | 
-| Artifact | Highly Complex | 
+| |
+|:-:|:-:|
+| Rarity | Complexity |
+| Common | Very Simple |
+| Uncommon | Simple |
+| Rare | Moderate |
+| Epic | Complex |
+| Legendary | Highly Complex |
+| Artifact | Highly Complex |
 
 #### Using Poisons
-Applying poisons is a Use Object action if they are not used as weapons. If applied to a weapon, poisons retain potency for one minute or until used. Poisons are applicable to up to three hits. A creature multiple times with a single poison suffers disadvantage to the saving throw of the poison. 
+Applying poisons is a Use Object action if they are not used as weapons. If applied to a weapon, poisons retain potency for one minute or until used. Poisons are applicable to up to three hits. A creature multiple times with a single poison suffers disadvantage to the saving throw of the poison.
 
-Depending on the vector of the poison, it takes different shapes. 
+Depending on the vector of the poison, it takes different shapes.
 ___
-**Contact.** Applying poisons to a door handle delivers contact poisons, and costs an action. 
+**Contact.** Applying poisons to a door handle delivers contact poisons, and costs an action.
 ___
 **Ingested.** Applying poisons to a bowl or cooked meal delivers ingested poisons. If diluting a dose (such as putting a dose in a cooking pot or a well), the DC is reduced by 4, but a single dose affects 4 targets.
 ___
@@ -15685,43 +15685,43 @@ Crafting poisons requires proficiency in a poisoner’s kit and materials. Poiso
 
 # Chapter 8: Adventuring
 
-The following rules for adventuring apply in the Warcraft universe. 
+The following rules for adventuring apply in the Warcraft universe.
 
 ## Alternate Madness
 **Optional rule**
 ___
 When your players exposed to the whispers of the Old Gods, their minds are touched. This can occur when a Call they make is answered by such eldritch beings (even if the answer isn't at the moment they expect), or when they rest in a place of eldritch power (such as on a ship sailing above a drowned temple or in Tirisfal Glades). Creatures with higher Spirit scores are more sensitive to these whispers (and also more resistant to them). The key with insanity is that the players' psyches are unreliable, with their mind either reeling and trying to cope, breaking down and trying to delay the gibbering madness, or hobbling on with anxieties and depressing thoughts.
 
-If exposed this way, you can decide if a certain event is a test of a character's sanity. There are 5 levels of sanity (as exhaustion). When exposed to a test of sanity, a Spirit or Charisma saving throw is required to avoid suffer a level of madness. 
+If exposed this way, you can decide if a certain event is a test of a character's sanity. There are 5 levels of sanity (as exhaustion). When exposed to a test of sanity, a Spirit or Charisma saving throw is required to avoid suffer a level of madness.
 
-Roll secretly for a creature’s mania or insanity. 
+Roll secretly for a creature’s mania or insanity.
 
 | Level | Effect |
 |:-:|:-:|
-| 1 | Disadvantage on Ability Checks | 
-| 2 | Confused for a total of 1 minute per 24 hours (stressful situation or declared by DM) | 
-| 3 | Disadvantage to attack rolls and saving throws (including against future stress) | 
-| 4 | Hit Point Maximum halved. If having an active mana pool, Hit Point and Mana Point - Maximums are reduced by one-quarter | 
-| 5 | Confused for a total of 1 hour per 24 hours (stressful situation or declared by DM) | 
-| 6 | Irrecoverably insane | 
+| 1 | Disadvantage on Ability Checks |
+| 2 | Confused for a total of 1 minute per 24 hours (stressful situation or declared by DM) |
+| 3 | Disadvantage to attack rolls and saving throws (including against future stress) |
+| 4 | Hit Point Maximum halved. If having an active mana pool, Hit Point and Mana Point - Maximums are reduced by one-quarter |
+| 5 | Confused for a total of 1 hour per 24 hours (stressful situation or declared by DM) |
+| 6 | Irrecoverably insane |
 ___
-Depending on the character's background, personality traits, and history, some tests of sanity might be passes automatically. For instance, a warrior whose family was murdered in a raid might treat a moderate test as a minor test. 
+Depending on the character's background, personality traits, and history, some tests of sanity might be passes automatically. For instance, a warrior whose family was murdered in a raid might treat a moderate test as a minor test.
 
 | Severity | DC | Example |
-|:-:|:-:|:-:| 
-| Minor | 10 | Stress from failed expectations | 
-| Moderate | 15 | Loved one murdered or betrayed | 
-| Major | 20 | Loved one murdered or betrayed the character | 
+|:-:|:-:|:-:|
+| Minor | 10 | Stress from failed expectations |
+| Moderate | 15 | Loved one murdered or betrayed |
+| Major | 20 | Loved one murdered or betrayed the character |
 ___
 Non-sentient beings are immune to insanity. Sentient beings that are constructs or undead (such as the Forsaken) are immune to insanity if they are bound (such as by the bind spell) to a creature.
 ___
-**Coping and Recovery.** Taking certain actions can stem off insanity from worsening or enable healing. When having at least one level of madness, a character can adopt a coping mechanism. Roll randomly to choose a coping mechanism for a character. So long as the character is staying true to the restrictions of the coping mechanism, they ignore the penalties of one level of madness, and can recover from a level of insanity after a long rest. A character can choose to ignore or abandon their coping mechanism (such as sleeping for normal duration or refraining from violence), which returns the penalties and prevents the character from recovering. 
+**Coping and Recovery.** Taking certain actions can stem off insanity from worsening or enable healing. When having at least one level of madness, a character can adopt a coping mechanism. Roll randomly to choose a coping mechanism for a character. So long as the character is staying true to the restrictions of the coping mechanism, they ignore the penalties of one level of madness, and can recover from a level of insanity after a long rest. A character can choose to ignore or abandon their coping mechanism (such as sleeping for normal duration or refraining from violence), which returns the penalties and prevents the character from recovering.
 
-A character abandoning their coping mechanism for too long may cause it to be changed (at the DM's discretion). A character can petition the DM to change their coping mechanism by spending inspiration (such as fulfilling a bond). One insanity is lifted, the character has no need to cope and can drop the mechanism. 
+A character abandoning their coping mechanism for too long may cause it to be changed (at the DM's discretion). A character can petition the DM to change their coping mechanism by spending inspiration (such as fulfilling a bond). One insanity is lifted, the character has no need to cope and can drop the mechanism.
 
-All coping mechanisms are treated as character Flaws. Therefore, whenever a coping mechanism causes a character to suffer a narrative drawback (such as angering an important NPC with an insulting instance of paranoia, hiding from a critical confrontation, etc.), the character gains inspiration. 
+All coping mechanisms are treated as character Flaws. Therefore, whenever a coping mechanism causes a character to suffer a narrative drawback (such as angering an important NPC with an insulting instance of paranoia, hiding from a critical confrontation, etc.), the character gains inspiration.
 
-You may later spend inspiration to ignore one instance of coping (such as refusing an addictive substance to help a friend). If you succeed on the task and stay true to one of your personality traits, bonds, or ideals, the inspiration is not spent and can be used again. 
+You may later spend inspiration to ignore one instance of coping (such as refusing an addictive substance to help a friend). If you succeed on the task and stay true to one of your personality traits, bonds, or ideals, the inspiration is not spent and can be used again.
 
 You may roll randomly for a character (1d12 and choose one of the below) or choose one that is relevant to the character’s previous action or backstory.
 
@@ -15732,11 +15732,11 @@ You may roll randomly for a character (1d12 and choose one of the below) or choo
 | Dice | Result |
 |:-:|:-:|
 | 1 | **Addictive Dysfunction (Greed, Gluttony, or Lust).** The character frequently indulges in their addiction (substance or behavior) to cope. The DM sets the frequency of the addiction. The more time the character spends without indulging their addiction, the greater the rebound if unable to change the coping mechanism. If choosing food or drink, the character often eats three times the amount of a normal person (or pays lifestyle expenses one step higher to feed their needs). |
-| 2 | **Amnesia/forgetfulness.** The character locks away memories of bad things (or neutral things) they associate with the insanity. Communicate with the player the things their character might forget. | 
+| 2 | **Amnesia/forgetfulness.** The character locks away memories of bad things (or neutral things) they associate with the insanity. Communicate with the player the things their character might forget. |
 | 3 | **Attachment.** The character becomes unhealthily attached to an object, person, or concept. Not having it (or if a person or concept, not living up to them or it) counts as if abandoning the mechanism. |
 | 4 | **Compulsion.** The character gains a compulsion, and must perform it to cope with the madness. This could be a compulsive action or repetition. |
 | 5 | **Delusions.** The character has a complete conviction of a certain thing.<br>Paranoia. The character sees evidence in people conspiring against them. This is usually false.<br>Pride. The character has inflated self-worth and too much confidence in their abilities, usually underestimating opposition.<br>Reference. The character falsely perceives messages and sees omens everywhere, identifying signs where there are none.<br>Selective Perception. The character sometimes suffers disadvantage to Perception checks (no more than 1/hour) if what they perceive would be something they don't want. |
-| 6 | **Hallucinations.** The character interacts with hallucinations as if they are real (as provided by the DM or conjured alone). | 
+| 6 | **Hallucinations.** The character interacts with hallucinations as if they are real (as provided by the DM or conjured alone). |
 | 7 | **Elusiveness.** The character prefers to hide or evade problems, confrontation, or frightful situations unless there is no other solution. |
 | 8 | **Envy.** The character is jealous towards other people’s accomplishments, and may seek to subvert them or claim them for themselves |
 | 9 | **Narcissism.** The character prefers to perform acts that can benefit itself directly. |
@@ -15746,67 +15746,67 @@ You may roll randomly for a character (1d12 and choose one of the below) or choo
 
 </div>
 
-How insanity works isn't merely taking away agency, it's empowering the character to adapt with madness. Insanity in the Warcraft universe is not mundane mental disorders--it almost always has a subtle influence of the Old Gods, due to the curse of flesh warping nearly every sentient race to being, or a fantastical exaggeration of the broken psyche. To that superior psyche, every race has a backdoor. 
+How insanity works isn't merely taking away agency, it's empowering the character to adapt with madness. Insanity in the Warcraft universe is not mundane mental disorders--it almost always has a subtle influence of the Old Gods, due to the curse of flesh warping nearly every sentient race to being, or a fantastical exaggeration of the broken psyche. To that superior psyche, every race has a backdoor.
 
 **Recovery.** Characters can recover from madness levels the same way they recover from exhaustion (once per long rest) so long as they stayed true to their coping mechanism when awake. A character must stay true to a coping mechanism for at least 24 full hours of staying awake.
 
 ## Cabal Casting and Cooperative Crafting
 **Optional Rule**
 ___
-Warlocks of the Burning Legion and necromancers of the Scourge are known to organize cabals and circles of power to channel their strength into beyond their normal limits. Similarly, goblin and gnomish tinkers have pooled their knowledge and expertise to cooperatively craft devices beyond the skill of any individual craftsperson. 
+Warlocks of the Burning Legion and necromancers of the Scourge are known to organize cabals and circles of power to channel their strength into beyond their normal limits. Similarly, goblin and gnomish tinkers have pooled their knowledge and expertise to cooperatively craft devices beyond the skill of any individual craftsperson.
 
-Both concepts have an underlying basis: the whole is more than the sum of its parts. 
+Both concepts have an underlying basis: the whole is more than the sum of its parts.
 
 Mages and wizards of the Kirin Tor have long looked down on cabal casting, but have confronted the utility of them when orc warlocks who are less trained in magical arts bested their mage counterparts. They, too, however, recognize the strength in unity, as evidenced by those learned enough to know about the Guardians of Tirisfal, or of the great fire ritual used by the wizards of Arathor against the Troll empire ages past.
 
 \pagebreakNum
 
 ### Cabal Spellcasting
-Any casters of the same casting class (or derivatives, such as warlock and demon hunter, or mage and spell breaker) can pool their powers by willingly entering into a cabal circle. The circle need not be physical, but communication must be instantaneous (such as by using telepathy), and the members must be focused entirely on the task (treated as if they are channeling). 
+Any casters of the same casting class (or derivatives, such as warlock and demon hunter, or mage and spell breaker) can pool their powers by willingly entering into a cabal circle. The circle need not be physical, but communication must be instantaneous (such as by using telepathy), and the members must be focused entirely on the task (treated as if they are channeling).
 
 #### Entering a Cabal
-Entering into a cabal consumes your movement for that round as you focus your attention, and you are treated as if you are channeling for the duration of the cabal chain. If you lose concentration, you exit the cabal until you establish yourself as a member in the chain once more. 
+Entering into a cabal consumes your movement for that round as you focus your attention, and you are treated as if you are channeling for the duration of the cabal chain. If you lose concentration, you exit the cabal until you establish yourself as a member in the chain once more.
 
 When entering into a cabal chain, you must either defer to the existing head of the cabal, or propose yourself as cabal leader. Only the cabal leader may decide on the focus of the cabal’s attention.
 
-When the cabal leader casts a spell, all the other cabal members must focus their attention on the spell. If at least one member choses to refrain, the cabal leader is roughly aware of the missing focus, and may choose to cancel casting the spell. If all members focus their attention, the spell level is heightened according to the number of members in the cabal, see below. 
+When the cabal leader casts a spell, all the other cabal members must focus their attention on the spell. If at least one member choses to refrain, the cabal leader is roughly aware of the missing focus, and may choose to cancel casting the spell. If all members focus their attention, the spell level is heightened according to the number of members in the cabal, see below.
 
-| Members | Caster Level | Spell Levels Heightened | 
+| Members | Caster Level | Spell Levels Heightened |
 |:-:|:-:|:-:|
-| 3 | +2 | +1 | 
-| 7 | +4 | +2 | 
-| 13 | +6 | +3 | 
-| 42 | +8 | +4 | 
-| 101 | +10 | +5 | 
+| 3 | +2 | +1 |
+| 7 | +4 | +2 |
+| 13 | +6 | +3 |
+| 42 | +8 | +4 |
+| 101 | +10 | +5 |
 ___
-When participating in cabal casting, each spellcaster in the cabal (as well as the cabal leader) must spend the resources to cast the specific spell (or their highest-level spell if they cannot access it) to empower the leader’s chosen spell. This applies to all resources required by the spell, except consumable material components; which are paid for once for each spell level heightened (once at 3 members, twice at 7 members, etc.). 
+When participating in cabal casting, each spellcaster in the cabal (as well as the cabal leader) must spend the resources to cast the specific spell (or their highest-level spell if they cannot access it) to empower the leader’s chosen spell. This applies to all resources required by the spell, except consumable material components; which are paid for once for each spell level heightened (once at 3 members, twice at 7 members, etc.).
 
-Furthermore, the spell focused on must be a spell level all the members can cast, or at least of a spell level within two spell levels of the lowest-skilled member. Hence, a 20th level warlock (spell level 9), can join forces with a 20th level demon hunter (spell level 5) to cabal cast up to 7th level spells, but not 8th nor 9th level spells. 
+Furthermore, the spell focused on must be a spell level all the members can cast, or at least of a spell level within two spell levels of the lowest-skilled member. Hence, a 20th level warlock (spell level 9), can join forces with a 20th level demon hunter (spell level 5) to cabal cast up to 7th level spells, but not 8th nor 9th level spells.
 
-Instead of casting a spell, a cabal leader may instead have their effective caster level increased for the purposes of accessing spell scrolls of higher level without penalty. 
+Instead of casting a spell, a cabal leader may instead have their effective caster level increased for the purposes of accessing spell scrolls of higher level without penalty.
 
 When the spell’s casting time is complete, the cabal leader must roll an Intelligence (Arcana) skill check against a DC of 10. If the participants include a character of a different casting class but who shares the spell list (or has the spell on their spell list), the DC is 15 as the leader consolidates different magical traditions. If there is a skill that is more appropriate than Intelligence (Arcana), such as when priests use cabal casting, or if there is another ability score more appropriate (such as Charisma (Arcana) for warlocks), then that skill or ability score is required instead.
 
 #### Successful Cabal Casting
-On a success, the cabal’s efforts succeeded, and the spell is cast as if cast from a higher level (increasing the spell’s effects as normally described), and each member has to make a successful Constitution saving throw against a DC of 10 or suffer one level of exhaustion. 
+On a success, the cabal’s efforts succeeded, and the spell is cast as if cast from a higher level (increasing the spell’s effects as normally described), and each member has to make a successful Constitution saving throw against a DC of 10 or suffer one level of exhaustion.
 
-The spell acts as if the cabal leader had cast it for all purposes (such as who must concentrate, who a conjured creature obeys, etc.). 
+The spell acts as if the cabal leader had cast it for all purposes (such as who must concentrate, who a conjured creature obeys, etc.).
 
-Depending on the number of allies with you, the potential number of spell levels the spell you cast increases (up to a maximum spell level of 9). 
+Depending on the number of allies with you, the potential number of spell levels the spell you cast increases (up to a maximum spell level of 9).
 
-When a spell is heightened, the cabal leader may choose to apply one of the following Metamagic effects instead of heightening the spell (such as if when the spell has no effect when heightened): 
+When a spell is heightened, the cabal leader may choose to apply one of the following Metamagic effects instead of heightening the spell (such as if when the spell has no effect when heightened):
 ___
 **Accurate Spell.** When you cast a spell that requires a saving throw or spell attack roll, your spell save DC or spell attack roll bonus is increased by 1. This costs 1 spell levels, or 2 if you increase the bonus by 2 instead.
 ___
-**Careful Metamagic.** When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. You may choose a number of creatures up to your spellcasting modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell. This costs 1 spell level. 
+**Careful Metamagic.** When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell’s full force. You may choose a number of creatures up to your spellcasting modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell. This costs 1 spell level.
 ___
 **Distant Metamagic.** When you cast a spell that has a range of 5 feet or greater, you can double the range of the spell. When you cast a spell that has a range of touch, you can make the range of the spell 30 feet. This costs 1 spell level.
 ___
-**Empowered Metamagic.** When you roll damage for a spell, you can reroll a number of the damage dice up to your spellcasting modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell. This costs 1 spell level. 
+**Empowered Metamagic.** When you roll damage for a spell, you can reroll a number of the damage dice up to your spellcasting modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell. This costs 1 spell level.
 ___
 **Extended Metamagic.** When you cast a spell that has a duration of 1 minute or longer, you can double its duration, to a maximum duration of 24 hours. This costs 1 spell level.
 ___
-**Intensified Metamagic.** When you cast a spell that forces a creature to make a saving throw to resist its effects, you can give one target of the spell disadvantage on its first saving throw made against the spell. This costs 3 spell levels. 
+**Intensified Metamagic.** When you cast a spell that forces a creature to make a saving throw to resist its effects, you can give one target of the spell disadvantage on its first saving throw made against the spell. This costs 3 spell levels.
 ___
 **Quickened Metamagic.** When you cast a spell that has a casting time of 1 action, you can change the casting time to 1 bonus action for this casting. This costs 2 spell levels. You can hold a quickened spell as a cabal leader for up to 1 hour, although you bear signs of holding such trapped power.
 ___
@@ -15814,25 +15814,25 @@ ___
 ___
 **Subtle Metamagic.** When you cast a spell, you can cast it without any somatic or verbal components. This costs 1 spell level.
 ___
-**Twinned Spell.** When you cast a spell that targets only one creature and doesn’t have a range of self, you can target a second creature in range with the same spell. To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are. This costs 1 spell level for each level of the spell that is used. 
+**Twinned Spell.** When you cast a spell that targets only one creature and doesn’t have a range of self, you can target a second creature in range with the same spell. To be eligible, a spell must be incapable of targeting more than one creature at the spell’s current level. For example, magic missile and scorching ray aren’t eligible, but ray of frost and chromatic orb are. This costs 1 spell level for each level of the spell that is used.
 
 \pagebreakNum
 
-In another example, a 9th level mage casting the geas spell with 7 allies (minimum level to contribute is level 5 wizards for two spell levels’ difference) heightens the spell by 2 spell levels, allowing the spell to act as if a 7th level spell. The duration of the spell becomes 1 year instead of 30 days (a feat which normally requires a 13th level wizard and a higher spell level). Instead of heightening the spell to 7th level, the cabal leader can instead use the 2 spell levels to apply the Distant and Subtle Metamagic effects, both increasing the range to 120 feet and removing all signs of spellcasting. 
+In another example, a 9th level mage casting the geas spell with 7 allies (minimum level to contribute is level 5 wizards for two spell levels’ difference) heightens the spell by 2 spell levels, allowing the spell to act as if a 7th level spell. The duration of the spell becomes 1 year instead of 30 days (a feat which normally requires a 13th level wizard and a higher spell level). Instead of heightening the spell to 7th level, the cabal leader can instead use the 2 spell levels to apply the Distant and Subtle Metamagic effects, both increasing the range to 120 feet and removing all signs of spellcasting.
 
 #### Failed Cabal Casting
-On a failure by the cabal leader, 10% of the participants in the cabal (randomly chosen) are subject to system shock (as described in the Dungeon Master’s Guide, page 273) or a Wild Magic Surge (as described in the Player’s Handbook, page 98), DM’s choice. If the cabal leader is chosen by random, the cabal leader may attempt another skill check (against a DC of 20 instead of 10) to avoid being targeted, shifting the effect to another random participant instead. 
+On a failure by the cabal leader, 10% of the participants in the cabal (randomly chosen) are subject to system shock (as described in the Dungeon Master’s Guide, page 273) or a Wild Magic Surge (as described in the Player’s Handbook, page 98), DM’s choice. If the cabal leader is chosen by random, the cabal leader may attempt another skill check (against a DC of 20 instead of 10) to avoid being targeted, shifting the effect to another random participant instead.
 
 For example, 3 apprentice mages (of caster levels 3) can pool their power together, increasing their chosen leader’s caster level to 5, allowing their leader to heighten their burning hands spell to 3rd level. If the cabal leader has a fireball scroll ready, he can cast it without risking a mishap. If the leader failed their Intelligence (Arcana) check, one of them is subject to either system shock or a Wild Magic surge.
 
 #### Sub-Cabals
-If the difference in accessed spell levels is too great, cabal members can form sub-cabals, each counting as their own sub-cabal leader, but acting as cabal members for the purpose of the main cabal. 
-For example, 101 1st level priests led by a particularly gifted student (the highest in Intelligence (Religion) or the relevant skill) will act as if they access 5th level spells, and count as a single eligible member for a cabal formed by a priest of 13th level to cast a 7th level spell. 
+If the difference in accessed spell levels is too great, cabal members can form sub-cabals, each counting as their own sub-cabal leader, but acting as cabal members for the purpose of the main cabal.
+For example, 101 1st level priests led by a particularly gifted student (the highest in Intelligence (Religion) or the relevant skill) will act as if they access 5th level spells, and count as a single eligible member for a cabal formed by a priest of 13th level to cast a 7th level spell.
 
 There is no limit for the number of sub-cabals (or sub-sub cabals), but a failure of the cabal leader cascades to all sub-cabals below them, exposing them to disruptions, system shock failures, exhaustion for participants, or Wild Magic Surges. A failure by a cabal leader who is a member of the main cabal causes them to temporarily exit the cabal.
 
-### Cooperative Crafting 
-Any crafters of the same crafting profession (alchemists, infusionists, tinkers, etc.) can pool their knowledge and resources by willingly entering into a cooperative crafting project. Their presence need not be physical, but communication must be instantaneous (such as by using telepathy), and the members must be focused entirely on the task (treated as if they are all focusing on crafting). 
+### Cooperative Crafting
+Any crafters of the same crafting profession (alchemists, infusionists, tinkers, etc.) can pool their knowledge and resources by willingly entering into a cooperative crafting project. Their presence need not be physical, but communication must be instantaneous (such as by using telepathy), and the members must be focused entirely on the task (treated as if they are all focusing on crafting).
 
 #### Entering a Cooperative Project
 When entering into a cooperative project, you must either defer to the existing head of the project, or propose yourself as project leader. Only the project leader may decide on the focus of the team’s attention.
@@ -15843,94 +15843,94 @@ When participating in cooperative crafting, the cost of crafting is equal to the
 
 | Members | Character Level | Cost of Crafting |
 |:-:|:-:|:-:|
-| 3 | +2 | x2 | 
-| 7 | +4 | x3 | 
-| 13 | +6 | x4 | 
-| 42 | +8 | x5 | 
-| 101 | +10 | x6 | 
+| 3 | +2 | x2 |
+| 7 | +4 | x3 |
+| 13 | +6 | x4 |
+| 42 | +8 | x5 |
+| 101 | +10 | x6 |
 
-Furthermore, the team’s members must be within four character levels of the team leader. Hence, a 16th level tinker, can join forces with a 12th level tinker, but not a 10th nor 7th level tinker. 
+Furthermore, the team’s members must be within four character levels of the team leader. Hence, a 16th level tinker, can join forces with a 12th level tinker, but not a 10th nor 7th level tinker.
 
-When the item’s crafting time is complete, the team leader must roll an Intelligence check with the appropriate tool against a DC of 10. 
+When the item’s crafting time is complete, the team leader must roll an Intelligence check with the appropriate tool against a DC of 10.
 
 #### Successful Team Crafting
-On a success, the team’s efforts succeeded, and the item is crafted as if by a higher level craftsperson (increasing the rarity), and each member has to make a successful Constitution saving throw against a DC of 10 or suffer one level of exhaustion at the conclusion. 
-The item acts as if the team leader had cast it for all purposes (such as who applies various effects, various modifications, etc.). 
+On a success, the team’s efforts succeeded, and the item is crafted as if by a higher level craftsperson (increasing the rarity), and each member has to make a successful Constitution saving throw against a DC of 10 or suffer one level of exhaustion at the conclusion.
+The item acts as if the team leader had cast it for all purposes (such as who applies various effects, various modifications, etc.).
 
-Depending on the number of allies with you, the potential number of character levels the spell you cast increases (up to a maximum rarity of Artifact). 
-When their proficiency bonus is heightened, the team leader may choose to apply a technological modification increasing rarity (in the case of technological devices). Each potential proficiency point increase can be expended to gain a 1 EP modification. 
-If the project is alchemical in nature, the team leader can attempt to perform potion miscibility, and roll twice for each potential proficiency point. 
+Depending on the number of allies with you, the potential number of character levels the spell you cast increases (up to a maximum rarity of Artifact).
+When their proficiency bonus is heightened, the team leader may choose to apply a technological modification increasing rarity (in the case of technological devices). Each potential proficiency point increase can be expended to gain a 1 EP modification.
+If the project is alchemical in nature, the team leader can attempt to perform potion miscibility, and roll twice for each potential proficiency point.
 
-For example, seven novice tinkers (of level 2) can pool their expertise together, increasing their chosen team’s effective character level to 6 (proficiency +3), allowing their leader to craft rare-quality items for double the normal cost (after applying the reductions from the Efficient Engineering feature). 
+For example, seven novice tinkers (of level 2) can pool their expertise together, increasing their chosen team’s effective character level to 6 (proficiency +3), allowing their leader to craft rare-quality items for double the normal cost (after applying the reductions from the Efficient Engineering feature).
 
 ##### Sub-Teams
-If the difference in accessed character level is too great, team members can form sub-teams, each counting as their own sub-team leader, but acting as team members for the purpose of the main team. 
+If the difference in accessed character level is too great, team members can form sub-teams, each counting as their own sub-team leader, but acting as team members for the purpose of the main team.
 
 \pagebreakNum
 
 ##### Mass Production
 Once a Project Team is instituted, they act as the leader’s original level (not counting the cooperative crafting level increase) for the purposes of crafting, but only to replicate the focus of the project’s team particular item. This allows the team leader to continue producing while busy in other pursuits (such as spending downtime in training, managing an organization, traveling, or even adventuring).
 
-For each successful crafting project completed by the Project Team, the leader must succeed on a DC 10 Charisma check with Engineer’s Tools. Whenever the Project Team accrues three failed checks (which do not need to be consecutive), the Project Team loses the ability to continue production of the item. 
+For each successful crafting project completed by the Project Team, the leader must succeed on a DC 10 Charisma check with Engineer’s Tools. Whenever the Project Team accrues three failed checks (which do not need to be consecutive), the Project Team loses the ability to continue production of the item.
 
 ## Resurrection and Immortals
-Resurrection in the Warcraft universe’s lore is a contentious subject; player characters can be revived, but important NPCs usually die permanently. 
+Resurrection in the Warcraft universe’s lore is a contentious subject; player characters can be revived, but important NPCs usually die permanently.
 
-Resurrection is possible and expensive, although several factors make it easier, and some make it impossible. 
+Resurrection is possible and expensive, although several factors make it easier, and some make it impossible.
 ___
 **Intact Corpse.** An intact corpse is required for resurrection with the following spells: Revivify (3rd level), and raise dead (5th level). Missing body parts are not restored with these spells, and an armless corpse becomes an armless raised character. If the limb is required for life (such as a head), the resurrection fails.
 ___
 **Free Soul.** Some spells and effects trap the soul, such as the imprisonment, or essence seal spells. Being alive also prevents returning to life, as the soul is technically trapped in the body it inhabits. An animated undead is treated as an imprisoned soul. A trapped soul must be freed before resurrected (such as breaking the imprisonment spell, destroying the essence seal focus, or destroying an animated undead).
 
-If a soul is trapped in a focus (such as the essence seal spell or a soul-stealing sword), the one who casts the spell or evokes the effect must contest their spellcasting attribute with the target. On a success of two out of three rolls, the focus that traps the soul is broken and the soul is freed. Focuses that can be broken this way are explicitly stated to be subject to this effect. 
+If a soul is trapped in a focus (such as the essence seal spell or a soul-stealing sword), the one who casts the spell or evokes the effect must contest their spellcasting attribute with the target. On a success of two out of three rolls, the focus that traps the soul is broken and the soul is freed. Focuses that can be broken this way are explicitly stated to be subject to this effect.
 ___
 **Willing Target.** The target must be willing to return. Some characters, upon a fulfilled life, find that they cannot (or are unwilling) to be revived. This cancels the spell without consuming any material components.
 ___
-**Material Components.** Spells that raise the dead require expensive material components, such as diamonds (or their dust), alchemical reagents, or anything that can stand in for the price. For example, a cherished wedding band can pay the price of the spell if it has a comparable price (even if not exact), as well as a magical item with an infusion cost comparable to the spell’s cost. 
+**Material Components.** Spells that raise the dead require expensive material components, such as diamonds (or their dust), alchemical reagents, or anything that can stand in for the price. For example, a cherished wedding band can pay the price of the spell if it has a comparable price (even if not exact), as well as a magical item with an infusion cost comparable to the spell’s cost.
 ___
-**Resurrection Sickness.** Spells that revive inflict resurrection sickness. The target takes a -4 penalty to attack rolls, saving throws, and ability checks. Whenever they take a long rest, the penalty decreases by 1 point until it is eliminated entirely. 
+**Resurrection Sickness.** Spells that revive inflict resurrection sickness. The target takes a -4 penalty to attack rolls, saving throws, and ability checks. Whenever they take a long rest, the penalty decreases by 1 point until it is eliminated entirely.
 
 ### Immortals
-Immortals such as celestials and fiends (sometimes known as outsiders), undead, and fey have different natures than mortals such as humanoids, beasts, etc. and do not age or die of aging. 
+Immortals such as celestials and fiends (sometimes known as outsiders), undead, and fey have different natures than mortals such as humanoids, beasts, etc. and do not age or die of aging.
 
-Additionally, outsiders cannot be destroyed unless killed under certain conditions. 
+Additionally, outsiders cannot be destroyed unless killed under certain conditions.
 
 They must be killed on their native plane (the Twisting Nether for demons, and the native realm for celestials), or a plane heavily influenced by it, or
 
 They must be gated in physically (via a gate or plane shift, or similar effects) such as when the lich Kel’Thuzad invited the archdemonic Archimonde via a gate to Azeroth during the Third War.
 
-Few spellcasters know that outsiders do not die unless under these conditions (most of those who do know are warlocks who share this information sparingly). If a creature is bonded without being invited or gated in, they reform as normal. 
+Few spellcasters know that outsiders do not die unless under these conditions (most of those who do know are warlocks who share this information sparingly). If a creature is bonded without being invited or gated in, they reform as normal.
 
-Due to the difficulties of killing demons under these conditions, they are usually banished, trapped (either in gems, or spell focuses such as by the essence seal, or by spells such as imprisonment), or imprisoned instead of destroyed. In the case of the essence seal spell, ambitious spellcasters might even use the creature’s spirit to fuel infusions or to power engineering devices, though they run the risk the creature escapes. 
+Due to the difficulties of killing demons under these conditions, they are usually banished, trapped (either in gems, or spell focuses such as by the essence seal, or by spells such as imprisonment), or imprisoned instead of destroyed. In the case of the essence seal spell, ambitious spellcasters might even use the creature’s spirit to fuel infusions or to power engineering devices, though they run the risk the creature escapes.
 
-Forsaken and other intelligent undead is another special case. So long as an undead is intelligent, it can be raised or revived by the normal raising spells (revivify, raise dead, and resurrection). Unintelligent undead are usually ‘revived’ by repeated animation. 
+Forsaken and other intelligent undead is another special case. So long as an undead is intelligent, it can be raised or revived by the normal raising spells (revivify, raise dead, and resurrection). Unintelligent undead are usually ‘revived’ by repeated animation.
 
-Some undead often have special conditions to destroy beyond resurrection. For example, liches can only be killed if their phylacteries are destroyed. 
+Some undead often have special conditions to destroy beyond resurrection. For example, liches can only be killed if their phylacteries are destroyed.
 
-Although undead also require their body parts to be available to be raised through these spells, it is easy to simply stitch body parts together with a sewing kit (or use body parts from other corpses), although the undead’s head is a vital and irreplaceable part. 
+Although undead also require their body parts to be available to be raised through these spells, it is easy to simply stitch body parts together with a sewing kit (or use body parts from other corpses), although the undead’s head is a vital and irreplaceable part.
 
-The resurrection spell can, however, revert an undead creature to living, so long as its soul is free, but only if it is heightened to 9th level (also known as True Resurrection). 
+The resurrection spell can, however, revert an undead creature to living, so long as its soul is free, but only if it is heightened to 9th level (also known as True Resurrection).
 
-Creating intelligent undead requires more than just animating them; the Plague of Undeath was an unholy concoction suffused with necromantic and soul magics, and animated by semi-sentient will. Created by the Lich King before the beginning of the Third War, the Plague of Undeath is the strongest and most reliable tool to create intelligent undead (see equipment). 
+Creating intelligent undead requires more than just animating them; the Plague of Undeath was an unholy concoction suffused with necromantic and soul magics, and animated by semi-sentient will. Created by the Lich King before the beginning of the Third War, the Plague of Undeath is the strongest and most reliable tool to create intelligent undead (see equipment).
 
-Should the Lich King’s telepathic control of his undead minions waver (either by suffering damage to himself or the Frozen Throne), there is a chance that these free-willed undead will summon back their spirits to their bodies, becoming intelligent undead—in many cases, joining the ranks of the Forsaken. 
-Intelligent undead usually appear in traumatic events that would cause their spirit to linger and return (executed unjustly, betrayed and killed by a loved one, died with broken oaths or severe regrets, slain on unholy ground, etc., as determined by the DM). Spellcasters may attempt to replicate these circumstances with the bind undead spell. 
+Should the Lich King’s telepathic control of his undead minions waver (either by suffering damage to himself or the Frozen Throne), there is a chance that these free-willed undead will summon back their spirits to their bodies, becoming intelligent undead—in many cases, joining the ranks of the Forsaken.
+Intelligent undead usually appear in traumatic events that would cause their spirit to linger and return (executed unjustly, betrayed and killed by a loved one, died with broken oaths or severe regrets, slain on unholy ground, etc., as determined by the DM). Spellcasters may attempt to replicate these circumstances with the bind undead spell.
 
 \pagebreakNum
 
-Casting the bind spell on a corpse in an area that was significant to the person while alive may summon his spirit to be bound as an undead. Animating and then binding a human farmer in the ruins of a market he used to sell his wares in, an elven farstrider in her archery range, or an orc in his hut are all likely to return a sliver of the creature’s spirit, returning their mental attributes to normal. These undead, if released from the binding, join the ranks of the Forsaken. 
+Casting the bind spell on a corpse in an area that was significant to the person while alive may summon his spirit to be bound as an undead. Animating and then binding a human farmer in the ruins of a market he used to sell his wares in, an elven farstrider in her archery range, or an orc in his hut are all likely to return a sliver of the creature’s spirit, returning their mental attributes to normal. These undead, if released from the binding, join the ranks of the Forsaken.
 ___
-**Fey.** Fey slain reform in the Emerald Dream, but do not regain physical bodies, such as the elder fey Cenarius. 
+**Fey.** Fey slain reform in the Emerald Dream, but do not regain physical bodies, such as the elder fey Cenarius.
 ___
 **Constructs.** Constructs are considered functionally immortal, and can be fixed and recrafted by a character with a sufficiently high proficiency in Engineer’s Tools, although they cannot be restored if missing critical components (subject to joint DM-player adjudication).
 
 ## Retraining
 This allows a character to change their class or a chosen class feature (such as a Warrior’s Fighting Style, a Tinker’s Patent, or even a character’s class). This takes 7 days and costs 25 gp per class level of the character. If multiclassing, retrain only the relevant class’s levels.
 
-For instance, a Warrior 2/Tinker 5 who wishes to change her Fighting Style would take 14 days and 50 gp to change her Fighting Style or retrain her Warrior levels into something else, but 35 days and 125 gp to change her Patent. 
+For instance, a Warrior 2/Tinker 5 who wishes to change her Fighting Style would take 14 days and 50 gp to change her Fighting Style or retrain her Warrior levels into something else, but 35 days and 125 gp to change her Patent.
 
 ## Strongholds
-Whether it be human keeps, orc barricades, or a lone mage tower, strongholds serve as centers of important activity. 
+Whether it be human keeps, orc barricades, or a lone mage tower, strongholds serve as centers of important activity.
 
 You may refer to the Kingdoms, Strongholds, and War rules for rules on building and customizing strongholds.
 
@@ -15939,34 +15939,34 @@ Each 10 x 10-foot section (whether it be wall, room, or door) of a stronghold ca
 
 Reducing a section to 0 hit points destroys it and might cause connected sections to buckle and collapse at the DM’s discretion (usually if the attacker has the plans of the stronghold or is knowledgeable of masonry, such as having proficiency with the relevant artisan tool). A destroyed section suppresses a stronghold function (such as punching into a storage room or prison wall, exposing the contents or releasing prisoners, respectively).
 
-A stronghold can be damaged with one spell that affects all sections in the spell’s area. If the effect or spell affects only one side of the stronghold (such as from the outside), add all hit points together, with the damage causing an indent equal to the amount of increments of damage compared to inches. 
+A stronghold can be damaged with one spell that affects all sections in the spell’s area. If the effect or spell affects only one side of the stronghold (such as from the outside), add all hit points together, with the damage causing an indent equal to the amount of increments of damage compared to inches.
 
 Therefore, a cottage made of wood that is enveloped in the area of an earthquake or death and decay spell applies its damage to all sections; possibly bringing down the stronghold with the single spell. If attacking with a fire bolt spell cast by an 11th level spellcaster (3d10, average of 16 damage), however, every two hits cause 32 damage, equivalent to 1 inch of wood burnt out.
 
-| | | | | | 
+| | | | | |
 |:-:|:-:|:-:|:-:|:-:|
-| Material | AC | Hit Points/Inch | Wall (1 foot) | Damage Threshold | 
-| Stone | 17 | 30 | 360 | 10 | 
-| Wood | 15 | 25 | 300 | 5 | 
+| Material | AC | Hit Points/Inch | Wall (1 foot) | Damage Threshold |
+| Stone | 17 | 30 | 360 | 10 |
+| Wood | 15 | 25 | 300 | 5 |
 
 With spells like death and decay and earthquake, it typically takes around one minute of damage to reduce a building’s floor to rubble with this spell (average of 21 damage per round for death and decay and 10 per round for earthquake (or 50 for heightened earthquake), before comparing to the Damage Threshold).
 
 ### Siege Weapons and Bombardment
 Siege weapons take a number of rounds on average, to destroy or breach a wall section. Setting up siege weapons is therefore a critical step that stronghold defenders must prevent, such as by sending outriders to harry or defeat the crew, sabotage with thieves’ tools, use their own siege weapons, building the stronghold in marshy terrain or behind moats, or preparing (or digging) tunnels that end behind enemy lines. The below chart assumes average damage, and walls one foot thick. Interior walls are half as thick (and take half the time to destroy).
 ___
-*Note.* This assumes concentrated bombardment on the same 10 by 10 foot section. Usually in war, attacking commanders open multiple points of entry to overwhelm and demoralize defenders. 
+*Note.* This assumes concentrated bombardment on the same 10 by 10 foot section. Usually in war, attacking commanders open multiple points of entry to overwhelm and demoralize defenders.
 
-| Weapon | Damage/minute | Stone (1 foot thick) | Wood (1 foot thick) | 
-|:-:|:-:|:-:|:-:| 
+| Weapon | Damage/minute | Stone (1 foot thick) | Wood (1 foot thick) |
+|:-:|:-:|:-:|:-:|
 | Ballista* | 160 | 2 minutes | 1 minute 6 rounds
-| Cannon* | 440 | 9 rounds | 7 rounds | 
-| Trebuchet* | 440 | 1 minute | 7 rounds | 
+| Cannon* | 440 | 9 rounds | 7 rounds |
+| Trebuchet* | 440 | 1 minute | 7 rounds |
 | Mangonel* | 270 | 1 minute 4 rounds | 1 minute 2 rounds |  
-| Ram | 160 | 2 minutes | 1 minute 6 rounds | 
+| Ram | 160 | 2 minutes | 1 minute 6 rounds |
 ___
-\* With these weapons, it is assumed the attacker has a full crew to maintain one attack per round (crew ranging from 3 to 5 for 3 to 5 actions each, as per their appropriate full descriptions). Without a full crew for the siege weapon, the damage takes longer (five times the normal time for trebuchets, for example). 
+\* With these weapons, it is assumed the attacker has a full crew to maintain one attack per round (crew ranging from 3 to 5 for 3 to 5 actions each, as per their appropriate full descriptions). Without a full crew for the siege weapon, the damage takes longer (five times the normal time for trebuchets, for example).
 ___
-These statistics assume the siege weapons in the Dungeon Master’s Guide for the purposes of backwards compatibility. Modified crossbows and firearms (field cannons, great ballista, etc.) are described in Chapter 7 under engineering. 
+These statistics assume the siege weapons in the Dungeon Master’s Guide for the purposes of backwards compatibility. Modified crossbows and firearms (field cannons, great ballista, etc.) are described in Chapter 7 under engineering.
 
 #### Collapsing Buildings
 A collapsing structure damages nearby creatures within half the structure’s height. Said creatures must make an Agility saving throw or else take 5d6 bludgeoning damage, and is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried. The DM can waive the damage entirely and entrap a character in a small area that has not caved in, though this still requires the above check to escape.
@@ -15978,10 +15978,10 @@ A collapsing structure damages nearby creatures within half the structure’s he
 ## Vehicles
 Some vehicles are unique to the Warcraft universe, and have increased speeds and abilities over normal vehicles.
 
-| Type | Cost | Speed | Crew/Passengers | Cargo | AC | HP | Threshold | 
+| Type | Cost | Speed | Crew/Passengers | Cargo | AC | HP | Threshold |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Goblin Zeppelin | 25,000 gp | 10 mph | 20/40 | 10 tons | 15 | 300 | 10 | 
-| Juggernaut | 40,000 gp | 4 mph | 60/400 | 250 tons | 17 | 600 | 20 | 
+| Goblin Zeppelin | 25,000 gp | 10 mph | 20/40 | 10 tons | 15 | 300 | 10 |
+| Juggernaut | 40,000 gp | 4 mph | 60/400 | 250 tons | 17 | 600 | 20 |
 
 </div>
 
@@ -15989,7 +15989,7 @@ Some vehicles are unique to the Warcraft universe, and have increased speeds and
 The goblin zeppelin has one engine (huge sized uncommon) which counts as 15 crew members, leaving the ship requiring only 5 crew members. Without the engine, the goblin zeppelin acts as a normal airship, and loses 1 mile of flight speed, and 9 tons of cargo.
 
 ##### Juggernaut
-The juggernaut has one engine (large-sized size rare) that counts as 30 crew members (costs 15,000 gp), leaving the ship requiring only 30 crew members. Without the engine, the juggernaut acts as a normal warship, and loses 1½ a mile of speed, and 50 tons of cargo. 
+The juggernaut has one engine (large-sized size rare) that counts as 30 crew members (costs 15,000 gp), leaving the ship requiring only 30 crew members. Without the engine, the juggernaut acts as a normal warship, and loses 1½ a mile of speed, and 50 tons of cargo.
 
 \pagebreakNum
 
@@ -15998,31 +15998,31 @@ The juggernaut has one engine (large-sized size rare) that counts as 30 crew mem
 ## Actions in Combat
 
 ### Attack
-When using an action to make an attack, some abilities (such as the Extra Attack feature or Haste) allow multiple attacks. In this case, each attack is considered a single ‘attack action’. 
+When using an action to make an attack, some abilities (such as the Extra Attack feature or Haste) allow multiple attacks. In this case, each attack is considered a single ‘attack action’.
 
-This conversion also makes use of several effects that affect combat, such as strike and stance effects. The character must choose to use their bonus action to fight (with an off-hand weapon or cast a spell or use an item) or to use a strike effect if they have one. 
+This conversion also makes use of several effects that affect combat, such as strike and stance effects. The character must choose to use their bonus action to fight (with an off-hand weapon or cast a spell or use an item) or to use a strike effect if they have one.
 
 ### Strikes and Shots
 These are abilities or spells that consume a bonus action to execute and grant an additional effect on the first successful attack (or a number of successful attacks, depending on the description).
 
-When using a strike effect, the use of a bonus action prevents using two-weapon fighting and use of off-hand natural attacks. Any character using a strike or shot effect can declare whether or not to use them for each attack action, or to withhold the effect until before the end of the duration. Shot spells are strike spells, but are restricted to ranged weapons. 
+When using a strike effect, the use of a bonus action prevents using two-weapon fighting and use of off-hand natural attacks. Any character using a strike or shot effect can declare whether or not to use them for each attack action, or to withhold the effect until before the end of the duration. Shot spells are strike spells, but are restricted to ranged weapons.
 
-For instance, a 9th level hunter can use a bonus action to cast the shot array: black arrow spell. The spell enchants 6 arrows, and allows them to deal 3d4 extra fel damage (with the ability to animate a target killed by the arrow). He may replace any normal arrow with a black arrow, until the arrows end or the enchantment fades after 1 minute. 
+For instance, a 9th level hunter can use a bonus action to cast the shot array: black arrow spell. The spell enchants 6 arrows, and allows them to deal 3d4 extra fel damage (with the ability to animate a target killed by the arrow). He may replace any normal arrow with a black arrow, until the arrows end or the enchantment fades after 1 minute.
 
 ### Stances
-These are abilities or spells that usually restrict the character’s movement, but grant the bonus so long as they are conscious and acting. They usually require an action or a bonus action to enter (depending on the description). Some stances require moving less than half a character’s maximum speed, while others require constant movement. A character can only benefit of one stance at a given time. 
+These are abilities or spells that usually restrict the character’s movement, but grant the bonus so long as they are conscious and acting. They usually require an action or a bonus action to enter (depending on the description). Some stances require moving less than half a character’s maximum speed, while others require constant movement. A character can only benefit of one stance at a given time.
 
 ### Tether
-A character can tether another using rope, chain, or another mechanism to restrain its range of movement, without having to restrain the character (such as by a spell or using grappling). 
+A character can tether another using rope, chain, or another mechanism to restrain its range of movement, without having to restrain the character (such as by a spell or using grappling).
 
-If tethering two creatures, one side can perform the shove action, but instead of pushing away, the creature moves closer on a successful check. The creatures moves the same distance as they would if they were shoved normally. 
+If tethering two creatures, one side can perform the shove action, but instead of pushing away, the creature moves closer on a successful check. The creatures moves the same distance as they would if they were shoved normally.
 
-If a character uses a grappling hook, they can tether a target reliably with a successful ranged attack roll, and then use their action the next round to pull them closer. 
+If a character uses a grappling hook, they can tether a target reliably with a successful ranged attack roll, and then use their action the next round to pull them closer.
 
-## Damage and Healing 
-Effects that deal holy damage and can heal the living give the option for the spellcaster to either heal or deal damage. The same goes for effects that deal shadow damage and heal (though it can only heal the undead or demons). These spells have the [healing] descriptor, or otherwise only harm. 
+## Damage and Healing
+Effects that deal holy damage and can heal the living give the option for the spellcaster to either heal or deal damage. The same goes for effects that deal shadow damage and heal (though it can only heal the undead or demons). These spells have the [healing] descriptor, or otherwise only harm.
 
-For example, the holy light spell is a [healing] spell that can deal holy damage. If targeting a living being, the caster can choose to make it heal them instead. Death coil is also a [healing], though it can only heal the undead and demons, while dealing shadow damage at the will of the caster to other creatures. 
+For example, the holy light spell is a [healing] spell that can deal holy damage. If targeting a living being, the caster can choose to make it heal them instead. Death coil is also a [healing], though it can only heal the undead and demons, while dealing shadow damage at the will of the caster to other creatures.
 
 ### Damage Types
 Different attacks, damaging spells, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types. The damage types follow, with examples to help a DM assign a damage type to a new effect.
@@ -16037,26 +16037,26 @@ ___
 ___
 **Fel.** Fel damage is a semi-sentient form of magic that suffuses and corrupts living beings, and are usually spells, such as a warlock’s orb of annihilation or a fiend’s explosive death. Most effects that deal fel damage are fueled by fiends or the lords of the Burning Legion. Effects that used to deal necrotic damage and were of a demonic source deal fel damage instead.
 
-### Damage Class 
+### Damage Class
 Often times, certain abilities describe damage classes.
 ___
 **Physical damage** includes bludgeoning, piercing, slashing
 ___
-**Elemental damage** includes acid, cold, fire, and lightning. 
+**Elemental damage** includes acid, cold, fire, and lightning.
 ___
 **Magic damage** includes arcane, holy, shadow, thunder, and fel.
 ___
 Some damage effects deal one-half one damage and one-half another, such as concussive damage. In this case, divide the damage into its component halves before applying resistances.
 
 ## Optional Rules
-The following optional rules are of particular suit to the Warcraft setting. These are from other sourcebooks, reproduced below for convenience. 
+The following optional rules are of particular suit to the Warcraft setting. These are from other sourcebooks, reproduced below for convenience.
 
 \pagebreakNum
 
 ### Absorb Knockdown
 In many cases, a creature might appear to be more resistant to being knocked prone by certain abilities. A tauren using a warstomp to knock a human footman is more easily visualized than using it to knock down a crypt lord or a giant salamander (who is not only larger than the creature creating the effect, but also has their center of mass in a different area).
 
-In these cases (where mass, weight or leverage), you may consider substituting the described saving throw (usually Agility) with Strength, with further advantageous circumstances also reflecting with advantage to the saving throw. 
+In these cases (where mass, weight or leverage), you may consider substituting the described saving throw (usually Agility) with Strength, with further advantageous circumstances also reflecting with advantage to the saving throw.
 
 ### Cleaving Through Creatures
 **Source: Dungeon Master’s Guide, page 272**
@@ -16066,17 +16066,17 @@ If your player characters regularly fight hordes of lower level monsters, consid
 When a melee attack reduces an undamaged creature to 0 hit points, any excess damage from that attack might carry over to another creature nearby. The attacker targets another creature within reach and, if the original attack roll can hit it, applies any remaining damage to it. If that creature was undamaged and is likewise reduced to 0 hit points, repeat this process, carrying over the remaining damage until there are no valid targets, or until the damage carried over fails to reduce an undamaged creature to 0 hit points.
 
 ### Withdrawal
-Arcane magic is known to be addictive--and tapping into vast energies more than once and losing it afterwards causes severe mental and physical stress. High elves after the fall of Quel’thalas are particularly susceptible to arcane withdrawal. 
+Arcane magic is known to be addictive--and tapping into vast energies more than once and losing it afterwards causes severe mental and physical stress. High elves after the fall of Quel’thalas are particularly susceptible to arcane withdrawal.
 
-If cursed with this dreadful affliction, one must meditate for thirty minutes every day (this does not contribute to short rests), or else suffer disadvantage to their saving throws versus magic, and reduce their maximum mana pool by 1 point. If the spell has an attack roll, it has advantage against the character. 
+If cursed with this dreadful affliction, one must meditate for thirty minutes every day (this does not contribute to short rests), or else suffer disadvantage to their saving throws versus magic, and reduce their maximum mana pool by 1 point. If the spell has an attack roll, it has advantage against the character.
 
 Meditation requires a Spirit score of 11 or higher to automatically succeed, or a successful DC 10 Spirit saving throw at the end of the meditation period.
 
-Drawing mana and restoring it actively (such as drinking from mana fountains, potions of any type that contain arcane spells, and mana siphoning) restores the addict’s maximum mana pool of any penalties, and suspends withdrawal for a number of days equal to their Stamina modifier. 
+Drawing mana and restoring it actively (such as drinking from mana fountains, potions of any type that contain arcane spells, and mana siphoning) restores the addict’s maximum mana pool of any penalties, and suspends withdrawal for a number of days equal to their Stamina modifier.
 
-If one’s maximum mana is reduced to 0 from this effect, they typically transform into mindless mana addicts, relentlessly seeking out mana fountains and similar restorative effects (such as potions), viciously savaging anyone who seeks to take away their light (and are derogatorily known as mana junkies or wretches). 
+If one’s maximum mana is reduced to 0 from this effect, they typically transform into mindless mana addicts, relentlessly seeking out mana fountains and similar restorative effects (such as potions), viciously savaging anyone who seeks to take away their light (and are derogatorily known as mana junkies or wretches).
 
-Addiction to fel magic can also be represented by this rule. 
+Addiction to fel magic can also be represented by this rule.
 
 \pagebreakNum
 
@@ -16085,13 +16085,13 @@ Whether it comes in the form of a healer’s gentle touch or the wrath of a warl
 
 The path of the arcane magic user is dark and questionable. Arcane power is undeniably the strongest magic branch; arcanists can command elements, monsters and even undead with their power. It was the use of these powers, however, that attracted the most destructive forces to Azeroth — not once, but many times in the past ten thousand years. Even with history proving time and again that arcane use leads to damnation, there is no lack of arrogant new arcanists on Azeroth who believe that they can control the forces at work. Arcane magic users are usually high elves and humans. Demons are the masters of the arcane, and the Lich King and his Scourge spellcasters are also talented.
 
-The path of the divine is less fraught with paradox and doom. Arcane casters call it the weaker path, while divine casters calmly state that it is the subtler of the two. Focused on support magic and healing, adherents of the divine can also call down the destructive forces of nature. Divine practitioners are usually orcs, tauren or night elves. Ironforge dwarves and humans also have their divine magic users. 
-This chapter introduces the mana system, and the mechanics that facilitate its function. 
+The path of the divine is less fraught with paradox and doom. Arcane casters call it the weaker path, while divine casters calmly state that it is the subtler of the two. Focused on support magic and healing, adherents of the divine can also call down the destructive forces of nature. Divine practitioners are usually orcs, tauren or night elves. Ironforge dwarves and humans also have their divine magic users.
+This chapter introduces the mana system, and the mechanics that facilitate its function.
 
 ## Spellcasting Ability
-Depending on the character’s class or race, they may gain spellcasting abilities (also known as a caster level). Spellcasting can either be arcane (drawn from studying esoterica, complex ley patterns, and ancient tomes and runes) or divine (drawn from revering and being granted powers from powerful entities, such as the Elven goddess Elune, the Holy Light, the Unholy Shadow, or the Lich King). 
+Depending on the character’s class or race, they may gain spellcasting abilities (also known as a caster level). Spellcasting can either be arcane (drawn from studying esoterica, complex ley patterns, and ancient tomes and runes) or divine (drawn from revering and being granted powers from powerful entities, such as the Elven goddess Elune, the Holy Light, the Unholy Shadow, or the Lich King).
 
-Regardless of source, merely gaining spellcasting capabilities grants the character the ability to cast spells and maintain a mana pool to fuel their powers. The spellcaster needs to have spells readied and prepared, and also requires the mana necessary to fuel them. 
+Regardless of source, merely gaining spellcasting capabilities grants the character the ability to cast spells and maintain a mana pool to fuel their powers. The spellcaster needs to have spells readied and prepared, and also requires the mana necessary to fuel them.
 
 The character’s caster level is different from (but is affected by) their character level and hit dice, and determines access to new spell levels (representing mastery of magic), while the spellcaster’s proficiency bonus determines the cost of magic spells and mana pool size (which represents their practical training).
 
@@ -16100,24 +16100,24 @@ The caster level of the spellcaster is determined by the ability that grants spe
 
 Unlike with normal fractions, caster levels are rounded up at the point they are gained.
 
-For example, the hunter’s spellcasting is at 0.5 a caster level per level in hunter, but gain the Spellcasting feature at level 2 (preventing spellcasting to be done at level 1). A level 10 mage and level 10 hunter have caster levels of 10 and 5, respectively, allowing the mage can access 5th level spells, and the hunter to access 3rd level spells. 
+For example, the hunter’s spellcasting is at 0.5 a caster level per level in hunter, but gain the Spellcasting feature at level 2 (preventing spellcasting to be done at level 1). A level 10 mage and level 10 hunter have caster levels of 10 and 5, respectively, allowing the mage can access 5th level spells, and the hunter to access 3rd level spells.
 
-Merely having a high enough caster level is not enough to begin casting, however; a character must also prepare and access the relevant spell. 
+Merely having a high enough caster level is not enough to begin casting, however; a character must also prepare and access the relevant spell.
 
 ### Prepared and Known Spells
-A character can prepare a total number of spells equal to their caster level plus their spellcasting attribute modifier. These spells can be of any spell level the character can access and cast (being of the required caster level and spell list). 
+A character can prepare a total number of spells equal to their caster level plus their spellcasting attribute modifier. These spells can be of any spell level the character can access and cast (being of the required caster level and spell list).
 
 Some class abilities grant extra spells to the total. These are often described as ‘you always have this spell prepared’. These can exceed the normal limit of prepared and known spells.
 
 ### Heightening Spells
-A caster may cast a lower-level spell with additional mana as if it were a few spell levels higher. This is termed heightening. Spells that can be heightened gain various effects when they are heightened at specific spell levels. This can only be done if the caster level of the spellcaster is high enough to heighten the spell to said level. 
+A caster may cast a lower-level spell with additional mana as if it were a few spell levels higher. This is termed heightening. Spells that can be heightened gain various effects when they are heightened at specific spell levels. This can only be done if the caster level of the spellcaster is high enough to heighten the spell to said level.
 
-A character can always heighten a spell. In most cases, the difference between one spell level and one higher is 1 mana point. 
+A character can always heighten a spell. In most cases, the difference between one spell level and one higher is 1 mana point.
 
-| Caster Level | Spell Level Accessed | 
+| Caster Level | Spell Level Accessed |
 |:-:|:-:|
 | 1 | 1 (and cantrips if specified by class) |
-| 3 | 2 | 
+| 3 | 2 |
 | 5 | 3 |
 | 7 | 4 |
 | 9 | 5 |
@@ -16127,109 +16127,109 @@ A character can always heighten a spell. In most cases, the difference between o
 | 17 | 9 |
 
 ### Spellbooks
-Spellbooks are a collection of scrolls, a book, or objects that contain the method of casting a spell, such as magic words, name of the forces invoked, and required hand gestures. 
+Spellbooks are a collection of scrolls, a book, or objects that contain the method of casting a spell, such as magic words, name of the forces invoked, and required hand gestures.
 
-Unlike in other campaign settings, all spellcasters in the Warcraft universe require some form of spellbook or external house of their spells. Spellbooks are important objects for spellcasters, therefore, and are often traded among trusted members of the same profession. 
+Unlike in other campaign settings, all spellcasters in the Warcraft universe require some form of spellbook or external house of their spells. Spellbooks are important objects for spellcasters, therefore, and are often traded among trusted members of the same profession.
 
 For example, a shaman completing his apprenticeship will be given a master totem (which acts as a spellbook) thatdescribes how invoking the elements may be done and
 
 \pagebreakNum
 
-containing several basic spells, while a mage graduate from Dalaran’s magical universities will have already scribed a spellbook over the course of her study. A spellbook can be a gift from a dying friend or loved one, or valuable loot taken from a rival or enemy on the field of battle. 
+containing several basic spells, while a mage graduate from Dalaran’s magical universities will have already scribed a spellbook over the course of her study. A spellbook can be a gift from a dying friend or loved one, or valuable loot taken from a rival or enemy on the field of battle.
 
-When a spellcaster finds a spell that is present their class’s spell list that they can cast (having the required level), they may spend the required time and resources to decipher and copy it. 
+When a spellcaster finds a spell that is present their class’s spell list that they can cast (having the required level), they may spend the required time and resources to decipher and copy it.
 
 Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the spellcaster who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
 
-For each level of the spell, the process takes 2 hours and costs 50 gp (or 2 Infusion Points per level). The cost represents material components you expend as you experiment with the spell to master it, which can be anything from fine inks (for a mage) to sacrificing rare reagents (for a shaman or druid), or costly incense (for a paladin). Cantrips count as half a spell level, or 1 hour and 25 gp to scribe. 
+For each level of the spell, the process takes 2 hours and costs 50 gp (or 2 Infusion Points per level). The cost represents material components you expend as you experiment with the spell to master it, which can be anything from fine inks (for a mage) to sacrificing rare reagents (for a shaman or druid), or costly incense (for a paladin). Cantrips count as half a spell level, or 1 hour and 25 gp to scribe.
 
-Once you have spent this time and money, you can prepare the spell just like your other spells, and the spell is fully scribed in your spellbook. 
+Once you have spent this time and money, you can prepare the spell just like your other spells, and the spell is fully scribed in your spellbook.
 
 Replacing the Book. A spellcaster can copy a spell from one spellbook to another—for example, if they wish to back up their spellbook or grant one to a student. This does not require deciphering. It takes only 1 hour and 10 gp per spell level to copy the spell (or 30 minutes and 5 gp for a cantrip).
 
-If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many spellcasters keep backup spellbooks in a safe place, or even scribe their spells onto their strongholds—chapels of the Holy Light often have basic priest and paladin spells scribed onto the stone walls or woven into prayer books, while the druids of Ashenvale may visit the Ancients to be blessed with an idol of the Ancients that performs a similar task. 
+If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many spellcasters keep backup spellbooks in a safe place, or even scribe their spells onto their strongholds—chapels of the Holy Light often have basic priest and paladin spells scribed onto the stone walls or woven into prayer books, while the druids of Ashenvale may visit the Ancients to be blessed with an idol of the Ancients that performs a similar task.
 
 After preparing a spell, referring to a spellbook is not required except to change the spell.
 
 | Class | Spellbook (or equivalent) |
 |:-:|:-:|
-| Alchemist | Formula Book | 
-| Death Knight | Runeblade | 
-| Druid | Idol | 
-| Hunter | Idol (as druid), totem (if shadow hunter) | 
-| Mage | Spellbook | 
-| Paladin | Libram | 
-| Priest | Libram | 
-| Rogue | Spellbook (if subtlety), spell tattoos (if demon hunter) | 
-| Shaman | Totem (often known as a master totem) | 
-| Warlock | Grimoire | 
-| Warrior | Spellbook (if spellbreaker), spell tattoos (if mountain king) | 
+| Alchemist | Formula Book |
+| Death Knight | Runeblade |
+| Druid | Idol |
+| Hunter | Idol (as druid), totem (if shadow hunter) |
+| Mage | Spellbook |
+| Paladin | Libram |
+| Priest | Libram |
+| Rogue | Spellbook (if subtlety), spell tattoos (if demon hunter) |
+| Shaman | Totem (often known as a master totem) |
+| Warlock | Grimoire |
+| Warrior | Spellbook (if spellbreaker), spell tattoos (if mountain king) |
 ___
 Special spellbooks exist, also known as Relics. See Treasures under Chapter 5: Equipment.
 
 #### Variant Spellbook: Spell Tattoos
-A character may tattoo spells onto their skins, scales, or clothes to hold their spells besides normal spellbooks. This costs the same as normal scribed spells, and the creature's body is treated to be the spellbook. However, whenever the creature fails a death saving throw, one tattooed spell has a 25% chance to be destroyed (the chance increases by 50% if the damage scars, such as acid, fire, or fel damage). 
+A character may tattoo spells onto their skins, scales, or clothes to hold their spells besides normal spellbooks. This costs the same as normal scribed spells, and the creature's body is treated to be the spellbook. However, whenever the creature fails a death saving throw, one tattooed spell has a 25% chance to be destroyed (the chance increases by 50% if the damage scars, such as acid, fire, or fel damage).
 
-A medium character can scribe up to 50 pages worth onto their skin (such as chest, arms, legs, etc.). For smaller creatures, the pages are halved, and for larger creatures, the pages are doubled. 
+A medium character can scribe up to 50 pages worth onto their skin (such as chest, arms, legs, etc.). For smaller creatures, the pages are halved, and for larger creatures, the pages are doubled.
 
-A known spell-tattooist is the demon hunter Illidan Stormrage, although many demon hunters also scribe spells onto their skin. 
+A known spell-tattooist is the demon hunter Illidan Stormrage, although many demon hunters also scribe spells onto their skin.
 
 ### Spells Prepared
-A spellcaster may ready any spell they can access (and have the required minimum caster level). This requires being tutored, praying for a spell, studying one, or finding spells in scrolls or spellbooks. A spellcaster may always use a spellbook they find, or scribe the spell from a spellbook they don’t own to a spellbook they do own. If a class has access to cantrips, they can also change their cantrips (taking the same process to change spells). The character is limited to the number of cantrips equal to their proficiency bonus. 
+A spellcaster may ready any spell they can access (and have the required minimum caster level). This requires being tutored, praying for a spell, studying one, or finding spells in scrolls or spellbooks. A spellcaster may always use a spellbook they find, or scribe the spell from a spellbook they don’t own to a spellbook they do own. If a class has access to cantrips, they can also change their cantrips (taking the same process to change spells). The character is limited to the number of cantrips equal to their proficiency bonus.
 
-There are several ways to gain access to and ready spells. 
+There are several ways to gain access to and ready spells.
 ___
-**1st level:** The first level of any spellcasting class instantaneously grants a number of readied spells, such as by gaining a grimoire, spellbook, libram (holy spellbook) etc. 
+**1st level:** The first level of any spellcasting class instantaneously grants a number of readied spells, such as by gaining a grimoire, spellbook, libram (holy spellbook) etc.
 ___
-**Leveling Up:** When leveling up, the spellcaster gains 2 spells of any spell level they can cast. They are treated as if they have spent their pastime performing research (see below or Discovery on chapter 4). 
+**Leveling Up:** When leveling up, the spellcaster gains 2 spells of any spell level they can cast. They are treated as if they have spent their pastime performing research (see below or Discovery on chapter 4).
 ___
-**Scribing a Spell:** Drawing new runes with rare inks, carving a dedication on a shaman totem, or reproducing a spell in a mage’s spellbook or scroll into another one all require acute understanding of spellcasting, time, and materials. This is described in more detail above under Spellbooks. 
+**Scribing a Spell:** Drawing new runes with rare inks, carving a dedication on a shaman totem, or reproducing a spell in a mage’s spellbook or scroll into another one all require acute understanding of spellcasting, time, and materials. This is described in more detail above under Spellbooks.
 ___
-**Research:** A character can research and create their own spell (effectively preparing a spell in their spell lists they could not find yet) by spending downtime in research and the cost of scribing the spell. This works exactly as the discovery downtime activity (see chapter 7). 
+**Research:** A character can research and create their own spell (effectively preparing a spell in their spell lists they could not find yet) by spending downtime in research and the cost of scribing the spell. This works exactly as the discovery downtime activity (see chapter 7).
 ___
-**Tutelage:** Spellcasters may gain spells directly from other spellcasters or magical beings such as celestials, fey, demons, undead, or monstrosities. Tutelage costs the same as scribing a new spell, but is often be done for free in return for a service or fulfilling a quest, with the creature scribing the spellcaster’s spell for no cost. Druids, shamans, and warlocks usually resort to being tutored by powerful beings (such as Cenarius taught Malfurion Stormrage, the elementals taught Thrall, and demonic cults teach warlocks) in exchange for services (usually related to defeating their enemies or reducing their influence). A spellcaster naturally knows their tutor’s name, but in most cases they are insufficiently powerful to conjure it. 
+**Tutelage:** Spellcasters may gain spells directly from other spellcasters or magical beings such as celestials, fey, demons, undead, or monstrosities. Tutelage costs the same as scribing a new spell, but is often be done for free in return for a service or fulfilling a quest, with the creature scribing the spellcaster’s spell for no cost. Druids, shamans, and warlocks usually resort to being tutored by powerful beings (such as Cenarius taught Malfurion Stormrage, the elementals taught Thrall, and demonic cults teach warlocks) in exchange for services (usually related to defeating their enemies or reducing their influence). A spellcaster naturally knows their tutor’s name, but in most cases they are insufficiently powerful to conjure it.
 ___
-**Lore:** Easy Way to Power. The primary reason why walking the path of the warlock is considered the ‘easy and corrupt way’ to power has to do with gaining spells. Mages don’t have tutors who are naturally-attuned to the arcane, and must go through the works of studying and reading 
+**Lore:** Easy Way to Power. The primary reason why walking the path of the warlock is considered the ‘easy and corrupt way’ to power has to do with gaining spells. Mages don’t have tutors who are naturally-attuned to the arcane, and must go through the works of studying and reading
 
 \pagebreakNum
 
 spellbooks, which is a controlled and difficult environment usually plagued by academic competition and rivalries.
 
-On the other hand, the Burning Legion’s emissaries (from imps to dreadlords) all find the process of tutoring a win-win situation; by tutoring and asking for services in exchange, they both increase the power of their agent (the warlock himself) and further their own objectives (spreading destruction, the Legion’s influence, and character change in making the warlock more suspected by their peers, tying them to the Legion and away from their community so that redemption is more difficult). 
+On the other hand, the Burning Legion’s emissaries (from imps to dreadlords) all find the process of tutoring a win-win situation; by tutoring and asking for services in exchange, they both increase the power of their agent (the warlock himself) and further their own objectives (spreading destruction, the Legion’s influence, and character change in making the warlock more suspected by their peers, tying them to the Legion and away from their community so that redemption is more difficult).
 
-This is similar to the Holy Light, Forgotten Shadow, and the Ancients’ approach to tutelage of priests, paladins, and druids; except that these forces are normally reluctant to dole out spells and power unless the student has proven themselves worthy or loyal enough to the ideology or cause. 
+This is similar to the Holy Light, Forgotten Shadow, and the Ancients’ approach to tutelage of priests, paladins, and druids; except that these forces are normally reluctant to dole out spells and power unless the student has proven themselves worthy or loyal enough to the ideology or cause.
 
-Some spells, such as holy light, divine shield, and revivify (for paladins); create food and water and teleport (for mages); elemental shock and astral recall (for shamans) may be offered for free in exchange for class quests, and are not commonly traded among equals of the relevant profession. 
+Some spells, such as holy light, divine shield, and revivify (for paladins); create food and water and teleport (for mages); elemental shock and astral recall (for shamans) may be offered for free in exchange for class quests, and are not commonly traded among equals of the relevant profession.
 
-Subject to DM adjudication, these spells cannot be gained by other methods (such as being researched, chosen at 1st level, or gained when leveling up). 
+Subject to DM adjudication, these spells cannot be gained by other methods (such as being researched, chosen at 1st level, or gained when leveling up).
 
 It is advised that a DM employing this rule clarify their stance regarding iconic spells before the game starts.
 
 ## The Mana System
-When gaining spellcasting ability, the character also gains a pool of mana points equal to their two times their spellcasting ability score (Intelligence for mages, charisma for paladins, etc.) plus their caster level. For instance, a Mage with 16 Intelligence and caster level of 5 has a mana pool of 37 (two times the ability score + 5 caster level). 
+When gaining spellcasting ability, the character also gains a pool of mana points equal to their two times their spellcasting ability score (Intelligence for mages, charisma for paladins, etc.) plus their caster level. For instance, a Mage with 16 Intelligence and caster level of 5 has a mana pool of 37 (two times the ability score + 5 caster level).
 
 Mana is spent on casting spells, and spells fail when the mana pool doesn’t have enough mana for the spell (unless the spell itself costs 0 mana).
 
 ### Mana Cost of Spells
-The higher the spellcaster’s skill in wielding magic, the more efficient they can fuel their spells with mana. The cost is 16 mana points for the caster’s highest level spell. For each spell level below the highest, the mana cost is reduced by 3, to a minimum equal to the spell’s level. When you cast a spell of 7th, 8th, or 9th level, you cannot cast it again until after a short rest, regardless of how many mana you have in reserve. Cantrips do not cost mana. 
+The higher the spellcaster’s skill in wielding magic, the more efficient they can fuel their spells with mana. The cost is 16 mana points for the caster’s highest level spell. For each spell level below the highest, the mana cost is reduced by 3, to a minimum equal to the spell’s level. When you cast a spell of 7th, 8th, or 9th level, you cannot cast it again until after a short rest, regardless of how many mana you have in reserve. Cantrips do not cost mana.
 
-Some abilities reduce the mana cost of spells below the listed mana cost, to a minimum stated in the ability. In all cases and with no exceptions, spells that restore hit points are never reduced below 1 mana point. 
+Some abilities reduce the mana cost of spells below the listed mana cost, to a minimum stated in the ability. In all cases and with no exceptions, spells that restore hit points are never reduced below 1 mana point.
 
 <div class="classTable wide">
 
-| Caster Level | 1 | 2 | 3 | 4 | 5 | 6 | 7* | 8* | 9* | 
+| Caster Level | 1 | 2 | 3 | 4 | 5 | 6 | 7* | 8* | 9* |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| 1 | 16 | - | - | - | - | - | - | - | - | 
+| 1 | 16 | - | - | - | - | - | - | - | - |
 | 2 | 16 | - | - | - | - | - | - | - | - |
 | 3 | 13 | 16 | - | - | - | - | - | - | - |
 | 4 | 13 | 16 | - | - | - | - | - | - | - |
-| 5 | 10 | 13 | 16 | - | - | - | - | - | - | 
+| 5 | 10 | 13 | 16 | - | - | - | - | - | - |
 | 6 | 10 | 13 | 16 | - | - | - | - | - | - |
 | 7 | 7 | 10 | 13 | 16 | - | - | - | - | - |
 | 8 | 7 | 10 | 13 | 16 | - | - | - | - | - |
 | 9 | 4 | 7 | 10 | 13 | 16 | - | - | - | - |
-| 10 | 4 | 7 | 10 | 13 | 16 | - | - | - | - | 
-| 11 | 1 | 4 | 7 | 10 | 13 | 16 | - | - | - | 
+| 10 | 4 | 7 | 10 | 13 | 16 | - | - | - | - |
+| 11 | 1 | 4 | 7 | 10 | 13 | 16 | - | - | - |
 | 12 | 1 | 4 | 7 | 10 | 13 | 16 | - | - | - |
 | 13 | 1 | 2 | 4 | 7 | 10 | 13 | 16 | - | - |
 | 14 | 1 | 2 | 4 | 7 | 10 | 13 | 16 | - | - |
@@ -16247,13 +16247,13 @@ Mana Cost Table: Caster Level and Spell Level
 \pagebreakNum
 
 ### Less-than-Full Casters
-If your caster level is not equal to your character level, as the case with paladins, subtlety rogues, or hunters, refer to the table above as normal appropriate to their caster level. 
+If your caster level is not equal to your character level, as the case with paladins, subtlety rogues, or hunters, refer to the table above as normal appropriate to their caster level.
 
 ### Favored Spells
-Some spellcasters are particularly skilled in casting certain spell. Favored spells cost 2 less mana points (minimum 0). Some abilities and items grant favored spells when used. 
+Some spellcasters are particularly skilled in casting certain spell. Favored spells cost 2 less mana points (minimum 0). Some abilities and items grant favored spells when used.
 
 ## Regaining Mana Points
-A character regains spent mana through the following passive and active regeneration methods: 
+A character regains spent mana through the following passive and active regeneration methods:
 ___
 **Invocations.** Abilities of powerful spellcasting classes such as Invocation for mages, Ancient Power for druids, and Desperate Prayer for priests all restore mana. Unless otherwise stated, a character can only use mana restorative abilities once every hour (such as a drink from mana fountain).
 ___
@@ -16261,35 +16261,35 @@ ___
 ___
 **Epic Heroism.** If you are using the Epic Heroism rest variant, you regain mana every 5 minutes, and regain all spent mana points after 1 hour’s rest. Consider restricting spellcasters so that only a full 8-hour rest will allow a spellcaster to regain access to spent 7th to 9th level spells.
 ___
-**Gritty Realism.** If you are using the Gritty Realism rest variant, you regain mana every 4 hours in which you have not cast spells. 
+**Gritty Realism.** If you are using the Gritty Realism rest variant, you regain mana every 4 hours in which you have not cast spells.
 ___
-Around the world lie areas of power: ley lines intersect and react with water, creating moonwells, mana fountains, and similar fonts of power. Those who rest near a lay line intersection or such feature increase their mana regeneration per hour when within 30 feet of the source by 50% (round down, minimum +1 mana point). An example of a mana fountain is the high elves’ Sunwell in Quel’Thalas (which, unlike normal mana fountains, grants the benefits within the city of Silvermoon, and not just when in proximity), and the night elves’ Moonwells. 
+Around the world lie areas of power: ley lines intersect and react with water, creating moonwells, mana fountains, and similar fonts of power. Those who rest near a lay line intersection or such feature increase their mana regeneration per hour when within 30 feet of the source by 50% (round down, minimum +1 mana point). An example of a mana fountain is the high elves’ Sunwell in Quel’Thalas (which, unlike normal mana fountains, grants the benefits within the city of Silvermoon, and not just when in proximity), and the night elves’ Moonwells.
 ___
-**Mana Tap.** You may tap into reserves of magic, such as drinking from a mana potion, drawing from a lay line-infused font of power (such as a drinking from a mana fountain or bathing in a moonwell), or special spells. This requires an action, and restores mana as if you rested for one hour (using the normal rest rules, 5 minutes for epic heroism, and 4 hours for gritty realism) or the amount listed in the source’s description (such as with the Warlock’s life tap spell). 
+**Mana Tap.** You may tap into reserves of magic, such as drinking from a mana potion, drawing from a lay line-infused font of power (such as a drinking from a mana fountain or bathing in a moonwell), or special spells. This requires an action, and restores mana as if you rested for one hour (using the normal rest rules, 5 minutes for epic heroism, and 4 hours for gritty realism) or the amount listed in the source’s description (such as with the Warlock’s life tap spell).
 ___
-**Mana Siphoning.** Also known as vampirism, mana siphoning is an obscure and often frowned-upon variant of mana tap. Drawing from a living source of mana instead of an object or location, you may siphon mana from another creature by touching them (with hands, fingers, or even by a kiss) and draining out their mana. For each action, this restores the same amount of mana as if you conducted a mana tap, and deducts double the amount of mana points from the target so long as they have mana to give. 
+**Mana Siphoning.** Also known as vampirism, mana siphoning is an obscure and often frowned-upon variant of mana tap. Drawing from a living source of mana instead of an object or location, you may siphon mana from another creature by touching them (with hands, fingers, or even by a kiss) and draining out their mana. For each action, this restores the same amount of mana as if you conducted a mana tap, and deducts double the amount of mana points from the target so long as they have mana to give.
 
-The target must be helpless, willing, or dead for no more than 1 hour. If the creature is helpless (asleep, paralyzed, etc.) but neither dead nor willing, they is entitled a Stamina saving throw contested to the drinker’s Stamina saving throw to resist. When siphoned once, a creature cannot be siphoned again for 24 hours. If done to an unwilling, dead, or particularly powerful or charismatic target, vampirism could have a hidden and corruptive influence on the feeder (such as inflicting an arcane disease, leaving a mark, causing an addiction to continue vampirism, or even embed a shard of the target’s personality in you). 
+The target must be helpless, willing, or dead for no more than 1 hour. If the creature is helpless (asleep, paralyzed, etc.) but neither dead nor willing, they is entitled a Stamina saving throw contested to the drinker’s Stamina saving throw to resist. When siphoned once, a creature cannot be siphoned again for 24 hours. If done to an unwilling, dead, or particularly powerful or charismatic target, vampirism could have a hidden and corruptive influence on the feeder (such as inflicting an arcane disease, leaving a mark, causing an addiction to continue vampirism, or even embed a shard of the target’s personality in you).
 
-Fiends such as demons always have active mana pools, using their highest mental ability score (even if they do not have caster levels). Creatures that do not have mana (or do not use them) are normally immune to the effects of such spells. Siphoning mana from fiends via vampirism usually causes the influence of Fel magic to appear on the target (causing green to invade the character’s coloration in skin, eye color, or even blood), and causing them to be more receptive to demonic influences (can take any form). 
+Fiends such as demons always have active mana pools, using their highest mental ability score (even if they do not have caster levels). Creatures that do not have mana (or do not use them) are normally immune to the effects of such spells. Siphoning mana from fiends via vampirism usually causes the influence of Fel magic to appear on the target (causing green to invade the character’s coloration in skin, eye color, or even blood), and causing them to be more receptive to demonic influences (can take any form).
 
 ## Special Rules
 ### Calling, Conjuring, and Binding
-The Warcraft universe has many historical instances of calling out to a creature, conjuring it, and then binding it to servitude. 
+The Warcraft universe has many historical instances of calling out to a creature, conjuring it, and then binding it to servitude.
 
-Druids of Ashenvale can call out to creatures they heard of but never witnessed to speak with them and learn their secrets (allowing them to Wild Shape into them), while hunters may call out to beasts native to their region to bind them for temporary service before releasing them back into the wilds. 
+Druids of Ashenvale can call out to creatures they heard of but never witnessed to speak with them and learn their secrets (allowing them to Wild Shape into them), while hunters may call out to beasts native to their region to bind them for temporary service before releasing them back into the wilds.
 
 Failed mages of harsh masters or teachers may succumb to the temptation of calling an imp or similar demonic force that can teach them a spell they must learn (accepting tutoring instead of having to do exhausting research), and established warlocks can conjure and bind said creatures to deliver them information about such students to further drive them into dark magic.
 
 Paladins and priests of the holy light might attempt to call out to greater forces than the ones in Azeroth, such as the Naaru or other angelic and celestial creatures, or be called by them in turn for an urgent quest delivered in a dream.
 
-In all such cases, calling a creature is a critical mechanic in the Warcraft universe that has driven many events. If not for Gul’dan answering the Legion’s call, he might have never developed as warlock, and employed his fel might to corrupt the orcs. Also, if not for humans hearing the call of the Naaru, they might have never known the Holy Light. 
+In all such cases, calling a creature is a critical mechanic in the Warcraft universe that has driven many events. If not for Gul’dan answering the Legion’s call, he might have never developed as warlock, and employed his fel might to corrupt the orcs. Also, if not for humans hearing the call of the Naaru, they might have never known the Holy Light.
 
 #### Call
 ##### Mechanic
-You can send out a mental plea, message, or beseech a creature that can listen, even if not on your plane. The DM can either roll on the following table to determine the power that heard your call, or can choose one power from the same list that is interested in your call. 
+You can send out a mental plea, message, or beseech a creature that can listen, even if not on your plane. The DM can either roll on the following table to determine the power that heard your call, or can choose one power from the same list that is interested in your call.
 
-The power receives a shard of your name, and gains the Call Link action (see below), and can use it upon you. 
+The power receives a shard of your name, and gains the Call Link action (see below), and can use it upon you.
 
 \pagebreakNum
 
@@ -16298,19 +16298,19 @@ The power receives a shard of your name, and gains the Call Link action (see bel
 ___
 Upon establishing the connection, each party receives a shard of the other party’s full name. This does not require the ability to cast spells, but does require a skill check (chosen by the power, and DC set by the DM, depending on the strength of the power that chooses to answer). Commonly, a servitor’s name is sent instead of the power itself, in which case they hear the call and the request.
 
-Depending on the nature of your plea, it can be heard clearer by one power than by others. For instance, requests for power might be heard by the Old Gods or the Burning Legion, while requests for aid might be heard of more benign powers such as the Wild Gods or the Holy Light. Sometimes, a call can be intercepted by a third party, such as a demon hunter hearing a budding warlock’s call to the Burning Legion. 
+Depending on the nature of your plea, it can be heard clearer by one power than by others. For instance, requests for power might be heard by the Old Gods or the Burning Legion, while requests for aid might be heard of more benign powers such as the Wild Gods or the Holy Light. Sometimes, a call can be intercepted by a third party, such as a demon hunter hearing a budding warlock’s call to the Burning Legion.
 
 | d10 | Power | Servitor |
 |:-:|:-:|:-:|
-| 1 | Burning Legion | Warlocks, demons, cultists, chaotic evil undead | 
-| 2 | Dragon aspects | Dragons, aligned mages, cultists of the dragon | 
-| 3 | Order | Titans, remaining servitors (titanic observers, watchers) | 
-| 4 | Holy Light | Naaru, celestials, holy priests, paladins | 
-| 5 | Lich King<sup>1</sup> | Death knights, death priests, lawful evil undead, cultists of the damned | 
-| 6 | Spirits<sup>2</sup> | Shamans, neutral or good elementals, neutral or good ghosts, spirit beings | 
-| 7 | Void (Shadow) | Old Gods, shadow priests, void beings, aberrations (forgotten ones), evil elementals | 
-| 8 | Voodoo/Loa | The Loa, some druids and priests, shadow hunters, witch doctors | 
-| 9 | Wild Gods<sup>3</sup> | Druids, beasts, fey, some shamans | 
+| 1 | Burning Legion | Warlocks, demons, cultists, chaotic evil undead |
+| 2 | Dragon aspects | Dragons, aligned mages, cultists of the dragon |
+| 3 | Order | Titans, remaining servitors (titanic observers, watchers) |
+| 4 | Holy Light | Naaru, celestials, holy priests, paladins |
+| 5 | Lich King<sup>1</sup> | Death knights, death priests, lawful evil undead, cultists of the damned |
+| 6 | Spirits<sup>2</sup> | Shamans, neutral or good elementals, neutral or good ghosts, spirit beings |
+| 7 | Void (Shadow) | Old Gods, shadow priests, void beings, aberrations (forgotten ones), evil elementals |
+| 8 | Voodoo/Loa | The Loa, some druids and priests, shadow hunters, witch doctors |
+| 9 | Wild Gods<sup>3</sup> | Druids, beasts, fey, some shamans |
 | 10 | Roll again | If the result is another 10, the power that contacts you is a possible version of you from a parallel universe or timeline. |
 ___
 **1** This can represent other death gods in the case of the Lich King’s destruction or weakening, such as certain Loa (Bwonsamdi and Lukou)
@@ -16323,13 +16323,13 @@ If you have part of a creature’s name, you can invite a projection of them to 
 
 The projection can choose to answer or reject your call, depending on what you wish from it or offer it. You may deceive the creature by calling it for a different reason, but projections can also deceive you, and claim to serve powers they in reality oppose.
 
-Usually, this depends on your reputation, and deceptive practitioners of this ability usually find their calls rejected or answered by similarly deceptive forces. 
+Usually, this depends on your reputation, and deceptive practitioners of this ability usually find their calls rejected or answered by similarly deceptive forces.
 
-The projection, upon accepting the invitation into your realm, is under no compulsion to behave in any particular way, and may choose to appear in a form unlike its true one. The projection is an intangible magical impression of the creature, and has none of their capabilities (spellcasting, hit points), except that it can move at a fly speed of 30 feet per round and can hover, and can appear as whatever form it wishes. It can speak any language it can, but only you can hear it. It appears within 90 feet of you, and cannot move further away or contact another creature than you. 
+The projection, upon accepting the invitation into your realm, is under no compulsion to behave in any particular way, and may choose to appear in a form unlike its true one. The projection is an intangible magical impression of the creature, and has none of their capabilities (spellcasting, hit points), except that it can move at a fly speed of 30 feet per round and can hover, and can appear as whatever form it wishes. It can speak any language it can, but only you can hear it. It appears within 90 feet of you, and cannot move further away or contact another creature than you.
 
-The projection remains until you choose to dismiss it, which requires a successful Charisma saving throw against a DC of 10. If the creature wishes to resist being dismissed, the DC is 8 + the creature’s Proficiency bonus + the creature’s Charisma modifier. 
+The projection remains until you choose to dismiss it, which requires a successful Charisma saving throw against a DC of 10. If the creature wishes to resist being dismissed, the DC is 8 + the creature’s Proficiency bonus + the creature’s Charisma modifier.
 
-You may repeat this saving throw once per round, but if you fail three times, the impression is not bound stay close to you, and can attempt to contact another being (such as by Calling it in turn until the connection is established). Such actions are usually taken by chaotic beings or ones who believe they have unfinished business (such as spirits and ghosts) or beings that expect (or can sense) spellcasters nearby that can conjure and bind them. 
+You may repeat this saving throw once per round, but if you fail three times, the impression is not bound stay close to you, and can attempt to contact another being (such as by Calling it in turn until the connection is established). Such actions are usually taken by chaotic beings or ones who believe they have unfinished business (such as spirits and ghosts) or beings that expect (or can sense) spellcasters nearby that can conjure and bind them.
 
 ##### Extraplanar Binding Rules
 Performing extraplanar binding is a difficult task that requires many steps, but can be rewarding.
@@ -16342,68 +16342,68 @@ Third, you must prepare the bind spell to bind the specific creature you need. Y
 ___
 Fourth, you must cast the bind spell, and the target must fail their saving throw.
 ___
-Fifth, you must negotiate terms of binding, such as servitude for a time or task, and pay the cost of the binding. You may alternatively choose to release it, in which case it can act freely until dismissed by other means (such as the exorcism or banishment spells, being killed, being charmed or commanded to return to their own realm, or being bound by another caster and then dismissed). 
+Fifth, you must negotiate terms of binding, such as servitude for a time or task, and pay the cost of the binding. You may alternatively choose to release it, in which case it can act freely until dismissed by other means (such as the exorcism or banishment spells, being killed, being charmed or commanded to return to their own realm, or being bound by another caster and then dismissed).
 ___
-If you are successful, the creature is bound to you for the duration of its task (if it was given a task). 
+If you are successful, the creature is bound to you for the duration of its task (if it was given a task).
 
 #### Oaths and Blood Oaths
 Oaths and Blood oaths are pledges of undying loyalty and faithfulness that are spoken before a representative of the spirits or a divine (such as most priests and paladins). It is easy to take an oath, but its true strength applies only if the oath-giver is true in the oath.
 
 \pagebreakNum
 
-If pledging to a cause, the oath-giver and all their comrades are linked by deep magics. Shamans (restoration shamans specifically) can enhance certain abilities of fellow oath-sworn. 
+If pledging to a cause, the oath-giver and all their comrades are linked by deep magics. Shamans (restoration shamans specifically) can enhance certain abilities of fellow oath-sworn.
 
 Willingly breaking an oath after giving it in truth may cause the oath-giver to be cursed as per the bestow curse spell. The detect thoughts spell may reveal an oath given by a character.
 
-If compelled to go against their oath, the oath-giver can gain advantage to one d20 roll to avoid breaking it. This can be used once per short rest. 
+If compelled to go against their oath, the oath-giver can gain advantage to one d20 roll to avoid breaking it. This can be used once per short rest.
 
 #### True Names
-All that is has a true name; a name that can compass what the object or creature is, and describe it to the fullest picture. Hence, a demon has a true name, so does a ship. In most cases, learning a true name is a practice in study and reflection of the thing’s nature and role in life (or in the afterlife). 
+All that is has a true name; a name that can compass what the object or creature is, and describe it to the fullest picture. Hence, a demon has a true name, so does a ship. In most cases, learning a true name is a practice in study and reflection of the thing’s nature and role in life (or in the afterlife).
 
-Learning a true name is a task that requires at least 30 days of downtime in research per point of CR for regular creatures. 
+Learning a true name is a task that requires at least 30 days of downtime in research per point of CR for regular creatures.
 
-Particularly social creatures are easier to learn (taking half as much), and reclusive ones may require research at a particular facility or using specific books (as determined by the DM) at double the research rate. For each day of research, you must spend 1 gp plus your normal living expenses. 
+Particularly social creatures are easier to learn (taking half as much), and reclusive ones may require research at a particular facility or using specific books (as determined by the DM) at double the research rate. For each day of research, you must spend 1 gp plus your normal living expenses.
 
-After obtaining the name, it can be written down as normal text. Knowledge of how it is pronounced is not tied to reading the name; it can be properly pronounced by those who have heard it aloud, researched it, or have read it with perfect accent (such as using linguistic tools as umlauts) 
+After obtaining the name, it can be written down as normal text. Knowledge of how it is pronounced is not tied to reading the name; it can be properly pronounced by those who have heard it aloud, researched it, or have read it with perfect accent (such as using linguistic tools as umlauts)
 
 These abilities require speaking the name of the creature verbally. It needn’t be shouted, but even whispers can be listened in with a successful Spirit (Perception) check contested by your Charisma (Performance) check. Allowing a creature to learn the true name of a favored summoned ally is a dangerous proposition, as enemy conjurers would love to compel your allies to turn against you; if they are conjured, they have no choice.
 
 ##### Using a true name grants several benefits:
-You may conjure a creature you conjure with the conjure spell with a stronger bond; the creature gains temporary hit points upon being conjured equal double its Challenge Rating. This also applies to creatures that are affected by the bind spell. 
+You may conjure a creature you conjure with the conjure spell with a stronger bond; the creature gains temporary hit points upon being conjured equal double its Challenge Rating. This also applies to creatures that are affected by the bind spell.
 
-You may impose upon a creature disadvantage to saving throws against spells you target it with. 
+You may impose upon a creature disadvantage to saving throws against spells you target it with.
 
-You gain the benefits of the sanctuary spell against the creature (and it alone) for 24 hours. The spell acts at a spell level equal to half the target’s CR (minimum 1, maximum 9). The DC is equal to 8 + your Proficiency Bonus + your Charisma bonus (minimum 1). 
+You gain the benefits of the sanctuary spell against the creature (and it alone) for 24 hours. The spell acts at a spell level equal to half the target’s CR (minimum 1, maximum 9). The DC is equal to 8 + your Proficiency Bonus + your Charisma bonus (minimum 1).
 
 You can reduce one of the creature’s damage immunities into damage resistance, or remove one of the creature’s damage resistances. This can stack with similar features (such as the Black Fire feature). Only your abilities and spells can affect the creature this way.
 
 You can remove one type of condition immunity from the target. With this ability, you can cause skeleton to be poisoned by your poisons, or frighten a construct, etc. Only your abilities and spells can affect the creature this way.
 
-A creature’s true name can change if their inherit nature transforms, such as them undergoing character development, leveling up, undergoing a trial, or by casting the mind blank spell on them. The latter method can weaken the connection between a creature and its true name, but cannot fully change a creature’s nature unless it is cast on a creature in a moment of reflection. 
+A creature’s true name can change if their inherit nature transforms, such as them undergoing character development, leveling up, undergoing a trial, or by casting the mind blank spell on them. The latter method can weaken the connection between a creature and its true name, but cannot fully change a creature’s nature unless it is cast on a creature in a moment of reflection.
 
-Fiends and celestials are more resistant to changing their true name; such would require a grand quest where the creature’s original mortal form must be rediscovered. With constructs, changing a true name is invariably linked to the spirit of its creator and their feelings upon crafting, who is a required reference. 
+Fiends and celestials are more resistant to changing their true name; such would require a grand quest where the creature’s original mortal form must be rediscovered. With constructs, changing a true name is invariably linked to the spirit of its creator and their feelings upon crafting, who is a required reference.
 
 A creature can be affected by their true name by one user at a time and only one effect; if two or more creatures attempt to use one creature’s true name, they must contest against one another with a Charisma (Persuasion, Intimidation, or Performance) check to determine who has the greater command over this mighty magic.
 
 ## Casting a Spell
-Spellcasting may be interrupted if the spellcaster is harmed while casting or channeling the spell (such as channeling or stance spells, or when struck with a held action). This is called a distraction. 
+Spellcasting may be interrupted if the spellcaster is harmed while casting or channeling the spell (such as channeling or stance spells, or when struck with a held action). This is called a distraction.
 
-When hit this way, the spellcaster must succeed on a concentration check (Stamina saving throw), DC 10 or half the damage dealt (whichever is higher) or the spell fails (and the mana is spent uselessly). 
+When hit this way, the spellcaster must succeed on a concentration check (Stamina saving throw), DC 10 or half the damage dealt (whichever is higher) or the spell fails (and the mana is spent uselessly).
 
-This acts similarly to casting spells in situations that are difficult to cast spells in (such as while on being a storm-tossed ship or while being distracted by wind and rain). 
+This acts similarly to casting spells in situations that are difficult to cast spells in (such as while on being a storm-tossed ship or while being distracted by wind and rain).
 
 ### Concentration
-Some spells require a lesser degree of concentration than normal. These spells are described as Concentration (Partial) spells. 
+Some spells require a lesser degree of concentration than normal. These spells are described as Concentration (Partial) spells.
 
-Spells with this duration allow you to concentrate on the spell itself and another concentration spell at the same time, including another Concentration (Partial) spell. 
+Spells with this duration allow you to concentrate on the spell itself and another concentration spell at the same time, including another Concentration (Partial) spell.
 
 ### Mana-Less Casting
-Resilient spellcasters can cast magic on nothing, channeling the mana around them instead of their own. Attempting to cast a spell without sufficient mana points left (or attempting to cast a spell without spending mana at all) requires a Stamina saving throw to cast a spell. The DC is equal to 20 + spell level. You take a penalty to the saving throw equal to half the amount of mana below 0. 
+Resilient spellcasters can cast magic on nothing, channeling the mana around them instead of their own. Attempting to cast a spell without sufficient mana points left (or attempting to cast a spell without spending mana at all) requires a Stamina saving throw to cast a spell. The DC is equal to 20 + spell level. You take a penalty to the saving throw equal to half the amount of mana below 0.
 
-If successful, the spell is cast, but count the mana cost against the current pool (this can reach a negative value, increasing the DC). On a failure, the spellcaster suffers one level of exhaustion. This level of exhaustion is only lifted when the spellcaster is at full mana points. 
+If successful, the spell is cast, but count the mana cost against the current pool (this can reach a negative value, increasing the DC). On a failure, the spellcaster suffers one level of exhaustion. This level of exhaustion is only lifted when the spellcaster is at full mana points.
 
 ### Multiclassing
-Multiclassing in the World of Warcraft 5e RPG is similar to its state in 5e; you add your levels in spellcasting together to determine your total caster level (0.5 for each level in Paladin, 1 for each level in Priest, etc.) to learn your maximum spell level. You may also make use of both spell lists, but only to the maximum spell level you can access in either lists (a level 1 Mage and level 10 Paladin cannot cast 3rd level mage spells). The mana is drawn from a single pool. 
+Multiclassing in the World of Warcraft 5e RPG is similar to its state in 5e; you add your levels in spellcasting together to determine your total caster level (0.5 for each level in Paladin, 1 for each level in Priest, etc.) to learn your maximum spell level. You may also make use of both spell lists, but only to the maximum spell level you can access in either lists (a level 1 Mage and level 10 Paladin cannot cast 3rd level mage spells). The mana is drawn from a single pool.
 
 \pagebreakNum
 
@@ -16415,27 +16415,27 @@ You also refer your proficiency bonus when addressing mana costs, and not your c
 
 This chapter describes the most common spells in the worlds Warcraft. The chapter begins with the spell lists of the spellcasting classes. The remainder contains spell descriptions, presented in alphabetical order by the name of the spell.
 
-Some classes have specific names for a spell. These names are italicized next to the normal spell name. 
+Some classes have specific names for a spell. These names are italicized next to the normal spell name.
 
-Spells can be cast by any character who has access to mana and a spell list. Whenever a class references being able to cast spells from a specific spell list, refer to the below list under the appropriate name. 
+Spells can be cast by any character who has access to mana and a spell list. Whenever a class references being able to cast spells from a specific spell list, refer to the below list under the appropriate name.
 ___
-**Array.** Spells with the array tag have several sub-spells. When preparing a spell with the array tag, you must choose to prepare one spell of the array (each of which may have their own spell levels and different effects). Some arrays give circumstantial access to other spells. In this case, heightening the spell in the array count as if heightening that spell. Array spells that manifest a strike or shot effect enhance a number of attacks as appropriate to their description. 
+**Array.** Spells with the array tag have several sub-spells. When preparing a spell with the array tag, you must choose to prepare one spell of the array (each of which may have their own spell levels and different effects). Some arrays give circumstantial access to other spells. In this case, heightening the spell in the array count as if heightening that spell. Array spells that manifest a strike or shot effect enhance a number of attacks as appropriate to their description.
 ___
 **Auras.** Spells with the aura tag are spells that emit an aura centered on the character, usually reaching 15 feet away, typically remaining for a few minutes, and moving with the user. Auras do not require concentration, but a character can only benefit from one aura at any given time (their choice), and auras can usually counter other ones. If subject to harmful auras, the character is subject to all they fail to resist (as normal for spells), rolled upon entering the aura or being affected by it.  Aura bonuses do not stack with other aura bonuses. Creatures affected by auras automatically sense where they are emanating from.
 ___
-**Aura Spike.** An aura spike is the ability to focus an aura’s power to perform a secondary effect. This is useable on a reaction. You can make one aura spike per every two spell levels of a given aura spell. 
+**Aura Spike.** An aura spike is the ability to focus an aura’s power to perform a secondary effect. This is useable on a reaction. You can make one aura spike per every two spell levels of a given aura spell.
 ___
-**Blessings.** This array includes beneficial spells that are activated by consuming half your movement, and may target yourself or an ally. A creature can have only one blessing active on them at any given time, with most blessings’ duration being five minutes. 
+**Blessings.** This array includes beneficial spells that are activated by consuming half your movement, and may target yourself or an ally. A creature can have only one blessing active on them at any given time, with most blessings’ duration being five minutes.
 ___
 **Channel.** These spells are most demanding concentration spells, and require the investment of one action every round to maintain the spell. If the caster cannot invest the required actions, the spell ends. Above the required action, the spellcaster cannot move faster than half their speed. As for all concentration spells, this spell is broken if concentration is lost.
 ___
-**Sigil.** These are spells that have an initial direct effect (and a diminished effect on a miss). After the primary effect, the sigil re-inflicts the primary effect every round (called a sigil ‘pulse’). A sigil pulses at the start of the caster’s turn every round for the spell’s duration. Sigil effects end when its duration ends or if the target is reaches full hit points (if a healing sigil) or 0 hit points (healing spells and other spells). Some sigils have a special effect that only trigger when they end naturally, or when their target is reduced to 0 hit points. 
+**Sigil.** These are spells that have an initial direct effect (and a diminished effect on a miss). After the primary effect, the sigil re-inflicts the primary effect every round (called a sigil ‘pulse’). A sigil pulses at the start of the caster’s turn every round for the spell’s duration. Sigil effects end when its duration ends or if the target is reaches full hit points (if a healing sigil) or 0 hit points (healing spells and other spells). Some sigils have a special effect that only trigger when they end naturally, or when their target is reduced to 0 hit points.
 ___
 **Seals.** These are personal spells (with a target of ‘you’) that are also cast as part of your movement (consumes base half movement, cannot be used if already spent). A creature may be under the effects of one seal at any given time, and most seals have a duration of one minute. Seals may be released (termed judgment or release), and impose the additional effect specified under the spell. These are considered beneficial spells. Only paladins may cast seals. Death Knights may cast seals, but only those marked as runic spells.
 ___
-**Strike.** Strike spells modify a successful attack. See Chapter 9 for more details on strike effects. Strike and shot effects also usually a potential number of attacks equal to double the spell level. 
+**Strike.** Strike spells modify a successful attack. See Chapter 9 for more details on strike effects. Strike and shot effects also usually a potential number of attacks equal to double the spell level.
 
-For instance, using kill shot as a 2nd level spell enhances 4 ranged attacks. The caster can have multiple potential strikes active, but cannot apply two shot or strike abilities to the same attack unless otherwise specified. 
+For instance, using kill shot as a 2nd level spell enhances 4 ranged attacks. The caster can have multiple potential strikes active, but cannot apply two shot or strike abilities to the same attack unless otherwise specified.
 ___
 **Stances.** Stance spells modify several features, usually involving movement. See Chapter 9 for more details on stance effects.
 ___
@@ -16475,7 +16475,7 @@ ___
 - Poison Spray (*Noxious Fumes*)
 - Produce Flame
 - Guidance
-- Vicious Mockery 
+- Vicious Mockery
 - Fire Bolt
 - Frost Bolt
 - Light
@@ -16483,7 +16483,7 @@ ___
 - Thunderclap<sup>EE</sup>
 - Spare the Dying
 - Mending
-- Minor Alchemy<sup>WoW5eRPG</sup> 
+- Minor Alchemy<sup>WoW5eRPG</sup>
 - Mold Earth<sup>EE</sup>
 
 ##### 1st Level
@@ -16500,9 +16500,9 @@ ___
 - Detect Poison/Disease
 - Detect Magic
 - Identify
-- Charm 
+- Charm
 - Command
-- Color Spray 
+- Color Spray
 - Chromatic Orb
 - Dissonant Whispers
 - Faerie Fire
@@ -16519,7 +16519,7 @@ ___
 - Silent Image
 - Cause Fear<sup>XGtE</sup>
 - Death Coil<sup>Modified</sup>
-- False Life 
+- False Life
 - Ray of Sickness
 - Expeditious Retreat
 - Feather Fall - Bouncy Body
@@ -16534,7 +16534,7 @@ ___
 - Aid – Increase toughness
 - Protection from Poison
 - Lesser Restoration
-- Web 
+- Web
 - See Invisibility – Ghost-Eye Drops
 - Calm Emotions – Sedative Gas
 - Berserker Frenzy<sup>WoW5eRPG</sup>
@@ -16550,12 +16550,12 @@ ___
 - Silence
 - Blindness/Deafness
 - Corpse Explosion<sup>WoW5eRPG</sup>
-- Gentle Repose 
-- Ray of Enfeeblement 
+- Gentle Repose
+- Ray of Enfeeblement
 - Unholy Frenzy<sup>WoW5eRPG</sup>
 - Alter Self
 - Darkvision
-- Enhance Ability 
+- Enhance Ability
 - Enlarge/Reduce
 - Magic Weapon – Weapon Oil
 - Spider Climb – Sticky Limbs
@@ -16564,7 +16564,7 @@ ___
 - Nondetection
 - Protection from Energy – Alchemical dampener
 - Remove Curse
-- Stinking Cloud 
+- Stinking Cloud
 - Speak with Dead – Corpse Tap
 - Daylight
 - Sunbeam <sup>Modified</sup>
@@ -16584,9 +16584,9 @@ ___
 - Confusion
 - Greater Invisibility
 - Blight
-- Polymorph 
-- Stone Shape 
-- Stone Skin 
+- Polymorph
+- Stone Shape
+- Stone Skin
 
 ##### 5th Level
 - Cloudkill
@@ -16594,7 +16594,7 @@ ___
 - Dominate<sup>Modified</sup>
 - Dream
 - Geas
-- Modify Memory 
+- Modify Memory
 - Cone of Cold
 - Mislead
 - Contagion
@@ -16666,16 +16666,16 @@ ___
 - Bane
 - Charm <sup>Modified</sup>
 - Compelled Duel – Dark Command
-- Command 
+- Command
 - Heroism – Grim Resolve
 - Divine Favor
-- Icy Touch 
+- Icy Touch
 - Searing Smite
 - Thunderous Smite
 - Wrathful Smite
 - Cause Fear <sup>XGtE</sup>
 - Death Coil <sup>Modified</sup>
-- Death Pact <sup>WoW5eRPG</sup> 
+- Death Pact <sup>WoW5eRPG</sup>
 - Flash of Shadow <sup>WoW5eRPG</sup>
 - Rune Array <sup>WoW5eRPG</sup>
 - Purify Food and Drink
@@ -16703,15 +16703,15 @@ ___
 - Magic Circle
 - Remove Curse
 - Aura of Vitality – This spell only heals you and undead
-- Avatar Form<sup>WoW5eRPG</sup> – Lich Form 
+- Avatar Form<sup>WoW5eRPG</sup> – Lich Form
 - Blinding Smite
 - Crusader's Mantle – This spell only deals extra shadow damage
 - Darkness
 - Death Nova<sup>WoW5eRPG</sup>
 - Elemental Weapon
 - Revivify Modified
-- Spirit Haunt<sup>WoW5eRPG</sup> – Torment 
-- Telekinesis<sup>Modified</sup> – Death Grip 
+- Spirit Haunt<sup>WoW5eRPG</sup> – Torment
+- Telekinesis<sup>Modified</sup> – Death Grip
 
 ##### 4th Level
 - Distraction Aura<sup>WoW5eRPG</sup>
@@ -16732,7 +16732,7 @@ ___
 - Teleportation Circle – Only to circles made by Mages
 - Dominate<sup>Modified</sup>
 - Geas
-- Aligned Weapon<sup>Modified</sup> – was Holy Weapon <sup>XGtE</sup> 
+- Aligned Weapon<sup>Modified</sup> – was Holy Weapon <sup>XGtE</sup>
 - Banishing Smite
 - Destructive Wave
 - Hallow/Unhallow<sup>Modified</sup>
@@ -16740,7 +16740,7 @@ ___
 - Cripple<sup>WoW5eRPG</sup>
 - Danse Macabre<sup>XGtE</sup>
 - Death and Decay<sup>WoW5eRPG</sup>
-- Mass Revivify<sup>WoW5eRPG</sup> – Can only target intelligent undead 
+- Mass Revivify<sup>WoW5eRPG</sup> – Can only target intelligent undead
 - Negative Energy Flood<sup>XGtE</sup>
 - Raise Dead<sup>Modified</sup>
 
@@ -16778,7 +16778,7 @@ ___
 - Thorn Whip
 
 ##### 1st level
-- Abandonment Aura<sup>WoW5eRPG</sup> – Primal Roar 
+- Abandonment Aura<sup>WoW5eRPG</sup> – Primal Roar
 - Absorb Elements<sup>EE</sup>
 - Bind<sup>WoW5eRPG</sup>
 - Snare<sup>XGtE</sup>
@@ -16800,11 +16800,11 @@ ___
 - Rejuvenation<sup>WoW5eRPG</sup>
 - Moonfire<sup>WoW5eRPG</sup>
 - Swipe and Shred<sup>WoW5eRPG</sup>
-- Thunderwave 
+- Thunderwave
 - Earth Tremor<sup>EE</sup>
 - Fade<sup>WoW5eRPG</sup>
 - Aspect Array<sup>WoW5eRPG</sup>
-- Inner Fire<sup>WoW5eRPG</sup> – Mark of the Wild 
+- Inner Fire<sup>WoW5eRPG</sup> – Mark of the Wild
 - Jump
 - Longstrider
 - Goodberry
@@ -16812,7 +16812,7 @@ ___
 - Resolve<sup>WoW5eRPG</sup>
 
 ##### 2nd Level
-- Retribution Aura<sup>WoW5eRPG</sup> – Thorns Aura 
+- Retribution Aura<sup>WoW5eRPG</sup> – Thorns Aura
 - Lesser Restoration
 - Protection from Poison
 - Pass without Trace
@@ -16828,7 +16828,7 @@ ___
 - Flame Blade
 - Flaming Sphere
 - Gust of Wind
-- Moonbeam 
+- Moonbeam
 - Warding Wind<sup>EE</sup>
 - Barkskin
 - Darkvision
@@ -16854,10 +16854,10 @@ ___
 - Sunfire<sup>WoW5eRPG</sup>
 - Wall of Water<sup>EE</sup>
 - Wind Wall
-- Feign Death 
+- Feign Death
 - Lunar Curse<sup>WoW5eRPG</sup>
 - Revivify<sup>Modified</sup>
-- Avatar Form<sup>WoW5eRPG</sup> 
+- Avatar Form<sup>WoW5eRPG</sup>
 - Erupting Earth<sup>EE</sup>
 - Meld into Stone
 - Plant Growth
@@ -17065,7 +17065,7 @@ ___
 - True Strike
 - Friends
 - Dancing Lights
-- Fire Bolt 
+- Fire Bolt
 - Light
 - Frostbite<sup>EE</sup>
 - Frost Bolt
@@ -17082,7 +17082,7 @@ ___
 
 ##### 1st Level
 - Absorb Elements
-- Alarm 
+- Alarm
 - Arcane Armor<sup>WoW5eRPG</sup>
 - Barrier Ward<sup>WoW5eRPG</sup>
 - Bind<sup>WoW5eRPG</sup>
@@ -17113,7 +17113,7 @@ ___
 - Earth Tremor<sup>EE</sup>
 - Explosion<sup>WoW5eRPG</sup>
 - Frostfire Bolt<sup>WoW5eRPG</sup>
- 
+
 \columnbreak
 
 - Icy Touch<sup>WoW5eRPG</sup>
@@ -17142,7 +17142,7 @@ ___
 - Cloud of Daggers
 - Flaming Sphere
 - Parasite<sup>WoW5eRPG</sup>
-- Web 
+- Web
 - Detect Thoughts
 - Locate Object
 - Mind Spike<sup>XGtE</sup>
@@ -17171,7 +17171,7 @@ ___
 - Phantasmal Force
 - Shadow Blade<sup>XGtE</sup>
 
-\columnbreak 
+\columnbreak
 
 - Blindness/Deafness
 - Gentle Repose
@@ -17225,13 +17225,13 @@ ___
 - Major Image
 - Phantom Steed
 - Bestow Curse
-- Feign Death 
+- Feign Death
 - Life Transference<sup>XGtE</sup>
 - Vampiric Touch
 - Blink
 - Erupting Earth<sup>EE</sup>
 
-\columnbreak 
+\columnbreak
 
 - Flame Arrows<sup>EE</sup>
 - Fly
@@ -17292,10 +17292,10 @@ ___
 - Telepathic Bond
 - Dominate<sup>Modified</sup>
 - Geas
- 
+
 </div>
 
-\pagebreakNum 
+\pagebreakNum
 
 <div class="spellList">
 
@@ -17316,7 +17316,7 @@ ___
 - Dream
 - Mislead
 - Seeming
-- Cripple<sup>WoW5eRPG</sup> 
+- Cripple<sup>WoW5eRPG</sup>
 - Danse Macabre<sup>XGtE</sup>
 - Death and Decay<sup>WoW5eRPG</sup>
 - Enervation<sup>XGtE</sup>
@@ -17326,7 +17326,7 @@ ___
 - Passwall
 - Skill Empowerment<sup>XGtE</sup>
 - Transmute Rock<sup>EE</sup>
- 
+
 ##### 6th Level
 - Guards and Wards
 - Arcane Gate
@@ -17418,10 +17418,10 @@ ___
 <div class="spellList">
 
 ##### Cantrips (0 Level)
-- none 
+- none
 
 ##### 1st Level
-- Abandonment Aura<sup>WoW5eRPG</sup> – Aura of Might 
+- Abandonment Aura<sup>WoW5eRPG</sup> – Aura of Might
 - Barrier Ward<sup>WoW5eRPG</sup>
 - Bind<sup>WoW5eRPG</sup>
 - Ceremony<sup>XGtE</sup>
@@ -17435,8 +17435,8 @@ ___
 - Detect Poison and Disease
 - Bless
 - Charm<sup>Modified</sup>
-- Command 
-- Compelled Duel 
+- Command
+- Compelled Duel
 - Heroism
 - Divine Favor
 - Flash of Light<sup>Modified</sup>
@@ -17620,7 +17620,7 @@ ___
 - Life Transference<sup>XGtE</sup>
 - Revivify<sup>Modified</sup>
 - Speak with Dead
-- Spirit Haunt<sup>WoW5eRPG</sup> 
+- Spirit Haunt<sup>WoW5eRPG</sup>
 - Meld into Stone
 - Water Walk
 
@@ -17715,7 +17715,7 @@ ___
 - Produce Flame
 - Guidance
 - True Strike
-- Fire Bolt 
+- Fire Bolt
 - Frostbite<sup>EE</sup>
 - Frost Bolt
 - Invoke Elements<sup>WoW5eRPG</sup>
@@ -17725,7 +17725,7 @@ ___
 - Thunderclap<sup>EE</sup>
 - Control Flames<sup>EE</sup>
 - Magic Stone<sup>EE</sup>
-- Mending 
+- Mending
 - Message
 - Mold Earth<sup>EE</sup>
 - Shape Water<sup>EE</sup>
@@ -17733,7 +17733,7 @@ ___
 ##### 1st Level
 - Absorb Elements<sup>EE</sup>
 - Bind<sup>WoW5eRPG</sup>
-- Elemental Armor<sup>WoW5eRPG</sup> 
+- Elemental Armor<sup>WoW5eRPG</sup>
 - Fear Ward<sup>WoW5eRPG</sup>
 - Sanctuary
 - Conjure<sup>Modified</sup>
@@ -17757,7 +17757,7 @@ ___
 - Lightning Orbs<sup>WoW5eRPG</sup>
 - Riptide<sup>WoW5eRPG</sup>
 - Spirit Strike<sup>WoW5eRPG</sup>
-- Shadow Bolt<sup>WoW5eRPG</sup> – Spirit Bolt (witch doctor), Shadow Shock (shadow hunter) 
+- Shadow Bolt<sup>WoW5eRPG</sup> – Spirit Bolt (witch doctor), Shadow Shock (shadow hunter)
 - Thunderwave – Thunderstorm
 - Witch Bolt – Sticky Lightning
 - Aspect Array<sup>WoW5eRPG</sup>
@@ -17776,7 +17776,7 @@ ___
 - Pass without Trace
 - Protection from Poison
 - Dust Devil<sup>EE</sup>
-- Flaming Sphere 
+- Flaming Sphere
 - Healing Spirit<sup>XGtE</sup>
 - Locate Animals or Plants
 - Locate Object
@@ -17800,12 +17800,12 @@ ___
 - Curse of Agony – Hex of Pain<sup>WoW5eRPG</sup>
 - Barkskin
 - Berserker Frenzy – Fury Hex<sup>WoW5eRPG</sup>
-- Blessing Array<sup>WoW5eRPG</sup> – Only Blessing of Wisdom; named Blessing of Water 
+- Blessing Array<sup>WoW5eRPG</sup> – Only Blessing of Wisdom; named Blessing of Water
 - Darkvision
 - Earthbind<sup>EE</sup>
 - Earth Shield<sup>WoW5eRPG</sup>
 - Earthen Grasp<sup>EE</sup> (Maximilian’s earthen grasp)
-- Enhance Ability 
+- Enhance Ability
 - Heat Metal
 - Pyrotechnics<sup>EE</sup>
 - Skywrite<sup>EE</sup>
@@ -17896,7 +17896,7 @@ ___
 - Tranquility<sup>WoW5eRPG</sup>
 - Wall of Stone
 - Windfury Tongue<sup>WoW5eRPG</sup>
-- Curse of Shadows<sup>WoW5eRPG</sup> – Veil of Shadows 
+- Curse of Shadows<sup>WoW5eRPG</sup> – Veil of Shadows
 - Mass Revivify – Ancestral Vision<sup>Modified</sup>
 - Raise Dead – Reincarnate<sup>Modified</sup>
 - Control Winds<sup>EE</sup>
@@ -18006,7 +18006,7 @@ ___
 - Detect Magic
 - Detect Evil and Good
 - Identify
-- Charm<sup>Modified</sup> 
+- Charm<sup>Modified</sup>
 - Hex Array<sup>WoW5eRPG</sup>  – All except Fortune
 - Hideous Laughter
 - Sleep
@@ -18031,7 +18031,7 @@ ___
 - Catapult<sup>EE</sup>
 - Expeditious Retreat
 - Feather Fall
-- Hex Array<sup>WoW5eRPG</sup> – Only Death 
+- Hex Array<sup>WoW5eRPG</sup> – Only Death
 - Jump
 - Longstrider
 
@@ -18268,3 +18268,2331 @@ ___
 </div>
 
 \pagebreakNum
+
+## Spell Descriptions
+
+#### Abandonment Aura [level 1]
+*Abjuration [aura]*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self (15-foot radius)
+- **Components:** V
+- **Duration:**  1 hour
+___
+Destructive energy radiates from you in an aura with a 15-foot radius centered on you. Each hostile creature that is in the spell’s area who who loses at least 1 hit point from a weapon attack made by you or one of your allies suffers 2 additional points of damage.
+
+A creature in the aura can negate this effect if they succeed on a Spirit saving throw once within the aura’s area.
+
+This spell is suppressed by the protection from good and evil (and similar abjurations). This is an aura bonus.
+___
+**Heightened.** For each spell level above 1st, the extra damage increases by 1 point (up to 6 extra points of damage at spell level 5).
+___
+*Note.* This spell suppresses and is suppressed by the devotion aura spell.
+
+#### Aligned Weapon [level 5]
+*Evocation*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:**  Concentration, up to 1 hour
+___
+You imbue a weapon you touch with power aligned to the Holy Light or the Forgotten Shadow. Until the spell ends, the weapon emits bright light in a 30-foot-radius and dim light for an additional 30 feet, colored golden white (if Holy Light) or pale violet (if Forgotten Shadow). In addition, weapon attacks made with it deal an extra 2d8 extra damage on a hit (holy damage if Holy Light, or shadow damage if Forgotten Shadow). If the weapon isn’t already a magic weapon, it becomes one for the duration.
+
+As a bonus action on your turn, you can dismiss this spell and cause the weapon to emit a lasting blast. Each creature of your choice that you can see within 30 feet of you must make a Stamina saving throw. On a failed save, a creature takes 4d8 damage (holy or shadow), and it is blinded for 1 minute. On a successful save, a creature takes half as much damage and isn’t blinded. At the end of each of its turns, a blinded creature can make a Stamina saving throw, ending the effect on itself on a success.
+___
+*Special.* If aligned to the Forgotten Shadow, the weapon may, at your will, shed no light instead. In that case, releasing the spell deals extra 1d8 shadow damage.
+
+#### Amplify Magic [level 5]
+*Abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet (15-foot radius sphere)
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute.
+___
+You amplify magical effects in the area of effect. All spells cast from or into the area of effect are heightened one spell level. If the spell cannot be heightened (or if heightening has no effect), it heals 25% more, damages 25% more, or remains for 25% longer.
+
+Dampen Magic This spell may be reversely cast. If so, the spells cast into or from the area of effect are counted one level lower (if eligible) and are reversely affected (heals 25% less, deals 25% less damage, or remains for 24% less time).
+
+#### Ancestral Guardians [level 2]
+*Abjuration [sigil] [healing]*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch (one creature)
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
+You conjure spirits to guard and advise the target in battle, tapping into the target's ancestral bonds. The target regains 2d4 hit points. The sigil pulses at the start of your turn every round, repeating the primary effect.
+
+Also, so long as this sigil is active, the target also takes 1 less point of damage from weapon and spell attacks and effects for that round. The reduction to damage is an aura effect. If the caster and the target share ancestry or share a Blood Oath (see Chapter 10), the damage reduction increases by 1 point, and the spell automatically stabilizes the target if they are reduced to 0 hit points.
+
+Constructs gain no benefit from this spell.
+___
+**Heightened.** The healing increases by one dice per every level above 2nd, and reduction to damage increases by one point per every two levels above 2nd.
+
+#### Arcane Armor [level 1]
+*Abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S, M (Focus crystal that costs 10 gp)
+- **Duration:** 1 hour
+___
+A protective field guards you. Upon casting this spell, you may choose one magic school or energy type, and gain advantage to all saves versus that school or resistance versus that damage type for the duration of the spell.
+
+You, however, gain disadvantage to saving throws that belong to spells that another school (see table below), or vulnerability to damage from its opposing type.
+
+You cannot gain resistance to an effect you are already resistant to, but you can gain resistance to an effect you are vulnerable against (becoming neutral). You cannot gain vulnerability to an effect you are immune to.
+
+| School | Opposing School |
+|:-:|:-:|
+| Abjuration | Evocation |
+| Illusion | Divination |
+| Conjuration | Transmutation |
+| Enchantment | Necromancy |
+| Energy Type | Opposing Type |
+| Fire | Cold |
+| Acid | Lightning or Thunder |
+| Holy | Shadow or Fel |
+___
+*Special.* If you become vulnerable to a school, you gain disadvantage to saving throws, and attackers that affect you using that school or energy type have advantage to attacks against you.
+
+\pagebreakNum
+
+**Heightened.** When cast as a level 6 spell, you gain resistance to the damage type or advantage versus the school chosen without gaining vulnerability or disadvantage to the opposite type or school.
+
+#### Arcane Barrage [level 4]
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet (10-foot-radius sphere)
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+You create two large glowing bursts of violet force, sending them to a single enemy within range. The bursts two intertwine, striking the enemy and dealing 6d8 + 6 points of arcane damage to the target, and creating a fantastic display of magical force.
+
+The blast explodes outward from the target in a 10-foot radius, affecting other creatures. Each creature in the 10-foot-radius area besides the initial target takes the same damage described above on a failed Agility save, and is pushed 5 feet away from the center of the blast (or the initial target). They take only half as much damage and are not pushed on a successful saving throw.
+___
+**Heightened.** The spell deals an extra 1d8+1 damage per every level above level 4.
+
+#### Arcane Explosion [level 2]
+*Evocation*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
+___
+You expel a tremendous burst of arcane energy. Each creature and unattended object within 10 feet of you must make a Agility saving throw. A creature takes 2d4 + 2 arcane damage on a failed save, or half as much damage on a successful one.
+
+Additionally, if the target is a creature, it must succeed on a Strength saving throw or be pushed 10 feet away from you and knocked prone.
+___
+**Heightened.** The spell deals an extra 1d4+1 damage per every level above level 2.
+
+#### Arcane Orb [level 5]
+*Evocation [totem]*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
+You create a swirling orb of magical force that periodically expels arcane energy. When you cast this orb, you may use a reaction for it to emit an arcane explosion centered on the orb itself, as the spell arcane explosion.
+
+#### Aspect Array [level 1+]
+*Transmutation [array]*
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes or special
+___
+You adopt yourself to an aspect of a beast or a terrain, deriving power from your bond with the land or the spirits that reside there. You must recognize the creature or terrain (or a comparable one) to adopt their aspect.
+
+You gain one aspect from the below array.
+* **Cheetah (level 1).** As the expeditious retreat spell
+* **Desolate Terrain (level 1).** You have advantage against travel hazards, and against exhaustion from forced marches, starvation, and thirst. Instead of concentration up to 10 minutes, the duration of this aspect is 4 hours (does not require concentration, but cannot have another aspect).
+* **Monkey (level 1).** You gain climb speed equal to one-half your normal speed.
+* **Mountain Terrain (level 1).** You're acclimated to high altitude, including elevations above 20,000 feet. Instead of concentration up to 10 minutes, the duration of this aspect is 4 hours (does not require concentration, but cannot have another aspect).
+* **Rejuvenating Woods (level 1).** You can roll twice for any healing dice to heal yourself if you are under the effects of a sigil spell.
+* **Shark (level 1).** You gain swim speed equal to one-half your normal speed.
+* **Terrain Adaption (level 1).** As the arcane armor spell (resists one energy damage, vulnerable to another). This covers volcanoes (fire/cold), frozen poles (cold/fire), storm plains (lightning/acid), and corrosive swamps (acid/lightning). This can be heightened as normal for arcane armor, but can only cover elemental damage.
+* **Chameleon (level 2).** As the blur spell
+  Eagle (level 2). You and one beast companion you have may score a critical hit on a roll of 19 or 20
+* **Hawk (level 2).** Ranged attacks at long range do not impose disadvantage on your attack roll, and you reduce cover one grade (from half-cover to none, three-quarters to half-cover. This cannot reduce full cover)
+* **Lion (level 2).** Whenever you and one ally stand in opposing sides from a target, both of you have advantage to attack rolls against them.
+* **Turtle (level 3).** Whenever you take the Dodge action, you also gain resistance to all weapon damage. If the target has disadvantage to attacking you from the Dodge action and fails to hit you with both rolls (one from the attack, and another from the disadvantage), you may make an attack of opportunity against them.
+___
+**Heightened.** For every spell level above the chosen aspect’s level, you may grant the benefits to two allies.
+
+For example, heightening the Cheetah aspect to 3rd level allows you to grant the bonus to up to 4 allies (often called Aspect of the Cheetah Pack).
+
+#### Avatar Form [level 3]
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S
+- **Duration:** 5 minutes
+___
+You invoke great powers to shroud your form in pure magic. Depending on your spellcasting class, you become attuned to different powers, granting you an array of abilities. While in this form, you gain the following abilities based on your spellcasting class:
+
+You speak one language (if you don’t already speak it),
+
+\pagebreakNum
+
+You gain resistance to one damage type, and advantage to your next saving throw. If you are already affected by an effect that allows a saving throw, you may repeat the saving throw upon casting the spell to end the effect. This is not retroactive, but can end ongoing effects,
+
+You gain the Mystic Blast feat (damage type determined by the list), modified with the innate feature (does not require mana in reserve),
+
+You add your spellcasting ability modifier to the total damage or healing you deal with your spells. This is applied once per spell (regardless of number of hits or strikes). If you can already apply it, you can apply it again. The extra damage must be the same type you are attuned to,
+
+Lastly, if you are reduced to 0 hit points while in this form, you can choose to end the spell and spend 1 hit dice to heal yourself.
+___
+*Special.* Avatar form is a spell that acts differently depending on your class (if you have multiclassed, choose one form when preparing this spell). If you have access to one of the below spell lists, you count as being that class for this spell’s purpose (such as Demon Hunters and Warlocks).
+
+| Class Spell List | Language | Attuned Damage Type<br> (archetype, if any) |
+|:-:|:-:|:-:|
+| Death Knight | Necril | Shadow |
+| Paladin | Celestial | Holy |
+| Priest<sup>1</sup> | Celestial<br>Necril<br>Shath’yar | Holy (holy)<br> Psychic (shadow)<br> Shadow (death) |
+| Warlock | Eredun | Fel |
+
+**1** The moon priesthood is dependent on the phase of the moon for attuned damage type (holy for full moon and psychic or shadow for new moon).
+
+#### Banishment [level 2]
+*Abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+One fiend, celestial, bound, or conjured creature you target must make a Charisma saving throw. On a failure, you shunt them with abjuration magic to a transitory state, causing them to become ethereally unstable (becoming restrained, and gaining resistance to all damage). At the end of the duration (if you were able to concentrate for an entire minute), they are banished to their original plane of existence. The creature may attempt a Strength saving throw at the beginning of its turn every round to suppress the restrained condition for 1 round.
+___
+**Heightened.** If heightened to level 4, you can target other creatures as well as fiends and celestials. For every spell level above 4th, you may also target one additional creature per spell level.
+
+If the target is native to the plane of existence you’re on, you banish the target to a harmless demiplane. While there, the target is incapacitated instead of being ethereally unstable. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
+
+If the target is native to a different plane of existence than the one you’re on, the target is banished with a faint popping noise (even if not a fiend, celestial, or bound), returning to its home plane once the saving throw fails. It is not fully sent back until 1 minute of passes with your concentration. If your concentration breaks before the minute passes, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. Otherwise, the target doesn't return.
+
+#### Banshee’s Curse [level 3]
+*Necromancy [sigil] [curse]*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
+You suffuse the regretful curse of the banshee on a target within range. Make a ranged spell attack against the target. On a hit, the target takes 3d4 damage. The damage is half shadow, and half thunder. The sigil pulses at the start of your turn every round, repeating the primary effect.
+
+Also, so long as the spell is active, the target must roll a d6 whenever they declare an action. On a result of a 2 or lower, the action fails. On a result of 3 or higher, the action takes place as normal. This effect cannot trigger more than once per round.
+
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+___
+**Heightened.** The damage increases by one dice per every spell level above 3rd.
+
+#### Barrier Ward [level 1]
+*Abjuration [ritual]*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a small shield or glass lens)
+- **Duration:** 1 minute
+___
+You create a barrier of magical force in a point within range that blocks and intercepts all attacks, damage, and spells that emit from the other side. The barrier appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can be free floating or resting on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 10 feet, or you can shape a flat surface made up of two 10-foot-by-10-foot panels. Each panel must be contiguous with another panel. In any form, the wall is 1/4 inch thick. It lasts for the duration. If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (your choice which side). The barrier can appear as anything you wish or any color, but is always semi-translucent. The barrier also extends into the Ethereal Plane, blocking ethereal travel through the wall.
+
+The barrier has an Armor Class of 10, 10 hit points, and a Damage Threshold of 1 (see the Dungeon Master’s Guide, page 246).
+___
+**Destroying the Ward.** Damage that exceeds the remaining hit points of the barrier break the barrier, and the excess damage can target any creature in the range of the original attack. Spells that do not deal damage are also blocked by the barrier. This damages the barrier by 2d6 damage per spell level on a successful attack casting (except cantrips, which have no effect unless they deal damage). If the ward does not have enough hit points to intercept the spell, the ward breaks and the spell takes effect normally.
+
+\pagebreakNum
+
+The barrier ward uses your own saving throw bonuses for the purposes of determining how many damage is dealt to it.
+___
+**Bypassing the Ward.** A creature adjacent to the barrier can spend 5 feet of movement and attempt to bypass it. If they succeed on a Spirit saving throw against the Spell Save DC, they can move through it and ignore it for the spell’s duration. A single character can try this once per spell.
+
+The disintegrate spell automatically dissolves the ward, regardless of the remaining hit points it has, unless the barrier ward's spell level is higher than the disintegrate spell (in which case it affects the ward normally).
+___
+**Augmenting the Ward.** You may use a bonus action at the start of your turn or upon casting the spell to augment any active barriers. Whenever you attempt an augmentation, the ward also regains 5 (2d4) hit points per level of the barrier ward spell. All augmentations end at the start of your turn in the next round.
+___
+**Deepen.** Non-damaging spells deal 1d6 damage per spell level to the barrier instead of 2d6.
+___
+**Reflect.** The barrier deals damage when it is damaged. All creatures adjacent to the damaged side of the barrier suffer one-half the damage the barrier dealed. This requires a spell attack roll against the targets' Armor Class. This instantly destroys the barrier ward if it reflects damage and has less than half its original maximum hit points remaining.
+___
+**Strengthen.** The barrier has resistance against all damage types. This does not apply when absorbing non-damaging spells.
+___
+*Special.* When casting this spell, you may specify a certain creature type to be affected by the ward. In this case, you may apply one augmentation permanently to the barrier, but the barrier can only function against the specific creature type.
+
+For example, a paladin casting barrier ward can specify undead, and make it automatically reflect damage dealt by undead creatures. Non-undead ignore the barrier entirely. The ward detects creature types by aura, and any deceptive magic or effect must succeed on a skill or spell attack roll against your Spell Save DC to deceive and negate the ward.
+___
+*Special.* If you ritually cast this spell, the duration increases to 1 hour. You can have up to 10 barrier wards raised this way, and one bonus action can apply one augmentation to all the wards. Ritual wards suffer double damage from all sources on the opposite side of the barrier. Such barriers must be drawn on a surface (such as with a piece of chalk or centered on a physical line). If the line is erased (for example, a creature that bypassed the ward uses an action to erase the line), the connected barrier ward ends when the line is erased.
+___
+**Heightened.** For every spell level above 1st, the barrier gains 10 additional hit points, and its Armor Class and the Damage Threshold increase by 1 each. If the ward is a wall, you also add two extra conjoined panels to its size per spell level. Special. By increasing the casting time to 1 minute, using a material component to draw a line (to set the barrier’s area on) and reducing the range to Touch, you can contain the barrier spell, increasing its duration to 1 hour. The seal or line automatically concentrates on resisting damage without your action, but is automatically dispelled if a creature spends a bonus action to disrupt the seal (such as by scattering the salt or wiping the chalk that formed the
+___
+circle). A creature that has failed to force its way against the ward cannot disrupt the seal.
+
+#### Berserker Frenzy [level 2]
+*Transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a red napkin)
+- **Duration:** Special, up to 1 minute
+___
+You cause one creature to go into a murderous rampage. The target must succeed on a Stamina saving throw or else gain the following features. A creature can choose to fail on the saving throw.
+
+They gain advantage on Strength checks and Strength saving throws.
+
+When they make a melee weapon attack using Strength, they gain a +2 bonus to the damage roll. You may apply this twice per round.
+
+They gain resistance to all weapon damage, reducing damage by no more than three times the spell level.
+
+They suffer the Distracted condition (DC is equal to your spell DC).
+
+The rage ends early if the target is knocked unconscious, or if their turn ends without being attacked or attacking a hostile creature, or if not taking at least one point of damage in that turn.
+
+The benefits of this spell are not gained if the target is wearing heavy armor.
+
+A creature affected by this spell makes another Stamina saving throw at the end of its turn. On a successful save, the effect ends for it. If the rage continues for more than two rounds, the creature gains one level of exhaustion at the end of the rage for 10 minutes for each round spent in rage. A creature can benefit from this spell a number of times equal to their proficiency bonus, replenishing on a rest.
+___
+**Heightened.** For each 3 spell levels heightened above 2nd level, the bonus to damage rolls increases by 1 (+3 at 5th, +4 at 8th).
+
+#### Big Bad Voodoo [level 6]
+*Abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 30-foot-radius sphere, centered on you
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
+You raise your hand and summon the strength of powerful Loa spirits. Choose up to six creatures in a 30-foot-radius sphere centered on you, granting them 6d8 temporary hit points so long as the spell is active. Furthermore, the temporary hit points can also be spent to absorb spells (3 hit points per spell level).
+
+If the shield manages to absorb all damage from an effect or absorb a spell, the warded creatures are protected against any secondary effects (as if immune). This can be determined after a saving throw.
+
+The spell cannot be overwhelmed with one attack. If reduced to 0 temporary hit points with one attack, the spell ends with 1 hit point instead. This can occur only once for every instance of the spell being cast.
+
+You cannot include yourself in this spell’s targets. You can channel this effect instead of merely concentrating, during which the shields regain 5 hit points per round of channeling. If you cannot maintain line of sight to a shielded ally, the effect fades from them (but returns should they
+
+\pagebreakNum
+
+return to your line of sight). A creature affected by this spell cannot benefit from it again for 24 hours.
+___
+**Heightened.** For every spell level above 6th, the number of temporary hit points increases by 2d8.
+
+#### Bind [level 1]
+*Abjuration [ritual]*
+___
+- **Casting Time:** 10 minutes
+- **Range:** 60 feet
+- **Components:** V, S, M (bond payment, see below)
+- **Duration:** Special (see below; 24 hour negotiation phase)
+___
+When you cast this spell, you can bind a creature of a type related to your spellcasting list (see Conjuring and Binding under your class). The creature's Challenge cannot exceed the spell's level.
+
+The target of this spell must make a Charisma saving throw. On a failed saving throw, it is compelled to negotiate with you by force of the spell, and cannot harm you or leave the spell's area until negotiations are concluded. If it succeeds, it is unbound (see below). If the bound creature was brought about by another spell (such as the conjure spell), it can be a valid target for this spell (the creature is still entitled a saving throw, although the creature must be within range for the entire casting time).
+___
+**Negotiation.** If the target fails their initial saving throw and enters negotiations, you and they debate terms. The negotiation phase remains up to 24 hours. You may re-cast the spell to maintain it another 24 hours, but a new saving throw is required every instance. If a creature that is conjured is placed in the bind spell's negotiation phase, its duration is extended until the bind spell ends (after which it disappears).
+
+Negotiating with a creature that is affected by the bind spell but has not come to terms requires you to clarify the agreement conditions. This ranges from determining a task (such as casting a spell for you, stealing an object, or aid in a specific fight) to a continual task for a duration (protect me in combat for 1 week). Creatures that are bound expect payment, which is mandated by the terms agreed upon.
+* **Task.** Upon completion of a task, the bond lessens, and the creature returns to its native realm (or to its original form) if conjured, or is left unrestrained (if found naturally). If you specified reporting back as part of its bond, its bind remains unless it reports to you the results of its task in a way it believes the news can reach you. The creature can wait until it is certain beyond reasonable doubt that you cannot (or will not) return, at which case it returns to its original realm (if it was originally conjured). If the task is indeterminable (such as helping you fight for an unspecified task), you must refer to the duration. Choosing a task requires payment (see below).
+* **Duration.** If the creature is bound to serve for a specific pre-determined duration (such as 1 day, week, or a year and a day), it is automatically freed after the duration ends (as described above). Examples of a duration is guarding you for a time, providing council for a time, or providing a sustained service (such as scouting duties). Choosing a duration requires payment that is based on the task (see below).
+___
+**Active Binding.** Once negotiations conclude, the bound creature cannot disobey a direct order from you, or take actions against you or the task you have mandated. A bound creature shows recognizable signs of  being bonded to you,
+
+either by a mark, tattoo, chains, bracers (or any form stated by you or determined by the setting—for instance, elementals of Warcraft usually bear binding bracers them). You can attempt to bind a creature already bound, which requires three contested spellcasting checks to break the first binding (or repel the attempt).
+___
+**Payment in Negotiation.** It is costly to establish a bond with a creature, and is usually the most common thing creatures require when bound. If bound for a task, the creature requires a material component equal in cost to 100 gp per point of Challenge Rating of the creature, which is consumed (if a consumable) or claimed (if not) by the creature. If bound for a duration, the target demands a percentage of its task price (depending on the duration, see below).
+
+| Duration | Binding Cost |
+|:-:|:-:|
+| 1 day | 10% |  
+| 1 week | 50% |  
+| 1 month | 100% |  
+| 1 year | 200% |
+___
+If it is unrestricted, or if the target requires a task or service instead, you do not need to provide payment, and the binding is in full force for the agreed upon duration and terms.  Payment can any form, such as valuable gems for an earth elemental, a relic of that cost for a celestial, or a necromantic crystal or onyx gems for undead.
+___
+**Friendly Creatures.** Creatures whose interests align with yours may halve or waive the payment entirely. The price of a non-hazardous task is also usually halved. The payment is also influenced by the place and circumstances of bonding (a blessed place might reduce the cost of binding a Celestial), while a horde of mindless undead may require only living sacrifices to serve. This is determined by the DM (negotiating for the other side).
+
+You can have multiple bonded creatures, but no more than double your level at the same time. Excess creatures are automatically freed from their bonds, and may choose to return to their normal plane (of conjured) or become unrestricted. You are always aware of how tenuous your hold is on your bound creatures and whether a creature breaks free or not.
+___
+**Heightened.** The maximum Challenge of a possible bound creature is equal to the spell’s level.
+___
+*Special.* Depending on your relationship with the target, the bound creature may attempt to break free of the binding after it is successfully established (either by convincing you that it is in your best interests to make it unrestricted, offering to do more tasks in exchange for its freedom to remain in the realm, or conspiring to aid another force to hurt or blackmail you to release the spell). You can re-negotiate the terms of the binding by re-casting the spell so long as it hasn't ended yet. If the terms become more difficult, bonded creatures usually take this negatively, perverting your intent, twisting your words to achieve a different outcome, or similar mischief.
+___
+*Note.* This spell is also known as enslave undead or enslave demons (when used against existing undead and fiends, respectively), and Create Undead when used to bind permanent undead.
+
+\pagebreakNum
+
+#### Blessing Array [level 2+]
+*Transmutation [array, blessing]*
+___
+- **Casting Time:** special (half movement)
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** 5 minutes
+___ 
+You gain one blessing of the below array.
+Blessing of Sacrifice (level 1). This potent blessing creates a spiritual connection between you and the subject. Each time the subject takes hit point damage, half of it transfers to you. If you and the subject move out of range of each other, the spell ends immediately. The halved damage is not counted as if resistance, but does not stack with it. The target and you must be within clear, unobstructed vision and within 15 feet of one another.
+* **Blessing of Might (level 2).** You gain supernatural awareness of the vulnerabilities in your enemies. You gain +2 bonus to damage rolls. While under the benefits of this blessing, your pupils dilate, but are not any more sensitive to light than usual. This is an aura effect.
+* **Blessing of Wisdom (level 2).** This powerful blessing aids spellcasters, aiding their mana expenditures in battle. For the duration of the blessing, the target’s spells cost one less mana point (minimum 1). This does not stack with other reductions, but can stack with Seal of Insight.
+* **Blessing of Protection (level 3).** This potent blessing protects the target. The target gains the effect of a Divine Shield spell. However, the spell ends for the target if they attack or cast any spell.
+* **Blessing of Kings (level 4).** You or any target creature gains +2 to all d20 rolls until the duration of the spell ends. This applies to attack rolls, saving throws, skill checks, and ability checks.
+___
+**Heightened.**
+* **Blessing of Might.** For each level above 2nd, you add +1 to the damage roll increase, to a maximum of +5.
+
+#### Blink Step [level 2]
+*Conjuration*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Personal
+- **Components:** V
+- **Duration:** Instantaneous
+___ 
+You shunt yourself dimensionally, teleporting yourself to an unoccupied spot in within 30 feet. You cannot teleport yourself to an area you cannot see, or into an object.
+
+You may also teleport others with you, but each additional creature halves the distance remaining, and must be within touch range from you.
+___
+*Special.* This spell may also be cast as a reaction. In this case, casting it when being hit gives you resistance to all damage as well as teleports you.
+
+#### Blizzard [level 3]
+*Evocation [channel]*
+___
+- **Casting Time:** 1 action
+- **Range:** 150 feet, in a 15-feet-wide, 60-feet-high cylinder.
+- **Components:** V, S, M (crushed glass and water)
+- **Duration:** Channeling, up to 1 minute
+___ 
+You whisper the magic words, and a cold light emanates from your hands. A freezing cloud materializes 40 feet above the target, raining down shards of ice and heavy snow, dealing 4d6 points of damage in the area for every round of channeling. The damage is half cold, and half slashing damage, with an Agility saving throw to half damage. Creatures that fail their saving throw are also chilled for one round.
+
+The heavy snow and hail obscures all sight, including darkvision, beyond 5 feet. The cloud can deal damage to creatures flying under it as well, and imposes the same obscuration to sight to creatures below the cloud. As a bonus action, you can move the cloud that calls down the blizzard up to 30 feet.
+___
+**Heightened.** Per level above 3rd, add one dice of damage per every spell level above 3rd level.
+
+#### Bloodlust [level 3]
+*Transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a drop of dried blood or sand)
+- **Duration:** Channeling, up to 1 minute
+___ 
+Choose a willing creature you can see within range. Until the spell ends, the target is immune to fear, has +2 to AC, advantage on Agility saving throws, and can make an additional action on each of its turns, and gains temporary hit points equal to your spellcasting modifier.
+
+This action can only be used for the attack (one weapon attack only), Dash, Disengage, Hide, or Use Object action. When the spell ends, the target can’t move or take actions until after its next turn. This extra action does not stack with similar abilities granting extra actions.
+
+#### Brilliance Aura [level 4]
+*Abjuration [aura]*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 15- foot-radius sphere, centered on you
+- **Components:** V, S
+- **Duration:** Concentration (partial), up to 10 minutes
+___ 
+A pulsing aura of cerulean power radiates from you in an aura with a 15-foot radius centered on you. For the duration of the aura, you can designate any two creatures in range to augment their spellcasting. So long as the creatures are both friendly and within range, the mana spell cost for all their spells is reduced by 2 (minimum 1).
+___
+**Heightened.** For every spell level above 4th, you may benefit an additional creature. At spell level 8, the mana cost is reduced by 4 points instead (minimum 1).
+
+#### Essence Seal [level 2]
+*Abjuration [ritual]*
+___
+- **Casting Time:** 10 minutes
+- **Range:** Touch
+- **Components:** V, S, M (Focus crystal that costs 25 gp per spell level)
+- **Duration:** 10 minutes or until discharged
+___ 
+You draw an essence-capturing magic circle or seal and designate a single creature type.
+
+If a creature from the type you designated is reduced to 0 hit points within 10 feet of the seal (or any surface you inscribe it upon), they must succeed on a Spirit saving  throw or else have its essence absorbed into the seal. If the creature’s Challenge Rating (or level) is greater than double
+
+\pagebreakNum
+
+the spell level, they automatically succeed on their saving throw.
+___
+**Sealed Beings.** A being that fails its saving throw has its essence absorbed into the seal. It cannot be revived or resurrected so long as it is trapped, and any creature attempting such effects must succeed on a contested spell attack roll against you. At a successful contested roll, the seal is weakened but not undone. At two successful rolls, the seal is broken and the essence is released. Upon failing two contested rolls (not necessarily consecutive), the singular caster can no longer attempt to undo that particular seal. An immortal creature or a creature that can reform from death (such as demons, liches, or ghosts) that are sealed similarly cannot reform until the seal is broken.
+___
+**Focus.** If the focus crystal is destroyed, the creature’s essence is released. The focus acts as an item with hit points equal to 10 times the spell’s level, and a damage threshold equal to 5. The exorcism spell deals double damage to focus crystals, but only to release the creature imprisoned. Depending on the creature type, the focus crystal has different names.
+___
+**Soul Gem.** This focus crystal holds the essence of a humanoid, giant, beast, fey, monstrosity, plant, or dragon. Soul gems can fuel all soul engines.
+___
+**Elemental Gem.** This focus crystal holds the essence of an elemental. This can fuel soul engines that are associated with the elemental’s same element.
+___
+**Quintessence.** This focus crystal holds the essence of an aberration, fiend, celestial, or undead. Quintessence can be consumed by any creature that is not a construct or an ooze to restore 1d8 hit points (or 1d4 mana points) per Challenge Rating (or level) of the creature. This causes immense supernatural suffering for the creature, and releases it from the focus crystal. If later resurrected, the target requires double the normal amount of rest for resurrection sickness.
+___
+Oozes and constructs cannot be affected by this spell.
+___
+*Special.* If you cast the spell as a ritual, you may augment the seal by spending double the normal mana cost. An augmented seal is more difficult to escape; the target creature type suffers disadvantage to their saving throw, and any attempts to release the essence by contested rolls has disadvantage.
+
+#### Carrion Swarm [level 3]
+*Evocation [sigil]*
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S, M (a corpse or egg of a beetle, spider, or other vermin)
+- **Duration:** Instantaneous, plus 3 rounds
+___ 
+You release a torrent of poisonous spiders, beetles and other vermin from hand to bite and infest your opponents. Each creature in a 20-foot cone must make a Stamina saving throw, or take 3d8 bludgeoning, piercing, and slashing damage on a failed save, or half as much damage on a successful saving throw. Targets who failed the saving throw are also infested by the swarm. Creatures infested by the swarm are considered poisoned, and suffer the primary effect at the start of your turn every round.
+
+Whenever a creature dies while being poisoned by this spell, a carrion beetle is conjured where they once stood (exploding from the corpse). The DM has the carrion beetle’s statistics. A creature can end the infestation on itself by spending an action.
+___
+**Heightened.** The damage increases by one dice per every spell level above 3rd.
+Special. If you are a corporeal undead, you may target one infested creature that is suffering under this spell, and transfer some of their lost life force to you. You regain hit points equal to one-half the damage dealt by the spell in that round.
+
+#### Chaos Bolt [level 1]
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___ 
+You throw a greenish-violet bolt of crackling chaotic energies. Make a ranged spell attack against a target within range. Targets struck by this bolt suffer 2d8 fel damage.
+
+If the target is already subjected to an active sigil spell, they suffer extra fel damage for every sigil effect active. This damade is equal to half the original damage dealt by the spell.
+___
+**Heightened.** When cast as a 2nd level spell or higher, the initial damage increases by 2d8 for each spell level above 1st.
+
+#### Charm [level 1]
+*Enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 1 hour
+___ 
+You attempt to charm one creature you can see within range. When preparing this spell, you can choose to preapare the spell to charm your creature type, beasts, or any one creature type your class can bind (see binding under spellcasting).
+
+The target must make a Spirit saving throw, and does so with advantage if you or your companions are fighting it. If it fails it is charmed by you until the spell ends or until you or your companions do something harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends it knows it has been charmed. This only affects the creature type specified by the spell (a Charm Undead cannot also charm a humanoid).
+___
+**Heightened.** When cast as a spell of 2nd level or higher, you can target one additional creature for each spell level above 1st. They must be within 30 ft. of each other when you target them. You can instead choose to target one additional creature type to the charm spell instead (Charm Person at level 2 can be Charm Person and Elementals).
+
+#### Combustion [level 5]
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___ 
+
+\pagebreakNum
+
+You invoke combustion in a target within range. Make a ranged spell attack on a target within range. On a success, the target combusts, suffering 8d8 points of fire damage.
+
+If the target is already subject to an active sigil spell that deals fire damage, you may force the target to suffer a sigil pulrse as if one round passed.
+
+If the target is already burning, they lose the burning condition, and take 10 extra points of fire damage and suffer one level of exhaustion instead. A successful Stamina saving throw halves the extra damage and negates the level of exhaustion. A creature can be subject to exhaustion from this spell once every long rest.
+
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+
+#### Consecration/Desecration [level 2]
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___ 
+You call upon the Holy Light to sanctify an area of a 15-foot sphere. Any creature who is hostile to the Holy Light suffers 2d8 points of holy damage if they are in the area when the spell is cast, or if they end their turn in the area, or if they enter the area (but cannot take the damage more than once per round). If the creature is neutral towards the Holy Light as a doctrine, they take only half damage. If the creature is a fiend or undead, they take half extra damage, and move at half normal speed so long as they are in the area.
+
+Furthermore, for the duration of the spell, the area of effect is treated as hallowed (as per the spell hallow/unhallow, but cannot bind an extra effect to the area).
+___
+**Heightened.** The damage increases by 1d8 per level.
+___
+*Special.* When cast by a Death Knight or a priest that follows the Lich King or demonic forces (such as high-level acolytes), this deals shadow damage instead, targeting those hostile to their faith. The increased effect is dealt to celestials and those who directly channel the Holy Light. This is then called Desecration.
+
+#### Concentration Aura [level 4]
+*Abjuration [aura]*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self (15-foot radius)
+- **Components:** V
+- **Duration:** Concentration (partial), up to 1 hour
+___ 
+A mantle of warm serenity radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. Each allied creature in the area gains advantage on Stamina saving throws to maintain their concentration on spells.
+___
+**Aura Spike.** Causing this aura to spike allows you to add a +4 bonus to a Stamina saving throw to maintain a spell to any allied creature in the aura (including yourself).
+___
+**Heightened.** If this spell is cast as a 5th level spell, the bonus to the Stamina saving throw is a +5 bonus instead.
+___
+*Note.* This spell suppresses and is suppressed by the distraction aura spell.
+
+\columnbreak
+
+#### Conjure [level 1]
+*Conjuration (Transmutation if Constructs or Plants, Necromancy if Undead)*
+___
+- **Casting Time:** 1 minute (or 1 action if creature is a beast, fey, or plant)
+- **Range:** 30 feet
+- **Components:** V, S, M (a focus related to the creature, or an object of specific rarity).
+- **Duration:** Concentration, up to 1 hour
+___ 
+When preparing this spell, you must choose a specific creature type tied to your spellcasting list (see Conjuring and Binding under your class’s spellcasting entry). You can conjure a creature of that type when casting this spell.
+___
+Choose one of the following options when preparing this spell:
+* One creature of Challenge 1/2 (or one half the spell's level)
+* Two creatures of Challenge 1/4 (or one quarter the spell's level)
+* Four creatures of Challenge 1/8 (or the spell's level divided by 8)
+___
+**Specialized Preparation.** If you prepare the spell to conjure a specific creature (such as conjure imp instead of conjure fiends), you may double the maximum CR you can conjure. For instance, a 1st level mage preparing his spells may choose to either prepare conjure elemental or conjure minor water elemental. If the former, he can conjure any elemental of CR 1/2 or lower. If the latter, he can conjure a Minor Water Elemental (CR 1).
+
+After casting the prepared spell, the creature manifests in an unoccupied space you can see within range, and is friendly to you and your companions for the duration. Roll initiative for the creature, which has its own turns. The creature can telepathically understand any command, and will execute them (no action required by you), so long as it doesn't violate its alignment or nature.
+
+If you don’t issue any commands to the creature, it defends itself from hostile creatures but otherwise takes no actions. The telepathy only functions if you maintain line of sight to the creature or if you remain within 100 feet.
+
+A conjured creature is dimensionally unstable, and cannot conjure or summon others (including via abilities such as the Shadow’s ability to spawn new shadows) even if they have spells that normally allow them to. Despite them obeying their conjurer’s commands, they take their own actions and are controlled by the DM when not given specific instructions (such as which spells or ability to use, etc.).
+
+Once the duration of the spell ends, if creature is reduced to 0 hit points, or if the creature is forcefully dismissed (see below), the magic dissipates, ending all the spell’s effects. If the focus was an object (such as a couch targeted with animate constructs), it resumes the object’s original purpose.
+
+If you cease concentrating on this spell or if your concentration breaks before the duration ends, the creature (or creatures) becomes independent in its actions, and is controlled by the DM. Typically this means that undead and elementals rampage and attack without discrimination; constructs and plants act like the objects of their focus; fey and animals defend themselves and seek refuge; and celestials and fiends promote their far-reaching aims. You may attempt to forcefully dismiss the conjured creature.
+
+If you attempt to cast this spell again while an wild conjured creature has not yet been dismissed, the conjured
+
+\pagebreakNum
+
+creature must attempt a Charisma saving throw against your spell save DC (as if you spent an action to dismiss an unwilling summoned creature).
+___
+**Forceful Dismissal.** You may use an Action to dismiss a conjured creature. The creature may choose to resist being dismissed (such as if it enjoys combat or is acting according to its nature), in which case they must attempt a Charisma saving throw against your spell save DC. If it fails the saving throw, it is forcefully dismissed and sent away to its original realm. If it succeeds, it is no longer friendly to you nor your companions, and no longer is compelled to obey your orders (although it retains the telepathic link, unless it is bound by another spellcaster). If you fail to dismiss a creature, you can only attempt it again by casting the conjure spell again to specifically dismiss the creature.
+
+A conjure spell remains until the duration of the spell ends or until the creature is defeated or forcefully dismissed. If the spell ends this way, the creature(s) all disappear at once.
+___
+**Heightened.** The maximum Challenge of conjured creatures increase, equal to one-half the spell’s level. This either allows you to conjure stronger creatures of the same type, or more creatures of the same CR.
+___
+**Material Component.** The spell requires a material component or focus that is related to the conjured creature. A celestial may require a page from a holy book, a fire elemental may require burning incense, and a focus for the magic is required with undead, constructs, and plants of similar size (corpses or disembodied limbs, tables or chairs, and trees or bushes, respectively). The DM describes the required material component for spells that conjure specific creatures.
+___
+*Note.* The conjured creature is not an actual creature, but is more a spell construct animated by the creature's personality (formed of magic, ectoplasm, or temporarily bonded to the realm). Killing it does not reward XP or hurt it in any real way. If you wish to conjure a permanent and 'real' ally, see the bind spell. If choosing a focus material for a construct, it must not bound to anything (such as nailed to a wall), not be harder than iron, nor be sophisticated in design (cannot be a gadget or vehicle).
+
+#### Conjure Elemental Totem [level 3]
+*Abjuration [array, totem]*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___ 
+Once you place this totem, you may conjure an elemental within 5 feet of the totem. This acts as the 1st level Conjure spell, where the totem does the concentration. You must make the decisions on the type of creature when preparing this spell. This totem otherwise functions as all other totem spells and the Conjure.
+___
+**Heightened.** The Challenge of the elemental increases described under the Conjure spell.
+
+#### Conjure Strike [level 1]
+*Conjuration (Transmutation if Constructs or Plants, Necromancy if Undead) [Strike]*
+___
+- **Casting Time:** Special (see description)
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, up to 1 minute (riding effects)
+___ 
+Preparing this spell requires that you also prepare the conjure spell. By casting this spell, you allow the conjured creature to make one attack it can make. The action used by the creature to make the attack is the casting time of this spell.
+
+The creature does not fully manifest for this purpose, but lands its hit and fades away (such as appearing in a spectral version, and landing a slash or sword attack). The attack must be within 30 ft. or its original range (whichever you wish), and requires an attack roll by the creature or a saving throw by the targets (whichever is applicable).
+
+The creature cannot use an ability that summons other creatures, but can otherwise use spell and spell-like abilities (such as a fire breath or a healing spell). If the action done by the creature is limited in times it can be used (such as once/rest or expends mana), you retain the same limitations when you use this spell again, until the creature rests as normal.
+
+The manifestation can be attacked, but does not occupy a space (and can share the space of another creature).
+
+If the action done by the creature has a duration (such as casting a spell), it fades after 1 minute, regardless of its original duration.
+___
+**Heightened.** This spell must be heightened to the same level of the conjure spell used.
+
+#### Corpse Explosion [level 2]
+*Necromancy*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 30 feet
+- **Components:** S
+- **Duration:** Instantaneous
+___ 
+You suffuse a nearby corpse or an undead creature that serves you (conjured, but not bonded) with unholy energies, filling it with so much corruption that it explodes in a 10-foot radius sphere. Creatures in the affected area can make an Agility saving throw. On a failed saving throw, they take 4d8 damage and are poisoned for one minute. The damage is half poison, and half shadow. On a successful saving throw, they take half damage and are not poisoned.
+
+An exploded corpse is desecrated and difficult to raise or animate, and requires that they be healed up to half the damage dealt by corpse explosion. A corpse cannot be targeted more than once with the same spell.
+___
+**Heightened.** You may deal an additional 2d6 damage per every spell level above 2nd.
+
+Counter Shot [level 1]
+Transmutation [shot]
+Casting Time: 1 reaction
+Range: Maximum range of ranged weapon
+Components: S, M (ranged weapon)
+Duration: Instantaneous
+Reaction. A creature within range targets you with a ranged attack or casts a spell during their turn.
+Make a ranged weapon attack roll against the creature that provoked the counter shot. If the targeted creature was casting a spell, the DC to concentrate on their spell is increased by 5 points from its normal DC.
+Note. Unlike most shot and strike spells, this does not cost a bonus action, and costs a reaction instead.
+
+Cripple [level 5]
+Necromancy
+Casting Time: 1 action
+Range: 60 feet.
+Components: V, S
+Duration: Concentration, up to 1 minute.
+You cripple any living target within range. Make a ranged spell attack. On a success, the target takes -2 to AC and to Agility saving throws, can’t use its reactions, and may make either an action or a bonus action every turn (not both). Regardless of the creature’s abilities, it may only make one melee or ranged attack on its turn, and they deal only half damage with weapon attacks that use Strength or Agility.
+If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. At the end of each of the target’s turns, it can make a Stamina saving throw against the spell. On a success, the spell ends.
+
+Curse of Agony [level 2]
+Necromancy [sigil] [curse]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You curse one living target within range with searing agony, setting their nervous system ablaze. Make a ranged spell attack against the target. On a hit, the target suffers 2d4 fel damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target is treated as if they gained a level of exhaustion for one round (even if they are normally immune to the condition, except if they are immune and are also constructs or undead) until the beginning of their turn in the next round.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per every level above 2nd.
+Special. Whenever the sigil roll succeeds, the target takes 1d4 additional damage the next round, up to 50% extra damage dice.
+
+Crusader Aura [level 3]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: 1 hour
+Invigorating energies radiate from you in an aura with a 15-foot radius centered on you. All allied creatures within the aura’s range increase their movement speed by 10 feet, and are automatically stabilized when reduced to 0 hit points.
+Aura Spike. Causing this aura to spike allows you designate any number of creatures in your aura that have been reduced to 0 hit points and stabilized, and heal them all 1 hit point. This healing does not affect undead or constructs.
+Note. This spell suppresses and is suppressed by the unholy aura spell.
+
+Curse of Shadows [level 5]
+Necromancy [curse]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Upon casting this spell, you must succeed on a ranged touch attack to affect a target within range. On a successful hit, you may curse them with the inability to quickly heal. The target receives only half (-50%) the normal amount of healing from spells and effects that restore hit points. This includes regeneration and similar effects, doubling the duration between healing (alternatively, halving the healing gained).
+Alternatively, this spell can weaken the target’s mana restoration, affecting mana points instead.
+
+Curse of Tongues [level 3]
+Necromancy [curse]
+Casting time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: 1 hour
+You target one target within range with the curse of tongues, stealing their voice and causing them to speak in no other language than the dark tongue of Eredun. On a failed Spirit saving throw, the target is cursed, causing them to speak only Eredun.
+Any spell that has a verbal component requires double the normal time to cast. If the target is a good-aligned character, they take 1 point of Psychic damage whenever they speak Eredun. This damage is inflicted once per round of speech.
+Special. Due to the effect being temporary, there is no risk of losing Spirit points by being forced to speak in Eredun. Creatures that can speak uncorrupted Eredun are immune to the effects of this spell.
+
+Curse of Weakness [level 3]
+Necromancy [curse]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+Upon casting this spell, you must succeed on a ranged touch attack to affect a target. On a successful hit, you may curse them with weakness. The target deals only half damage with weapon and spells attacks. Indirect damage such as sigils, bleeding effects, and other abilities are unaffected.
+
+Cyclone [level 3]
+Evocation
+Casting Time: 1 action
+Range: 60 feet, in a 10-feet-wide, 30-foot-high cylinder.
+Components: V, S
+Duration: Concentration, up to 1 minute
+You target one creature in the area to be affected by a powerful cyclone of rising winds. The creature, once affected, is entitled an Agility saving throw to be unaffected and be moved out of the cylinder radius (to any direction chosen). If the character cannot move away, it is affected regardless, but takes half damage from any falls or cyclone damage.
+The creature targeted rises vertically so long as you are concentrating on the spell, and remains in the middle of the cyclone (15 feet in the air). At the end of each round, the creature may make another Agility saving throw to escape the cyclone, falling out of it and halving fall damage. The creature cannot otherwise move away, unless they can fly and succeed in an Acrobatics check against your spell DC, or manage to latch onto a nearby surface and succeed on an Athletics check. If they attempt to cast spells, they are treated as if distracted, and all attacks made by them are made with concealment from the winds. Only one creature can be held by the cyclone at any given time.
+You may use your action to drop the original target creature and lift another one, or to toss the creature.
+Dropping a Creature. Dropping a creature forces the original target to suffer fall damage from its midair height (15 feet for medium creatures, or 1d6 fall damage) and subjects another within the cyclone’s area of effect to being lifted by the cyclone.
+Tossing a Creature. Tossing a creature with cyclone’s full power raises them to the maximum height (30 feet for medium creatures) and drops them from that height to any area within 15 feet away. A successful Agility saving throw when hurled halves the fall damage and drops the creature at any chosen point between the target area and the cyclone’s area.
+As a bonus action, you can move the cyclone up to 30 feet.
+Special. Depending on the creature’s size, the cyclone’s strength is affected.
+Using an action to toss the target instead doubles their midair height (to the maximum height allowed by the spell) for every action spent.
+For example, small and tiny creatures are lifted 20 and 30 feet into the air once caught by the cyclone, respectively, while large creatures are only lifted 10 feet. If tossing a tiny creature, it is sent instantaneously, while a large creature needs an additional round to toss them 30 feet away (one round to elevate them to 20 feet, and another to elevate them to 30 and toss them).
+
+Size		Midair Height
+Tiny		30
+Small		20
+Medium	15
+Large		10
+Huge		5
+
+Heightened. You may target another creature in your cyclone effect and increase the midair height by 5 feet per every two spell levels above 3rd. All creatures must be at least 10 feet within reach of one another to be affected in an ongoing cyclone effect. Tossing or dropping a creature requires an action for each target.
+
+Dark Void [level 6]
+Evocation [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+You conjure a minor gateway to the Twisting Nether that spews corruptive energy and harvests the weak of body. When you cast this spell, you may use a reaction for it to cast shadow word pain on up to three targets. At the start of the totem’s turn, if there are less than three targets affected by shadow word pain, the totem casts it again. If the totem causes a target to be bloodied by the spell, the totem instead casts shadow word death spell on the target, removing the shadow word pain sigil.
+If a creature dies under the effects shadow word death, you or one target of your choice within 30 feet regain 1d6 hit points.
+Heightened. For each level the spell is heightened above 6th, both shadow word pain and shadow word death spells are heightened for one level.
+
+Death and Decay [level 5]
+Necromancy [channel]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a dead rose)
+Duration: Channeling, up to 1 minute
+Negative energy infuses a 15-foot radius sphere. Living creatures age rapidly, as skin sags and flesh sloughs off bones. Structures wither and collapse, suffering the effects of decades within seconds.
+All living creatures and structures in the area take 6d6 points of shadow damage per round of channeling. Each creature can make a Stamina saving throw to half damage dealt. Creatures that fail their saving throw to half damage also have their speed reduced by half.
+The spell deals normal damage to any structure in contact with the ground when the spell is cast, and every round until the spell ends. See Chapter 8: Adventurers for structure damage.
+Heightened. The spell deals an additional 1d6 for every spell level above 5th.
+
+Death Coil [level 1]
+Necromancy [healing]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+Invoking the power of death, you bring the living closer to the end, and invigoration to the unholy or undead. The creature you target regains a number of hit points equal to 1d8 + your spellcasting ability modifier if they are undead or fiends. If you target a living or celestial creature, they take damage equal to the hit points they would normally gain as shadow damage. If you target an unwilling creature, you require a ranged spell attack.
+Constructs gain no effect from this spell.
+Heightened. The healing increases by 1d8 per level above 1st.
+
+Death Nova [level 3]
+Evocation
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Instantaneous
+You release a burst of death a 15-foot radius sphere centered on you. All undead allies are healed 3d4 hit points, while all enemies take 3d4 points of shadow damage.
+Creatures harmed by this spell are entitled a Spirit saving throw to half damage. The aura of death spreads around corners. Celestials and those who directly channel the Holy Light suffer disadvantage to their saving throw.
+Heightened. The spell’s dice increase by 1d4 for each level above 3rd.
+
+Death Pact [level 1]
+Necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You siphon latent soul-magic from an undead or fiendish creature within range to heal yourself. The target (if intelligent) is entitled a Spirit saving throw to negate this effect.
+The target loses 3d6 hit points, which you regain as hit points. The target (if intelligent) is entitled a Spirit saving throw to negate this effect.
+If the creature is reduced to 0 hit points, it is destroyed as normal for its type, and you are affected by the inner fire spell (spell equal to the death pact spell level).
+Instead of regaining hit points, you can cast the spell for no mana at all, and regain 1d4 mana points when draining the power from an undead or fiendish creature.
+Heightened. For each level above 1st, you drain 3d6 additional hit points (and regain the same), or regain 1d4 extra mana points.
+
+Demon Skin [level 1]
+Conjuration
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S, M (grounded tooth dust)
+Duration: 1 hour
+You speak the words of power, and your skin becomes ragged and solid.
+Your base AC becomes 13 + you Agility modifier, and you gain 3 temporary hit points for the duration of the spell. So long you have at least 1 temporary hit point, you have vulnerability against holy damage.
+The spell ends if you dismiss the spell as an action.
+Heightened. When you cast this spell as a 2nd level spell or higher, the temporary hit points increase by 3 for each spell level above 1st.
+
+Demonic Doom [level 9]
+Conjuration [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You curse the target with a terrible fate as fel-fire begins to burn them from the inside-out. Make a ranged spell attack against any target within range. The target suffers 9d6 fel damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+If a creature is reduced to 0 hit points, this sigil does not end. If the creature dies while still under the effects of demonic doom, and if it has a CR higher than 2, its corpse is destroyed, and a column of fire appears, dealing 9d6 points of fel damage to all targets in a 10-foot radius sphere centered on the corpse. A Doomguard Champion is conjured on the spot, and it remains for a minute. The DM has the Doomguard's statistics. The Doomguard starts uncontrolled, requiring the charm fiends or dominate fiends spell to control. The DM has the Doomguard's statistics.
+
+Denounce [level 2]
+Abjuration
+Casting Time: 1 reaction
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Reaction. A creature within range is hit with a critical hit
+You may cast this spell as a reaction against any creature hit with a critical hit. Make a ranged spell attack against the attacker. On a success, their hit then is no longer a critical hit.
+Heightened. If heightened to 4th level, you have advantage on the required spell attack.
+
+Detonate Mana [level 4]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You target an area with a 10-foot sphere of black-purple anti-magic. Where the sphere explodes, all creatures that can use mana lose 1d4 + 1 mana points, and take 2 arcane damage for every mana point lost.
+If the creature loses more than 3 mana points this way, they are subjected to a dispel magic effect (spell level equal to the Detonate Mana spell level – 2).
+Heightened. The number of mana points drained increases by 1d4 points per every two levels above 4 (2d4 + 1 at level 6).
+Special: Demons always have active mana, and can always be targeted with mana burn. If they have no mana, they still take 2 points of arcane damage per potential mana burn point.
+
+Devotion Aura [level 1]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: 1 hour
+Protective energies radiate from you in an aura with a 15-foot radius centered on you. All allied creatures in the area suffer 2 less points of weapon damage (to a minimum of 1 point of damage).
+A hostile creature attacking your allied creature can attempt a Spirit saving throw against your aura DC. If they succeed on the saving throw, the damage from their attacks is not reduced by this spell.
+This spell is suppressed by the protection from good and evil (and similar abjurations). This is an aura bonus.
+Heightened. For each spell level above 1st, allied creatures in the aura’s area of effect take 1 less point of damage (up to 6 less points of damage at spell level 5).
+Note. This spell suppresses and is suppressed by the abandonment aura spell.
+
+Distraction Aura [level 4]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 hour
+An unnatural deathly buzz radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. Each hostile creature in the area suffer disadvantage on Stamina saving throws to maintain their concentration on spells. A creature can negate this effect if they succeed on a Spirit saving throw once within the aura’s area.
+Aura Spike. Causing this aura to spike forces a single hostile creature in the aura that already failed the saving throw to act as if they were distracted for the purposes of spellcasting.  
+Note. This spell suppresses and is suppressed by the concentration aura spell.
+
+Divine Shield [level 2]
+Abjuration
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Concentration, up to 1 minute
+You raise your hand, and are protected by the grace of the Holy Light. A powerful shielding ward protects you, granting you 4d8 temporary hit points so long as the spell is active. Furthermore, the temporary hit points can also be spent to absorb spells (3 hit points per spell level).
+If the shield manages to absorb all damage from an effect or absorb a spell, you are protected against any secondary effects (as if immune). This can be determined after a saving throw.
+The spell cannot be overwhelmed with one attack. If reduced to 0 temporary hit points with one attack, the spell ends with 1 hit point instead. This can occur only once for every instance of the spell being cast.
+Heightened. For every spell level above 2nd, the number of temporary hit points increases by 2d8.
+
+Dominate [level 5]
+Enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You attempt to beguile a creature you can see within range. When preparing this spell, you can choose to be able to dominate humanoids, beasts, or one creature type your class can bind (see binding under spellcasting).
+It must succeed on a Spirit saving throw or be dominated by you for the duration (as Charm). If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
+While the target is dominated, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as attack that creature, run over there, or fetch that object. If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
+You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+Each time the target takes damage, it makes a new Spirit saving throw against the spell. If the saving throw succeeds, the spell ends. This only affects the creature type specified by the spell (a Dominate Undead cannot also dominate a humanoid).
+Special: If choosing to affect beasts only, the spell’s level is decreased to 4th level instead, as their minds are more malleable.
+Heightened. When you heighten this to a 6th-level spell, the maximum duration becomes 10 minutes. This increases to 1 hour to 8 hours as 7th and 8th spells, respectively.
+For each spell level the dominate spell is heightened, you can add one additional creature type to the dominate spell (level 6 dominate can dominate humanoids, elementals, or undead for up to 10 minutes).
+
+Drain Life [level 4]
+Necromancy [channel]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Channeling, up to 1 minute
+You can siphon life force from others to heal your wounds by tethering their life-force to yours, causing a stream of life-force to surge. Make a spell attack against a creature within 60 feet. On a hit, the target takes 4d4 fel damage, and you regain hit points equal to half the amount of fel damage dealt. If the target is Bloodied, the spell deals (and heals) double damage.
+The stream of life may be blocked by losing line of sight or effect, or moving at least 60 feet away from the target, at which case the spell is dispelled. Medium creatures or smaller cannot block the stream, but Large creatures generally do, as well as anything that blocks magical vision or effect (such as a sheet of lead, etc.).
+Heightened. When you cast this spell as a 5th level spell or higher, the damage increases by 1d4 for each spell level above 4th.
+
+Drain Mana [level 4]
+Necromancy [channel]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Channeling, up to 1 minute
+You shoot your hand forward, and drain mana from your target, drawing it out from their eyes, nose, and mouth in blue rope-like streams.
+The target of this spell loses 2d4 mana points every round, while you gain half the mana taken. The stream may be blocked by losing line of sight or effect (as Drain Life), at which case the spell is dispelled. Creatures the caster’s size or smaller cannot block the stream, but creatures larger than they generally do. Mana restored this way cannot exceed your maximum mana points.
+You may also use this to push a number of your own mana points at the same rate. Unlike most mana-restorative effects, drain mana has no limit of once per hour.
+Heightened. You increase the mana stolen by 1d4 mana points for every two spell levels heightened (and mana regained, as appropriate).
+
+Earthbind Totem [level 4]
+Evocation [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, you may use a reaction to target any creature within 90 feet of it with the effect of Earthbind, as the spell of the same name. The totem automatically concentrates on any target you choose.
+This totem otherwise functions as all other totem spells.
+
+Earthquake [Level 5]
+Evocation
+Casting Time: 1 action
+Range: 100 feet
+Components: V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
+Duration: Concentration, up to 1 minute
+You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 30-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
+The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Stamina saving throw. On a failed save, the creature’s concentration is broken. When you cast this spell, and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make an Agility saving throw. On a failed save, the creature is knocked prone. This spell can have additional effects depending on the terrain in the area, as determined by the DM.
+Fissures. Fissures open throughout the spell’s area at the start of your next turn after you cast the spell. A total of 1d6 such fissures open in locations chosen by the DM.
+Each is 10 feet deep, 5 feet wide, and 20 feet tall. A creature standing on a spot where a fissure opens must succeed on a Agility saving throw or fall in. A creature that successfully saves moves with the fissure’s edge as it opens. A fissure that opens beneath a structure deals 10 points of damage to it (see structures below). Depending on the geological presence under the earth, the fissure can act differently, but in all cases, the fissures close at the end of the spell:
+Fissures: Volcanic. If the fissure is over a volcanically-active region (as adjudicated by the DM), the fissures shoot out lava instead of opening cracks in the earth. The fissures instead create a shallow pool of rapidly-cooling lava that deals 2d10 points of fire damage at the beginning of the creature’s turn every round.
+Fissures: Geysers. If the fissure is over a geyser-active region (as adjudicated by the DM), the fissures shoot out hot water instead of opening cracks in the earth.
+Fissures: Underground Water. If the fissure is over underground water reservoirs, the fissures reveal water instead if the depth of the fissure reaches it, and it arises to fill the fissure itself. On average, most underground water is 50 feet deep, but it sometimes reaches more (up to 100 feet) in arid regions.
+Structures. The tremor deals 10 bludgeoning damage to any structure in contact with a fissure opened by the spell and at the start of each of your turns until the spell ends, regardless of environment (although lava deals extra damage). This stacks with the damage the structure would take if a fissure opens beneath it. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures.
+A creature within half the distance of a structure’s height must make a Agility saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
+Heightened. When cast as an 8th level spell, the range of the spell increases to 500 feet, and the radius of the spell becomes a 100-foot-radius circle.
+The depth of the fissures created by the spell become 1d10 x 10 feet deep, and their area becomes 10 feet wide. Furthermore, the fissures extend from one edge of the spell’s area to the opposite side, instead of being 20 feet tall. A fissure that opens beneath a structure causes it to automatically collapse. The tremor also deals 50 damage per round until the spell ends, instead of 10. A lava fissure’s area expands to the entire area instead.
+
+Earth Shield [level 2]
+Transmutation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You conjure a shield of earth to guard and protect a creature within range. The target gains 2d4 temporary hit points.  The sigil pulses at the start of your turn every round, replenishing the temporary hit points.
+Also, so long as this sigil is active, the target also gains a +2 bonus to their AC.
+Heightened. For each spell level above 2nd, you add 1d4 extra temporary hit points.
+
+Elemental Armor [level 1]
+Abjuration [array]
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (an object struck by the element)
+Duration: 1 hour
+A protective magical field surrounds you, manifesting as a spectral element. You gain 5 temporary hit points for the duration of the spell. If a creature hits you with a weapon or spell attack while these hit points remain, they may manifest one of the following effects, depending on whether the element is Fire, Frost, or Lightning.
+All. The attacker takes 1 point of elemental per point of damage they deal (maximum equal to the remaining temporary hit points). The target must be within melee reach.
+All. You may gain resistance against the damage (only if the armor’s element matches the damaging element). This reduces the temporary hit points by 5.
+Frost or Lightning only: The target is chilled for one round.
+Fire only: Target is scorched for one round.
+Heightened. The temporary hit points increase by 5 for every level above 1st.
+
+Elemental Shock [level 1]
+Evocation [array]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 1 round
+Make a spell attack roll at a target within range. You blast the target with a burst of elemental energy, dealing 2d8 damage from any of elemental damage type you choose (chosen from acid, cold, fire, or lightning). Furthermore, depending on the damage type you choose, the target also suffers a secondary effect if they fail a Stamina saving throw.
+Earth (acid). The target is pushed 10 feet in any direction you choose.
+Fire (fire). The target is scorched for until the beginning of your turn in the next round.
+Frost (cold). The target is chilled for until the beginning of your turn in the next round.
+Storm (lightning). The target takes disadvantage to attack rolls until the beginning of your turn in the next round.
+Heightened. The initial damage increases by 2d8 per level above 1st.
+Special. This spell costs one less mana point than normal for its spell level.
+
+Elemental Shock Totem [level 3]
+Abjuration [array, totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, you may use a reaction to target any creature within 30 feet of it with a blast of elemental energy, as the spell elemental shock.
+This totem otherwise functions as all other totem spells.
+Special. This spell costs one less mana point than normal for its spell level.
+
+Elemental Tongue [level 1]
+Evocation [strike]
+Range: Self
+Components: V, S
+Duration: 1 minute, or one use (whichever comes first)
+You may apply this strike to any melee weapon attack. This deals additional 2d6 damage, chosen from any type of elemental damage you choose when you cast the spell. This deals an additional effect as elemental shock.
+Heightened. You deal an additional 1d6 elemental damage or one additional use from any of the above elements per level above 1st.
+
+Entangling Roots [level 1]
+Conjuration
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+By targeting one creature within range, you sprout thorny vines and weeds that constrict on them. The creature must succeed on a Strength saving throw or else be restrained by the entangling weeds so long as you concentrate. While the creature is restrained, they take 1d4 damage every round (the type is either piercing, slashing, or bludgeoning).
+They may use an action every round to make a Strength check against your DC again. On a success, it frees itself, and the plants wilt away.
+Heightened. The damage dealt increases by 1d4 per level above 1st and can entangle another creature within 5 feet.
+
+Exorcism [level 2]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You call upon the Holy Light (or forcefully draw out fel or shadow magic) to harm fiends or undead. Make a ranged spell attack. If the target is a fiend or undead, they take 4d10 holy damage.
+If the target is a creature under a possession or possession spell by an undead or fiend, only the possessing creature takes the damage, and the victim may re-roll against the possession effect with advantage.
+If the target is charmed or dominated by an undead or fiend, or is a conjured or bound undead, the target creature may (instead of being damaged) have the spell dispelled if it is of a spell level 2nd or lower. If higher, you must succeed on a spellcasting ability check against a DC of 10 + spell level.
+Alternatively, if the target is an unrestrained conjured creature, the exorcism spell can send it back to its origin plane if the target fails a Charisma saving throw. If it succeeds, you may still deal damage to it on a successful spell attack.
+Heightened. The damage increases by 2d10 for each spell level above 2nd.
+
+Explosion [level 1]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (empty egg shell)
+Duration: Instantaneous, or up to 3 rounds
+You draw power into the material, and then release it to explode either instantaneously or delayed for up to three rounds. This explosion deals 2d6 concussive damage in a 10-foot radius sphere and knocks them prone. If a creature passes an Agility saving throw, they take only half damage and are not knocked prone.
+The explosion also releases a splash of damage beyond the explosive’s area, dealing 2 point of damage of the same type 5 feet away from the blast. A successful Agility saving throw against this effect negates the damage entirely.
+Heightened. For each level above 1st, you add an additional 1d6 damage (and one additional point of splash damage).
+Special. When preparing the spell, you can instead make the explosion deal fire, cold, lightning, or acid damage.
+
+Fade [level 1]
+Illusion
+Casting Time: 1 action
+Range: Touch
+Components: S
+Duration: Concentration, up to 1 minute
+A creature you touch camouflages with its surroundings. At the start of the creature’s turn, and before it moves, the target can Hide, even when directly observed. If the creature moves, casts a spell, or attacks, it must attempt to Hide again.
+
+Fear Ward [level 1]
+Abjuration [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, it emits an aura with a reaction. This aura spreads in a 15-foot pulse, granting all allies advantages to saving throws versus fear effects.
+
+Fire Nova [level 3]
+Evocation
+Casting Time: 1 action
+Range: Personal (self)
+Components: V, S
+Duration: Instantaneous
+You release a burst of flame in the area, creating a burning sphere centered on you, igniting the very air around you. Any creature within a 20-foot radius sphere suffer 8d6 fire damage, and are entitled an Agility saving throw to half damage. The heat spreads around corners. You may exclude a number of potential targets from being affected by the spell equal to your spellcasting ability score modifier. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save. This stacks with similar features.
+Also, if a target struck by this spell has been harmed by the elemental shock (fire) or fire bolt spells and failed their saving throw to half damage, they take extra damage equal to the spell level on the start of their round, and are scorched for one round.
+Heightened. When you cast this spell as 4th level spell or higher, the initial damage increases by 1d6 per spell level above 3rd.
+
+Fire Nova Totem [level 5]
+Evocation [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, you may use a reaction to have it release the effects of a 3rd level fire nova, as the spell of the same name. Neither you nor your totems can be harmed by this ability.
+
+Flare [level 2]
+Evocation
+Casting Time: 1 action
+Range: Maximum range of ranged weapon
+Components: V, S, M (ranged weapon)
+Duration: 1 minute
+You shoot a blazing projectile that arcs through the air, to any point within range. the projectile sheds medium light for its active duration, removing most conditions that allow a creature to hide and revealing what is in the location (such as darkness or light mist). This spell dispels a 10-foot cube of fog or mist (or attempts to as dispel magic, if a fog cloud spell is at its level or higher).
+
+Flash of Light [level 1]
+Evocation [healing]
+Casting Time: 1 reaction or bonus action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Reaction. A creature in range is hit with an attack, or an undead or fiend moves within range.
+A creature of your choice that you can see is healed 1d4 + your spellcasting modifier. If the target is an undead or fiendish creature, the target takes the damage specified as holy damage. This has no effect on constructs.
+If you target an unwilling creature, you require a ranged spell attack.
+Heightened. The healing increases by 1d4 for each level above 1st.
+
+Flash of Shadow [level 1]
+Evocation [healing]
+Casting Time: 1 reaction or bonus action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+Reaction. A creature in range is hit with an attack, or a living creature moves within range.
+A creature of your choice that you can see is healed 1d4 + your spellcasting modifier if it is an undead or fiend. If the target is a living or celestial creature, the target takes the damage specified as shadow damage. This has no effect on constructs.
+If you target an unwilling creature, you require a ranged spell attack.
+Heightened. The healing increases by 1d4 for each level above 1st.
+
+Freezing Sphere [level 2]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (small crystal sphere)
+Duration: Instantaneous, or up to 1 minute.
+You create a frigid globe of transparent blue ice brimming with elemental energies. Once you cast this spell, you can retain the globe or throw it up to the range of the spell, causing it to explode in a 10-foot radius sphere. The explosion releases a burst of numbing cold. All creatures in the area must succeed on a Stamina saving throw or take 4d8 cold damage in the area on a failed saving throw, or half the normal amount passing the save. If the globe strikes a body of water or a liquid with similar freezing points, the spell freezes the liquid within its active radius to a depth of 6 inches for 1 minute. Creatures that were swimming or that were in the water at the moment must succeed on an additional Strength saving throw as an action versus your spell DC or be restrained.
+You can throw the sphere further than the spell's normal range by retaining it and releasing it via a sling with an attack action (up to the sling's normal range). After 1 minute of being conjured, the sphere shatters.
+Heightened. When cast as a 3rd level spell, the damage increases by 2d8 per level above 3rd. When heightened to 4th level, the range increases to 100 feet, and the radius increases to 20 feet. When heightened to 6th level, the range increases to 300 feet, and the radius increases to 30 feet. When heightened to 8th level, the range increases to 400 feet, and the radius increases to 40 feet.
+Special. The spell can freeze damaging surfaces (such as fires and liquids) that deal less damage on average than the spell itself. Since lava deals 20d6 points of fire damage (average 70), only a level 8 Freezing Sphere (average 72) can freeze a surface of lava.
+
+Frost Bolt [Level 0]
+Evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You use your action to fire a bolt of frost at a creature you can see. Make a ranged spell attack. On hit, the target takes 1d8 cold damage, and is chilled for 1 round.
+The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+Frost Nova [level 3]
+Evocation
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S, M (drop of water)
+Duration: Instantaneous
+You release a burst of frost in the area, creating a freezing blast centered on the point you specify in range. Any creature within a 20-foot radius sphere suffer 8d6 cold damage and the chilled condition, and are entitled an Agility saving throw to half damage (a successful save negates the condition). The cold spreads around corners.
+Heightened. The damage increases by 1d6 for each level above 3rd.
+
+Frostfire Bolt [level 1]
+Evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You shoot a bolt of blue fire and red ice at a single enemy within range. Make a ranged spell attack, and on a success, the target takes 2d6 damage. The damage is half fire, and half cold. The target is also chilled for three rounds.
+Heightened. The damage increases by 1d6 fire and 1d6 frost each.
+
+Globe of Invulnerability [level 4]
+Abjuration
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a glass or crystal bead that shatters when the spell ends)
+Duration: Concentration, up to 1 minute
+An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.
+Any spell of 3rd level or lower cast from outside the barrier can't affect creatures or objects within it, unless the spell higher leveled.
+Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
+Heightened. When you cast this spell as a spell of 5th level or higher, the barrier blocks spells of one level higher for each spell level above 4th.
+
+Hammer of Justice [level 2]
+Evocation [strike]
+Range: Self
+Components: V
+Duration: 1 minute, or two uses (whichever comes first)
+You may apply this strike to any melee weapon attack. On a successful attack roll, the target of this ability must succeed on a Stamina saving throw or else be stunned until the beginning of your turn in the next round. A target cannot be affected by this ability more than twice in a span of 3 turns.
+
+Hammer of Wrath [level 2]
+Evocation
+Casting Time: 1 reaction
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+Reaction. A creature within range is Bloodied
+Make a melee weapon attack roll against a creature within 60 feet as if they were in melee range. A spectral version of your weapon flies ahead and strikes the foe at a distance, dealing damage equal to your normal melee attack, plus an additional 2d8 thunder damage.
+Heightened. The extra thunder damage increases by 1d8 for each level above 2nd.
+
+Hallow/Unhallow [level 5]
+Evocation
+Casting time: 24 hours
+Range: Touch
+Components: V, S, M (500 gp in oils and incense, which the spell consumes)
+Duration: Until dispelled
+You touch a point and infuse an area around it with holy (or unholy, ancient, or elemental) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. Depending on your casting class, you can rely on one power. You may repeat a hallowing on another area within the radius of the original hallow, in which case the chained spell costs less materials (375 gp per 60 feet of hallowed ground).
+Druids rely on the power of ancients; priests can rely on holy or unholy power; paladins rely on holy power; death knights rely on unholy power; and shamans rely on elemental power. The affected area is subject to the following effects.
+First, celestials, elementals, fey, fiends, or undead (chosen by the caster) can’t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect. If such barred creature attempts to enter the area, it must succeed on three Charisma saving throws. If it fails on two saving throws, it cannot attempt re-entry for one week.
+Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the DM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell’s area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
+Bloom (Ancient power only). The area blooms of plant life. It creates materials for herbalism and alchemy (equal to half the material components consumed by the spell), and it can support large trees. This can be even used in hostile environments (such as deserts or in the Outland), but it is more easily dispelled (dispeller gains advantage to dispel).
+Blight (Unholy only). The area is blighted to kill plants and corrupt all life. It loses three-quarters of all herbalism and alchemy materials, and sterilizes the land (as if salted). In a blighted area, undead can rest and restore hit dice normally without using magic or special abilities (such as cannibalism or vampirism). Binding undead in an area of blight costs only one-half the normal cost.
+Blessed (Holy only). The area is blessed to provide all allied creatures with the benefits of the Bless spell (useable up to three times at any given 24 hours).
+Courage. Affected creatures can’t be frightened while in the area from any source.
+Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the level you used to cast this spell, can’t illuminate the area.
+Daylight. Bright light fills the area. Magical darkness created by spells of a lower level than the level you used to cast this spell can’t extinguish the light.
+Energy Protection. Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+Energy Vulnerability. Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+Elemental Activity (Elemental power only). The hallowed area is attuned to elementals. It is treated as an inverted magic circle, but only for the purposes of binding elementals. If convinced to perform a task that serves the elemental powers, you gain advantage to Charisma checks to convince them, and the gold cost for the spell is reduced by three-fourths.
+Everlasting Rest. Dead bodies interred in the area can’t be turned into undead.
+Extradimensional Interference. Affected creatures can’t move or travel using teleportation or by extradimensional or interplanar means so long as they are within the area.
+Fear. Affected creatures are frightened while in the area.
+Silence. No sound can emanate from within the area, and no sound can reach into it. Tongues. Affected creatures can communicate with any other creature in the area, even if they don’t share a common language.
+Special. When hallowing inside a building, the spell’s effects are limited by it, becoming a shapeable spell. So long as the spell’s area of effect fills at least half the building, it can be treated as affecting all of it.
+
+Healing Stream [level 3]
+Evocation [healing]
+Casting Time: 1 action
+Range: 40 feet
+Components: V, S
+Duration: Instantaneous
+You may target a single creature with a chained healing spell. The target is healed 5d4 hit points, and the spell’s effects are then transferred (and diminished) to another creature you choose within 20 feet of the original target. The secondary target heals 3d4 hit points, and the effect arcs again, losing two dice for each target after the first (until it reaches 0d4). This spell has no effect on constructs and undead.
+Heightened. The healing increases by 1d4 for each level above 3rd.
+
+Healing Stream Totem [level 5]
+Evocation [totem] [healing]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Once you place this totem, you may use your reaction every round to cause it to emit healing energies as the healing stream spell of 3rd level; you may choose the targets of the spell.
+
+Healing Ward [level 1]
+Evocation [totem] [healing]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, you may use your reaction every round to cause it to emit healing energies, restoring 1 hit point per round to all creatures within 30 feet. This healing acts exactly as normal healing from the holy light spell.
+Heightened. The ward heals one additional hit point, or remains for one additional minute per spell level.
+
+Hex Array [level 1+]
+Transmutation [array]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You inflict one hex of the below array.
+Death Hex (level 1). You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 shadow damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability. The duration of this effect is Concentration, up to 1 hour. You can maintain this hex and use another in the same array.
+Fortune (level 1). As the Bless spell.
+Love Hex (level 1). As the Charm spell, but can affect any creature type, so long as that finds you attractive.
+Misfortune (level 1). As the Bane spell.
+Dream Eat (level 2). You can deal 2d6 psychic damage to a sleeping target per spell level, healing one-half the damage you deal. If the target dies from this, they are instead trapped in eternal sleep (this is treated as a curse effect. Breaking the curse awakens the target normally).
+Bone Lock (level 3). As the slow spell.
+Spell Steal Hex (level 5). As the Spell Steal spell. This still requires you to prepare the dispel magic spell.
+Heightened.
+Death Hex. When you cast this spell as a spell of 3rd, you can maintain your concentration on the spell for up to 8 hours. When you cast this as a 5th level spell, you can maintain your concentration on the spell for up to 24 hours.
+
+Hold [level 2]
+Enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a small, straight piece of iron)
+Duration: Concentration, up to 1 minute
+You attempt to hold a creature you can see within range. When preparing this spell, you can choose to be able to hold one creature type your class can bind (see binding under spellcasting) or your own creature type.
+It must make a Spirit saving throw. If it fails, it is paralyzed until the spell ends. At the end of each of its turns, the target can make another saving throw. On a success, the spell ends on the target.
+Special: If choosing to exclusively affect beasts, the spell’s level is decreased to 1st level instead, as their minds are more malleable.
+Heightened. When you cast this spell as a 3rd level spell or higher, you can target one additional creature for each spell level above 3rd. They must be within 30 ft. of each other when you target them. You can instead choose to target an additional creature type to the hold spell instead (Hold Person at level 2 can be Hold Person and Elementals at level 3).
+
+Holy Fire [level 2]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+A blast of holy fire burns a creature within range, creating a pulsing blaze within their very spirit that throws off their aim.
+Make a ranged spell attack against the target. On a hit, the target is affected by the holy fire, taking 2d4 points of holy damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target takes double damage against the smite cantrip. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per every level above 2nd.
+Special: This may be cast as unholy fire, dealing shadow damage instead.
+
+Holy Light [level 1]
+Evocation [healing]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+With the grace of the Holy Light, you bring life to the living, and harm to the unsanctified. The creature you target regains a number of hit points equal to 1d8 + your spellcasting ability modifier. If you target an undead or a fiend with this ability, they take holy damage equal to the hit points they would normally gain. If you target an unwilling creature, you require a ranged spell attack.
+Constructs gain no benefit from this spell.
+Heightened. The healing increases by 1d8 per level above 1st.
+
+Holy Nova [level 3]
+Evocation
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Instantaneous
+You release a burst of holy energy a 15-foot radius sphere centered on you. All living allies are healed 3d4 hit points, while all enemies take 3d4 holy damage.
+Creatures harmed by this spell are entitled a Spirit saving throw to half damage. The light spreads around corners. Fiends and undead suffer disadvantage to their saving throws.
+Heightened. The spell’s dice increase by 1d4 for each level above 3rd.
+
+Holy Shock [level 2]
+Evocation [healing]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You release a burst of energy that heals or harms.
+You may target a creature as a ranged spell attack. On a success, it either regains 2d8 hit points, or is dealt the same amount of holy damage. This can only heal the living, but can also deal damage to them if you wish. On a ranged dice result of 18 to 20, this is considered a critical hit and either heals or harms double normal damage. This spell is treated as the holy light spell for all purposes specific to that spell (in how it interacts with other abilities).
+Also, if you successfully use this spell to heal or to damage, you can make a melee weapon attack as a bonus action.
+Constructs gain no benefit from this spell.
+Heightened. The healing increases by 1d8 per level above 2nd.
+
+Ice Block [level 4]
+Abjuration [Channel]
+Casting Time: 1 reaction or 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Concentration, up to 1 hour
+Reaction. You are targeted with an attack or harmful effect.
+You become encased in a block of arcane-reinforced ice, protecting you from damage. A thick block of ice protects you, granting you 8d6 temporary hit points so long as you channel the spell. You regain 1d6 temporary hit points at the beginning of your turn every round, up to the initial amount granted by the spell.
+Furthermore, you gain resistance to all types of damage, as well as immunity to cold damage. Damage is applied before being counted against the temporary hit points.
+If the block manages to absorb all damage from an effect, you are protected against any secondary effects (as if immune).
+While encased in ice and concentrating, you are incapacitated. When the ice is destroyed or when you cease channeling, you may cast any spell as a bonus action or a reaction (so long as its normal casting time is 1 action or quicker).
+Heightened. When heightened, the temporary hit points increase by 2d6 per every spell level above 4th.
+
+Icy Touch [level 1]
+Evocation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Instantaneous
+You reach forward, freezing your target’s joints and breath. Make a melee spell attack against a creature you touch. If you succeed, the target takes 3d6 cold damage, and is chilled for one round.
+
+Immolation Aura [level 2]
+Abjuration [aura]
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Concentration (partial), up to 1 hour
+You surround yourself with a burning green fire that reaches 5 feet away. For the duration of the aura, any creature that attacks you with a weapon in reach of the aura or who begins its round within range takes 2d6 fire damage, with an Agility save to halve damage.
+You may also use a bonus action on your turn to add half the spell’s damage dice to a successful attack. This is a strike effect.
+Heightened. The damage dealt by your aura increases by 1d6 per level above 2nd.
+
+Immolate [level 1]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You infuse your target with flickering green hellfire. Make a ranged spell attack against a creature within range.
+On a hit, the target is affected by the spell, taking 1d6 points of damage. This damage is treated as either fire or fel, whichever is more advantageous. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target counts as if they are suffering the burning condition (damage equal to the sigil pulse). If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per spell level above 1st.
+
+Inferno Blast [level 4]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You infuse your target with pure arcane flame. Make a ranged spell attack against a creature within range. On a hit, the target is affected by the spell, taking 4d6 points fire damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the sigil deals fire damage equal to the number of sigil dice to all targets within 5 feet of it (4 at 4th level). This damage is negated on a successful Agility saving throw. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per spell level above 4th.
+
+Inner Fire [level 1]
+Transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 5 minutes
+A wreath of faith burns within a creature you designate within range. The creature gains +1 bonus to damage rolls, and their armor increases by 1. This is an aura bonus.
+Heightened. You can increase the bonus to AC and damage rolls by +1 each for every four spell levels above 1st (up to a +3 bonus to AC and damage rolls at spell level 9).
+
+Invoke Elements [level 0]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You can create one of the following effects:
+You create a tiny, harmless illusion that predicts the weather for the next 24 hours; your voice booms three times as loud; you conjure a spark of lightning or flame that can light or snuff a small campfire, torch, or candle; cause such flames to flicker and change color for 1 minute; you cause harmless tremors for 1 minute; you chill, warm, a small amount of liquid, or freeze it for 1 minute.
+You can have up to three of these 1-minute effects active at once.
+
+Lava Burst [level 2]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, up to 3 rounds.
+You blast your target with sticky elemental lava. Make a ranged spell attack against the target. On a hit, the target is affected by the spell, taking 2d6 points of fire damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target suffers additional half damage (+50%) from any elemental shock spell you cast. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per spell level above 2nd.
+Special. If the victim of this spell is exposed to at least 1 pint of water or subject to an effect that deals cold damage, then the target also suffers from the chilled condition for the duration of the sigil, as the lava solidifies.
+
+Life Tap [level 2]
+Necromancy
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S, M (Drop of the caster’s blood)
+Duration: Instantaneous
+You draw a drop of blood, and sacrifice your life-force for mana. You lose one-fourth your maximum hit points and regain up to one-fourth your maximum mana points. You may benefit from this spell only once every hour, as a mana-restorative effect.
+Special: This spell does not cost mana.
+
+Lightning Bolt [level 3]
+Evocation
+Casting Time: 1 action
+Range: Personal (Self), 100-foot line, or 100 feet (one creature), see description
+Components: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
+Duration: Instantaneous
+A stroke of lightning forming a line of 100 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make an Agility saving throw. A creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.
+Alternatively, you may cause the lightning bolt to lance and jump between multiple targets instead of affecting creatures in a line. The spell affects up to two targets within 150 feet. Creatures struck by this take the damage as normal.
+The lightning ignites flammable objects in the area that aren’t being worn or carried.
+Heightened. When cast this spell as a 4th level spell or higher, the damage increases by 1d6 per spell level above 3rd.
+If casting the spell to leap between targets, the spell can affect an additional target per every two levels heightened above 3rd (3 at 5th, 4 at 7th, and 5 at 9th).
+
+Lightning Orbs [level 1]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S, M (a bit of fur and a rod of amber, crystal, or glass)
+Duration: Concentration, up to 1 minute
+You conjure orbs of lightning to surround a creature within range. Any object or creature that starts its turn within 5 feet of the creature or comes within that range is affected by the lightning orbs on a failed Agility saving throw, taking 1d8 lightning damage, and can’t take reactions until their next turn.
+The lightning ignites flammable objects in the area that aren’t being worn or carried.
+Heightened. The damage increases by 1d8 per every two spell level above 2nd.
+
+Lightning Storm [level 3]
+Evocation
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Instantaneous
+You release a storm of lightning in the area, electrifying the very air around you in a burst of lightning. Any creature within a 20-foot radius sphere suffers 8d6 lightning damage, and are entitled an Agility saving throw to half damage. The lightning creeps around corners, and does not harm the character's totems.
+All targets harmed by this spell that have failed their saves to half damage have a 50% chance to either be pushed back 10 feet or lose their reactions for their round.
+Heightened. When cast as a 4th level spell or higher, the initial damage increases by 1d6 per spell level above 3rd.
+
+Lightwell [level 3]
+Evocation [totem] [healing]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 5 minutes
+You call down a well of light for ten minutes that lands on the five-foot square specified. Whenever a creature touches the lightwell, you may use your reaction to heal them 1d8 + your spellcasting modifier in hit points. This is treated as a 1st level holy light spell. A single creature cannot benefit from the lightwell more than three times before they require a short rest.
+Heightened. The lightwell remains for five more minutes more per every spell level above 3rd, to a maximum of 30 minutes, and the spell level of the Holy Light spell increases by one level per level heightened.
+
+Living Bomb [level 5]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You infuse your target with a seed of arcane power (fire or frost) in the target’s body. Make a ranged spell attack against the target. On a hit, an elemental bomb nests into the target, dealing 5d6 points of fire or cold damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the damage from the spell is added up to a total pool of damage. If the spell ends (such as if the target is reduced to 0 hit points or when its duration ends, but not if it is dispelled), the living bomb explodes. All creatures (including the target) suffer the accrued damage dealt by the spell, halved on a successful Stamina saving throw. The target suffers disadvantage to this saving throw.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per spell level above 5th.
+
+Lunar Curse [level 3]
+Necromancy [curse]
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Concentration, up to 1 minute
+You touch a humanoid to imbue a sliver of the lunar curse within them. If the creature fails on a Spirit saving throw and you maintain concentration and line of sight to it for up to 1 minute, the creature is cursed to turn into a were-creature (such as a Worgen or werewolf).
+The cursed creature begins suffering psychological torment and their body begins their transfiguration. For three days, they will avoid gatherings of their same kind. At this stage, a break curse can reverse the spell if the target can succeed on a spellcasting check versus your own, or one dispel magic for each of the three days of transformation. Otherwise, this moves to the third stage.
+At the end of the three days, the target's transformation will be complete, and they will become Worgen (or any were-creature chosen by you). Initially-transformed Worgen cannot transform back to humans (or their original creature type) until after 1 week of rampaging violence (though they may attempt a Spirit saving throw once every day to end the rampage).
+
+Mana Burn [level 2]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You target a creature that has mana within 30 feet. A ray of black-purple anti-magic leaps out, and strikes the target, draining them of mana. You must make a ranged spell attack with the ray. On a success, the target loses 2d6 mana points. For every mana point lost, the target takes 1 point of arcane damage.
+The target is entitled a Spirit saving throw. On a success, the mana and hit points lost are halved.
+Heightened. The number of mana points drained increases by 1d6 point per every two levels above 2 (3d6 at level 4, 4d6 at level 6, 5d6 at level 8).
+Special: Demons always have active mana, and can always be targeted with mana burn. If they have no mana, they still take 2 points of arcane damage.
+
+Mana Shield [level 1]
+Abjuration
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S, M (a sapphire worth at least 10 gp)
+Duration: 1 hour
+You raise a transparent blue shield of force. This effect remains only so long as you have at least 1 mana point in your pool. For every 2 points of damage you take that are not internal (such as from starvation), you may sacrifice 1 mana point to negate.
+Hostile effects that would normally reduce your mana pool or deal mana damage instead deal normal (arcane) damage to the shield, and do not reduce your mana pool. If you suffer an effect that would also ignite lost mana (such as the mana burn or detonate mana spells, but not casting spells normally), you only suffer the initial damage as described above, and your mana is not detonated.
+Heightened. A single mana point can absorb 3 hit points per mana at spell level 4, and 5 hit points per mana point at level 8.
+Special. This spell does not cost mana to cast.
+
+Mana Tide Totem [level 6]
+Transmutation [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, you may use a reaction to have it release the effects of a 4th level mana tide (or brilliance aura). This totem otherwise functions as all other totem spells.
+
+Mass Revivify [level 5]
+Necromancy
+Casting Time: 3 rounds
+Range: 30 feet
+Components: V, S, M (diamonds or alchemical reagents worth 300 gp per target, which the spell consumes)
+Duration: Instantaneous
+Choose up to 6 targets within 30 feet of a point you choose within range. Each creature that has died within the last minute returns to life with 1 hit point.
+This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
+Special. This spell can target any creature type except Constructs, Celestials, or Fiends.
+
+Mind Blast [level 1]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, up to 3 rounds.
+You concentrate, searing your enemy’s mind with a surge of psychic energy. Make a ranged spell attack against a creature within range. On a hit, the target takes 1d4 points of psychic damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target has disadvantage to their next skill check or concentration check until the beginning of the next round.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per spell level above 1st.
+
+Mind Bomb [level 5]
+Enchantment [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, up to 3 rounds.
+You infuse your target's mind with a chaotic rift of maddening power. Make a ranged spell attack against the target. On a hit, the mind bomb nests into the target, dealing 5d6 points of psychic damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+If the spell ends (such as if the target is reduced to 0 hit points or when its duration ends, but not if it is dispelled), the rift explodes into a wave of chaotic psychic energy. All creatures (including the target) suffer one-half the accrued damage dealt by the spell, and are incapacitated for until the start of your turn in the next round. A successful Stamina saving throw halves the damage and negates the condition.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage increases by one dice per spell level above 5th.
+
+Mind Flay [level 3]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You focus your mental powers into creating a nexus of destructive psychic pulses in your enemy’s mind. Make a ranged spell attack against a creature within range. On a hit, the target takes 3d4 points of psychic damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target loses 10 feet of its movement speed and it suffers disadvantage to any attack roll it makes after the first on its turn. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage taken increases by one dice per every level above 3rd.
+
+Mind Freeze [level 5]
+Abjuration
+Casting Time: 1 reaction
+Range: 60 feet
+Components: S
+Duration: Concentration for up to 1 minute
+Reaction. When you see a creature within 60 feet casting a spell.
+You attempt to interrupt the creature by freezing its tongue in its place, and its hands from performing the spell’s gestures.
+If the caster is casting a spell of 5th level or lower, they automatically fail. The target is also both silenced (as the mute spell), and deafened (as deafness).
+If they are casting a spell of 6th level or higher, make an ability check using your spellcasting ability versus a DC of 10 + spell’s level. On a success, the creature’s spell fails and is silenced as per the spell mute.
+This spells effects remain as long as you concentrate.
+Heightened. The interrupted spell is automatic if the spell’s level is less than or equal to mind freeze’s level.
+
+Mind Sliver [level 0]
+Enchantment
+Casting Time: 1 action
+Range: 60 feet
+Components: V
+Duration: 1 round
+You drive a disorienting spike of psychic energy into the mind of one creature you can see within range. The target must make an Intelligence saving throw. Unless the saving throw is successful, the target takes 1d6 points of psychic damage, and the first time it makes a saving throw before the end of your next turn, it must roll a d4 and subtract the number rolled from the save.
+This spell's damage increases by 1d6 when you reach certain levels: 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+Mind Vision [level 4]
+Divination
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You focus your mental powers into seeing through the target’s eyes, hearing through their ears, and sensing through them. This can be negated on a successful Spirit saving throw. On a failed saving throw, the target shares all images, sounds, words and sensory messages they receive with you for the duration of the spell.
+You may (so long as the spell is active) attempt to charm or dominate the target with another spell, and both spells can be concentrated on at the same time.
+At the beginning of the target’s turn every round, they may attempt another Spirit saving throw to end this effect (or both effects, if the target is charmed or dominated through the vision).
+
+Minor Alchemy [level 0]
+Transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 1 hour
+You can create one of the following temporary alterations to a nonmagical object:
+If you possess an antitoxin vial, you may use this cantrip on it to allow it to heal the imbiber 1 hit point. The vial must be consumed during the spell’s duration.
+You perform a special alchemical procedure on one object composed entirely of wood, stone (but not a gemstone), iron, copper, or silver, transforming it into a different one of those materials.
+For each 10 minutes you spend performing the procedure, you can transform up to 1 cubic foot of material. After 1 hour, the material reverts to its original substance. The residual effects of alchemy can be noticed with a successful Intelligence check with Alchemist’s Supplies, or a Perception check.
+
+Moonfire [level 1]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You call down a 5-foot wide, 30-foot high cylinder of astral moonlight that permeates the target’s very core. Make a ranged spell attack against the target. On a hit, the target takes 1d6 holy damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, if the target is shapeshifting, or is under the effects of a polymorph spell or comparable effect, they must make a Spirit saving throw whenever they take the damage or else revert to their normal form until the spell’s duration ends. If the target is not under such effects, they instead take 1d4 extra points of fire damage when subject to a spell that deals fire damage.
+This cannot overpower class abilities unless the spell’s level is double the class’s level or equal to or greater than the spell level of the polymorph spell. If the target is cursed, the spell must be of 5th level or higher.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage taken increases by one dice per every level above 1st.
+
+Mutate [level 1]
+Transmutation [array]
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (hair, nail clip, or a piece of the target’s body)
+Duration: 10 minutes
+You transmute the touched target to gain one of the below mutations. You can choose one of the following mutations in the array.
+Adhesive. The target becomes stickier. They gain advantage to grapple checks and checks related to climbing or holding.
+Ability Score Boost. The target gains +2 to one attribute, but -2 to the opposite attribute. Strength is opposed to Intelligence, Agility to Spirit, and Stamina to Charisma.
+Bite. The target gains a bite melee weapon attack. Bite is treated as a light natural attack, and deals piercing damage as a dagger of the target’s size (1d4 for medium creatures).
+Claws. This is treated as Bite, but instead deals slashing damage, and is treated as a shortsword of the target’s size (1d6 for medium creatures).
+Longer Limbs. One of the target’s limbs lengthen. This increases the target’s reach by 5 feet for attack rolls done through that limb (bite, kick, armed melee attacks, etc.) or movement speed (if legs or tails) by 10 feet.
+Resistant Skin. The target reduces damage taken from one damage type of the target’s choice by 3 points (minimum 0 damage).
+Thicker Skin. The target gains a natural armor bonus equal to +2. This does not stack with normal armor.
+Sensitive Eyes. The target’s eyes become more sensitive. They gain darkvision 60 feet, or increase the range of existing darkvision by 30 feet.
+Heighten. You can increase the bonus and penalty to attribute mutation or armor by +1 for every spell level above 1st level, or energy resistance by 5 points above level 1. Alternatively, you may add another mutation for every two spell levels this is heightened.
+
+Mute [level 2]
+Illusion
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You target a creature within range, forcing it to make a Spirit saving throw. If it fails, the target is isolated from all sound, causing it to be silenced and deafened. This prevents it from performing the verbal components of spells, and rendering it immune to Thunder damage and effects of a spell equal to the spell’s level or lower.
+Heightened. You may target another creature within 30 feet of the original target for every 2 spell levels above 2nd (2 creatures at level 4, 3 at level 6, and 4 at level 8).
+
+Necrotic Aura [level 2]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 hour
+Withering curses radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. Each hostile creature in the area that is reduced to 0 hit points or fails a death saving throw restores 1d4 hit points to you and two allies of your choice that are within the aura’s range.
+Undead and constructs do not restore hit points this way, neither do creatures with insignificant life-forces (such as harmless critters or sickly victims).
+Heightened. For each spell level above 2nd, you may add an ally to the total who can be healed (up to 5 allies at spell level 5).
+Note. This spell suppresses and is suppressed by the retribution aura spell.
+
+Nether Tempest [level 6]
+Evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (A forked, metal rod worth at least 250 gp, attuned to a particular plane of existence)
+Duration: Concentration, up to 1 minute
+You tear open the planar barriers to cause a rift of chaotic power. A 5-foot-diameter tear in reality appears in an unoccupied space of your choice within range and lasts for the duration. The tear can be suspended in mid-air. Any creature that ends its turn within 5 feet of the rift must make an Agility saving throw. The creature takes 6d6 points of arcane damage on a failed save, or half as much damage on a successful one.
+As a bonus action, you can move the rift up to 30 feet. If you push the rift into a creature, that creature must make the saving throw against the sphere’s damage, and the sphere stops moving this turn. If the target fails their saving throw, they take damage as described above, and are restrained in the sphere. The target may attempt to escape as an action (Escape DC equal to your Spell DC). If you move the sphere again, the target is no longer restrained.
+Heightened. The damage increases by one dice per every level above 6th.
+
+Orb of Annihilation [level 2]
+Evocation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous
+You throw a crackling sphere of black and purple energy at a target or 5-foot-intersection within range. This requires a ranged spell attack. The orb deals 4d6 points of fel damage. A successful Agility saving throw halves the initial damage.
+The spell has an additional effect on the target depending on if it is an object or creature:
+If an object, the object takes double damage.
+If a creature, the target’s maximum hit points is reduced by one-half the damage dealt by the spell (up to a maximum reduction to half maximum hit points). This reduction is restored after a long rest.
+Heightened. For every spell level above 2nd, the direct damage dealt by the spell increases by 1d6.
+
+Parasite [level 2]
+Conjuration [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You inject a parasitic conjured creature into the target. Make a ranged spell attack against any creature within range. On a hit, the target suffers 2d6 poison damage and becomes a host for the parasite. The sigil pulses at the start of your turn every round, repeating the primary effect.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+If the creature dies while under the effects of parasite, poisonous fume arises from the corpse, dealing 2d6 points of poison damage in a 5 foot-radius sphere centered on the corpse, halved on a successful Stamina saving throw. The parasite is summoned on corpse, and it remains for duration of Concentration, up to 1 minute.
+You can implant any creature that as part of the spell so long as it is one or more size categories smaller than the target. The conjure spell you refer to is lower than the parasite spell in spell level.
+Heightened. The damage increases by 1d6 per spell level above 2nd.
+Note: The creature you implant must be a creature you can conjure.
+
+Power Word Shield [level 3]
+Abjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 hour
+The utterance of the holy word of shielding grants any one ally within range 15 temporary hit points. A creature can benefit from this Power Word only once for any given hour.
+Heightened. Increase the temporary hit points gained by this spell by 10 points per level above 3rd.
+
+Polymorph [level 4]
+Transmutation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a caterpillar cocoon)
+Duration: Concentration, up to 1 hour
+This spell transforms a creature that you can see within range into a new form. An unwilling creature must make a Spirit saving throw to avoid the effect. The spell has no effect on a shapechanger or a creature with 0 hit points.
+The transformation lasts for the duration, or until the target drops to 0 hit points or dies. The new form can be any beast whose challenge rating is equal to or less than the target's (or the target's level, if it doesn't have a challenge rating). The target's game statistics, including mental ability scores, are replaced by the statistics of the chosen beast. It retains its alignment and personality.
+The target assumes the hit points of its new form. When it reverts to its normal form, the creature returns to the number of hit points it had before it transformed. If it reverts as a result of dropping to 0 hit points, any excess damage carries over to its normal form. As long as the excess damage doesn't reduce the creature's normal form to 0 hit points, it isn't knocked unconscious.
+The creature is limited in the actions it can perform by the nature of its new form, and it can't speak, cast spells, or take any other action that requires hands or speech.
+The target's gear melds into the new form. The creature can't activate, use, wield, or otherwise benefit from any of its equipment.
+
+Possession [level 6]
+Necromancy
+Casting Time: 1 action
+Range: 100 feet
+Components: V, S, M (Special, see below)
+Duration: Until dispelled
+To cast this spell, you must first prepare a gem, reliquary, or some other ornamental container worth at least 500 gp, and suffuse it with your magic for one minute. So long as you have this Soul Container on your person, you can project your soul in and out of it as a focus (see Soul Container and Project Soul below).
+While your soul inhabits the container, you are aware of your surroundings as if you were in the container's space. You can't move or use reactions, and are immune to effects that do not target undead and do not deal magical damage. The container can be attacked as normal.
+The only action you can take while in your soul container is to project your soul up to 100 feet out of the container to do one of the following things:
+Return to your living body
+Possess a humanoid’s body within 100 feet. If you are not a humanoid yourself, you can instead choose to possess a creature of the same creature type as yourself
+If the container is destroyed or the spell ends prematurely by another means (such as the exorcism or dispel magic spells), your soul immediately returns to your body if it is within 100 feet of the container, otherwise you die.
+Project Soul. You can attempt to possess a target you can see (creatures warded by a barrier ward, protection from evil and good, or magic circle ⁠spells can't be possessed). The target must make a Charisma saving throw. On a failure, your soul moves into the target's body, and the target's soul becomes trapped in your container. On a success, the target resists your efforts to possess it, and you can't attempt to possess it again for 24 hours. If you are targeted by the essence seal spell while projecting your soul (such as if there is a seal between you and the target), you must save against being entrapped by it.
+Once you successfully possess a creature's body, you control it. Your game statistics are replaced by the statistics of the creature though you retain your alignment and your intelligence, wisdom, and charisma scores. You retain the benefit of your own class features. If the target has any class levels, you can't use any of its class features.
+Meanwhile, the possessed creature's soul can perceive from the container using its own senses, but it can't move or take actions at all, unless they also know how to cast the possession spell, in which case they may attempt to cast the spell, and possess another target or force you to return to your original body, ending the spell.
+An effect cannot target you independent of the possessed body unless the target both knows you are possessing it, and if the effect deals magical damage (and you take damage of those types only). For purposes of targeting you, your soul is treated as if an undead (and can be turned by effects that do that).
+While possessing a body, you can use your action to return from the host body to your Soul Container if it is within 100 feet of you, returning the host creature's soul to its body. If the host body dies while you are possessing it, the creature dies, and you must make a Charisma saving throw against your own Spellcasting DC. On a success, you return to the container if it is within 100 feet of you. Otherwise, you die as well.
+If your body is more than 100 feet away from you, or if your body is dead when you attempt to return to it, you die. If another creature's soul is in the container when it is destroyed, the creature's soul returns to its body if the body is alive and within 100 feet. Otherwise, that creature dies. Any souls that pass in and out of the Soul Container are valid targets for the essence seal spell.
+When the spell ends (such as by you returning to your body after a possession), the Soul Container is destroyed.
+Special. If you are incorporeal, you do not need to prepare a Soul Container, and your incorporeal form disappears when casting the spell, reforming when you are ejected from the body. If the target dies when you are possessing it and fail the Charisma saving throw against your Spell DC to escape its body, you still die.
+
+Psychic Horror [level 3]
+Illusion
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Concentration, up to 1 minute
+You project a phantasmal current of fear all around you, creating a blast of mental energy. Each creature within a 20-foot radius sphere centered on you must succeed on a Spirit saving throw or drop whatever they are holding and become frightened for the duration. While frightened, the creature can only use the Dash action to move away from you by the safest route available to it unless there is nowhere to move. If the creature ends its turn in a location where it does not have line of sight to you, they can make a Spirit saving throw. On a successful save, the spell ends for that creature.
+
+Pyroblast [level 7]
+Evocation
+Casting Time: 1 action
+Range: 150 feet
+Components: V, S
+Duration: Channeling, up to 1 minute
+A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range as a glowing bead for the duration. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into an explosion of flame that spreads around corners. Each creature in a 20-foot-radius sphere centered on that point must make an Agility saving throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one.
+The spell’s base damage is 12d6. If at the end of your turn the bead has not yet detonated, the damage increases by 1d6.
+If the glowing bead is touched before the interval has expired, the creature touching it must make an Agility saving throw. On a failed save, the spell ends immediately, causing the bead to erupt in flame. On a successful save, the creature can throw the bead up to 150 feet. When it strikes a creature or a solid object, the spell ends, and the bead explodes. The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried.
+Heightened. When you cast this spell as an 8th level spell or higher, the base damage increases by 1d6 for each spell level above 7th.
+Special: Some effects count as a round of concentration for a pyroblast spell.
+
+Primal Attunement [level 6]
+Abjuration
+Casting Time: 10 minutes
+Range: Touch
+Components: V, S
+Duration: 24 hours
+You invoke elemental spirits to protect an area outdoors or underground. The area can be as small as a 30—foot cube or as large as a 90-foot cube, usually centered on a totem or monolith. If you cast this spell in the same area every day for a year, the spell lasts until dispelled.
+The spell creates the following effects within the area. When you cast this spell, you can specify creatures as friends who are immune to the effects. You can also specify a password that, when spoken aloud, makes the speaker immune to these effects.
+The entire warded area radiates magic. A dispel magic cast on the area, if successful, removes only one of the following effects, not the entire area. That spell’s caster chooses which effect to end. Only when all its effects are gone is this spell dispelled.
+Blessing of Air. You can fill any number of 5-foot squares on the ground with thick fog, making them heavily obscured. The fog reaches 10 feet high. In addition, every foot of movement through the fog costs 2 extra feet. To a creature immune to this effect, the fog obscures nothing and looks like soft mist, with motes of blue light floating in the air.
+Blessing of Earth. You can fill any number of 5-foot squares with debris or withdraw them as a reaction. This becomes difficult terrain. A creature can also benefit from cover behind the debris, but this costs 5 feet of movement to take cover behind.
+Blessing of Fire. Whenever a creature friendly to you takes 10 feet of movement in the area, it is propelled ahead 5 additional feet. The area is also warmly-heated, and gives advantage to any saving throw against hostile weather effects.
+Blessing of Water. Any creature in the area that regains hit points from a spell 1st level or higher regains an additional amount of hit points equal to your Spirit modifier (minimum 1).
+Elemental Guardians. Up to four minor elementals of each type (air, earth, fire, water) arise to guard the attuned area, except that they cannot speak. If any creature not immune to this effect enters the warded area, the elemental guardians fight until they have driven off or slain the intruders.  The elemental guardians also obey your spoken commands (no action required by you) that you issue while in the area. If you don't give them commands and no intruders are present, the elemental guardians do nothing. The elemental guardians can‘t leave the warded area. When the spell ends, the magic animating them disappears.
+Additional Spell Effect. You can place your choice of one of the following magical effects within the warded area:
+A constant gust of Wind in two locations of your choice
+Spike growth in one location of your choice
+Wind wall in two locations of your choice
+To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of spike growth is harmless.
+
+Rain of Fire [level 3]
+Evocation [channel]
+Casting Time: 1 action
+Range: 150 feet, in a 15-feet-wide, 60-feet-high cylinder.
+Components: V, S, M (crushed glass and water)
+Duration: Channeling, up to 1 minute
+You whisper the magic words, and a hot, red light emanates from your hands. A burning cloud materializes 40 feet above the target, raining down meteorites and clumps of fire, dealing 4d6 points of damage in the area for every round of channeling. The damage is half fire, and half bludgeoning damage, with an Agility saving throw to half damage. Creatures that fail their saving throw for half damage also have their speed reduced by 10 feet.
+The meteorites set fire to combustibles and damages objects in the area. It can melt metals with low melting points, such as lead, gold, copper, silver or bronze.
+The cloud can deal damage to creatures flying under it as well, and imposes the same obscuration to sight to creatures below the cloud. As a bonus action, you can move the cloud that calls down the rain of fire up to 30 feet.
+Heightened. Per level above 3rd, add one dice of damage per every spell level above 3rd level.
+
+Raise Dead [level 5]
+Necromancy
+Casting Time: 1 hour
+Range: Touch
+Components: V, S, M (a diamond or alchemical reagents worth 500 gp, which the spell consumes)
+Duration: Instantaneous
+You return a dead (or destroyed intelligent undead) creature you touch to life, provided that it has been dead no longer than 10 days. The creature returns to life with 1 hit point.
+This spell also neutralizes any poison and cures nonmagical Diseases that affected the creature at the time it died. This spell doesn't, however, remove magical Diseases, curses, or similar effects, if these aren't first removed prior to casting the spell, they take effect when the creature returns to life.
+This spell closes all mortal wounds, but it doesn't restore missing body parts.
+Coming back from the dead is an ordeal. The target suffers from resurrection sickness (see resurrection under chapter 1: introduction).
+
+Rejuvenation [level 1]
+Evocation [sigil] [healing]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+With the grace of the nature, you envelop one living creature within range with a blessing that rapidly closes wounds and rejuvenates the target. The target regains 1d4 hit points as an primary effect. The sigil pulses at the start of your turn every round, for three rounds.
+Also, so long as the spell sigil is active, the target also gains advantage against any effect that would cause exhaustion. If the target is reduced to 0 hit points while under the effects of this spell, the spell ends as normal, but automatically stabilizes the target.
+Undead and constructs gain no benefit from this spell.
+Heightened. The healing taken increases by one dice per every level above 1st.
+
+Resistance Aura [level 5]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 hour
+An elemental protective ward radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. Choose one of the following damage types: cold, fel, fire, or shadow. The first each turn the affected targets take damage of the chosen type, they suffer 10 (3d6) less points of damage of that type. This cannot reduce the damage below 1 point.
+Note. This spell suppresses and is suppressed by the vulnerability aura spell.
+
+Renewing Light [level 1]
+Evocation [sigil] [healing]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You place a mark of the light on the target within range, flooding them with holy power. The target regains 1d4 hit points. If you target an undead or a fiend with this ability, they take holy damage equal to the hit points they would normally gain. If you target an unwilling creature, you must succeed on a ranged spell attack. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the first creature that attacks the target has disadvantage to their attack roll (if you choose).
+Constructs gain no benefit from this spell.
+Heightened. The healing taken increases by one dice per every level above 1st.
+
+Resistance Totem [level 5]
+Evocation [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, you may use a reaction target any creature within 30 feet and grant them resistance to one elemental type in response to an attack (choose between acid, fire, cold, lightning, and thunder).
+
+Resolve [level 1]
+Transmutation [stance]
+Casting Time: 1 reaction
+Components: S
+Range: Personal (Self)
+Duration: 1 minute, or one use (whichever comes first)
+Reaction. You are subjected to forced movement.
+You enter a stance that represents the swaying reeds in the face of a storm. When you are subject to physical forced movement (such as being pushed, knocked prone, or tripped), you can use this stance to gain advantage to any check (or an contested Strength check if no check is available). If you successfully remain unmoved, you gain an attack of opportunity against them or may cast a cantrip.
+
+Resurrection [level 7]
+Necromancy
+Casting Time: 1 hour
+Components: V, S, M (a diamond or alchemical reagents worth 1,000 gp, which the spell consumes)
+This acts as the raise dead spell, but you can raise a dead creature that has been dead for no more than 100 years, that didn't die of old age, and that isn't Undead. The character returns to life with all its hit points.
+Unlike raise dead, this spell restores any missing body parts, including ones that are required for survival (heart, head).
+Coming back from the dead is an ordeal. The target suffers from resurrection sickness as per raise dead.
+Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can't cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.
+Heightened. By heightening resurrection two levels (to level 9), it becomes true resurrection. The material component increases to 25,000 gp, and the spell becomes stronger as per the following:
+The target cannot have been dead for more than 300 years.
+The target does not suffer from resurrection sickness.
+You do not suffer a penalty for casting the spell, regardless of how long the creature has been dead.
+The spell does not need a corpse, and can create a new body if the old is unavailable (although this requires knowing the target’s name).
+If the target is an intelligent undead and their soul is free and willing to be targeted (not imprisoned, compelled, or currently animated), the spell creates a new living body for them, effectively returning their creature type to their original (humanoid if a Forsaken).
+You have advantage to attempting to free an imprisoned soul if you are attempting a true resurrection.
+
+Retribution Aura [level 2]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 hour
+An aura of righteous anger radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. If a hostile creature in the area successfully attacks you or one of your allies within the aura, you may make a ranged spell attack against that creature, so long as they are in the aura. On a hit, the spell attack deals 1d4 points of holy damage. This attack effectively originates from the hurt ally (and hence may ignore cover). This costs no action on your part, and you may choose which attacks to react to.
+The aura can retaliate one time per spell level every round (2 at level 2).
+Note. This spell suppresses and is suppressed by the necrotic aura spell.
+Special. If cast by a druid, the ward deals piercing damage instead, and is called thorns aura.
+
+Revivify [level 3]
+Necromancy
+Casting Time: 1 action
+Range: Touch
+Components: V, S, M (diamonds or alchemical reagents worth 300 gp, which the spell consumes)
+Duration: Instantaneous
+You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts. If you target undead, they return as normal undead (and are not returned to life).
+Special. This spell can target any creature type except Constructs, Celestials, or Fiends.
+
+Riptide [level 1]
+Evocation [sigil] [healing]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous, plus 3 rounds
+You may target a living creature within range with a curative blast of waters. The target regains 1d4 hit points. If you target an undead or a fiend with this ability, they take holy damage equal to the hit points they would normally gain. If you target an unwilling creature, you must succeed on a ranged spell attack. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, a single spell that affects the target while under the sigil’s effects is subject to a dispel effect (as if a dispel magic spell was 1st level). The dispel effect requires spending a reaction.
+Constructs gain no benefit from this spell.
+Heightened. The healing taken increases by one dice per every level above 1st. The effective level of the dispel magic also increases by one level.
+
+Rune Array [level 1+]
+Necromancy [array, rune]
+Casting Time: Special (half movement)
+Range: Personal (Self)
+Components: V, S
+Duration: 1 minute
+You gain one rune of the below array. If any spell of this array is used, you may release the rune, granting you the benefit of a runic strike as if you sacrificed mana for a spell of the rune you chose:
+Plague Rune (DKN 1). Your weapon deals 1d6 extra points of damage on its first attack in a given round. The damage can be cold or poison.
+Frozen Waste Rune (DKN 1). Your weapon deals 1d4 extra points of damage on its first attack in a given round. The damage can be cold or shadow.
+Blood Rune (DKN 2). Your weapon deals 1d4 extra points of damage on its first attack in a given round. The damage can be fire or fel.
+Vampiric Rune (DKN 2). After you make this attack, you regain a number of hit points equal to half the total weapon damage you dealt (weapon dice, Strength, plus any bonuses from the weapon only). You may grant this healing to any ally within 30 feet. This healing has no effect on constructs. This applies to your first attack in a given round.
+Worm Rune (DKN 4). While under the effects of this rune, your strikes infuse the enemy with a virulent magical ailment that spawns a worm under the target’s skin. A living target suffers 2d6 damage every round so long as the target is not healed from the incubating worm. If the target loses at least 10 hit points from the bleeding, the worms increase in size, and form a visible tumor under the target’s skin. At this point, releasing the rune has an additional effect. If the target is subject to a healing spell, roll 1d4. On the result of a 3 or higher, the worms shrivel and die without effect.
+Release.
+Releasing the rune has the following effect when released.
+Frozen Wastes Rune. The target of the Death Knight’s Runic Strike instantly suffers 2d4 extra points of damage of the rune’s type, the target is chilled for one round.
+Blood Rune. If releasing the rune with a Runic Strike, the target takes bleed damage equal the damage the rune dealt for one minute. A successful Stamina save halves the damage and the duration.
+Worms Rune. If the worm deals at least 10 hit points of damage and is released, it explodes into a spray of blood. The target must succeed on a Stamina saving throw or suffer the 2d6 shadow damage. Also, regardless if the target succeeds or fails on the saving throw, the amount of hit points the worm gathered heals all undead creatures you designate within 30 feet, or harms all living creatures you designate within the same range. The amount of healing or harm is equal to the amount of hit points it dealt when incubating.
+Heightened.
+Plague Rune. The base damage increases by 1d6 damage per level above 1st.
+Blood and Frozen Wastes Runes. The damage taken per hit increases by 1d4 per spell level.
+
+Seal Array [level 1+]
+Transmutation [array, seal]
+Casting Time: Special (half movement)
+Range: Personal (Self)
+Components: V, S
+Duration: 1 minute
+You gain one seal of the below array. If any spell of this array is used, you may release the seal, granting you the benefit of a crusader strike as if you sacrificed mana for a spell of the seal of the spell level you chose.
+Seal of Righteousness (level 1). Any weapon you wield deals 1d4 extra damage on its first attack in a given round. This damage can be holy or fire damage.
+Seal of Justice (level 2). While under the effects of this seal, each time you strike an opponent in melee, you reduce their speed by 10 feet. This penalty stacks, and is removed after 1 round.
+Seal of Light (level 2). While under the effects of this seal, each time you strike an opponent in melee, you heal 1d4 hit points. You may halve the amount of hit points gained and grant them to any ally within 30 feet.
+Seal of Insight (level 3). While under the effects of this seal, each time you strike an opponent in melee, you reduce the mana cost of your next paladin spell by 1 mana point (minimum 1). This does not stack with other mana-reduction effects, but can stack with itself. The benefit remains up until 1 hour.
+Release.
+Seal of Righteousness. The target of the Paladin’s Crusader Strike instantly suffers 2d4 extra points of damage of the seal’s type, and the target can’t take reactions for one round.
+Seal of Insight. The reduction to mana costs of your paladin spells remains for one round per spell level of the seal.
+Seal of Light. The seal restores 2d4 hit points to you (you may grant half of the amount to any ally).
+Heightened.
+Releasing the seal has the following effect when released.
+Seal of Righteousness. The damage taken per hit (and in release) increases by 1d4 per spell level.
+Seal of Light. The value of healing increases by 1d4 per level above 2nd. Upon releasing the seal, you regain an additional 2d4 hit points per level as well.
+
+Serpent Ward [level 2]
+Evocation [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, you may use a reaction to have it cast the fire bolt cantrip. This manifests as a snake-head that releases the bolt of flame, as the cantrip of the same name. The cantrip treats your character level as if 5 levels lower for the purposes of damage (minimum 1d10 as normal).
+
+Shackle Evil [level 2]
+Necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M (a dip of holy water or a bone)
+Duration: Concentration, up to 1 minute
+Choose any two undead or fiends that you can see within range. The targets must succeed on a Spirit saving throw or be paralyzed for the duration. At the end of each of their turns, the targets can make another Spirit saving throw. On a success, the spell ends for the target.
+This otherwise acts as the hold spell, but can only affect undead and fiends, and may hold double the normal number of creatures.
+Heightened. You can target an additional undead or fiendish creature for each level above 3rd. The targets must be within 30 feet of each other when you target them.
+
+Shadow Bolt [level 1]
+Evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous then 1 round
+You shoot a blast of shadowy energy at a creature within range. Make a ranged spell attack against the target. Targets struck by this bolt suffer 2d8 shadow damage.
+If the target is already subjected to an active sigil spell, you may force the target to suffer a sigil pulse as if one round passed (does not require a sigil roll to maintain).
+Heightened. The spells’s damage increases by 2d8 for each spell level above 1st.
+Special. This spell costs one less mana point than normal for its spell level.
+
+Shadow Word Death [level 2]
+Evocation
+Casting Time: 1 reaction
+Range: 60 feet
+Components: V
+Duration: Instantaneous
+Reaction. A creature within range becomes bloodied
+Make a ranged spell attack against a creature within range.
+You weave a word of dark binding that deals 6d6 points of shadow damage to the target.
+Heightened. The damage increases by 1d6 for each level above 2nd.
+
+Shadow Word Pain [level 2]
+Evocation [sigil]
+Casting Time: 1 action
+Components: V, S
+Range: 60 feet
+Duration: Instantaneous, plus 3 rounds
+You speak a word of shadowy power that wracks one target within range. Make a ranged spell attack against the target. On a hit, the target suffers 2d4 shadow damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target suffers disadvantage to Spirit (Perception) checks against and attack rolls against you. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect. If the creature dies while under the effects of shadow word pain, you are aware of their corpse’s general location to up to one mile.
+Heightened. The damage taken increases by one dice per every level above 2nd.
+
+Shift Skill [level 1]
+Transmutation
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: 10 minutes
+You imbue a creature with a measure of your skill. The target gains a bonus to a single skill equal to your proficiency bonus (up to +2). This does not stack with an existing proficiency bonus.
+Heightened. For every spell level above 1st, the bonus you can grant increases by +1 (maximum +6 at spell level 4).
+
+Shocking Bolt [level 0]
+Evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You release a blast of lightning towards any creature or object within range. Make a ranged spell attack. On a hit, the target takes 1d8 lightning damage. Roll a d4. On the result of a 4, the target loses their reaction for that round.
+When you reach 5th, 11th, and 17th level, you can release an additional shocking bolt with the same action (up to four at 17th level). Each blast can target the same target or others within 30 feet of one another. For each additional attack against the same target, the range of success on the d4 increases by 1 (up to automatically losing their reaction on four attacks).
+
+Shooting Star [level 3]
+Evocation
+Casting Time: 3 rounds
+Range: 1 mile
+Components: V, S
+Duration: Instantaneous
+You point to the open sky, and bring your finger down in the span of 3 rounds, tracing a bright shooting star of pure energy to fall from the heavens. Choose one point you can see within range from the start of casting to the end (which must be the same point during casting). Each creature in a 10-foot radius sphere at the point of impact must make an Agility saving throw as a shooting star blazes down to smash into the area. On a failed saving throw, a creature or object struck by the star takes 5d6 points of damage. The damage is half arcane, and half bludgeoning damage. On a successful saving throw, the creature takes half damage.
+The area struck has debris of the shooting star (which is difficult terrain and is made of no special material). The debris sheds dim light in a 10-foot radius for 1 hour before cooling down.
+Heightened. When heightened to level 5, you summon an additional shooting star for every two spell levels above 3rd.
+Special. This spell requires line of sight to the sky, although it does not require a specific time. If the spell is cast at night, the shooting star deals the half damage as holy instead of arcane.
+
+Shot Array [level 1+]
+Transmutation [array, shot]
+Casting Time: 1 bonus action
+Range: Self
+Components: V
+Duration: 1 minute or two shots per spell level (whichever is sooner)
+You gain one shot of the below array.
+Arcane Shot (level 2). Your shots are transformed into missiles made of pure force, dealing an additional 1d4 points of arcane damage. If the creature you successfully shoot has the benefits of a beneficial spell, it is also subjected to a 1st-level dispel magic spell. This allows you to remove 0-level spells, and must make an ability check versus a spell level of 1 or above. This dispel effect cannot dispel a spell level higher than that of Arcane Shot.
+Black Arrow (level 3). Your shots are transformed into missiles made of unholy energy. The shot deals an additional 3d4 points of shadow damage to the target. If a creature is killed by this strike (or if most of the damage it took was shadow damage from this spell), they are animated as per the spell conjure undead (spell level 1). This raises the target from the fresh corpse. The killed creature is not raised if they are normally immune to the effect. Knowledge of this shot is typically a secret, and is usually used by the Forsaken, the Scourge, and ruthless independents.
+Concussive Shot (level 2). Your arrows are destructively concussive. Targets hit by this shot spell must succeed on a Stamina saving throw or else take two of the following penalties until the end of their next round (the penalty is chosen by you).
+Speed is halved.
+Target takes -2 to AC and Agility saving throws.
+Target cannot take reactions.
+Can use either an action or bonus action, and cannot make more than one attack every round.
+If casting a spell, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on said turn to complete the spell.
+Frost Shot (level 1). Your shots are infused with freezing cold. They deal 1d6 extra cold damage, and chill the target for until the start of your turn in the next round.
+Kill Shot (level 2). Your shot is unusually successful against wounded targets. If the target is bloodied, this attack is treated as a critical hit. After being affected by this critical hit, a creature cannot be affected again by this spell for 1 hour. If the hit was already a critical hit (such as by a dice roll or another ability), this shot is not expended, and you deal an extra 1d6 points of damage per spell level.
+Scorpid Shot (level 2). Your shot is enhanced with a venomous agent. If you strike an enemy with this shot, they are poisoned. The effect remains for one minute. On a successful Stamina saving throw, the enemy negates this effect.
+Searing Shot (level 1). Your shots are infused with searing flame. They deal 1d6 extra fire damage. The searing shot adds +1 to your attack roll if shot at a target beyond optimal range of your weapon.
+Stopping Shot (level 1). If you use this shot as a held action, this deals damage normally, and reduces the creature’s move speed to 0, and knocks them prone if they used the Dash action. On a successful Stamina saving throw, their speed is instead reduced by half.
+Tranquilizing Shot (level 1). Your shot are enhanced with a sleeping agent. If you strike an enemy with this hit, roll 5d8. A creature’s hit points must be equal to or less than the remaining total for a creature to , fall unconscious for one minute. A sleeper may be awakened if taking damage or when targeted with an action (like shaking or slapping them). Undead and creatures immune to being charmed are immune to this effect. A creature may roll a Stamina saving throw to reduce the duration of sleep to one round.
+Venom Shot (level 1). Your arrow is enchanted with a poisonous agent. If you strike an enemy with this hit, you deal an additional 1d8 poison damage. This damage is halved on a successful Stamina saving throw.
+Viper Shot (level 1). Your arrow is enchanted with an anti-magic agent. If you strike an enemy with this hit, they lose 1d2 mana points. For every mana point lost, the target takes 2 points of arcane damage. This damage is halved on a successful Spirit saving throw. This is otherwise treated as mana burn (as the spell).
+Arcane Shot (level 2). Your shots are transformed into missiles made of pure force, dealing an additional 1d4 points of arcane damage. If the creature you successfully shoot has the benefits of a beneficial spell, it is also subjected to a 1st-level dispel magic spell. This allows you to remove 0-level spells, and must make an ability check versus a spell level of 1 or above. This dispel effect cannot dispel a spell level higher than that of Arcane Shot.
+Kill Shot (level 2). Your shot is unusually successful against wounded targets. If the target is bloodied, this attack is treated as a critical hit. After being affected by this critical hit, a creature cannot be affected again for 1 hour. If the hit was already a critical hit (such as by a dice roll or another ability), this shot is not expended, and you deal an extra 1d6 points of damage per spell level.  
+Wing Clip Shot (level 2). Your arrow is enchanted to strike a creature’s hamstring or movement joint. If you strike an enemy with this hit, they take an additional 1d6 weapon damage, have their speed reduced by 10 feet, and can’t take reactions until the start of their next turn.
+Black Arrow (level 3). Your shots are transformed into missiles made of unholy energy. The shot deals an additional 3d4 points of shadow damage to the target. If a creature is killed by this strike (or if most of the damage it took was shadow damage from this spell), they are animated as per the spell conjure undead (spell level 1). This raises the target from the fresh corpse. The killed creature is not raised if they are normally immune to the effect. Knowledge of this shot is typically a secret, and is usually used by the Forsaken, the Scourge, and ruthless independents.
+Wyvern Shot (level 3). Your arrow is enchanted with a debilitative agent. If you strike an enemy with this hit, you reduce the target’s maximum hit points by 3d4 for one hour. This damage to hit points is halved on a successful Stamina saving throw. A creature cannot be affected by this more than once at any given hour, and when the duration ends, their maximum is restored. If a creature’s maximum is reduced below their current hit points, the excess is treated as temporary hit points (if the maximum is restored, these temporary hit points return to be actual hit points).
+Heightened.
+Arcane Shot. The strike’s damage increases by 1, and the dispel magic effect increases by 1 level per level above 2nd.
+Black Arrow. The strike’s damage increases by 1d4 per each two spell levels beyond 3rd. The spell level also increases by 1.
+Concussive Shot. The duration remains for one round more per level above 2nd. At the end of the target’s round, they are entitled another save to end the concussive effect.
+Frost Shot and Searing Shot. The extra damage increases by 1d6 for every two spell levels above 1st.
+Tranquilizing Shot. You roll an additional 2d8 of tranquilizer per level above 1st.
+Venom Shot. You roll an additional 1d8 poison damage per level above 1st.
+Viper Shot. For every two spell levels above 2nd, you deal an additional 1d2 points of mana burn.
+Concussive Shot. The duration remains for one round more per level above 2nd. At the end of the target’s round, they are entitled another save to end the concussive effect.
+Arcane Shot. The strike’s damage increases by 1, and the dispel magic effect increases by 1 level per level above 2nd.
+Black Arrow. The strike’s damage increases by 1d4 per each two spell levels beyond 3rd. The spell level also increases by 1.
+Wyvern Shot. You roll an additional 1d4 points per every two levels above 3rd.
+
+Slumber [level 3]
+Enchantment
+Casting Time: 1 action
+Range: Touch
+Components: V, S
+Duration: Up to 24 hours.
+This spell sends a willing creature that can sleep into magical sleep. The caster may designate up to three conditions to cause the sleeper to wake up (such as after 24 hours, when a horn is blown, etc.), but only conditions the sleeping target would be able to perceive should they be awake. If resting as part of this slumber, any hit dice the sleeper spends to heal themselves can be rolled again, taking the higher result. Unless those conditions are fulfilled, the sleeper cannot awake unless this spell is dispelled.
+While resting this way, the sleeper does not age, and all poisons, curses, and diseases are suspended. All such effects continue acting once the sleeper awakens.
+Heightened. When you cast this spell using a higher level spell, the maximum duration increases, according to the below.
+24 hours - 10 days - 30 days - 1 year and a day - 20 years - 200 years.
+Special. This spell can be cast while in a druid’s wild shape.
+
+Soul Stone [level 5]
+Necromancy
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: 1 hour
+Once you cast this spell, you create a crystal-like green stone that resembles a heart. You may grant other creatures a soul stone with each casting.
+A creature that possesses a soul stone can restore themselves to life for up to 1 minute after they die, as if by the revivify spell. This can be used instead to dispel an essence seal spell of equal spell level or lower.
+Heightened. You create an additional soul stone for each casting per level above 5th.
+Special. A creature who revives themselves using a soul stone takes -1 to all rolls until they take a long rest (stacks up to -5, after which the soul stone does not function). You cannot cast this spell more than once in a single 24 hours period.
+
+Soul Well [level 5]
+Conjuration [ritual]
+Casting Time: 1 action
+Range: Self (5-mile radius sphere)
+Components: V, S
+Duration: 1 hour
+You create a soul-well, which links any creature who has a soul stone to you. If a creature dies within a 5-mile radius of the well, it is revived via soul stone spell, and are teleported to the Soul Well, emerging from it without their gear (and typically covered with a coat of ectoplasm). This is a teleportation effect, and it is blocked by normal spells that prevent teleportation.
+Heightened. For each spell level above 5th, the range of the soul well increases by 1 mile.
+
+Soulshatter [level 4]
+Enchantment
+Casting time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You release a wave of regret and sorrow that washes over everyone in the area, imposing a heavy feeling of depression and sorrow. All targets within a 20-foot sphere must make a Charisma saving throw or else lose its ability to feel motivated or compelled to fight, causing them to stop fighting. This spell suppresses fear and charmed effects, as well as all morale bonuses until the spell ends, causing the targets to become indifferent to everyone else. If the targets witness their friends or allies being harmed by you or your allies, they gain another saving throw versus this effect, but will otherwise remain as it was.
+
+Spell Steal [level 5]
+Abjuration
+Casting Time: 1 reaction, or 1 action (if reaction is not triggered)
+Range: 30 feet
+Components: V, S
+Duration: Special
+Reaction. When you see a creature within 60 feet casting a spell.
+You attempt to steal the magic of a spell from a creature as it is releasing it. If the creature is casting a spell of 4th level or lower and fails a Spirit saving throw, you steal the spell or an ongoing spell effect. To steal a 5th level spell, the creature must fail on a Spirit saving throw, and you must succeed on a dispel attempt (as the dispel magic spell).
+If you successfully steal the spell, you can choose the spell’s parameters or effect as if you cast it instead of the target, or you can choose to store it. The spell’s remaining duration is unchanged.
+If you choose to store it, can cast this spell without spending mana so long as it is done before you spend a short rest. You may only store one stolen spell at a time, with the newer stolen spell replacing the older one.
+Heightened. You automatically succeed in stealing spells lower 1 level than the spell steal spell. Increasing the spell’s level allows you to steal effects of higher level.
+Special. You can only prepare this spell if you also have a dispel magic spell prepared two levels lower than the spell steal.
+
+Spirit Haunt [level 3]
+Necromancy [sigil]
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S, M
+Duration: Instantaneous, plus 3 rounds
+You summon a minor dark spirit to torment the target’s soul and open them up to hostile spiritual activity. Make a ranged spell attack against the target. On a hit, the target takes 3d4 shadow damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, the target suffers a -4 penalty to Spirit saving throws, and incorporeal undead can sense the target for up to 1 mile, and see them even if they are invisible.
+If the target dies while this spell is active, you can spend a reaction to shift the spell to another target within 10 feet of the last target. The spell’s remaining duration increases by 2 rounds.
+Heightened. The damage taken increases by one dice per every level above 3rd.
+
+Spirit Infusion [level 3]
+Transmutation
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Concentration (partial), up to 1 minute
+You infuse yourself with a totemic spirit that affects only you. Choose one of the three spirits below, and you gain the chosen benefit for as long as the spell is active.
+Bear. You gain climb speed of 10 feet per round, are able to deal 1d6 damage with your melee unarmed attack (instead of your normal damage, at your choice), and gain 2d6 temporary hit points.
+Eagle. You double your normal movement speed and jumping distance, and constantly benefit from the feather fall spell.
+Wolf. You gain +1 to melee damage rolls per ally adjacent to the target (maximum equal to spell level), and your allies gain +2 to attack rolls against one target you designate within 5 feet of you. This is an aura bonus.
+Heightened. For each spell level above 3rd, the maximum duration of the spell increases by 2 minutes.
+
+Spirit Link [level 3]
+Abjuration
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+You may target up to four creatures within 30 feet of one another with this spell (yourself included), and all of which are deeply linked in a network of abjuration magics. Whenever one of the linked creatures is damaged, they share up to 5 hit points of damage taken by one of the creatures in the spirit link among the rest, distributing the damage evenly amongst them all. This requires one reaction every round to activate, though the damage is totaled before distributed.
+The damage, once shared, is considered untyped damage, which bypasses immunities, vulnerabilities, and resistances. If any ally is reduced to 0 hit points, the spell ends prematurely.
+Heightened. You can share an additional 5 hit points per two spell levels above 3rd.
+
+Spirit Link Totem [level 5]
+Conjuration [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 hour
+You plant the totem in the ground anywhere within 30 feet. All willing allies are linked with the spirit link spell, up to a maximum of one creature per spell level. Whenever a creature is damaged, you may use your reaction to share the damage taken among the rest. You may use an action to change the targets of the spirit link.
+This spell otherwise acts as a totemic version of spirit link.
+Special Unlike most totem spells, this is a concentration effect.
+
+Spirit Strike [level 1]
+Evocation [strike]
+Range: Self
+Components: V, S
+Duration: 1 minute, or one use (whichever comes first)
+You may apply this strike to any melee natural unarmed attack. You may choose one aspect to strike as.
+Bear. You may initiate a grapple as part of the strike.
+Eagle. Your movement after this strike does not provoke attacks of opportunity.
+Wolf. You may knock the target prone if they fail an Agility saving throw.
+
+Spiritual Reincarnation [level 5]
+Conjuration
+Casting Time: 10 minutes
+Range: Personal (Self)
+Components: V, S, M (rare oils and herbs or alchemical reagents worth 500 gp, which the spell consumes).
+Duration: Instantaneous, plus up to 1 minute
+After you cast this spell, your soul is tethered to your body beyond the limited scope of death.
+If you die within 1 week of casting this spell, you may spend mana equal to half the cost of this spell level to keep your soul tethered around your corpse for up to 1 minute. So long as your soul is tethered this way, you can return to your body and revive it (as the revivify spell). If you are subjected to the essence seal spell, this spell grants you advantage to your saving throw to avoid having your essence be captured.
+If you do not return to your body within the minute of tethering, the spell ends, and you die normally.
+This spell may be detected as if a normal active spell (via detect magic or abilities that detect magical auras). If the spell is dispelled, you die as if you didn’t return to your body.
+Special. This spell does not cost mana to cast initially.
+Heightened. If cast as a 7th level spell, your soul can remain tethered for up to 10 minutes. If cast as a 9th level spell instead, it can remain tethered up to 1 hour.
+
+Starfall [level 5]
+Evocation [channel]
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S
+Duration: Concentration, up to 10 minutes
+You point to the open sky, calling down a cylinder of normal light centered on you, 60 feet wide, and 100 feet high.
+At the beginning of every round where you channel the spell (the first round does not count), choose any two points within the cylinder. Each creature in a 10-foot radius sphere at the point of impact must make an Agility saving throw as a shooting star blazes down to smash into the area. On a failed saving throw, a creature or object struck by the star takes 5d6 damage. The damage is half arcane, and half bludgeoning damage. On a successful saving throw, the creature takes half damage. A creature who fails the saving throw for half damage is also pushed 5 feet away from the center of the blast.
+Special. This spell requires line of sight to the sky, although it does not require a specific time. If the spell is cast at night, the shooting star deals additional holy damage instead of arcane damage.
+Heightened. When heightened to level 7, you can call three meteors instead of two. This increases by one meteor for every 2 spell levels beyond 7th (3 at level 7, 4 at level 9).
+
+Starsurge [level 5]
+Evocation
+Casting Time: 1 action
+Range: 200 feet
+Components: V, S
+Duration: Instantaneous, plus 1 minute
+You create two surges of bright gold and silver force, sending them to a single enemy within range. The bursts two intertwine, striking the enemy and dealing 8d8 + 8 damage to the target. Half the damage is arcane, and the other half is holy. The damage from either burst is counted as a separate spell for the purposes of any abilities that trigger off spell damage. Furthermore, the target is treated as if they were affected by the secondary sigil effects of both the sunfire and moonfire spells for up to 1 minute. The target is entitled an Agility saving throw to half the damage and negate the secondary effect.
+Heightened. The spell deals an extra 1d8+1 points of damage per every level above level 5.
+If heightened to 7th and 9th level, you can target one additional creature instead of one, but they must be within 10 feet of one another (two at 7th level, three at 9th level).
+
+Stasis Trap [level 1]
+Conjuration [totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 10 minutes
+You plant the totem in the ground anywhere within 30 feet. It is visible for 1 round, before becoming invisible for the rest of its duration (gaining advantage to Stealth, with a Stealth bonus equal to yours). Once invisible, it is effectively active. If a creature moves within 10 feet of the totem during its activity, you are notified of the presence, and you are aware of their creature type and direction of movement (but nothing more).
+If you use your reaction to send the mental command, the totem explodes into a shower of sparks easily seen from up to a mile, lighting up the totem and the area for one round. All creatures 10 feet away from the totem must make an Agility saving throw or be stunned until the beginning of their turn the next round.
+Heightened. The trap remains for ten more minutes more per every level, to a maximum of 100 minutes.
+
+Strangulate [level 4]
+Necromancy
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+Choose a humanoid that you can see within range. The target must succeed on a Stamina saving throw or be paralyzed and lifted ten feet above the ground for the duration. On each of their turns, the target may make another saving throw. On a success, the spell ends for the target, and they drop without taking falling damage. While the creature is paralyzed this way, they are also choking.
+After the spell’s effects end, the target is affected by the mute spell for one round per round of complete strangulation.
+
+Sunbeam [level 3]
+Evocation
+Casting Time: 1 action
+Range: Self
+Components: V, S, M (a lens)
+Duration: Concentration, up to 1 minute
+A beam of brilliant light flashes out from a brilliant mote in your hand in a 5-feet-wide, 30-feet long line. Each creature in the line must make a Stamina saving throw. On a failed save, a creature takes 3d8 holy damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on his saving throw. You can alter the line of radiance as an action on the beginning of any turn until the spell ends. Your hand emits bright light in a 30-foot radius and dim light for an additional 30 feet. The light is treated as sunlight.
+Heightened. The spell’s reach increases by 10 feet per spell level above 3rd, and increases in damage by 1d8 per spell level.
+
+Sunfire [level 3]
+Evocation [sigil]
+Casting Time: 1 action
+Range: 120 feet
+Components: V, S, M (Leaf of any plant)
+Duration: Instantaneous, plus 3 rounds
+You call down a beam of brilliant sunlight that floods the target’s being. Make a ranged spell attack against the target. On a hit, the target takes 3d4 arcane damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+Also, so long as the spell is active, your moonfire spell’s duration increases to match that of sunfire, and you increase the DC or attack bonus of any holy spell you cast by +2.
+If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+Heightened. The damage taken increases by one dice per every level above 3rd.
+
+Swipe and Shred [level 0]
+Evocation [strike]
+Range: Self
+Components: V, S
+Duration: 1 minute, or one use
+You may apply this strike to any melee natural unarmed attack. This deals additional 1d6 damage, and the target suffers disadvantage to attack rolls for one round.
+The spell's damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+Telekinesis [level 3]
+Transmutation
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+You can manipulate creatures or objects within range of the spell. When you cast the spell or start your turn concentrating with it, you may choose a creature or object to exert your will upon. If you switch targets, the prior target is no longer affected by the spell.
+If choosing a creature, make an ability check with your spellcasting ability contested by the creature's Strength saving throw. If you win, you can move the creature up to 15 feet within the spell’s range, and the creature is restrained. The creature has advantage to this saving throw if it is larger than you. The creature must end its movement in a space it can occupy.
+If choosing an object, you can move an unattended object up to 500 lb. up to 15 feet within the range of this spell in a space it can occupy. If targeting an attended object (such as held or worn), you must succeed on an ability check with your spellcasting ability contested to the creature’s Strength saving throw. The creature has advantage to this saving throw if the item is held by two hands or worn by it. A creature can also attempt to wrest control of the object using the same roll. You can exert fine control over the object (such as unlatching a door instead of simply pushing it, or choosing a specific item to manipulate via telekinesis).
+While concentrating on this spell, you can also use an action to channel the spell. If channeling, you can hold the creature or object of the spell in mid-air instead of simply moving them, or you can choose to damage them by telekinetically constricting them. This deals 1d6 points of bludgeoning damage per spell level every round. A character can attempt another contested check at the end of its turn every round to escape the spell.
+If your turn ends without a creature or object held by the spell, the spell ends prematurely and its energies dissipate.
+Special. Death Knights usually call this spell Death Grip, and mages and warlocks often use this spell to restrain and bring down aerial creatures (calling it Aerial Shackles instead).
+Heightening. Per every 2 levels above 3rd level, you increase the spell's range by 30 feet, maximum duration by 5 minutes, speed of movement by 15 feet per round, and the maximum mass of moved objects by 500 lb.
+
+Tiger's Maul [level 2]
+Transmutation [strike]
+Range: Self
+Components: V, S
+Duration: 1 minute, or two uses (whichever comes first)
+You may apply this strike to any melee natural unarmed attack. This deals additional 2d6 damage, and allows you to make an attack roll to trip the target. If the creature is already prone by this ability, it provokes an attack of opportunity from you (and only you) when it stands up.
+Heightened. You deal an additional 1d6 damage per level above 2nd.
+
+Totemic Recall [level 2]
+Evocation
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S, M (splinter of wood)
+Duration: Instantaneous
+You may recall any of your totems within 60 feet. So long as the totem has at least one round remaining and cost at least 1 mana point to place, you regain mana equal to 1 per totem recalled.
+Special. This spell does not cost mana to cast. It does also does not count as a mana restorative effect.
+
+Tranquility [level 5]
+Evocation [healing] [channel (optional)]
+Casting Time: 1 action
+Range: Personal (Self)
+Components: V, S, M (a live rose)
+Duration: Concentration or channeling, up to 1 minute
+A soft magical rain-like light descends within the area around you in a cylinder 15 feet wide, and 60 feet high. When you invoke this rain, you can choose for the power to concentrate on up to six targets, or wash on every creature and object in the area.
+Concentrated Rain. Up to six creatures of your choice that you can see regain hit points equal to 3d8 + your spellcasting ability modifier. The rain-like light appears to concentrate on the targets. The targets are healed at the beginning of your turn every round. This is a concentration effect.
+General Drizzle. You may treat this spell as if a channeled spell. All living and natural creatures (including natural structures and plants) in the area are healed 2d4 + 2 point of damage per round of channeling.
+Any creature who benefits from this spell also seems to become younger and healthier for their age (remaining until the spell's duration ends). Plants briefly grow buds (or attempt to, if too old) and show a healthy lustrous sheen, before returning to their previous state.
+Undead and constructs gain no benefit from tranquility, and are not harmed by it.
+
+Transmute Material [level 3]
+Transmutation [ritual]
+Casting Time: 10 minutes
+Components: V, S, M (original mineral, which is consumed, the alchemical recipe, and a philosopher's stone)
+Range: Touch
+Duration: Instantaneous
+You transmute one material into another by the power of alchemy. You must have mastered the knowledge of the target material (counts as an uncommon alchemical recipe for the purpose of time required for research). The mineral changes into the new one, with the appropriate properties, but maintains the same cost (decreasing or increasing in mass as appropriate); hence 1 pound of gold (50 gp) can be transmuted to 500 pounds of iron (50 gp) so long as you have alchemical knowledge on how to make iron. If the new material is an alloy, you require only the required component materials, and you can transmute the new material (such as Truesilver from Mithril and Thorium).
+If changing the material of a cohesive object (such as a weapon), the surplus materials of the object’s mass are treated as crafting and raw materials. If the object’s mass would decrease, the object is instead destroyed unless you can provide the remaining cost.
+As described with destroying infused materials, you cannot transmute an item that has been attuned to. For instance, transmuting an adamantine breastplate into an iron one grants surplus materials, but doing the reverse turns the breastplate into a spec of adamantine, effectively destroying the armor as an object. Once you cast this spell, you cannot transmute the same mineral until you complete a long rest. You require proficiency in Alchemist’s Supplies to cast this spell.
+Special. If you studied a specific crafting material, you can transmute other crafting materials from other types to the one you have studied, such as turning harvested fire elemental crystals to water elemental crystals.
+
+Trueshot Aura [level 1]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 hour
+An aura of clarity radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. Each allied creature in the area deals 2 extra points of damage with their ranged weapon attacks.
+Heightened. For each spell level above 1st, allied creatures deal 1 extra point of damage (up to 6 extra points of damage at spell level 5).
+Note. This spell cannot affect creatures within the area of a devotion aura spell, or those under the effect of a protection from good and evil spell (or similar abjurations).
+
+Unholy Aura [level 3]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 hour
+A malicious, gnawing miasma of energy radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. All allied creatures within the aura’s range increase their movement speed by 5 feet.
+Whenever they spend hit dice in the aura’s area, they regain 3 extra hit points. This healing does not heal constructs.
+Furthermore, all hostile creatures within the aura that have 0 hit points and are stable are no longer stable on a failed Spirit saving throw.
+Aura Spike. Causing this aura to spike forces a single creature in the aura that has 0 hit points and is not stable to fail a death saving throw.
+Heightened. For each spell level above 3rd, the bonus hit points from spending hit dice is increased by 1 (up to 5 extra hit points at 5th level).
+Note. This spell suppresses and is suppressed by the crusader aura spell.
+
+Unholy Frenzy [level 2]
+2nd level necromancy
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: Concentration, up to 1 minute
+The caster imbues his target with the endurance and energy of the undead. The transmuted creature moves and acts quicker than normal. Choose a creature that you can see within range. Until the spell ends, the target’s speed is doubled, it adds 1d4 extra points of damage on weapon attacks that are modified by Strength, adds 1d4 to its attack rolls, and gains an additional action on each of its turns. That action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action. This extra action does not stack with similar abilities and spells granting extra actions.
+For each round of acting under the spell, the target of this spell takes 5 (2d4) points of shadow damage, and reduce their maximum hit points by 2. The target may roll a Stamina saving throw to end the spell. When the spell ends, the target can’t move or take actions until after its next turn, as a wave of lethargy sweeps over it. The maximum hit points of the creature returns to normal at the end of a long rest.
+
+Vampiric Aura [level 5]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 minute
+A hungering emptiness radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. The first time each turn an allied living creature deals melee weapon damage to a hostile creature that is not a construct or elemental, the regain 1 point of damage for each point of damage they deal (maximum 5 points).
+Note: This spell is suppressed by the protection from good and evil (and similar abjurations).
+
+Void Crash [level 5]
+Evocation
+Casting Time: 1 action
+Range: 100 feet (10-foot-radius sphere)
+Components: V, S
+Duration: Instantaneous
+You summon a torrent of Void energies to crash at target within range. Make a ranged spell attack against the target. On a hit, the target takes 7d8 + 7 points of shadow damage. The void energies erupt from the target in a 10-foot radius, affecting other creatures. Each creature in the 10-foot-radius area besides the initial target takes the one-half the damage the target suffered, and is pulled 5 feet to the initial target. On a successful Spirit saving throw, they take only one-quarter the damage the target suffered, and are not moved.
+If there are no targets within 10 feet of the initial target, the void energies lance out to a secondary target within 30 feet for half the damage instead. This requires a successful ranged spell attack.
+Heightened. The spell deals an extra 1d8+1 damage per every level above level 5.
+
+Void Eruption [level 5]
+Illusion
+Casting Time: 1 action
+Components: S, V
+Range: 50 ft.
+Duration: Instantaneous
+By casting this spell, you choose a point within range. Every creature within a 20-foot sphere of that point the area must make a Spirit saving throw. A target takes 7d6 points of damage on a failed saving throw or half as much damage on a successful saving throw. Half the damage is psychic, and the other half is shadow. A creature who failed their saving throw is also pulled 10 feet towards the center of the sphere (or the point you previously designated). This can pull creatures upwards or downwards.
+Heightened. For each spell level higher than 5th level, the damage dealt by the spell increases by 1d6.
+
+Vulnerability Aura [level 5]
+Abjuration [aura]
+Casting Time: 1 bonus action
+Range: Self (15-foot radius)
+Components: V
+Duration: Concentration (partial), up to 1 hour
+A forbidding, debilitating presence radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. Choose one of the following damage types: cold, fel, fire, or shadow. The target must succeed on a Spirit saving throw or be affected by the spell for its duration. The first time each turn the affected targets take damage of the chosen type, they suffer extra 10 (3d6) damage of that type. The extra damage cannot exceed the total original damage.
+Note. This spell suppresses and is suppressed by the resistance aura spell.
+
+Wind Shear [level 2]
+Evocation
+Casting Time: 1 reaction
+Range: 60 feet
+Components: S
+Duration: Instantaneous
+Reaction. If a creature within range casts on or concentrates on a spell or uses a ranged attack.
+You release shearing line of wind towards any creature that is the process of casting or concentrating on a spell. Make a ranged spell attack. On a hit, the target takes 3d8 slashing damage, and one of the following effects occur (your choice).
+If the target was casting a spell, they must succeed on a concentration check with disadvantage or else lose their spell. If the spell's level is lower than the wind shear spell, the DC is also increased by 5 points.
+If the target was making a ranged attack roll, they make the attack with disadvantage.
+Heightened. For each spell level above 2nd, the initial blast increases in damage by 1d8.
+
+Windfury Tongue [level 5]
+Evocation [strike]
+Range: Self
+Components: V, S
+Duration: 1 minute, or five uses (whichever comes first)
+Over the next minute, whenever your turn starts (including this turn), you must roll a d20. On a 17 or higher, you may make another attack with the same action.
+Heightened. The required dice result to trigger the extra attack is 1 point less on the d20 for every two spell levels above 5th, to a result of a result of a 15 or higher on the d20.
+
+Windfury Tongue Totem [level 7]
+Evocation [aura, totem]
+Casting Time: 1 action
+Range: 30 feet
+Components: V, S
+Duration: 1 minute
+Once you place this totem, it emits an aura with a reaction. This aura spreads in a 15-foot pulse, granting all allies the effect of a windfury tongue of 5th level.
+Heightened. If cast as a 9th level spell, the required dice result is a 16 instead.
+
+Wrath [level 0]
+Evocation
+Casting Time: 1 action
+Range: 60 feet
+Components: V, S
+Duration: Instantaneous
+You release a blast of nature magic towards any creature or object within range. Make a ranged spell attack. On a hit, the target takes 1d8 points of damage. The damage can be one of the following: bludgeoning, slashing, or lightning damage. You can instead choose either arcane or holy, but the damage dice is 1d6 instead.
+On a successful attack roll, you can cast the entangling roots spell on the target for half the normal mana cost. This spell requires a bonus action instead of an action to cast.
+The spell's damage increases by one dice when you reach 5th level (2d8 or 2d6), 11th level (3d8 or 3d6), and 17th level (4d8 or 4d6).
