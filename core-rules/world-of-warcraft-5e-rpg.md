@@ -18911,691 +18911,999 @@ An exploded corpse is desecrated and difficult to raise or animate, and requires
 ___
 **Heightened.** You may deal an additional 2d6 damage per every spell level above 2nd.
 
-Counter Shot [level 1]
-Transmutation [shot]
-Casting Time: 1 reaction
-Range: Maximum range of ranged weapon
-Components: S, M (ranged weapon)
-Duration: Instantaneous
-Reaction. A creature within range targets you with a ranged attack or casts a spell during their turn.
-Make a ranged weapon attack roll against the creature that provoked the counter shot. If the targeted creature was casting a spell, the DC to concentrate on their spell is increased by 5 points from its normal DC.
-Note. Unlike most shot and strike spells, this does not cost a bonus action, and costs a reaction instead.
+#### Counter Shot [level 1]
+*Transmutation [shot]*
+___
+- **Casting Time:** 1 reaction
+- **Range:** Maximum range of ranged weapon
+- **Components:** S, M (ranged weapon)
+- **Duration:** Instantaneous
+___
+A creature within range targets you with a ranged attack or casts a spell during their turn.
 
-Cripple [level 5]
-Necromancy
-Casting Time: 1 action
-Range: 60 feet.
-Components: V, S
-Duration: Concentration, up to 1 minute.
+Make a ranged weapon attack roll against the creature that provoked the counter shot. If the targeted creature was casting a spell, the DC to concentrate on their spell is increased by 5 points from its normal DC.
+___
+*Note.* Unlike most shot and strike spells, this does not cost a bonus action, and costs a reaction instead.
+
+\pagebreakNum
+
+#### Cripple [level 5]
+*Necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute.
+___
 You cripple any living target within range. Make a ranged spell attack. On a success, the target takes -2 to AC and to Agility saving throws, can’t use its reactions, and may make either an action or a bonus action every turn (not both). Regardless of the creature’s abilities, it may only make one melee or ranged attack on its turn, and they deal only half damage with weapon attacks that use Strength or Agility.
+
 If the creature attempts to cast a spell with a casting time of 1 action, roll a d20. On an 11 or higher, the spell doesn’t take effect until the creature’s next turn, and the creature must use its action on that turn to complete the spell. If it can’t, the spell is wasted. At the end of each of the target’s turns, it can make a Stamina saving throw against the spell. On a success, the spell ends.
 
-Curse of Agony [level 2]
-Necromancy [sigil] [curse]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 3 rounds
+#### Curse of Agony [level 2]
+**Necromancy [sigil] [curse]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
 You curse one living target within range with searing agony, setting their nervous system ablaze. Make a ranged spell attack against the target. On a hit, the target suffers 2d4 fel damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+
 Also, so long as the spell is active, the target is treated as if they gained a level of exhaustion for one round (even if they are normally immune to the condition, except if they are immune and are also constructs or undead) until the beginning of their turn in the next round.
+
 If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
-Heightened. The damage increases by one dice per every level above 2nd.
-Special. Whenever the sigil roll succeeds, the target takes 1d4 additional damage the next round, up to 50% extra damage dice.
+___
+**Heightened.** The damage increases by one dice per every level above 2nd.
+___
+*Special.* Whenever the sigil roll succeeds, the target takes 1d4 additional damage the next round, up to 50% extra damage dice.
 
-Crusader Aura [level 3]
-Abjuration [aura]
-Casting Time: 1 bonus action
-Range: Self (15-foot radius)
-Components: V
-Duration: 1 hour
+#### Crusader Aura [level 3]
+**Abjuration [aura]**
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self (15-foot radius)
+- **Components:** V
+- **Duration:** 1 hour
+___
 Invigorating energies radiate from you in an aura with a 15-foot radius centered on you. All allied creatures within the aura’s range increase their movement speed by 10 feet, and are automatically stabilized when reduced to 0 hit points.
-Aura Spike. Causing this aura to spike allows you designate any number of creatures in your aura that have been reduced to 0 hit points and stabilized, and heal them all 1 hit point. This healing does not affect undead or constructs.
-Note. This spell suppresses and is suppressed by the unholy aura spell.
+___
+**Aura Spike.** Causing this aura to spike allows you designate any number of creatures in your aura that have been reduced to 0 hit points and stabilized, and heal them all 1 hit point. This healing does not affect undead or constructs.
+___
+*Note.* This spell suppresses and is suppressed by the unholy aura spell.
 
-Curse of Shadows [level 5]
-Necromancy [curse]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Concentration, up to 1 hour
+#### Curse of Shadows [level 5]
+**Necromancy [curse]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+___
 Upon casting this spell, you must succeed on a ranged touch attack to affect a target within range. On a successful hit, you may curse them with the inability to quickly heal. The target receives only half (-50%) the normal amount of healing from spells and effects that restore hit points. This includes regeneration and similar effects, doubling the duration between healing (alternatively, halving the healing gained).
+
 Alternatively, this spell can weaken the target’s mana restoration, affecting mana points instead.
 
-Curse of Tongues [level 3]
-Necromancy [curse]
-Casting time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: 1 hour
+#### Curse of Tongues [level 3]
+**Necromancy [curse]**
+___
+- **Casting time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** 1 hour
+___
 You target one target within range with the curse of tongues, stealing their voice and causing them to speak in no other language than the dark tongue of Eredun. On a failed Spirit saving throw, the target is cursed, causing them to speak only Eredun.
-Any spell that has a verbal component requires double the normal time to cast. If the target is a good-aligned character, they take 1 point of Psychic damage whenever they speak Eredun. This damage is inflicted once per round of speech.
-Special. Due to the effect being temporary, there is no risk of losing Spirit points by being forced to speak in Eredun. Creatures that can speak uncorrupted Eredun are immune to the effects of this spell.
 
-Curse of Weakness [level 3]
-Necromancy [curse]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Concentration, up to 1 hour
+Any spell that has a verbal component requires double the normal time to cast. If the target is a good-aligned character, they take 1 point of Psychic damage whenever they speak Eredun. This damage is inflicted once per round of speech.
+___
+*Special.* Due to the effect being temporary, there is no risk of losing Spirit points by being forced to speak in Eredun. Creatures that can speak uncorrupted Eredun are immune to the effects of this spell.
+
+#### Curse of Weakness [level 3]
+**Necromancy [curse]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+___
 Upon casting this spell, you must succeed on a ranged touch attack to affect a target. On a successful hit, you may curse them with weakness. The target deals only half damage with weapon and spells attacks. Indirect damage such as sigils, bleeding effects, and other abilities are unaffected.
 
-Cyclone [level 3]
-Evocation
-Casting Time: 1 action
-Range: 60 feet, in a 10-feet-wide, 30-foot-high cylinder.
-Components: V, S
-Duration: Concentration, up to 1 minute
+#### Cyclone [level 3]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet, in a 10-feet-wide, 30-foot-high cylinder.
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
 You target one creature in the area to be affected by a powerful cyclone of rising winds. The creature, once affected, is entitled an Agility saving throw to be unaffected and be moved out of the cylinder radius (to any direction chosen). If the character cannot move away, it is affected regardless, but takes half damage from any falls or cyclone damage.
-The creature targeted rises vertically so long as you are concentrating on the spell, and remains in the middle of the cyclone (15 feet in the air). At the end of each round, the creature may make another Agility saving throw to escape the cyclone, falling out of it and halving fall damage. The creature cannot otherwise move away, unless they can fly and succeed in an Acrobatics check against your spell DC, or manage to latch onto a nearby surface and succeed on an Athletics check. If they attempt to cast spells, they are treated as if distracted, and all attacks made by them are made with concealment from the winds. Only one creature can be held by the cyclone at any given time.
+
+The creature targeted rises vertically so long as you are concentrating on the spell, and remains in the middle of
+
+\pagebreakNum
+
+the cyclone (15 feet in the air).
+
+At the end of each round, the creature may make another Agility saving throw to escape the cyclone, falling out of it and halving fall damage. The creature cannot otherwise move away, unless they can fly and succeed in an Acrobatics check against your spell DC, or manage to latch onto a nearby surface and succeed on an Athletics check. If they attempt to cast spells, they are treated as if distracted, and all attacks made by them are made with concealment from the winds. Only one creature can be held by the cyclone at any given time.
+
 You may use your action to drop the original target creature and lift another one, or to toss the creature.
-Dropping a Creature. Dropping a creature forces the original target to suffer fall damage from its midair height (15 feet for medium creatures, or 1d6 fall damage) and subjects another within the cyclone’s area of effect to being lifted by the cyclone.
-Tossing a Creature. Tossing a creature with cyclone’s full power raises them to the maximum height (30 feet for medium creatures) and drops them from that height to any area within 15 feet away. A successful Agility saving throw when hurled halves the fall damage and drops the creature at any chosen point between the target area and the cyclone’s area.
+___
+**Dropping a Creature.** Dropping a creature forces the original target to suffer fall damage from its midair height (15 feet for medium creatures, or 1d6 fall damage) and subjects another within the cyclone’s area of effect to being lifted by the cyclone.
+___
+**Tossing a Creature.** Tossing a creature with cyclone’s full power raises them to the maximum height (30 feet for medium creatures) and drops them from that height to any area within 15 feet away. A successful Agility saving throw when hurled halves the fall damage and drops the creature at any chosen point between the target area and the cyclone’s area.
+
 As a bonus action, you can move the cyclone up to 30 feet.
-Special. Depending on the creature’s size, the cyclone’s strength is affected.
+___
+*Special.* Depending on the creature’s size, the cyclone’s strength is affected.
 Using an action to toss the target instead doubles their midair height (to the maximum height allowed by the spell) for every action spent.
+
 For example, small and tiny creatures are lifted 20 and 30 feet into the air once caught by the cyclone, respectively, while large creatures are only lifted 10 feet. If tossing a tiny creature, it is sent instantaneously, while a large creature needs an additional round to toss them 30 feet away (one round to elevate them to 20 feet, and another to elevate them to 30 and toss them).
 
-Size		Midair Height
-Tiny		30
-Small		20
-Medium	15
-Large		10
-Huge		5
+| Size | Midair Height |
+|:-:|:-:|
+| Tiny | 30 |
+| Small | 20 |
+| Medium | 15 |
+| Large | 10 |
+| Huge | 5 |
+___
+**Heightened.** You may target another creature in your cyclone effect and increase the midair height by 5 feet per every two spell levels above 3rd. All creatures must be at least 10 feet within reach of one another to be affected in an ongoing cyclone effect. Tossing or dropping a creature requires an action for each target.
 
-Heightened. You may target another creature in your cyclone effect and increase the midair height by 5 feet per every two spell levels above 3rd. All creatures must be at least 10 feet within reach of one another to be affected in an ongoing cyclone effect. Tossing or dropping a creature requires an action for each target.
+#### Dark Void [level 6]
+**Evocation [totem]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
+You conjure a minor gateway to the Twisting Nether that spews corruptive energy and harvests the weak of body. When you cast this spell, you may use a reaction for it to cast shadow word pain on up to three targets. At the start of the
+___
+totem’s turn, if there are less than three targets affected by shadow word pain, the totem casts it again. If the totem causes a target to be bloodied by the spell, the totem instead casts shadow word death spell on the target, removing the shadow word pain sigil.
 
-Dark Void [level 6]
-Evocation [totem]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 1 minute
-You conjure a minor gateway to the Twisting Nether that spews corruptive energy and harvests the weak of body. When you cast this spell, you may use a reaction for it to cast shadow word pain on up to three targets. At the start of the totem’s turn, if there are less than three targets affected by shadow word pain, the totem casts it again. If the totem causes a target to be bloodied by the spell, the totem instead casts shadow word death spell on the target, removing the shadow word pain sigil.
 If a creature dies under the effects shadow word death, you or one target of your choice within 30 feet regain 1d6 hit points.
-Heightened. For each level the spell is heightened above 6th, both shadow word pain and shadow word death spells are heightened for one level.
+___
+**Heightened.** For each level the spell is heightened above 6th, both shadow word pain and shadow word death spells are heightened for one level.
 
-Death and Decay [level 5]
-Necromancy [channel]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S, M (a dead rose)
-Duration: Channeling, up to 1 minute
+#### Death and Decay [level 5]
+**Necromancy [channel]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a dead rose)
+- **Duration:** Channeling, up to 1 minute
+___
 Negative energy infuses a 15-foot radius sphere. Living creatures age rapidly, as skin sags and flesh sloughs off bones. Structures wither and collapse, suffering the effects of decades within seconds.
+
 All living creatures and structures in the area take 6d6 points of shadow damage per round of channeling. Each creature can make a Stamina saving throw to half damage dealt. Creatures that fail their saving throw to half damage also have their speed reduced by half.
+
 The spell deals normal damage to any structure in contact with the ground when the spell is cast, and every round until the spell ends. See Chapter 8: Adventurers for structure damage.
-Heightened. The spell deals an additional 1d6 for every spell level above 5th.
+___
+**Heightened.** The spell deals an additional 1d6 for every spell level above 5th.
 
-Death Coil [level 1]
-Necromancy [healing]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Instantaneous
+#### Death Coil [level 1]
+**Necromancy [healing]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 Invoking the power of death, you bring the living closer to the end, and invigoration to the unholy or undead. The creature you target regains a number of hit points equal to 1d8 + your spellcasting ability modifier if they are undead or fiends. If you target a living or celestial creature, they take damage equal to the hit points they would normally gain as shadow damage. If you target an unwilling creature, you require a ranged spell attack.
+
 Constructs gain no effect from this spell.
-Heightened. The healing increases by 1d8 per level above 1st.
+___
+**Heightened.** The healing increases by 1d8 per level above 1st.
 
-Death Nova [level 3]
-Evocation
-Casting Time: 1 action
-Range: Personal (Self)
-Components: V, S
-Duration: Instantaneous
+#### Death Nova [level 3]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You release a burst of death a 15-foot radius sphere centered on you. All undead allies are healed 3d4 hit points, while all enemies take 3d4 points of shadow damage.
+
+\pagebreakNum
+
 Creatures harmed by this spell are entitled a Spirit saving throw to half damage. The aura of death spreads around corners. Celestials and those who directly channel the Holy Light suffer disadvantage to their saving throw.
-Heightened. The spell’s dice increase by 1d4 for each level above 3rd.
+___
+**Heightened.** The spell’s dice increase by 1d4 for each level above 3rd.
 
-Death Pact [level 1]
-Necromancy
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Instantaneous
+#### Death Pact [level 1]
+**Necromancy**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You siphon latent soul-magic from an undead or fiendish creature within range to heal yourself. The target (if intelligent) is entitled a Spirit saving throw to negate this effect.
+
 The target loses 3d6 hit points, which you regain as hit points. The target (if intelligent) is entitled a Spirit saving throw to negate this effect.
+
 If the creature is reduced to 0 hit points, it is destroyed as normal for its type, and you are affected by the inner fire spell (spell equal to the death pact spell level).
+
 Instead of regaining hit points, you can cast the spell for no mana at all, and regain 1d4 mana points when draining the power from an undead or fiendish creature.
-Heightened. For each level above 1st, you drain 3d6 additional hit points (and regain the same), or regain 1d4 extra mana points.
+___
+**Heightened.** For each level above 1st, you drain 3d6 additional hit points (and regain the same), or regain 1d4 extra mana points.
 
-Demon Skin [level 1]
-Conjuration
-Casting Time: 1 action
-Range: Personal (Self)
-Components: V, S, M (grounded tooth dust)
-Duration: 1 hour
+#### Demon Skin [level 1]
+**Conjuration**
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S, M (grounded tooth dust)
+- **Duration:** 1 hour
+___
 You speak the words of power, and your skin becomes ragged and solid.
+
 Your base AC becomes 13 + you Agility modifier, and you gain 3 temporary hit points for the duration of the spell. So long you have at least 1 temporary hit point, you have vulnerability against holy damage.
+
 The spell ends if you dismiss the spell as an action.
-Heightened. When you cast this spell as a 2nd level spell or higher, the temporary hit points increase by 3 for each spell level above 1st.
+___
+**Heightened.** When you cast this spell as a 2nd level spell or higher, the temporary hit points increase by 3 for each spell level above 1st.
 
-Demonic Doom [level 9]
-Conjuration [sigil]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 3 rounds
+#### Demonic Doom [level 9]
+**Conjuration [sigil]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
 You curse the target with a terrible fate as fel-fire begins to burn them from the inside-out. Make a ranged spell attack against any target within range. The target suffers 9d6 fel damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+
 If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
-If a creature is reduced to 0 hit points, this sigil does not end. If the creature dies while still under the effects of demonic doom, and if it has a CR higher than 2, its corpse is destroyed, and a column of fire appears, dealing 9d6 points of fel damage to all targets in a 10-foot radius sphere centered on the corpse. A Doomguard Champion is conjured on the spot, and it remains for a minute. The DM has the Doomguard's statistics. The Doomguard starts uncontrolled, requiring the charm fiends or dominate fiends spell to control. The DM has the Doomguard's statistics.
 
-Denounce [level 2]
-Abjuration
-Casting Time: 1 reaction
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous
-Reaction. A creature within range is hit with a critical hit
+If a creature is reduced to 0 hit points, this sigil does not end. If the creature dies while still under the effects of demonic doom, and if it has a CR higher than 2, its corpse
+___
+is destroyed, and a column of fire appears, dealing 9d6 points of fel damage to all targets in a 10-foot radius sphere centered on the corpse. A Doomguard Champion is conjured on the spot, and it remains for a minute. The DM has the Doomguard's statistics. The Doomguard starts uncontrolled, requiring the charm fiends or dominate fiends spell to control. The DM has the Doomguard's statistics.
+
+#### Denounce [level 2]
+**Abjuration**
+___
+- **Casting Time:** 1 reaction
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A creature within range is hit with a critical hit.
+
 You may cast this spell as a reaction against any creature hit with a critical hit. Make a ranged spell attack against the attacker. On a success, their hit then is no longer a critical hit.
-Heightened. If heightened to 4th level, you have advantage on the required spell attack.
+___
+**Heightened.** If heightened to 4th level, you have advantage on the required spell attack.
 
-Detonate Mana [level 4]
-Evocation
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Instantaneous
+#### Detonate Mana [level 4]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You target an area with a 10-foot sphere of black-purple anti-magic. Where the sphere explodes, all creatures that can use mana lose 1d4 + 1 mana points, and take 2 arcane damage for every mana point lost.
+
 If the creature loses more than 3 mana points this way, they are subjected to a dispel magic effect (spell level equal to the Detonate Mana spell level – 2).
-Heightened. The number of mana points drained increases by 1d4 points per every two levels above 4 (2d4 + 1 at level 6).
-Special: Demons always have active mana, and can always be targeted with mana burn. If they have no mana, they still take 2 points of arcane damage per potential mana burn point.
+___
+**Heightened.** The number of mana points drained increases by 1d4 points per every two levels above 4 (2d4 + 1 at level 6).
+___
+*Special.* Demons always have active mana, and can always be targeted with mana burn. If they have no mana, they still take 2 points of arcane damage per potential mana burn point.
 
-Devotion Aura [level 1]
-Abjuration [aura]
-Casting Time: 1 bonus action
-Range: Self (15-foot radius)
-Components: V
-Duration: 1 hour
+#### Devotion Aura [level 1]
+**Abjuration [aura]**
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self (15-foot radius)
+- **Components:** V
+- **Duration:** 1 hour
+___
 Protective energies radiate from you in an aura with a 15-foot radius centered on you. All allied creatures in the area suffer 2 less points of weapon damage (to a minimum of 1 point of damage).
+
 A hostile creature attacking your allied creature can attempt a Spirit saving throw against your aura DC. If they succeed on the saving throw, the damage from their attacks is not reduced by this spell.
+
 This spell is suppressed by the protection from good and evil (and similar abjurations). This is an aura bonus.
-Heightened. For each spell level above 1st, allied creatures in the aura’s area of effect take 1 less point of damage (up to 6 less points of damage at spell level 5).
-Note. This spell suppresses and is suppressed by the abandonment aura spell.
+___
+**Heightened.** For each spell level above 1st, allied creatures in the aura’s area of effect take 1 less point of damage (up to 6 less points of damage at spell level 5).
 
-Distraction Aura [level 4]
-Abjuration [aura]
-Casting Time: 1 bonus action
-Range: Self (15-foot radius)
-Components: V
-Duration: Concentration (partial), up to 1 hour
+\pagebreakNum
+
+*Note.* This spell suppresses and is suppressed by the abandonment aura spell.
+
+#### Distraction Aura [level 4]
+**Abjuration [aura]**
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self (15-foot radius)
+- **Components:** V
+- **Duration:** Concentration (partial), up to 1 hour
+___
 An unnatural deathly buzz radiates from you in an aura with a 15-foot radius. Until the spell ends, the aura moves with you, centered on you. Each hostile creature in the area suffer disadvantage on Stamina saving throws to maintain their concentration on spells. A creature can negate this effect if they succeed on a Spirit saving throw once within the aura’s area.
-Aura Spike. Causing this aura to spike forces a single hostile creature in the aura that already failed the saving throw to act as if they were distracted for the purposes of spellcasting.  
-Note. This spell suppresses and is suppressed by the concentration aura spell.
+___
+**Aura Spike.** Causing this aura to spike forces a single hostile creature in the aura that already failed the saving throw to act as if they were distracted for the purposes of spellcasting.  
+___
+*Note.* This spell suppresses and is suppressed by the concentration aura spell.
 
-Divine Shield [level 2]
-Abjuration
-Casting Time: 1 action
-Range: Personal (Self)
-Components: V, S
-Duration: Concentration, up to 1 minute
+#### Divine Shield [level 2]
+**Abjuration**
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
 You raise your hand, and are protected by the grace of the Holy Light. A powerful shielding ward protects you, granting you 4d8 temporary hit points so long as the spell is active. Furthermore, the temporary hit points can also be spent to absorb spells (3 hit points per spell level).
-If the shield manages to absorb all damage from an effect or absorb a spell, you are protected against any secondary effects (as if immune). This can be determined after a saving throw.
-The spell cannot be overwhelmed with one attack. If reduced to 0 temporary hit points with one attack, the spell ends with 1 hit point instead. This can occur only once for every instance of the spell being cast.
-Heightened. For every spell level above 2nd, the number of temporary hit points increases by 2d8.
 
-Dominate [level 5]
-Enchantment
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Concentration, up to 1 minute
+If the shield manages to absorb all damage from an effect or absorb a spell, you are protected against any secondary effects (as if immune). This can be determined after a saving throw.
+
+The spell cannot be overwhelmed with one attack. If reduced to 0 temporary hit points with one attack, the spell ends with 1 hit point instead. This can occur only once for every instance of the spell being cast.
+___
+**Heightened.** For every spell level above 2nd, the number of temporary hit points increases by 2d8.
+
+#### Dominate [level 5]
+**Enchantment**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
 You attempt to beguile a creature you can see within range. When preparing this spell, you can choose to be able to dominate humanoids, beasts, or one creature type your class can bind (see binding under spellcasting).
+
 It must succeed on a Spirit saving throw or be dominated by you for the duration (as Charm). If you or creatures that are friendly to you are fighting it, it has advantage on the saving throw.
-While the target is dominated, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious (no action required), which it does its best to obey. You can specify a simple and general course of action, such as attack that creature, run over there, or fetch that object. If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
+
+While the target is dominated, you have a telepathic link with it as long as the two of you are on the same plane of existence. You can use this telepathic link to issue commands to the creature while you are conscious
+___
+(no action required), which it does its best to obey. You can specify a simple and general course of action, such as attack that creature, run over there, or fetch that object. If the creature completes the order and doesn't receive further direction from you, it defends and preserves itself to the best of its ability.
+
 You can use your action to take total and precise control of the target. Until the end of your next turn, the creature takes only the actions you choose, and doesn't do anything that you don't allow it to do. During this time, you can also cause the creature to use a reaction, but this requires you to use your own reaction as well.
+
 Each time the target takes damage, it makes a new Spirit saving throw against the spell. If the saving throw succeeds, the spell ends. This only affects the creature type specified by the spell (a Dominate Undead cannot also dominate a humanoid).
-Special: If choosing to affect beasts only, the spell’s level is decreased to 4th level instead, as their minds are more malleable.
-Heightened. When you heighten this to a 6th-level spell, the maximum duration becomes 10 minutes. This increases to 1 hour to 8 hours as 7th and 8th spells, respectively.
+___
+*Special.* If choosing to affect beasts only, the spell’s level is decreased to 4th level instead, as their minds are more malleable.
+___
+**Heightened.** When you heighten this to a 6th-level spell, the maximum duration becomes 10 minutes. This increases to 1 hour to 8 hours as 7th and 8th spells, respectively.
+
 For each spell level the dominate spell is heightened, you can add one additional creature type to the dominate spell (level 6 dominate can dominate humanoids, elementals, or undead for up to 10 minutes).
 
-Drain Life [level 4]
-Necromancy [channel]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Channeling, up to 1 minute
+#### Drain Life [level 4]
+**Necromancy [channel]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Channeling, up to 1 minute
+___
 You can siphon life force from others to heal your wounds by tethering their life-force to yours, causing a stream of life-force to surge. Make a spell attack against a creature within 60 feet. On a hit, the target takes 4d4 fel damage, and you regain hit points equal to half the amount of fel damage dealt. If the target is Bloodied, the spell deals (and heals) double damage.
+
 The stream of life may be blocked by losing line of sight or effect, or moving at least 60 feet away from the target, at which case the spell is dispelled. Medium creatures or smaller cannot block the stream, but Large creatures generally do, as well as anything that blocks magical vision or effect (such as a sheet of lead, etc.).
-Heightened. When you cast this spell as a 5th level spell or higher, the damage increases by 1d4 for each spell level above 4th.
+___
+**Heightened.** When you cast this spell as a 5th level spell or higher, the damage increases by 1d4 for each spell level above 4th.
 
-Drain Mana [level 4]
-Necromancy [channel]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Channeling, up to 1 minute
+#### Drain Mana [level 4]
+**Necromancy [channel]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Channeling, up to 1 minute
+___
 You shoot your hand forward, and drain mana from your target, drawing it out from their eyes, nose, and mouth in blue rope-like streams.
-The target of this spell loses 2d4 mana points every round, while you gain half the mana taken. The stream may be blocked by losing line of sight or effect (as Drain Life), at which case the spell is dispelled. Creatures the caster’s size or smaller cannot block the stream, but creatures larger than they generally do. Mana restored this way cannot exceed your maximum mana points.
-You may also use this to push a number of your own mana points at the same rate. Unlike most mana-restorative effects, drain mana has no limit of once per hour.
-Heightened. You increase the mana stolen by 1d4 mana points for every two spell levels heightened (and mana regained, as appropriate).
 
-Earthbind Totem [level 4]
-Evocation [totem]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 1 minute
+The target of this spell loses 2d4 mana points every round, while you gain half the mana taken. The stream may be blocked by losing line of sight or effect (as Drain Life),
+
+\pagebreakNum
+
+at which case the spell is dispelled. Creatures the caster’s size or smaller cannot block the stream, but creatures larger than they generally do. Mana restored this way cannot exceed your maximum mana points.
+
+You may also use this to push a number of your own mana points at the same rate. Unlike most mana-restorative effects, drain mana has no limit of once per hour.
+___
+**Heightened.** You increase the mana stolen by 1d4 mana points for every two spell levels heightened (and mana regained, as appropriate).
+
+#### Earthbind Totem [level 4]
+**Evocation [totem]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
 Once you place this totem, you may use a reaction to target any creature within 90 feet of it with the effect of Earthbind, as the spell of the same name. The totem automatically concentrates on any target you choose.
+
 This totem otherwise functions as all other totem spells.
 
-Earthquake [Level 5]
-Evocation
-Casting Time: 1 action
-Range: 100 feet
-Components: V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
-Duration: Concentration, up to 1 minute
+#### Earthquake [Level 5]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 100 feet
+- **Components:** V, S, M (a pinch of dirt, a piece of rock, and a lump of clay)
+- **Duration:** Concentration, up to 1 minute
+___
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 30-foot-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area.
+
 The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Stamina saving throw. On a failed save, the creature’s concentration is broken. When you cast this spell, and at the end of each turn you spend concentrating on it, each creature on the ground in the area must make an Agility saving throw. On a failed save, the creature is knocked prone. This spell can have additional effects depending on the terrain in the area, as determined by the DM.
-Fissures. Fissures open throughout the spell’s area at the start of your next turn after you cast the spell. A total of 1d6 such fissures open in locations chosen by the DM.
+___
+**Fissures.** Fissures open throughout the spell’s area at the start of your next turn after you cast the spell. A total of 1d6 such fissures open in locations chosen by the DM.
+
 Each is 10 feet deep, 5 feet wide, and 20 feet tall. A creature standing on a spot where a fissure opens must succeed on a Agility saving throw or fall in. A creature that successfully saves moves with the fissure’s edge as it opens. A fissure that opens beneath a structure deals 10 points of damage to it (see structures below). Depending on the geological presence under the earth, the fissure can act differently, but in all cases, the fissures close at the end of the spell:
-Fissures: Volcanic. If the fissure is over a volcanically-active region (as adjudicated by the DM), the fissures shoot out lava instead of opening cracks in the earth. The fissures instead create a shallow pool of rapidly-cooling lava that deals 2d10 points of fire damage at the beginning of the creature’s turn every round.
-Fissures: Geysers. If the fissure is over a geyser-active region (as adjudicated by the DM), the fissures shoot out hot water instead of opening cracks in the earth.
-Fissures: Underground Water. If the fissure is over underground water reservoirs, the fissures reveal water instead if the depth of the fissure reaches it, and it arises to fill the fissure itself. On average, most underground water is 50 feet deep, but it sometimes reaches more (up to 100 feet) in arid regions.
-Structures. The tremor deals 10 bludgeoning damage to any structure in contact with a fissure opened by the spell and at the start of each of your turns until the spell ends, regardless of environment (although lava deals extra damage). This stacks with the damage the structure would take if a fissure opens beneath it. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures.
-A creature within half the distance of a structure’s height must make a Agility saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
-Heightened. When cast as an 8th level spell, the range of the spell increases to 500 feet, and the radius of the spell becomes a 100-foot-radius circle.
+- **Volcanic.** If the fissure is over a volcanically-active region (as adjudicated by the DM), the fissures shoot out lava instead of opening cracks in the earth. The fissures instead create a shallow pool of rapidly-cooling lava that deals 2d10 points of fire damage at the beginning of the creature’s turn every round.
+- **Geysers.** If the fissure is over a geyser-active region (as adjudicated by the DM), the fissures shoot out hot water instead of opening cracks in the earth.
+* **Underground Water.** If the fissure is over underground water reservoirs, the fissures reveal water instead if the depth of the fissure reaches it, and it arises to fill the fissure itself. On average, most underground water is 50 feet deep, but it sometimes reaches more (up to 100 feet) in arid regions.
+* **Structures.** The tremor deals 10 bludgeoning damage to any structure in contact with a fissure opened by the spell and at the start of each of your turns until the spell ends, regardless of environment (although lava deals extra damage). This stacks with the damage the structure would take if a fissure opens beneath it. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the distance of a structure’s height must make a Agility saving throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble, requiring a DC 20 Strength (Athletics) check as an action to escape. The DM can adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes half as much damage and doesn’t fall prone or become buried.
+___
+**Heightened.** When cast as an 8th level spell, the range of the spell increases to 500 feet, and the radius of the spell becomes a 100-foot-radius circle.
+
 The depth of the fissures created by the spell become 1d10 x 10 feet deep, and their area becomes 10 feet wide. Furthermore, the fissures extend from one edge of the spell’s area to the opposite side, instead of being 20 feet tall. A fissure that opens beneath a structure causes it to automatically collapse. The tremor also deals 50 damage per round until the spell ends, instead of 10. A lava fissure’s area expands to the entire area instead.
 
-Earth Shield [level 2]
-Transmutation [sigil]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 3 rounds
+#### Earth Shield [level 2]
+**Transmutation [sigil]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
 You conjure a shield of earth to guard and protect a creature within range. The target gains 2d4 temporary hit points.  The sigil pulses at the start of your turn every round, replenishing the temporary hit points.
+
 Also, so long as this sigil is active, the target also gains a +2 bonus to their AC.
 Heightened. For each spell level above 2nd, you add 1d4 extra temporary hit points.
 
-Elemental Armor [level 1]
-Abjuration [array]
-Casting Time: 1 action
-Range: Self
-Components: V, S, M (an object struck by the element)
-Duration: 1 hour
+#### Elemental Armor [level 1]
+**Abjuration [array]**
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (an object struck by the element)
+- **Duration:** 1 hour
+___
 A protective magical field surrounds you, manifesting as a spectral element. You gain 5 temporary hit points for the duration of the spell. If a creature hits you with a weapon or spell attack while these hit points remain, they may manifest one of the following effects, depending on whether the element is Fire, Frost, or Lightning.
-All. The attacker takes 1 point of elemental per point of damage they deal (maximum equal to the remaining temporary hit points). The target must be within melee reach.
-All. You may gain resistance against the damage (only if the armor’s element matches the damaging element). This reduces the temporary hit points by 5.
-Frost or Lightning only: The target is chilled for one round.
-Fire only: Target is scorched for one round.
-Heightened. The temporary hit points increase by 5 for every level above 1st.
 
-Elemental Shock [level 1]
-Evocation [array]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 1 round
+\pagebreakNum
+
+* **All.** The attacker takes 1 point of elemental per point of damage they deal (maximum equal to the remaining temporary hit points). The target must be within melee reach.
+* **All.** You may gain resistance against the damage (only if the armor’s element matches the damaging element). This reduces the temporary hit points by 5.
+* **Frost or Lightning only.** The target is chilled for one round.
+* **Fire only.** Target is scorched for one round.
+___
+**Heightened.** The temporary hit points increase by 5 for every level above 1st.
+
+#### Elemental Shock [level 1]
+**Evocation [array]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 1 round
+___
 Make a spell attack roll at a target within range. You blast the target with a burst of elemental energy, dealing 2d8 damage from any of elemental damage type you choose (chosen from acid, cold, fire, or lightning). Furthermore, depending on the damage type you choose, the target also suffers a secondary effect if they fail a Stamina saving throw.
-Earth (acid). The target is pushed 10 feet in any direction you choose.
-Fire (fire). The target is scorched for until the beginning of your turn in the next round.
-Frost (cold). The target is chilled for until the beginning of your turn in the next round.
-Storm (lightning). The target takes disadvantage to attack rolls until the beginning of your turn in the next round.
-Heightened. The initial damage increases by 2d8 per level above 1st.
+* **Earth (acid).** The target is pushed 10 feet in any direction you choose.
+* **Fire (fire).** The target is scorched for until the beginning of your turn in the next round.
+* **Frost (cold).** The target is chilled for until the beginning of your turn in the next round.
+* **Storm (lightning).** The target takes disadvantage to attack rolls until the beginning of your turn in the next round.
+___
+**Heightened.** The initial damage increases by 2d8 per level above 1st.
 Special. This spell costs one less mana point than normal for its spell level.
 
-Elemental Shock Totem [level 3]
-Abjuration [array, totem]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 1 minute
+#### Elemental Shock Totem [level 3]
+**Abjuration [array, totem]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
 Once you place this totem, you may use a reaction to target any creature within 30 feet of it with a blast of elemental energy, as the spell elemental shock.
+
 This totem otherwise functions as all other totem spells.
-Special. This spell costs one less mana point than normal for its spell level.
+___
+*Special.* This spell costs one less mana point than normal for its spell level.
 
-Elemental Tongue [level 1]
-Evocation [strike]
-Range: Self
-Components: V, S
-Duration: 1 minute, or one use (whichever comes first)
+#### Elemental Tongue [level 1]
+**Evocation [strike]**
+___
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 minute, or one use (whichever comes first)
+___
 You may apply this strike to any melee weapon attack. This deals additional 2d6 damage, chosen from any type of elemental damage you choose when you cast the spell. This deals an additional effect as elemental shock.
-Heightened. You deal an additional 1d6 elemental damage or one additional use from any of the above elements per level above 1st.
+___
+**Heightened.** You deal an additional 1d6 elemental damage or one additional use from any of the above elements per level above 1st.
 
-Entangling Roots [level 1]
-Conjuration
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Concentration, up to 1 minute
+#### Entangling Roots [level 1]
+**Conjuration**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
 By targeting one creature within range, you sprout thorny vines and weeds that constrict on them. The creature must succeed on a Strength saving throw or else be restrained by the entangling weeds so long as you concentrate. While the creature is restrained, they take 1d4 damage every round (the type is either piercing, slashing, or bludgeoning).
+
 They may use an action every round to make a Strength check against your DC again. On a success, it frees itself, and the plants wilt away.
-Heightened. The damage dealt increases by 1d4 per level above 1st and can entangle another creature within 5 feet.
+___
+**Heightened.** The damage dealt increases by 1d4 per level above 1st and can entangle another creature within 5 feet.
 
-Exorcism [level 2]
-Evocation
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Instantaneous
+#### Exorcism [level 2]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You call upon the Holy Light (or forcefully draw out fel or shadow magic) to harm fiends or undead. Make a ranged spell attack. If the target is a fiend or undead, they take 4d10 holy damage.
+
 If the target is a creature under a possession or possession spell by an undead or fiend, only the possessing creature takes the damage, and the victim may re-roll against the possession effect with advantage.
+
 If the target is charmed or dominated by an undead or fiend, or is a conjured or bound undead, the target creature may (instead of being damaged) have the spell dispelled if it is of a spell level 2nd or lower. If higher, you must succeed on a spellcasting ability check against a DC of 10 + spell level.
+
 Alternatively, if the target is an unrestrained conjured creature, the exorcism spell can send it back to its origin plane if the target fails a Charisma saving throw. If it succeeds, you may still deal damage to it on a successful spell attack.
-Heightened. The damage increases by 2d10 for each spell level above 2nd.
+___
+**Heightened.** The damage increases by 2d10 for each spell level above 2nd.
 
-Explosion [level 1]
-Evocation
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S, M (empty egg shell)
-Duration: Instantaneous, or up to 3 rounds
+#### Explosion [level 1]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (empty egg shell)
+- **Duration:** Instantaneous, or up to 3 rounds
+___
 You draw power into the material, and then release it to explode either instantaneously or delayed for up to three rounds. This explosion deals 2d6 concussive damage in a 10-foot radius sphere and knocks them prone. If a creature passes an Agility saving throw, they take only half damage and are not knocked prone.
-The explosion also releases a splash of damage beyond the explosive’s area, dealing 2 point of damage of the same type 5 feet away from the blast. A successful Agility saving throw against this effect negates the damage entirely.
-Heightened. For each level above 1st, you add an additional 1d6 damage (and one additional point of splash damage).
-Special. When preparing the spell, you can instead make the explosion deal fire, cold, lightning, or acid damage.
 
-Fade [level 1]
-Illusion
-Casting Time: 1 action
-Range: Touch
-Components: S
-Duration: Concentration, up to 1 minute
+The explosion also releases a splash of damage beyond the explosive’s area, dealing 2 point of damage of the same type 5 feet away from the blast.
+
+\pagebreakNum
+
+A successful Agility saving throw against this effect negates the damage entirely.
+___
+**Heightened.** For each level above 1st, you add an additional 1d6 damage (and one additional point of splash damage).
+___
+*Special.* When preparing the spell, you can instead make the explosion deal fire, cold, lightning, or acid damage.
+
+#### Fade [level 1]
+**Illusion**
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** S
+- **Duration:** Concentration, up to 1 minute
+___
 A creature you touch camouflages with its surroundings. At the start of the creature’s turn, and before it moves, the target can Hide, even when directly observed. If the creature moves, casts a spell, or attacks, it must attempt to Hide again.
 
-Fear Ward [level 1]
-Abjuration [totem]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 1 minute
+#### Fear Ward [level 1]
+**Abjuration [totem]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
 Once you place this totem, it emits an aura with a reaction. This aura spreads in a 15-foot pulse, granting all allies advantages to saving throws versus fear effects.
 
-Fire Nova [level 3]
-Evocation
-Casting Time: 1 action
-Range: Personal (self)
-Components: V, S
-Duration: Instantaneous
+#### Fire Nova [level 3]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (self)
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You release a burst of flame in the area, creating a burning sphere centered on you, igniting the very air around you. Any creature within a 20-foot radius sphere suffer 8d6 fire damage, and are entitled an Agility saving throw to half damage. The heat spreads around corners. You may exclude a number of potential targets from being affected by the spell equal to your spellcasting ability score modifier. The chosen creatures automatically succeed on their saving throws against the spell, and they take no damage if they would normally take half damage on a successful save. This stacks with similar features.
-Also, if a target struck by this spell has been harmed by the elemental shock (fire) or fire bolt spells and failed their saving throw to half damage, they take extra damage equal to the spell level on the start of their round, and are scorched for one round.
-Heightened. When you cast this spell as 4th level spell or higher, the initial damage increases by 1d6 per spell level above 3rd.
 
-Fire Nova Totem [level 5]
-Evocation [totem]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 1 minute
+Also, if a target struck by this spell has been harmed by the elemental shock (fire) or fire bolt spells and failed their saving throw to half damage, they take extra damage equal to the spell level on the start of their round, and are scorched for one round.
+___
+**Heightened.** When you cast this spell as 4th level spell or higher, the initial damage increases by 1d6 per spell level above 3rd.
+
+#### Fire Nova Totem [level 5]
+**Evocation [totem]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
 Once you place this totem, you may use a reaction to have it release the effects of a 3rd level fire nova, as the spell of the same name. Neither you nor your totems can be harmed by this ability.
 
-Flare [level 2]
-Evocation
-Casting Time: 1 action
-Range: Maximum range of ranged weapon
-Components: V, S, M (ranged weapon)
-Duration: 1 minute
+#### Flare [level 2]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** Maximum range of ranged weapon
+- **Components:** V, S, M (ranged weapon)
+- **Duration:** 1 minute
+___
 You shoot a blazing projectile that arcs through the air, to any point within range. the projectile sheds medium light for its active duration, removing most conditions that allow a creature to hide and revealing what is in the location (such as darkness or light mist). This spell dispels a 10-foot cube of fog or mist (or attempts to as dispel magic, if a fog cloud spell is at its level or higher).
 
-Flash of Light [level 1]
-Evocation [healing]
-Casting Time: 1 reaction or bonus action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous
-Reaction. A creature in range is hit with an attack, or an undead or fiend moves within range.
+#### Flash of Light [level 1]
+**Evocation [healing]**
+___
+- **Casting Time:** 1 reaction or bonus action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A creature in range is hit with an attack, or an undead or fiend moves within range.
+
 A creature of your choice that you can see is healed 1d4 + your spellcasting modifier. If the target is an undead or fiendish creature, the target takes the damage specified as holy damage. This has no effect on constructs.
-If you target an unwilling creature, you require a ranged spell attack.
-Heightened. The healing increases by 1d4 for each level above 1st.
 
-Flash of Shadow [level 1]
-Evocation [healing]
-Casting Time: 1 reaction or bonus action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous
-Reaction. A creature in range is hit with an attack, or a living creature moves within range.
+If you target an unwilling creature, you require a ranged spell attack.
+___
+**Heightened.** The healing increases by 1d4 for each level above 1st.
+
+#### Flash of Shadow [level 1]
+**Evocation [healing]**
+___
+- **Casting Time:** 1 reaction or bonus action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
+A creature in range is hit with an attack, or a living creature moves within range.
+
 A creature of your choice that you can see is healed 1d4 + your spellcasting modifier if it is an undead or fiend. If the target is a living or celestial creature, the target takes the damage specified as shadow damage. This has no effect on constructs.
+
 If you target an unwilling creature, you require a ranged spell attack.
-Heightened. The healing increases by 1d4 for each level above 1st.
+___
+**Heightened.** The healing increases by 1d4 for each level above 1st.
 
-Freezing Sphere [level 2]
-Evocation
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S, M (small crystal sphere)
-Duration: Instantaneous, or up to 1 minute.
-You create a frigid globe of transparent blue ice brimming with elemental energies. Once you cast this spell, you can retain the globe or throw it up to the range of the spell, causing it to explode in a 10-foot radius sphere. The explosion releases a burst of numbing cold. All creatures in the area must succeed on a Stamina saving throw or take 4d8 cold damage in the area on a failed saving throw, or half the normal amount passing the save. If the globe strikes a body of water or a liquid with similar freezing points, the spell freezes the liquid within its active radius to a depth of 6 inches for 1 minute. Creatures that were swimming or that were in the water at the moment must succeed on an additional Strength saving throw as an action versus your spell DC or be restrained.
+#### Freezing Sphere [level 2]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (small crystal sphere)
+- **Duration:** Instantaneous, or up to 1 minute.
+___
+You create a frigid globe of transparent blue ice brimming with elemental energies. Once you cast this spell, you can retain the globe or throw it up to the range of the spell,
+
+\pagebreakNum
+
+causing it to explode in a 10-foot radius sphere. The explosion releases a burst of numbing cold. All creatures in the area must succeed on a Stamina saving throw or take 4d8 cold damage in the area on a failed saving throw, or half the normal amount passing the save. If the globe strikes a body of water or a liquid with similar freezing points, the spell freezes the liquid within its active radius to a depth of 6 inches for 1 minute. Creatures that were swimming or that were in the water at the moment must succeed on an additional Strength saving throw as an action versus your spell DC or be restrained.
+
 You can throw the sphere further than the spell's normal range by retaining it and releasing it via a sling with an attack action (up to the sling's normal range). After 1 minute of being conjured, the sphere shatters.
-Heightened. When cast as a 3rd level spell, the damage increases by 2d8 per level above 3rd. When heightened to 4th level, the range increases to 100 feet, and the radius increases to 20 feet. When heightened to 6th level, the range increases to 300 feet, and the radius increases to 30 feet. When heightened to 8th level, the range increases to 400 feet, and the radius increases to 40 feet.
-Special. The spell can freeze damaging surfaces (such as fires and liquids) that deal less damage on average than the spell itself. Since lava deals 20d6 points of fire damage (average 70), only a level 8 Freezing Sphere (average 72) can freeze a surface of lava.
+___
+**Heightened.** When cast as a 3rd level spell, the damage increases by 2d8 per level above 3rd. When heightened to 4th level, the range increases to 100 feet, and the radius increases to 20 feet. When heightened to 6th level, the range increases to 300 feet, and the radius increases to 30 feet. When heightened to 8th level, the range increases to 400 feet, and the radius increases to 40 feet.
+___
+*Special.* The spell can freeze damaging surfaces (such as fires and liquids) that deal less damage on average than the spell itself. Since lava deals 20d6 points of fire damage (average 70), only a level 8 Freezing Sphere (average 72) can freeze a surface of lava.
 
-Frost Bolt [Level 0]
-Evocation
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous
+#### Frost Bolt [Level 0]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You use your action to fire a bolt of frost at a creature you can see. Make a ranged spell attack. On hit, the target takes 1d8 cold damage, and is chilled for 1 round.
+
 The spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
 
-Frost Nova [level 3]
-Evocation
-Casting Time: 1 action
-Range: 150 feet
-Components: V, S, M (drop of water)
-Duration: Instantaneous
+#### Frost Nova [level 3]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (drop of water)
+- **Duration:** Instantaneous
+___
 You release a burst of frost in the area, creating a freezing blast centered on the point you specify in range. Any creature within a 20-foot radius sphere suffer 8d6 cold damage and the chilled condition, and are entitled an Agility saving throw to half damage (a successful save negates the condition). The cold spreads around corners.
-Heightened. The damage increases by 1d6 for each level above 3rd.
+___
+**Heightened.** The damage increases by 1d6 for each level above 3rd.
 
-Frostfire Bolt [level 1]
-Evocation
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 3 rounds
+#### Frostfire Bolt [level 1]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
 You shoot a bolt of blue fire and red ice at a single enemy within range. Make a ranged spell attack, and on a success, the target takes 2d6 damage. The damage is half fire, and half cold. The target is also chilled for three rounds.
-Heightened. The damage increases by 1d6 fire and 1d6 frost each.
+___
+**Heightened.** The damage increases by 1d6 fire and 1d6 frost each.
 
-Globe of Invulnerability [level 4]
-Abjuration
-Casting Time: 1 action
-Range: Self
-Components: V, S, M (a glass or crystal bead that shatters when the spell ends)
-Duration: Concentration, up to 1 minute
+#### Globe of Invulnerability [level 4]
+**Abjuration**
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (a glass or crystal bead that shatters when the spell ends)
+- **Duration:** Concentration, up to 1 minute
+___
 An immobile, faintly shimmering barrier springs into existence in a 10-foot radius around you and remains for the duration.
-Any spell of 3rd level or lower cast from outside the barrier can't affect creatures or objects within it, unless the spell higher leveled.
-Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
-Heightened. When you cast this spell as a spell of 5th level or higher, the barrier blocks spells of one level higher for each spell level above 4th.
 
-Hammer of Justice [level 2]
-Evocation [strike]
-Range: Self
-Components: V
-Duration: 1 minute, or two uses (whichever comes first)
+Any spell of 3rd level or lower cast from outside the barrier can't affect creatures or objects within it, unless the spell higher leveled.
+
+Such a spell can target creatures and objects within the barrier, but the spell has no effect on them. Similarly, the area within the barrier is excluded from the areas affected by such spells.
+___
+**Heightened.** When you cast this spell as a spell of 5th level or higher, the barrier blocks spells of one level higher for each spell level above 4th.
+
+#### Hammer of Justice [level 2]
+**Evocation [strike]**
+___
+- **Range:** Self
+- **Components:** V
+- **Duration:** 1 minute, or two uses (whichever comes first)
+___
 You may apply this strike to any melee weapon attack. On a successful attack roll, the target of this ability must succeed on a Stamina saving throw or else be stunned until the beginning of your turn in the next round. A target cannot be affected by this ability more than twice in a span of 3 turns.
 
-Hammer of Wrath [level 2]
-Evocation
-Casting Time: 1 reaction
-Range: 60 feet
-Components: V
-Duration: Instantaneous
-Reaction. A creature within range is Bloodied
+#### Hammer of Wrath [level 2]
+**Evocation**
+___
+- **Casting Time:** 1 reaction
+- **Range:** 60 feet
+- **Components:** V
+- **Duration:** Instantaneous
+___
+A creature within range is Bloodied.
+
 Make a melee weapon attack roll against a creature within 60 feet as if they were in melee range. A spectral version of your weapon flies ahead and strikes the foe at a distance, dealing damage equal to your normal melee attack, plus an additional 2d8 thunder damage.
-Heightened. The extra thunder damage increases by 1d8 for each level above 2nd.
+___
+**Heightened.** The extra thunder damage increases by 1d8 for each level above 2nd.
 
-Hallow/Unhallow [level 5]
-Evocation
-Casting time: 24 hours
-Range: Touch
-Components: V, S, M (500 gp in oils and incense, which the spell consumes)
-Duration: Until dispelled
+#### Hallow/Unhallow [level 5]
+**Evocation**
+___
+- **Casting time:** 24 hours
+- **Range:** Touch
+- **Components:** V, S, M (500 gp in oils and incense, which the spell consumes)
+- **Duration:** Until dispelled
+
+\pagebreakNum
+
 You touch a point and infuse an area around it with holy (or unholy, ancient, or elemental) power. The area can have a radius up to 60 feet, and the spell fails if the radius includes an area already under the effect a hallow spell. Depending on your casting class, you can rely on one power. You may repeat a hallowing on another area within the radius of the original hallow, in which case the chained spell costs less materials (375 gp per 60 feet of hallowed ground).
+
 Druids rely on the power of ancients; priests can rely on holy or unholy power; paladins rely on holy power; death knights rely on unholy power; and shamans rely on elemental power. The affected area is subject to the following effects.
+
 First, celestials, elementals, fey, fiends, or undead (chosen by the caster) can’t enter the area, nor can such creatures charm, frighten, or possess creatures within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect. If such barred creature attempts to enter the area, it must succeed on three Charisma saving throws. If it fails on two saving throws, it cannot attempt re-entry for one week.
+
 Second, you can bind an extra effect to the area. Choose the effect from the following list, or choose an effect offered by the DM. Some of these effects apply to creatures in the area; you can designate whether the effect applies to all creatures, creatures that follow a specific deity or leader, or creatures of a specific sort, such as orcs or trolls. When a creature that would be affected enters the spell’s area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
-Bloom (Ancient power only). The area blooms of plant life. It creates materials for herbalism and alchemy (equal to half the material components consumed by the spell), and it can support large trees. This can be even used in hostile environments (such as deserts or in the Outland), but it is more easily dispelled (dispeller gains advantage to dispel).
-Blight (Unholy only). The area is blighted to kill plants and corrupt all life. It loses three-quarters of all herbalism and alchemy materials, and sterilizes the land (as if salted). In a blighted area, undead can rest and restore hit dice normally without using magic or special abilities (such as cannibalism or vampirism). Binding undead in an area of blight costs only one-half the normal cost.
-Blessed (Holy only). The area is blessed to provide all allied creatures with the benefits of the Bless spell (useable up to three times at any given 24 hours).
-Courage. Affected creatures can’t be frightened while in the area from any source.
-Darkness. Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the level you used to cast this spell, can’t illuminate the area.
-Daylight. Bright light fills the area. Magical darkness created by spells of a lower level than the level you used to cast this spell can’t extinguish the light.
-Energy Protection. Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
-Energy Vulnerability. Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
-Elemental Activity (Elemental power only). The hallowed area is attuned to elementals. It is treated as an inverted magic circle, but only for the purposes of binding elementals. If convinced to perform a task that serves the elemental powers, you gain advantage to Charisma checks to convince them, and the gold cost for the spell is reduced by three-fourths.
-Everlasting Rest. Dead bodies interred in the area can’t be turned into undead.
-Extradimensional Interference. Affected creatures can’t move or travel using teleportation or by extradimensional or interplanar means so long as they are within the area.
-Fear. Affected creatures are frightened while in the area.
-Silence. No sound can emanate from within the area, and no sound can reach into it. Tongues. Affected creatures can communicate with any other creature in the area, even if they don’t share a common language.
-Special. When hallowing inside a building, the spell’s effects are limited by it, becoming a shapeable spell. So long as the spell’s area of effect fills at least half the building, it can be treated as affecting all of it.
 
-Healing Stream [level 3]
-Evocation [healing]
-Casting Time: 1 action
-Range: 40 feet
-Components: V, S
-Duration: Instantaneous
+* **Bloom (Ancient power only).** The area blooms of plant life. It creates materials for herbalism and alchemy (equal to half the material components consumed by the spell), and it can support large trees. This can be even used in hostile environments (such as deserts or in the Outland), but it is more easily dispelled (dispeller gains advantage to dispel).
+* **Blight (Unholy only).** The area is blighted to kill plants and corrupt all life. It loses three-quarters of all herbalism and alchemy materials, and sterilizes the land (as if salted). In a blighted area, undead can rest and restore hit dice normally without using magic or special abilities (such as cannibalism or vampirism). Binding undead in an area of blight costs only one-half the normal cost.
+* **Blessed (Holy only).** The area is blessed to provide all allied creatures with the benefits of the Bless spell (useable up to three times at any given 24 hours).
+* **Courage.** Affected creatures can’t be frightened while in the area from any source.
+* **Darkness.** Darkness fills the area. Normal light, as well as magical light created by spells of a lower level than the level you used to cast this spell, can’t illuminate the area.
+* **Daylight.** Bright light fills the area. Magical darkness created by spells of a lower level than the level you used to cast this spell can’t extinguish the light.
+  Energy Protection. Affected creatures in the area have resistance to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+* **Energy Vulnerability.** Affected creatures in the area have vulnerability to one damage type of your choice, except for bludgeoning, piercing, or slashing.
+* **Elemental Activity (Elemental power only).** The hallowed area is attuned to elementals. It is treated as an inverted magic circle, but only for the purposes of binding elementals. If convinced to perform a task that serves the elemental powers, you gain advantage to Charisma checks to convince them, and the gold cost for the spell is reduced by three-fourths.
+* **Everlasting Rest.** Dead bodies interred in the area can’t be turned into undead.
+* **Extradimensional Interference.** Affected creatures can’t move or travel using teleportation or by extradimensional or interplanar means so long as they are within the area.
+* **Fear.** Affected creatures are frightened while in the area.
+* **Silence.** No sound can emanate from within the area, and no sound can reach into it. Tongues. Affected creatures can communicate with any other creature in the area, even if they don’t share a common language.
+___
+*Special.* When hallowing inside a building, the spell’s effects are limited by it, becoming a shapeable spell. So long as the spell’s area of effect fills at least half the building, it can be treated as affecting all of it.
+
+#### Healing Stream [level 3]
+**Evocation [healing]**
+___
+- **Casting Time:** 1 action
+- **Range:** 40 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You may target a single creature with a chained healing spell. The target is healed 5d4 hit points, and the spell’s effects are then transferred (and diminished) to another creature you choose within 20 feet of the original target. The secondary target heals 3d4 hit points, and the effect arcs again, losing two dice for each target after the first (until it reaches 0d4). This spell has no effect on constructs and undead.
-Heightened. The healing increases by 1d4 for each level above 3rd.
+___
+**Heightened.** The healing increases by 1d4 for each level above 3rd.
 
-Healing Stream Totem [level 5]
-Evocation [totem] [healing]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Concentration, up to 1 minute
+#### Healing Stream Totem [level 5]
+**Evocation [totem] [healing]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+___
 Once you place this totem, you may use your reaction every round to cause it to emit healing energies as the healing stream spell of 3rd level; you may choose the targets of the spell.
 
-Healing Ward [level 1]
-Evocation [totem] [healing]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 1 minute
+#### Healing Ward [level 1]
+**Evocation [totem] [healing]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 1 minute
+___
 Once you place this totem, you may use your reaction every round to cause it to emit healing energies, restoring 1 hit point per round to all creatures within 30 feet. This healing acts exactly as normal healing from the holy light spell.
-Heightened. The ward heals one additional hit point, or remains for one additional minute per spell level.
+___
+**Heightened.** The ward heals one additional hit point, or remains for one additional minute per spell level.
 
-Hex Array [level 1+]
-Transmutation [array]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous
+\pagebreakNum
+
+#### Hex Array [level 1+]
+**Transmutation [array]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You inflict one hex of the below array.
-Death Hex (level 1). You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 shadow damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability. The duration of this effect is Concentration, up to 1 hour. You can maintain this hex and use another in the same array.
-Fortune (level 1). As the Bless spell.
-Love Hex (level 1). As the Charm spell, but can affect any creature type, so long as that finds you attractive.
-Misfortune (level 1). As the Bane spell.
-Dream Eat (level 2). You can deal 2d6 psychic damage to a sleeping target per spell level, healing one-half the damage you deal. If the target dies from this, they are instead trapped in eternal sleep (this is treated as a curse effect. Breaking the curse awakens the target normally).
-Bone Lock (level 3). As the slow spell.
-Spell Steal Hex (level 5). As the Spell Steal spell. This still requires you to prepare the dispel magic spell.
-Heightened.
-Death Hex. When you cast this spell as a spell of 3rd, you can maintain your concentration on the spell for up to 8 hours. When you cast this as a 5th level spell, you can maintain your concentration on the spell for up to 24 hours.
+* **Death Hex (level 1).** You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 shadow damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability. The duration of this effect is Concentration, up to 1 hour. You can maintain this hex and use another in the same array.
+* **Fortune (level 1).** As the Bless spell.
+* **Love Hex (level 1).** As the Charm spell, but can affect any creature type, so long as that finds you attractive.
+* **Misfortune (level 1).** As the Bane spell.
+* **Dream Eat (level 2).** You can deal 2d6 psychic damage to a sleeping target per spell level, healing one-half the damage you deal. If the target dies from this, they are instead trapped in eternal sleep (this is treated as a curse effect. Breaking the curse awakens the target normally).
+* **Bone Lock (level 3).** As the slow spell.
+* **Spell Steal Hex (level 5).** As the Spell Steal spell. This still requires you to prepare the dispel magic spell.
+___
+**Heightened.**
+* **Death Hex.** When you cast this spell as a spell of 3rd, you can maintain your concentration on the spell for up to 8 hours. When you cast this as a 5th level spell, you can maintain your concentration on the spell for up to 24 hours.
 
-Hold [level 2]
-Enchantment
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S, M (a small, straight piece of iron)
-Duration: Concentration, up to 1 minute
+#### Hold [level 2]
+**Enchantment**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a small, straight piece of iron)
+- **Duration:** Concentration, up to 1 minute
+___
 You attempt to hold a creature you can see within range. When preparing this spell, you can choose to be able to hold one creature type your class can bind (see binding under spellcasting) or your own creature type.
+
 It must make a Spirit saving throw. If it fails, it is paralyzed until the spell ends. At the end of each of its turns, the target can make another saving throw. On a success, the spell ends on the target.
-Special: If choosing to exclusively affect beasts, the spell’s level is decreased to 1st level instead, as their minds are more malleable.
-Heightened. When you cast this spell as a 3rd level spell or higher, you can target one additional creature for each spell level above 3rd. They must be within 30 ft. of each other when you target them. You can instead choose to target an additional creature type to the hold spell instead (Hold Person at level 2 can be Hold Person and Elementals at level 3).
+___
+*Special.* If choosing to exclusively affect beasts, the spell’s level is decreased to 1st level instead, as their minds are more malleable.
+___
+**Heightened.** When you cast this spell as a 3rd level spell or higher, you can target one additional creature for each spell level above 3rd. They must be within 30 ft. of each other when you target them. You can instead choose to target an additional creature type to the hold spell instead (Hold Person at level 2 can be Hold Person and Elementals at level 3).
 
-Holy Fire [level 2]
-Evocation [sigil]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 3 rounds
+\columnbreak
+
+#### Holy Fire [level 2]
+**Evocation [sigil]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
 A blast of holy fire burns a creature within range, creating a pulsing blaze within their very spirit that throws off their aim.
+
 Make a ranged spell attack against the target. On a hit, the target is affected by the holy fire, taking 2d4 points of holy damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
+
 Also, so long as the spell is active, the target takes double damage against the smite cantrip. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
-Heightened. The damage increases by one dice per every level above 2nd.
-Special: This may be cast as unholy fire, dealing shadow damage instead.
+___
+**Heightened.** The damage increases by one dice per every level above 2nd.
+___
+*Special.* This may be cast as unholy fire, dealing shadow damage instead.
 
-Holy Light [level 1]
-Evocation [healing]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Instantaneous
+#### Holy Light [level 1]
+**Evocation [healing]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 With the grace of the Holy Light, you bring life to the living, and harm to the unsanctified. The creature you target regains a number of hit points equal to 1d8 + your spellcasting ability modifier. If you target an undead or a fiend with this ability, they take holy damage equal to the hit points they would normally gain. If you target an unwilling creature, you require a ranged spell attack.
-Constructs gain no benefit from this spell.
-Heightened. The healing increases by 1d8 per level above 1st.
 
-Holy Nova [level 3]
-Evocation
-Casting Time: 1 action
-Range: Personal (Self)
-Components: V, S
-Duration: Instantaneous
+Constructs gain no benefit from this spell.
+___
+**Heightened.** The healing increases by 1d8 per level above 1st.
+
+#### Holy Nova [level 3]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You release a burst of holy energy a 15-foot radius sphere centered on you. All living allies are healed 3d4 hit points, while all enemies take 3d4 holy damage.
+
 Creatures harmed by this spell are entitled a Spirit saving throw to half damage. The light spreads around corners. Fiends and undead suffer disadvantage to their saving throws.
-Heightened. The spell’s dice increase by 1d4 for each level above 3rd.
+___
+**Heightened.** The spell’s dice increase by 1d4 for each level above 3rd.
 
-Holy Shock [level 2]
-Evocation [healing]
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: Instantaneous
+#### Holy Shock [level 2]
+**Evocation [healing]**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+\pagebreakNum
+
 You release a burst of energy that heals or harms.
+
 You may target a creature as a ranged spell attack. On a success, it either regains 2d8 hit points, or is dealt the same amount of holy damage. This can only heal the living, but can also deal damage to them if you wish. On a ranged dice result of 18 to 20, this is considered a critical hit and either heals or harms double normal damage. This spell is treated as the holy light spell for all purposes specific to that spell (in how it interacts with other abilities).
+
 Also, if you successfully use this spell to heal or to damage, you can make a melee weapon attack as a bonus action.
+
 Constructs gain no benefit from this spell.
-Heightened. The healing increases by 1d8 per level above 2nd.
+___
+**Heightened.** The healing increases by 1d8 per level above 2nd.
 
-Ice Block [level 4]
-Abjuration [Channel]
-Casting Time: 1 reaction or 1 action
-Range: Personal (Self)
-Components: V, S
-Duration: Concentration, up to 1 hour
-Reaction. You are targeted with an attack or harmful effect.
+#### Ice Block [level 4]
+**Abjuration [Channel]**
+___
+- **Casting Time:** 1 reaction or 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 hour
+___
+You are targeted with an attack or harmful effect.
+
 You become encased in a block of arcane-reinforced ice, protecting you from damage. A thick block of ice protects you, granting you 8d6 temporary hit points so long as you channel the spell. You regain 1d6 temporary hit points at the beginning of your turn every round, up to the initial amount granted by the spell.
-Furthermore, you gain resistance to all types of damage, as well as immunity to cold damage. Damage is applied before being counted against the temporary hit points.
-If the block manages to absorb all damage from an effect, you are protected against any secondary effects (as if immune).
-While encased in ice and concentrating, you are incapacitated. When the ice is destroyed or when you cease channeling, you may cast any spell as a bonus action or a reaction (so long as its normal casting time is 1 action or quicker).
-Heightened. When heightened, the temporary hit points increase by 2d6 per every spell level above 4th.
 
-Icy Touch [level 1]
-Evocation
-Casting Time: 1 action
-Range: Touch
-Components: V, S
-Duration: Instantaneous
+Furthermore, you gain resistance to all types of damage, as well as immunity to cold damage. Damage is applied before being counted against the temporary hit points.
+
+If the block manages to absorb all damage from an effect, you are protected against any secondary effects (as if immune).
+
+While encased in ice and concentrating, you are incapacitated. When the ice is destroyed or when you cease channeling, you may cast any spell as a bonus action or a reaction (so long as its normal casting time is 1 action or quicker).
+___
+**Heightened.** When heightened, the temporary hit points increase by 2d6 per every spell level above 4th.
+
+#### Icy Touch [level 1]
+**Evocation**
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
+___
 You reach forward, freezing your target’s joints and breath. Make a melee spell attack against a creature you touch. If you succeed, the target takes 3d6 cold damage, and is chilled for one round.
 
-Immolation Aura [level 2]
-Abjuration [aura]
-Casting Time: 1 action
-Range: Personal (Self)
-Components: V, S
-Duration: Concentration (partial), up to 1 hour
-You surround yourself with a burning green fire that reaches 5 feet away. For the duration of the aura, any creature that attacks you with a weapon in reach of the aura or who begins its round within range takes 2d6 fire damage, with an Agility save to halve damage.
+#### Immolation Aura [level 2]
+**Abjuration [aura]**
+___
+- **Casting Time:** 1 action
+- **Range:** Personal (Self)
+- **Components:** V, S
+- **Duration:** Concentration (partial), up to 1 hour
+___
+You surround yourself with a burning green fire that reaches 5 feet away. For the duration of the aura, any creature that attacks you with a weapon in reach of the aura or who
+___
+begins its round within range takes 2d6 fire damage, with an Agility save to halve damage.
+
 You may also use a bonus action on your turn to add half the spell’s damage dice to a successful attack. This is a strike effect.
-Heightened. The damage dealt by your aura increases by 1d6 per level above 2nd.
+___
+**Heightened.** The damage dealt by your aura increases by 1d6 per level above 2nd.
 
-Immolate [level 1]
-Evocation [sigil]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 3 rounds
+#### Immolate [level 1]
+**Evocation [sigil]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
 You infuse your target with flickering green hellfire. Make a ranged spell attack against a creature within range.
+
 On a hit, the target is affected by the spell, taking 1d6 points of damage. This damage is treated as either fire or fel, whichever is more advantageous. The sigil pulses at the start of your turn every round, repeating the primary effect.
+
 Also, so long as the spell is active, the target counts as if they are suffering the burning condition (damage equal to the sigil pulse). If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
-Heightened. The damage increases by one dice per spell level above 1st.
+___
+**Heightened.** The damage increases by one dice per spell level above 1st.
 
-Inferno Blast [level 4]
-Evocation [sigil]
-Casting Time: 1 action
-Range: 60 feet
-Components: V, S
-Duration: Instantaneous, plus 3 rounds
+#### Inferno Blast [level 4]
+**Evocation [sigil]**
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous, plus 3 rounds
+___
 You infuse your target with pure arcane flame. Make a ranged spell attack against a creature within range. On a hit, the target is affected by the spell, taking 4d6 points fire damage. The sigil pulses at the start of your turn every round, repeating the primary effect.
-Also, so long as the spell is active, the sigil deals fire damage equal to the number of sigil dice to all targets within 5 feet of it (4 at 4th level). This damage is negated on a successful Agility saving throw. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
-Heightened. The damage increases by one dice per spell level above 4th.
 
-Inner Fire [level 1]
-Transmutation
-Casting Time: 1 action
-Range: 30 feet
-Components: V, S
-Duration: 5 minutes
+Also, so long as the spell is active, the sigil deals fire damage equal to the number of sigil dice to all targets within 5 feet of it (4 at 4th level). This damage is negated on a successful Agility saving throw. If the ranged spell attack misses, the spell deals half the initial damage and has no other effect.
+___
+**Heightened.** The damage increases by one dice per spell level above 4th.
+
+#### Inner Fire [level 1]
+**Transmutation**
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** 5 minutes
+___
 A wreath of faith burns within a creature you designate within range. The creature gains +1 bonus to damage rolls, and their armor increases by 1. This is an aura bonus.
-Heightened. You can increase the bonus to AC and damage rolls by +1 each for every four spell levels above 1st (up to a +3 bonus to AC and damage rolls at spell level 9).
+___
+**Heightened.** You can increase the bonus to AC and damage rolls by +1 each for every four spell levels above 1st (up to a +3 bonus to AC and damage rolls at spell level 9).
 
 Invoke Elements [level 0]
 Evocation
