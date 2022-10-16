@@ -27,7 +27,7 @@
     margin-top:0;
 }
 .index li {
-    padding-left:0;
+    padding-left:0px;
 }
 .index a {
     text-decoration:none;
@@ -3261,7 +3261,7 @@ CR to transform to, you divide your level by three, and not eight (round down), 
 below table.
 
 | Druid Level | Maximum CR |
-|:-:|:-:|
+|:---:|:---:|
 | 2 | 1/2 |
 | 4 | 1 |
 | 6 | 2 |
@@ -4407,26 +4407,26 @@ You start with the following equipment, in addition to the equipment granted by 
 
 | Level | Proficiency Bonus | Martial | Talents | Features |
 |:---:|:---:|:---|:---:|:---:|
-| 1st | +2 | 1d4 | - | Unarmored Defense, Martial Arts |
-| 2nd | +2 | 1d4 | 1 | Ki |
-| 3rd | +2 | 1d4 | 2 | Monk Tradition |
-| 4th | +2 | 1d4 | 3 | Ability Score Improvement |
-| 5th | +3 | 1d6 | 3 | Extra Attack, Stunning Strike |
-| 6th | +3 | 1d6 | 3 | Ki-Empowered Strikes, Monk Tradition feature |
-| 7th | +3 | 1d6 | 4 | Stillness of Mind |
-| 8th | +3 | 1d6 | 4 | Ability Score Improvement |
-| 9th | +4 | 1d6 | 5 | - |
-| 10th | +4 | 1d6 | 5 | Purity of Body |
-| 11th | +4 | 1d8 | 5 | Monk Tradition feature |
-| 12th | +4 | 1d8 | 5 | Ability Score Improvement |
-| 13th | +5 | 1d8 | 5 | Tongue of the Sun and Moon |
-| 14th | +5 | 1d8 | 6 | - |
-| 15th | +5 | 1d8 | 6 | Timeless Body |
-| 16th | +5 | 1d8 | 6 | Ability Score Improvement |
-| 17th | +6 | 1d10 | 6 | Monk Tradition feature |
-| 18th | +6 | 1d10 | 6 | Empty Body |
-| 19th | +6 | 1d10 | 6 | Ability Score Improvement |
-| 20th | +6 | 1d10 | 6 | Perfect Self |
+| 1st | +2 | 1d4 | - | Unarmored Defense, Martial Arts
+| 2nd | +2 | 1d4 | 1 | Ki
+| 3rd | +2 | 1d4 | 2 | Monk Tradition
+| 4th | +2 | 1d4 | 3 | Ability Score Improvement
+| 5th | +3 | 1d6 | 3 | Extra Attack, Stunning Strike
+| 6th | +3 | 1d6 | 3 | Ki-Empowered Strikes, Monk Tradition feature
+| 7th | +3 | 1d6 | 4 | Stillness of Mind
+| 8th | +3 | 1d6 | 4 | Ability Score Improvement
+| 9th | +4 | 1d6 | 5 | -
+| 10th | +4 | 1d6 | 5 | Purity of Body
+| 11th | +4 | 1d8 | 5 | Monk Tradition feature
+| 12th | +4 | 1d8 | 5 | Ability Score Improvement
+| 13th | +5 | 1d8 | 5 | Tongue of the Sun and Moon
+| 14th | +5 | 1d8 | 6 | -
+| 15th | +5 | 1d8 | 6 | Timeless Body
+| 16th | +5 | 1d8 | 6 | Ability Score Improvement
+| 17th | +6 | 1d10 | 6 | Monk Tradition feature
+| 18th | +6 | 1d10 | 6 | Empty Body
+| 19th | +6 | 1d10 | 6 | Ability Score Improvement
+| 20th | +6 | 1d10 | 6 | Perfect Self
 
 </div>
 
@@ -5718,11 +5718,11 @@ Living table. It disintegrates, leaving only a pile of dust, so commands the Lic
 ##### Turn Living Table
 | Priest Level | Destroys Living of CR |
 |:---:|:---:|
-| 5th | 1/2 or lower |
-| 8th | 1 or lower |
-| 11th | 2 or lower |
-| 14th | 3 or lower |
-| 17th | 4 or lower |
+| 5th | 1/2 or lower
+| 8th | 1 or lower
+| 11th | 2 or lower
+| 14th | 3 or lower
+| 17th | 4 or lower
 
 #### Death Denied
 Starting at 6th level, you may release a burst of shadow as an action. This acts as the death nova spell. After you use this ability, you cannot use it again until you complete a short or long rest, or until you have made at least one death saving throw.
@@ -5902,11 +5902,11 @@ table.
 
 | Priest Level | Destroys Undead of CR |
 |:---:|:---:|
-| 5th | 1/2 or lower |
-| 8th | 1 or lower |
-| 11th | 2 or lower |
-| 14th | 3 or lower |
-| 17th | 4 or lower |
+| 5th | 1/2 or lower
+| 8th | 1 or lower
+| 11th | 2 or lower
+| 14th | 3 or lower
+| 17th | 4 or lower
 
 #### Channel Divinity: Focused Light
 Starting at 6th level, you may use a channel divinity to alter the
@@ -6849,11 +6849,11 @@ Elemental table. This ability only functions when you declare your intention to 
 
 | Shaman Level  | Releases Elemental of CR |
 |:---:|:-----------:|
-| 5th | 1/2 or lower |
-| 8th | 1 or lower |
-| 11th | 2 or lower |
-| 14th | 3 or lower |
-| 17th | 4 or lower |
+| 5th | 1/2 or lower
+| 8th | 1 or lower
+| 11th | 2 or lower
+| 14th | 3 or lower
+| 17th | 4 or lower
 
 If targeting an elemental whose essence is captured and is being used to fuel a device with an
 elemental engine, you can cause it to suffer from the malfunctioned condition with a successful
@@ -6972,11 +6972,11 @@ combat. Enhancement shamans usually use two weapons.
 
 | Level | Spells |
 |:---:|:---:|
-| 1st | Elemental tongue, shield |
-| 3rd | Conjure (Spirit Dire Wolf), earth shield |
-| 5th | Bloodlust, spirit infusion |
-| 7th | Death ward, freedom of movement (or grace of air) |
-| 9th | Windfury tongue, true seeing |
+| 1st | Elemental tongue, shield
+| 3rd | Conjure (Spirit Dire Wolf), earth shield
+| 5th | Bloodlust, spirit infusion
+| 7th | Death ward, freedom of movement (or grace of air)
+| 9th | Windfury tongue, true seeing
 
 </div>
 
@@ -7077,11 +7077,11 @@ and are known as witch-shamans or spirit-walkers.
 
 | Level | Spells |
 |:---:|:---:|
-| 1st | Healing ward, riptide |
-| 3rd | Ancestral guardians, totemic recall |
-| 5th | Healing stream, revivify (or ancestral sight) |
-| 7th | Death ward, spirit link totem |
-| 9th | Healing stream totem, tranquility (or healing rain) |
+| 1st | Healing ward, riptide
+| 3rd | Ancestral guardians, totemic recall
+| 5th | Healing stream, revivify (or ancestral sight)
+| 7th | Death ward, spirit link totem
+| 9th | Healing stream totem, tranquility (or healing rain)
 
 </div>
 
@@ -7388,11 +7388,11 @@ As you increase in levels, creations of certain rarity require less time and eff
 you to innovate or craft temporary versions of your creations is reduced to a Bonus Action or 3
 turns at the following levels for each rarity.
 
-| Level | Rarity | Consumable | Use-Item | Creature |
+| Level | Rarity | Consumable | Use-Item | Creature
 |:---:|:---:|:---|:---:|:---:|
-| 2nd | Common | Bonus Action | 1 turn | 3 turns |
-| 9th | Uncommon | Bonus Action | 1 turn | 3 turns |
-| 17th | Rare | Bonus Action | 1 turn | 3 turns |
+| 2nd | Common | Bonus Action | 1 turn | 3 turns
+| 9th | Uncommon | Bonus Action | 1 turn | 3 turns
+| 17th | Rare | Bonus Action | 1 turn | 3 turns
 
 #### Patent
 Also starting at 1st level, you gain increased mastery over a single engineered device of your creation
@@ -11700,7 +11700,7 @@ In many instances, going to larger towns (or those with greater commercial and e
 | Gear | Cost | Mass | Properties |
 |:---:|:---:|:---:|:---:|
 | Battery | 50 gp | 1 lb. | 5 fuel units for electrical engines, rechargeable | 
-| Battery, Greater | 450 gp | 10 lb. | 50 fuel units for electrical engines, rechargeable |
+| Battery, Greater | 450 gp | 10 lb. | 50 fuel units for electrical engines, rechargeable
 | Bullets (20) | 1 gp | 1 lb. | Ammunition deals piercing damage | 
 | Packaged Bullets (20) | 35 gp | 3 lb. |  Ammunition prepackaged with its fuel (gunpowder), water resistant (but not fire resistant). | 
 | Cauldron (cast iron) | 5 sp | 5 lb. | A cast iron cauldron can be used in creating potion batches (see Chapter 7) | 
@@ -12315,16 +12315,15 @@ Whenever attempting to solve the puzzle-box, the user hears one of the below quo
 | 4	| Even death may die. | 
 | 5 | There is a little lamb lost in dark woods. | 
 | 6 | All places, all things have souls. All souls can be devoured. | 
-| 7 | What can change the nature of a man? |
-| 8	| Do you dream while you sleep or is it an escape from the horrors of reality? | 
+| 7 | What can change the nature of a man? | | 8	| Do you dream while you sleep or is it an escape from the horrors of reality? | 
 | 9 | Look around. They will all betray you. Flee screaming into the black forest. | 
 | 10 | In the land of Ny'alotha there is only sleep. | 
 | 11 | Y'knath k'th'rygg k'yi mrr'ungha gr'mula. | 
 | 12 | The void sucks at your soul. It is content to feast slowly. | 
+| 13 | The drowned god's heart is black ice. | 
 
 | | |
 |:---:|:-----------:| 
-| 13 | The drowned god's heart is black ice. | 
 | 14 | It is standing right behind you. Do not move. Do not breathe. | 
 | 15 | Have you had the dream again? A black goat with seven eyes that watches from the outside. In the sunken city, he lays dreaming. | 
 | 16 | Open me! Open me! Open me! Then only will you know peace. | 
@@ -21340,4 +21339,258 @@ On a successful attack roll, you can cast the entangling roots spell on the targ
 
 The spell's damage increases by one dice when you reach 5th level (2d8 or 2d6), 11th level (3d8 or 3d6), and 17th level (4d8 or 4d6).
 
+\pagebreakNum
 
+# Appendix
+
+## A: Conditions
+There are several new conditions that are mechanically useful.
+___
+**Bleeding.** This condition causes a creature to lose the number of hit points specified at the beginning of its turn each round due to blood loss. Unless the character takes precautions, they leave a trail of blood behind them.
+
+The creature can attempt another Stamina saving throw at the beginning of every round to end this effect. This effect is also ended if the target regains a number of hit points equal to or greater than double the bleed damage they take every round. The wounded creature, or a creature within 5 feet of it, can also use an action to make a DC 15 Spirit (Medicine) check, ending the effect of such wounds on it on a success. Creatures that do have blood (or similar functions) cannot be harmed by bleeding, subject to the DM’s option.
+___
+**Bloodied.** A character is bloodied if they are reduced to half their maximum hit points. Some abilities act differently when bloodied.
+___
+**Burning.** This condition causes a creature to take ongoing fire so long as they are still alight. The target takes 1d6 points of fire damage per round (or higher, as specified by the ability).
+
+If the target or a creature within 5 feet of it uses an action to put out the flames, or if some other effect douses the flames (such as the target being submerged in water), the target is no longer burning. This condition can also be removed by the chilled condition or from suffering from at least 3 points of cold damage.
+___
+**Chilled.** Usually inflicted by cold spells, the chilled condition reduces the target’s primary movement speed by 10 feet until the start of the caster’s turn in the next round. This condition can stack if applied from different spells or abilities. If the target’s speed is reduced to 0, they are restrained until their speed is no longer 0, as ice coats their body. This condition can be removed by suffering from at least 3 points of fire damage. If multiple conditions are stacked, each 3 points remove one case of the condition.
+___
+**Choking.** When a creature that needs to breathe barred from doing so by an attack (such as a grapple check to choke or the strangulate spell), a creature is choking. While choking, the creature is silenced, and must succeed on a Stamina saving throw against the choker’s DC (8 + proficiency bonus + Strength modifier) or instantly lose their remaining rounds of breath if the attacker deliberately chokes them. When a creature runs out of breath, it can survive for an additional number of rounds equal to its Stamina modifier (minimum 1 round). At the start of its next turn, it drops to 0 hit points and is dying or knocked unconscious for one hour. Normally, a creature can hold their breath for number of rounds equal to their Stamina score.
+
+To choke a creature already grappled, the grappler must spend all their movement to tighten their grip, thereby forcing the Stamina saving throw. This can be done multiple times so long as the target is still grappled.
+___
+**Distracted.** When a creature cannot concentrate on spellcasting (such as by being damaged, affected by specific spells, or abilities), they must succeed on a Stamina saving throw or lose the spell they are about to cast, channel, or concentrate on. Effectively, this condition is inflicted whenever a spellcaster is subject to one of the above conditions, and may negate it with a successful saving throw.
+
+The DC of the saving throw is equal to 10 or one-half damage dealt. If the condition was brought on by an ability, it is instead the ability DC (or 8 + proficiency + the relevant attribute modifier), and if inflicted by a spell, it is the spell DC.
+___
+**Malfunctioned.** A device that malfunctions is the result of failed activation. It can be used again, but becomes unstable. So long as it has this condition, the device’s malfunction rate doubles (minimum +1 to the MR), and whenever it malfunctions again, you must roll for a random mishap.
+
+The malfunctioned condition can be removed with one hour of work or at the end of a short rest by a character that is familiar with the device’s operation (such as one who has a schematic or memorizes the blueprint).
+
+For instance, a tinker shoots with a rare quality rifle (malfunction rate 1-3), but his attack roll (activation check) is a natural 2. The rifle gains the malfunctioned condition, and future attacks have a malfunction rate of 1-6. If the tinker uses the device again (either out of desperation or confidence of a good roll) and results in a 1-6 on a d20, it suffers a mishap.
+___
+**Mishaps**
+Roll for a random mishap among the below possible ones (as appropriate for the device type), or the DM can choose one. If the mishap is inappropriate for the device, roll again.
+
+| d10 | Mishap |
+|:---:|:-|
+| 1 | **Backfire.** On a mishap, the device’s internal engine goes haywire, explodes, etc. The device deals its normal damage (if it deals damage) in a 10-foot-sphere centered on the device. The user and any affected creature may perform an Agility saving throw against the Device save DC to halve the damage. The damage dealt is concussive damage (if it is not of a spell), and the device itself takes the full damage, and does not apply resistance of any type. This may destroy the device. If a construct, mech, or vehicle, the damage is equal to its normal attack. |
+| 2	| **Careen.** The device’s aim instantly slips into an unintended direction and to another target (if possible) instead of its intended one. Roll a 1d8 to represent the possible direction. Each number represents a direction clockwise (1 represents forward, 5, backwards, 3 on the right, 7 on the left, etc.). The device aims off to that direction instead of its original direction, to the same range it was pointing (unless rolling 5, in which case it targets the user instead). If it would impact a creature or object, then treat the creature or object as the target of the device (if possible). If a construct, you must roll randomly for the target whenever it makes an attack. |
+
+\pagebreakNum
+
+| | |
+|:---:|:-|
+| 3-5 | **Delayed.** The device acts slower than it should until the condition is removed. If an explosive, gadget, or firearm, it functions 1d4 rounds after it should (as determined by the attack or fuse. If the firearm or gadget is no longer aiming at a target, it discharges however it is held, as determined by the DM). If a construct, it is slowed (as by the slow spell). |
+| 6-7 | **Drained.** The device loses 1d4 fuel charges instantly. If a device is reduced to below 0 charges (such as with an explosive or firearm), the device does not function unless the condition is removed. |
+| 8 | **Inefficient Fueling.** The device consumes fuel at double the normal rate unless the condition is removed. If it has only one charge, it doesn’t function unless you spend a minute cleaning its engine or internal mechanism. |
+| 9 | **Jam/Overheat.** The device fails to activate, and cannot be used again until one hour passes or until treated for 1 minute by Engineer’s Tools. If a construct, it stops moving and acts as if paralyzed. |
+| 10 | **Never Tell Me the Odds.** Roll a 1d6. On a roll of 1, nothing happens. On a roll from 2-5, the device instantly loses the malfunctioned condition. On a roll of 6, the device not only loses the condition, but also superfunctions (as the Tinker ability). |
+___
+**Scorched.** Usually inflicted by fire spells, the scorched condition reduces the target’s weapon damage by a number of points equal to 2 (or if brought on by a hostile creature, a number of damage points equal to their proficiency bonus).
+
+## B: Gods of the Warcraft Universe
+Dozens of entities are revered in the Warcraft universe, often forming cults, churches, and organizations around central tenants.
+
+Most races possess some sort of cultural faith that reflects their values, fears, and hopes. Some worship gods or demigods as actual beings (either as a God, gods, or demigods is debatable among the races themselves), while some races personify their faiths in the form of a god, but understand that their “god” is really just a symbol of their philosophical beliefs, not an actual being. Others, such as Firelord Ragnaros, are seen by some to have achieved a god-like status. The Warcraft universe does has powerful, immortal beings, such as Elune, the Old Gods and the Titans, and their influence greatly affects the world.
+
+| Entity | Alignment | Class | Symbol |
+|:-|:-|:-|:-|
+| Ancestor Worship | Neutral | Shaman | A totem or a mask |
+| Burning Legion | Chaotic Evil | Warlock | Stylized green wings |
+| Dragon worship | Varies |	- | Shadow of a dragon |
+| Druidism and Elune | Neutral Good | Druid, moon priestesses | Upwards crescent |
+| Forgotten Shadow | Chaotic Neutral | Shadow priests | A reverse holy mark |
+| Holy Light | Lawful Good | Holy priests, paladins | The holy mark |
+
+| | | | |
+|:-|:-|:-|:-|
+| Lich King | Lawful Evil | Death priests, death knights | Skull and runeblade |
+| Titans | Lawful Neutral | - | A stylized blue rune |
+| Void Lords, Old Gods | Neutral Evil | Mad shadow priests | A black-violet sphere |
+| Voodoo and Loa | - | See description | - |
+
+### Ancestor Worship
+**Tenants.** Ancestor worship has no set tenants save for that of individual ancestors, as just as some shamans negotiate with the spirits and channel their ancestral echoes to utilize shamanistic abilities, so exist dark shamans who bind and force the elements to do their bidding.
+___
+**Representatives.** Elementals and spirit animals are often considered representatives of shamanism.
+___
+Shamanism intersects with ancestor worship on many levels, as the dance of the elements include the spirits of earth, fire, air, water, and life.
+
+### Burning Legion
+**Tenants.** The Burning Legion believes that to purge the cosmos of all life is better than to leave it ripped apart by the Void, for they believe no other force can stop the Void but they, and despise all others.
+___
+**Representatives.** The demons of the Burning Legion and other races so suffused with fel magic that they are no different from demons.
+___
+The Burning Legion (simply the Legion or the Burning Shadow) is a vast, innumerable army of demons and corrupted races who seek to destroy all life. The fallen Titan Sargeras created it with the purpose of destroying all world-souls in the universe in order to prevent the void lords from corrupting them, which would lead to the birth of a dark titan, a being of unspeakable evil that would utterly dominate the universe.
+
+The Legion is responsible for the annihilation of countless species and some entire planets across the Great Dark Beyond, and it transcends all universes destroying their possible worlds in the grand Burning Crusade. Thrice it has invaded Azeroth, and was only beaten back at a terrible cost every time. Much of Azeroth's history — including the First, Second, and Third War — was due to the Legion's influence. It can be said that the Legion is Azeroth's nemesis, since it caused the Sundering of Kalimdor, corrupted the orcs and sent them to invade Azeroth, created the Lich King, and was the source of most of Azeroth's scars. Finally, it should be noted that Azeroth is the only known planet that the Legion has ever failed to conquer.
+
+### Druidism and Elune Priesthood
+**Tenants.** Respect for the wilds, reverence of Wild Gods, with Elune as a prime among them
+___
+**Representatives.** Fey and beings from the Emerald Dream
+___
+Druidism and the Priesthood of Elune is a spiritual path: firstly acknowledging and honoring each spirit as an individual life; secondly honoring the Wild Gods, which is headed by the Moon Goddess Elune (known to the Tauren
+
+\pagebreakNum
+
+as Mu'sha), the only true deity on Azeroth. Druidism is historically tied to worshipping Elune and the rest of the Wild Gods, and both faiths are close enough to be considered one.
+
+The druids and priestesses seek guidance — or interference — from the spirits, asking the small spirits for small tasks and entreating Elune or one of the other wise and powerful spirits of the forests for more significant tasks. They see their forests as havens for living spirits, and as such are bound to defend them. It has become the highest priority for the Cenarion Circle to heal the corruption of their precious forests caused by the demonic and undead invasion of the Third War. As the spirits have served them for thousands of years, the druids seek to give back to the spirits by healing the very living woods.
+
+### Forgotten Shadow
+**Tenants.** The three virtues of the Forgotten Shadow are death (where death is the gateway to ascension, but must be balanced with life), compassion (though often reserved for other cultists, the forgotten shadow believes that bettering the self positively influences the universe in a positive cycle), and ascension (where the follower of the forgotten shadow gains the power to transcend death, becoming invulnerable, invincible and eternal. In essence, he becomes a god.)
+___
+**Representatives.** The cult is acknowledged only in the lands of the Forsaken.
+___
+The Cult of Forgotten Shadows (or Cult of the Forgotten Shadow) is a group considered heretical by most, who believe that dark energy practitioners are just as vital to the survival of life and reality (which they call "the Shadow") as wielders of the Light. The cult preaches balance, mandating that shadow priests must never forget the dangers of falling too deep into the dark energies they manipulate, for it is often too hard to find one's way back to the Shadow from the deep reaches of the darkness. Those who upset the balance end up mad, or worse, serving the Void Lords.
+
+The Cult of Forgotten Shadow teaches that the Forsaken of Azeroth were too weak to ascend. Their undead state is a curse brought on by that weakness. Once the Forsaken learn to master themselves and control the world around them, they shake off that curse and become what they always should have been.
+### Holy Light
+**Tenants.** The three virtues of the Holy Light are respect (where one must respect all that is, and the connections things share with one another in the universe), compassion (as a follower of the holy light believes that bettering the universe benefits himself in return as a positive cycle), and tenacity (training under the Holy Light that weeds out the unfaithful, for true dedication takes years, and positivity prevents time eroding an adherent’s will). In some respects, it can be described as divine humanism.
+___
+**Representatives.** Naaru, providing healing and protection
+___
+The holy light whispers and grants power to those who follow their ideals, regardless if they show the same alignment as the entity itself. In a dark world with few good forces, the holy light is one of the few shining sources of goodness in the world, with its representatives.
+
+The Holy Mark is an upright line middling two half-circles one pointing up, and one pointing down (or as the Celtic Cross without the middle line).
+
+### Lich King
+**Tenants.** The Lich King has no real tenants, but idolizing him as a paragon of mastery over death led to the development of the priesthood of the Forgotten Shadow. The Lich King himself desires complete dominion over Azeroth and banishing the Burning Legion from it. Whether the army he builds is to stand against the Void Lords’ attempts to take over the planet and conquer the world-spirit Azeroth for himself is known only to him.
+___
+**Representatives.** The Scourge and the Cult of the Damned
+___
+Created initially as the precursor to an invasion by the Burning Legion after their previous failures, the Scourge broke free from their demonic masters and aided in the Legion’s defeat at Mount Hyjal in the Third War. Under the iron rule of the dread Lich King, a being formed of Ner’zhul (the former orc shaman and warchief of the Shadowmoon clan) and Arthas Menethil (the former human paladin and crown prince of Lordaeron), the Scourge built up their power base on the Arctic continent of Northrend. Their influence spreads throughout Northrend, as well as the Plaguelands in northern Lordaeron and southern Quel’Thalas, and even Kalimdor to a small degree. A terrifying and insidious enemy, the Scourge remains perhaps the most dangerous threat to the world of Azeroth.
+
+### Titans
+**Tenants.** The virtues of titans are order (banishing chaos and ordering the Great Dark Beyond), compassion (imbuing their power and protecting lesser races until they reach their full potential), and preservation (destroying corruptive influences such as Old Gods, Void Lords, and demons of all kinds).
+___
+**Representatives.** The creations of the Titans are usually considered their representatives. Although most are missing in Azeroth, there are yet relics left from the primordial days where Titans visited the planet.
+___
+The titans are a race of colossal, planet-sized cosmic beings, composed of arcane magic and the primordial matter from which the universe was born. They roamed across the cosmos like walking worlds, imbued with the raw power of creation itself. The titans used this incredible force to find and awaken others of their kind. Hailing from the far reaches of the cosmos, they shaped and brought life and order to countless worlds across the Great Dark Beyond. They were described as perfect and majestic beings who are akin to gods. Knowledge of them is very scarce, and there are more legends and theories of them than facts, with the only ones who have an inkling of their powers (or even their existence) are beings the Titans directly interacted with eons ago, such as the leaders of the Dragonflights, the Old Gods, and the Titans’ creations (such as the Earthen).
+
+Unknown to most in Azeroth, the Titans are heavily tied to the cosmic force known as the arcane. In fact, it is their very lifeblood, for the original Well of Eternity, an enormous lake of volatile arcane energies, was literally the literal blood of Azeroth's world-soul. They are also uniquely susceptible to fel magic. A world-soul is the name given to the spirit of a titan. The first and most vulnerable stage of a titan's life, world-souls are powerful, nascent titan souls who originate as masses of energy spun out into the cosmos at the moment of its creation, eventually finding comfort in the warmth of a sun. In time, a planet coalesces around the newly-formed world-soul, protecting it as it grows. These nascent titan
+
+\pagebreakNum
+
+souls exist within the fiery cores of a small number of worlds scattered throughout the Great Dark Beyond; there they slumber for ages, suffusing the planets they inhabit with Spirit energy as generations of life live and die upon them, before eventually awakening as living worlds, and emerging as titans. Azeroth is one such world, and the titan within it is feared to possibly be the greatest titan of all, should he awaken.
+
+### Void Lords
+**Tenants.** Polar opposite of the Holy Light
+___
+**Representatives.** The Old Gods and their servants
+___
+The void lords are monstrous entities composed of pure shadow energy who dwell within the Void, a terrifying and nightmarish outer realm. Merciless and cruel beyond imagination, they seek only to twist reality into a realm of eternal torment, and ultimately to devour all matter and energy and the universe itself.
+
+However, only the most powerful of the void lords can actually manifest in the physical universe, and only for limited amounts of time for their energies quickly seep into nothingness. They thus must consume untold amounts of matter and energy to maintain their presence.
+
+In their struggle to impose dominion over reality, they conflicted with the Titans, and, lacking the power to subdue or dominate them, have targeted them in their infancy, corrupting still-sleeping World-souls. Void Lords send seeds of corruption and create servitor beings in other realms, creating the Old Gods, monstrous beings of ancient power that spread across a World-soul’s surface, eventually corrupting the Titan sleeping within into rising as a Dark Titan who serves the Void Lords.
+
+The Void Lords are a font of shadow power, being what could be considered the true embodiment of the Forgotten Shadow’s ideals. However, that is not the only interpretation. Followers of the Forgotten Shadow may wish to struggle against the wills of the Void Lords and the Old Gods, just as the practitioners of fel magic may struggle against the influence of the Burning Legion. Perhaps, when all is said and done, the Forgotten Shadow is able to distance itself as a philosophy from its origin as an expression of the Void Lords’ will.
+
+### Voodoo and the Loa
+**Tenants.** Voodoo is a type of nature worship, where sacrifices and cannibalism intertwine. It is a type of dark magic that keeps high reverence for nature and its wilds such as animals. While the practice can be dangerous, it is known to greatly benefit its practitioners. Trolls specifically, have always been followers of this ancient craft. Those trolls who practice the voodoo magics hold it to high regard and are a very important part of troll society. While it is a form of magic, it is only an extension of its masters, the Loa spirit.
+___
+**Representatives.** Shadow Hunters, Troll High Priests (discipline priests), and Witch Doctors.
+___
+Voodoo and Loa worship is a syncretic faith, mixing elements of Druidism (following the Wild Gods, except Elune) and Ancestor Worship (venerating ancestors who are now immortal in the Shadowlands, such as Bwonsamdi and Lukou).
+
+Followers of the Loa and users of voodoo worship the Wild Gods directly, except Elune, instead admiring the savagery and viciousness of the ancient beings. All Wild gods are Loa, but not all Loa are Wild gods, however, as the Loa spirits such as Bwonsamdi and other various Loa resembling spirits of trolls have no connection to the Wild gods or the Emerald Dream.
+
+They are in fact, ancient and powerful troll ancestors that now live in the Shadow Lands. Not all trolls that die become Loa. What makes a troll spirit a loa is a mystery, though it is speculated that it has something to do with the amount and type of magics they acquired during life.
+
+There are several known Loa, including but not limited to the following
+* **Hakkar** the Blood God
+* **Shirvallah**, the Tiger
+* **Rhunok**, the Arctic Bear
+* **Lukou**, Loa of Healing and Respite
+* **Ogoun,** Loa of War
+* **Dambala,** Loa of serpents and treachery
+* **Bwonsamdi**, Loa of the cemeteries and the restful sleep of the dead
+* **Shango**, Controller of the Realm of Storms
+* **Zanza**, worshiped by the Zandalar Tribe
+* **Gonk** the Great Hunter, is an ancient spirit Zandalarian tales.
+___
+Each Loa has a favored and hated animal.
+
+## C: Planes of Existence
+### The Cosmic Forces
+#### Light and Shadow
+Light and Shadow are the most fundamental forces in existence. Although contradictory by their very nature, they are bound together on a cosmic scale. One cannot exist without the other.
+
+Pure Light and Shadow dwell in the realm outside the border of reality, but shades of their presence are found in the physical universe. Light manifests as holy magic, while Shadow (also referred to as “The Void”) manifests as shadow magic.
+
+#### Life and Death
+The forces of Life and Death hold sway over every living thing in the physical universe. The energies of Life, commonly known as nature magic, promote growth and renewal in all things. Death, in the form of necromantic magic, acts as a counterbalance to Life. It is an unavoidable force that breeds despair in mortal hearts and pushes everything toward a state of entropic decay and eventual oblivion.
+
+#### Order and Disorder
+The forces of Order and Disorder govern the cosmic systems of the physical universe. Order is most commonly perceived in reality as arcane magic. This type of energy is innately volatile, and wielding it requires intense precision and concentration. Conversely, Disorder is manifested as highly destructive fel magic. This brutal and extremely addictive energy is fueled by drawing life from living beings.
+
+Despite being addictive when exposed to it over long periods and volatile in nature, arcane magic is also highly structured and more inclined to transmutation more than evocation, making it a force of building, as opposed to fel, which is a force of pure destruction.
+
+\pagebreakNum
+
+#### The Elements
+The elements of fire, air, earth, and water serve as the basic building blocks of all matter in the physical universe. Shamanic cultures have long sought to live in harmony with, or assert dominion over, the elements. To do so, they call upon the primordial forces of Spirit and Decay. Those who seek to bring balance to the elements rely on Spirits (sometimes referred to as the “fifth element” by shaman, or “chi” by monks). This life-giving force interconnects and binds all things in existence as one. Decay is the tool of shamans or witch doctors seeking to subjugate and weaponized the elements or Loa themselves.
+
+### Realms of Existence
+#### The Great Dark Beyond
+The Great Dark Beyond represents the physical universe. It is an infinite living realm composed of innumerable stars, worlds, and mortal civilizations.
+
+#### Azeroth
+The world of Warcraft – is merely one of the countless worlds drifting through the vast reaches of the Great Dark Beyond.
+
+Few beings have the ability to survive in the airless frozen sky that is the Great Dark Beyond, but some have explored these regions, namely the Draenei and the Titans.
+
+It is possible to contact another world or civilization across the Great Dark Beyond, usually with aid of the gate spell as if the world is on another plane of existence.
+
+The gate spell can also be made permanent to link two worlds and planets (such as was done between Azeroth and Draenor through the Black Gate), but this requires casting the spell every day for one year. The DM may require additional prerequisites, such as construction of a physical gate or a quest.
+#### The Twisting Nether
+An astral dimension that lies in parallel with the Great Dark Beyond, the Twisting Nether is a place where the forces of Light and Void bleed together, engulfing this realm in perpetual strife. At times, the volatile magics that pervade the Twisting Nether intrude upon the physical universe, warping reality beyond measure.
+Fiends and Celestials originate from the Twisting Nether, which is known to Humans and other adherents to the Holy Light as Heaven or Hell (depending on the region in the unexplored realm).
+
+#### The Emerald Dream
+The Emerald Dream is an ethereal realm of spirits and untamed nature that exists alongside the world of Azeroth. Incredible beings known as the keepers forged the Emerald Dream to act as a map for the evolutionary path of Azeroth’s flora and fauna. The two realms are bound as one: as life ebbs and flows across the physical world, the spiritual energies that saturate the Emerald Dream keep pace with it.
+
+Although tied to the physical world, the Emerald Dream is a place that most mortal minds will find alien and surreal. But some of those minds, by channeling druidic magic, can enter a state of dreaming and consciously navigate the Emerald Dream. Their thoughts can also shape and influence portions of this verdant spirit realm, but the imprint that these dreamers leave behind is never permanent, and can be contested by other dreamwalkers.
+
+In the dreamways, time and distance are mutable. Spirits flow like the living winds though lush tracks of constantly shifting primordial woodlands. What appears tangible one moment becomes intangible the next; seemingly impermeable landmarks transform in the blink of an eye.
+
+#### The Shadowlands
+Like the Emerald Dream, the Shadowlands are tangentially linked to the world of Azeroth. Yet whereas the Emerald Dream represents life, the Shadowlands represent death. They are nightmarish realms of decay, labyrinthine spiritual planes teeming with the souls of the dead who have passed from the world of the living.
+
+The origins of the Shadowlands remain uncertain, but they have existed ever since mortal life first arose in the physical universe. Many believe that mortal souls are drawn into this dark place at the point of death, where they remain forever after. Still others hope that their souls will go to a brighter place, rather than language for eternity within the cold confines of the Shadowlands.
+
+Undead spellcasters (especially necromancers and liches) are familiar with the Shadowlands, and the Lich King is suspected to have explored the realm multiple times, drawing strange creatures from it to serve him, and binding them to his service.
+
+## D: Inspirational Content
+### Reading
+* World of Warcraft Chronicle (all volumes)
+* Rise of the Horde, by Christie Golden 
+* The Last Guardian, by Jeff Grubb
+* Tides of Darkness, by Aaron Rosenburg
+* Beyond the Dark Portal, by Christie Golden & Aaron Rosenburg
+* Day of the Dragon, by Richard A. Knaak
+* The War of the Ancients Trilogy (Well of Eternity, Demon Soul, Sundering), by Richard A. Knaak
+* Lord of the Clans, by Christie Golden
+* Of Blood and Honor, by Chris Metzen
+* Arthas: Rise of the Lich King, by Christie Golden
+* Illidan, by William King 
+* Cycle of Hatred, by Keith DeCandido
+* Night of The Dragon, by Richard A. Knaak 
+* Stormrage, by Richard A. Knaak
+* The Shattering: Prelude to Cataclysm, by Christie Golden
+* Wolfheart, by Richard A Knaak
+* Thrall: Twilight of the Aspects, by Christie Golden 
+* Jaina Proudmoore: Tides of War, by Christie Golden
+* Dawn of the Aspects, by Richard A. Knaak
+* Vol'Jin: Shadows of the Horde, by Michael A. Stackpole
+* War Crimes, by Christie Golden
+
+### Games
+* The Warcraft Trilogy (Warcraft 1: Orcs & Humans, Warcraft 2: Tides of Darkness, Warcraft 3: Reign of Chaos and Warcraft 3: The Frozen Throne)
+* World of Warcraft (And World of Warcraft: Burning Crusade, World of Warcraft: Wrath of the Lich King, World of Warcraft: Cataclysm, World of Warcraft: Mists of Pandaria: World of Warcraft: Warlords of Draenor, World of Warcraft: Legion, and World of Warcraft: Battle for Azeroth)
